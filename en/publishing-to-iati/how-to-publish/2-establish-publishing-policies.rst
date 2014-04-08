@@ -1,27 +1,17 @@
-Establishing Organisational Publishing Policies
+ï»¿Establish Publishing Policies
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-Once your organisation has committed to IATI publishing and the project team or IATI Champion is in place decisions need to be made about what, how and when data will be published.
-
-
-The Implementation Schedule
-===========================
-
-The Implementation Schedule (currently in MS Excel format) is a living document (hence the version control) which can be updated and added to at any time, to reflect changes or additions to the way an organisation is reporting. It is produced to document how, what and when an organisation is reporting to IATI. 
-The drafting of the Implementation Schedule can be done in parallel with preparing data for publication and should ideally be published along side the IATI data. 
-
-Most of the following publishing policies are recorded in the body of the Implementation Schedule.
-
-The Implementation Schedule can be downloaded from: http://support.iatistandard.org/entries/23287146-The-Implementation-Schedule
+Once your organisation has committed to IATI publishing and the project team or IATI Champion is in place decisions need to be made about what, how and when data will be published. This
+information is recorded on the 'Publishing Information' tab of the Implementation Schedule.
 
 
 What Will Be Your Activity Unit of Aid? 
 =======================================
 
-It is important to define what the unit of aid being reported is. Organisations use a range of different definitions or may have different ways of identifying an ‘activity’. Examples of units of aid include: programmes, projects, sub-projects, activities, grants, etc.
+It is important to define what the unit of aid being reported is. Organisations use a range of different definitions or may have different ways of identifying an 'activity'. Examples of units of aid include: programmes, projects, sub-projects, activities, grants, etc.
 
-Units of aid can also be hierarchical and an explanation needs to be provided on how the units of aid are split between hierarchy levels. For example, activities at hierarchy level 1 (or the ‘parent’ level) could cover things like programmes, umbrella projects or grant streams. Units of aid at hierarchy level 2 (or ‘child’ level) could include projects or sub-projects. It is also possible for activities to be related on a horizontal basis (‘siblings’). For example, a group of projects sitting under a programme could be classed as sibling activities. Related activities can be identified through providing the related activity identifiers when reporting on each individual activity.
+Units of aid can also be hierarchical and an explanation needs to be provided on how the units of aid are split between hierarchy levels. For example, activities at hierarchy level 1 (or the parent level) could cover things like programmes, umbrella projects or grant streams. Units of aid at hierarchy level 2 (or 'child' level) could include projects or sub-projects. It is also possible for activities to be related on a horizontal basis ('siblings'). For example, a group of projects sitting under a programme could be classed as sibling activities. Related activities can be identified through providing the related activity identifiers when reporting on each individual activity.
 
 It is also important to differentiate what data will appear at the different levels. For example, activity budgets could be reported at level 1, while transaction level data is reported at level 2. This also helps to avoid double counting, with monetary amounts being reported at the lowest possible hierarchical level (and not repeated or aggregated at higher levels). Lower level activities will inherit data from their parent activity.
  
@@ -73,8 +63,8 @@ How Will You License Your Information?
 
 When you publish your information you will also need to license how that data can be used by third parties. You specify the licensing of the file within the information held on your IATI Registry account. As the intention of IATI is to make information freely available to anyone who wants to use it we recommend that you choose one of the following license types.
 
-- Public domain – no copyright, database rights, or contractual rights over the open aid information. [3] Examples include Creative Commons’ CC0 tool and the Open Data Commons Public Domain Dedication and License (PDDL); Example available here:https://docs.google.com/document/d/1nHvDx2JN5qc07vszHKc6Ow1eSEyo02YrbFFR9Y5sQVU/edit?authkey=CLv0h88D&authkey=CLv0h88D OR
-- Attribution-only open licenses – licenses that allow for use and reuse, with the only restriction being that attribution (credit) be given. Examples include the Creative Commons Attribution licenses (CC-BY) and the Open Data Commons Attribution License. Example available here: https://docs.google.com/document/d/1oXATsAI8zhwYM4gI8RpUs8z4KyUCXgKa67b3KJ2-jUA/edit?authkey=CPr8jqMP&authkey=CPr8jqMP 
+- Public domain no copyright, database rights, or contractual rights over the open aid information. [3] Examples include Creative Commons, CC0 tool and the Open Data Commons Public Domain Dedication and License (PDDL); Example available here:https://docs.google.com/document/d/1nHvDx2JN5qc07vszHKc6Ow1eSEyo02YrbFFR9Y5sQVU/edit?authkey=CLv0h88D&authkey=CLv0h88D OR
+- Attribution-only open licenses Licenses that allow for use and reuse, with the only restriction being that attribution (credit) be given. Examples include the Creative Commons Attribution licenses (CC-BY) and the Open Data Commons Attribution License. Example available here: https://docs.google.com/document/d/1oXATsAI8zhwYM4gI8RpUs8z4KyUCXgKa67b3KJ2-jUA/edit?authkey=CPr8jqMP&authkey=CPr8jqMP 
 
 For further details on the IATI licensing background, please visit http://iatistandard.org/standard/licencing 
 

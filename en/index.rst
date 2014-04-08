@@ -5,5 +5,6 @@ Sitemap
    :titlesonly:
 
    overview
+   faqs
    updates
 

@@ -1,4 +1,4 @@
-Producing Your Datafiles
+﻿Produce Your Datafiles
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Having selected your publishing tool and identified from where your information to be published is derived, you will need to establish your processes for how your IATI data files are created. These should address not just the initial creation of files but also how the files will be regularly updated as per the publishing frequency that you have specified within your Implementation Schedule.

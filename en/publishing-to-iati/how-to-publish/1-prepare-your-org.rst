@@ -1,6 +1,5 @@
-Preparing Your Organisation
+ï»¿Prepare Your Organisation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
 
 When planning to publish to IATI, an organisation should consider doing the following:
 
@@ -10,12 +9,12 @@ Prepare The Case For IATI Publishing
 
 There are many benefits for your organisation to publish information about the work you do  to IATI.  Those benefits include:
 
-- Improving the organisation’s external profile – by committing to IATI, organisations can become more accountable and build trust with their audiences (donors, tax payers or general members of the public), by sharing more information on their activities and financial transactions
+- Improving the organisation's external profile by committing to IATI, organisations can become more accountable and build trust with their audiences (donors, tax payers or general members of the public), by sharing more information on their activities and financial transactions
 - Marketing the work you do - IATI provides another channel and opportunity for you to inform a global audience about the ambition and successes of your interventions
-- Improving internal organisational processes and systems – publishing to IATI can provide a driver to organisations to improve the data they are exposing to external stakeholders 
-- Improving inter-agency collaboration – Publishing better data on projects, in line with organisations who are doing similar work can improve coordination and collaboration between agencies to reduce duplication of effort and resources
-- Reduce opportunities for corruption - openly publishing financial data makes it much harder to hide inappropriate payments or expenditure
-- Addressing political pressures – transparency and openness are now central to policy discussions in government, and IATI is a way of delivering on commitments of openness and improving accountability.
+- Improving internal organisational processes and systems. Publishing to IATI can provide a driver to organisations to improve the data they are exposing to external stakeholders 
+- Improving inter-agency collaboration. Publishing better data on projects, in line with organisations who are doing similar work can improve coordination and collaboration between agencies to reduce duplication of effort and resources
+- Reduce opportunities for corruption. Openly publishing financial data makes it much harder to hide inappropriate payments or expenditure
+- Addressing political pressures. Transparency and openness are now central to policy discussions in government, and IATI is a way of delivering on commitments of openness and improving accountability.
 
 
 Assess the Risks of Transparency 
