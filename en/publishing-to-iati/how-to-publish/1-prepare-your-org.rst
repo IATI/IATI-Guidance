@@ -1,7 +1,24 @@
 ﻿Prepare Your Organisation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-When planning to publish to IATI, an organisation should consider doing the following:
+When planning to publish to IATI, an organisation should consider the following:
+
+
+Understand The Wider Impacts Of Transparency 
+===========================================
+
+Publishing data to IATI is not simply about sharing information but an opportunity to increase the openness of the whole organisation. Lessons from organisations that have already published have shown that integrating IATI and other transparency measures within the organisations practices increases its success and the impact it can have.
+
+In order to drive this process, there is often value in creating an Open Information Policy for the whole organisation to help identify all sources of information that can be made public. F
+
+
+Assess the Risks of Transparency 
+================================
+
+It is important to also assess the risks of moving to a more transparent culture. As a result your organisation:
+- may be subject to much closer scrutiny of its works and financial management
+- must properly assess the security needs around sensitive interventions whether of type or in relation to the locations in which they operate
+- should accept that a financial investment is required in order to establish a new permanent business function of IATI publishing
 
 
 Prepare The Case For IATI Publishing
@@ -16,20 +33,13 @@ There are many benefits for your organisation to publish information about the w
 - Reduce opportunities for corruption. Openly publishing financial data makes it much harder to hide inappropriate payments or expenditure
 - Addressing political pressures. Transparency and openness are now central to policy discussions in government, and IATI is a way of delivering on commitments of openness and improving accountability.
 
-
-Assess the Risks of Transparency 
-================================
-
-It is important to also assess the risks of moving to a more transparent culture. As a result your organisation:
-may be subject to much closer scrutiny of its works and financial management
-must properly assess the security needs around sensitive interventions whether of type or in relation to the locations in which they operate
-should accept that a financial investment is required in order to establish a new permanent business function of IATI publishing
-
  
 Gain Senior Management Backing
 ==============================
 
 It is important to gain buy in from the Senior Management Team as it is likely that publishing will require resources from multiple areas of the business. They must endorse both the inherent risks and the operational benefits of a more transparent operation.
+
+Publishing to IATI data is not simply about sharing information, but an opportunity to increase the openness of the whole organisation. Lessons from organisations that have already published have shown that integrating IATI and other transparency measures within the organisations practices increases its success and the impact it can have.
  
 
 Get Key External Stakeholder Agreement
@@ -38,10 +48,11 @@ Get Key External Stakeholder Agreement
 The information your organisation publishes may be derived from information provided by any number of its key external stakeholders. It is therefore important to make sure that such stakeholders are happy for your organisation to publish such information.
 
 
-Create Your Project Team and IATI Champion
-==========================================
+Create Your Project Team and/or IATI Champion
+=============================================
+As part of the process for implementing IATI sustainably within an organisation, many organisations take the approach of forming a working group, in order to bring together all the relevant parts of the organisation. In most situations this group should be formed early in the process of working on IATI implementation, to integrate the ideas and practical plans for publishing IATI data. Also, identify from within the group an individual within the organisation who will take the lead on IATI publishing as the IATI champion. 
 
-Identify an individual within the organisation who will take the lead on IATI publishing as the IATI champion. If you are also creating a project team it should ideally be staffed with personnel from all areas that may be required to provide data or that are impacted by the implementation of IATI publishing. Areas involved may include one or more of the following:
+Areas involved in the IATI process may include one or more of the following:
 - Finance
 - Programmes
 - IT

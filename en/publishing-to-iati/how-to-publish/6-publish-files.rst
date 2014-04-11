@@ -20,9 +20,17 @@ Move Your IATI Files to Your Own Web Servers
 
 Once your files have been validated and contain no errors you should move them to the location identified for them (see 3.6)  on your own web servers. 
 
+it is important to consider that the URLs that are used to publish are:
+
+- authoritative - eg: they are associated with a domain that you own (most preferably using unesco.org). Thus the published data has greater integrity and is generally considered 'credible' 
+- stable - they are no subject to constant of frequent change. unesco.org/country1.xml would always be the URL for that country (not countryB.xml the next week!) 
+- accessible - the URLs are not behind any security protocols/certificates or any other means that would hinder open access.
+
+It does not matter if the URLs are for a subdomain (data.{publisher}.org) or directory ({publisher}.org/data).
+
 if you have created and published your files via Aidstream then you will need to consult the Aidstream guide for instructions on how to locate and move your files from Aidstream to your own servers
 
-f you have created and published your files via the CSV Convertor then you will need to consult the CSV Converter guide for instructions on how to locate and  move your files from Aidstream to your own servers
+If you have created and published your files via the CSV Convertor then you will need to consult the CSV Converter guide for instructions on how to locate and  move your files from Aidstream to your own servers
 
  
 Create An IATI Registry Account

@@ -1,11 +1,13 @@
-﻿Publishing Process Outputs
+﻿Process Overview
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+
+This is an introductory guide to organisations who want to publish their data to IATI. It is built on the experience of those organisations who have already published data, and the experience of the IATI TAG Secretariat in supporting organisations to publish.
 
 The objective of the IATI publishing process is to enable any publishing organisation to produce the following regularly updated set of information products:
 
-- Implementation Schedule
 - IATI XML Organisation File
 - One or more IATI XML Activity File(s)
+- Implementation Schedule (optional but recommended)
 - IATI Registry Account
 
 
@@ -18,7 +20,7 @@ The purpose of the Implementation Schedule is to:
 - Enable the IATI Secretariat to confirm that an organisation is delivering on its publishing commitment.
 
 The Implementation Schedule (currently in MS Excel format) is a living document (and should ideally be subject to the version control) which can be updated and added to at any time, to reflect changes or additions to the way an organisation is reporting. It is produced to document how, what and when an organisation is reporting to IATI. 
-The drafting of the Implementation Schedule can be done in parallel with preparing data for publication and it should also be published along side the IATI data. 
+The drafting of the Implementation Schedule can be done in parallel with preparing data for publication and it should also be published along side the IATI data. Whilst the IMplementation Schedule is not a mandatory document to create, it is strongly recommended that it is used in order to aid the publisher in publishing their data. 
 
 The Implementation Schedule for NGOs / CSOs can be downloaded from: http://support.iatistandard.org/entries/23287146-The-Implementation-Schedule
 

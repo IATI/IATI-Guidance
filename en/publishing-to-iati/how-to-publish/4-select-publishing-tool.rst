@@ -25,6 +25,6 @@ Spcific guidance on the use of the CSV Convertor can be found at http://csv2iati
 Bespoke (In House Applications)
 ===============================
 
-The option exists  to develop internal systems and processes so that data is pulled together from internal management and finance systems to create XML data. This requires technical knowledge of both XML and the organisation's internal systems in order to create a programme to achieve this. This can be done with either internal technical expertise or by bringing in consultants to develop a bespoke package. 
+Organisations with internal technical expertise and capacity may decide to generate their own mechanisms for converting their data into IATI data. This can be done by developing internal systems and processes so that data is pulled together from internal management and finance systems to create XML data. This requires technical knowledge of both XML and the organisation's internal systems in order to create a programme to achieve this. This can be done with either internal technical expertise or by bringing in consultants to develop a bespoke package. 
 
 This is normally an option often chosen by large organisations reporting a large number of activities, as in the long-run this proves more cost effective means of reporting to IATI.
