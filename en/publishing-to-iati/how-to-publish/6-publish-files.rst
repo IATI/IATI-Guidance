@@ -24,7 +24,7 @@ it is important to consider that the URLs that are used to publish are:
 
 - authoritative - eg: they are associated with a domain that you own (most preferably using unesco.org). Thus the published data has greater integrity and is generally considered 'credible' 
 - stable - they are no subject to constant of frequent change. unesco.org/country1.xml would always be the URL for that country (not countryB.xml the next week!) 
-- accessible - the URLs are not behind any security protocols/certificates or any other means that would hinder open access.
+- accessible - the URLs are not behind any security protocols/certificates or any other means that would hinder open access (eg https).
 
 It does not matter if the URLs are for a subdomain (data.{publisher}.org) or directory ({publisher}.org/data).
 
@@ -43,7 +43,7 @@ Each publishing organisation must create a Registry account in order to register
 3. Wait for your Publisher Account to be authorised by the IATI Secretariat
 4. Register your datafiles
 
-1. Register as a user
+1. Register as a use
 >>>>>>>>>>>>>>>>>>>
 
 Submit your details at http://iatiregistry.org/user/register.
@@ -61,4 +61,4 @@ This ensures that no-one can use the Registry to publish data purporting to come
 4. Add Details of Your Datafiles
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-Once your publisher account has been authorised, log into it and select the 'Add Datafile' option in order to add the details and URL location of your IATI datafiles that you are publishing.
+Once your publisher account has been authorised, log into it and select the 'Add Datafile' option in order to add the details and URL location of your IATI datafiles that you are publishing. If you have a lot of datafiles details to add you can instead add the details to a CSV files which can be imported to the Registry to add the files in bulk. The template and other information for using the CSV files is at http://www.iatiregistry.org/csv/upload 
