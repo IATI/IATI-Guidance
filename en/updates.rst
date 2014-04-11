@@ -4,6 +4,7 @@ Updates
 .. toctree::
    :hidden:
 
+   updates/integer-upgrade-to-2-01
    updates/decimal-upgrade-to-1-04
    updates/decimal-upgrade-to-1-03
    updates/decimal-upgrade-to-1-02
