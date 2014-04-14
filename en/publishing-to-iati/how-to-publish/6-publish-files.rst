@@ -43,8 +43,8 @@ Each publishing organisation must create a Registry account in order to register
 3. Wait for your Publisher Account to be authorised by the IATI Secretariat
 4. Register your datafiles
 
-1. Register as a use
->>>>>>>>>>>>>>>>>>>
+1. Register as a user
+>>>>>>>>>>>>>>>>>>>>>
 
 Submit your details at http://iatiregistry.org/user/register.
 

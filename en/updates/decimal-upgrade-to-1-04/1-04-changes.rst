@@ -62,4 +62,4 @@ Embedded:
 
 Non-Embedded:
 
-- :doc:`/codelists/FileFormat` (`discussion <http://support.iatistandard.org/entries/22915207-Additions-to-File-Format-code-list>`)
+- :doc:`/codelists/FileFormat` (`discussion <http://support.iatistandard.org/entries/22915207-Additions-to-File-Format-code-list>`__)
