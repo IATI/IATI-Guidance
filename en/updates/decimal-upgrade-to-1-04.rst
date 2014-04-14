@@ -1,6 +1,12 @@
 Decimal Upgrade to 1.04
 =======================
 
+.. toctree::
+   :hidden:
+   :glob:
+
+   decimal-upgrade-to-1-04/*
+
 The process for the 1.04 decimal upgrade of the standard is outlined
 below.
 
