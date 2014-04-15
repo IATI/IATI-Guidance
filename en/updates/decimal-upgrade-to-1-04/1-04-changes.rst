@@ -48,7 +48,6 @@ Embedded:
 
 Non-Embedded:
 
-- :doc:`/codelists/GeographicFeatureDesignation`
 - :doc:`/codelists/OrganisationRegistrationAgency` (was previously a Google Doc)
 
 Updated Codelists
@@ -62,4 +61,5 @@ Embedded:
 
 Non-Embedded:
 
-- :doc:`/codelists/FileFormat` (`discussion <http://support.iatistandard.org/entries/22915207-Additions-to-File-Format-code-list>`__)
+- :doc:`/codelists/FileFormat` updated to include all IANA Media Type (`discussion <http://support.iatistandard.org/entries/22915207-Additions-to-File-Format-code-list>`__)
+- :doc:`/codelists/LocationType` updated 
