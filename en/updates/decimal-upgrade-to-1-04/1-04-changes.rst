@@ -9,9 +9,9 @@ Schema Changes
 Activities schema
 ~~~~~~~~~~~~~~~~~
 
-- added :doc:`reporting-org/@secondary-reporter </activities-standard/iati-activities/iati-activity/reporting-org>` attribute
+- Added :doc:`reporting-org/@secondary-reporter </activities-standard/iati-activities/iati-activity/reporting-org>` attribute
 
-- made a number of changes to the :doc:`/activities-standard/iati-activities/iati-activity/location` element
+- Made a number of changes to the :doc:`/activities-standard/iati-activities/iati-activity/location` element
 
   * added ``location/@ref`` attribute
   * added :doc:`location/location-reach </activities-standard/iati-activities/iati-activity/location/location-reach>` element
@@ -28,6 +28,8 @@ Activities schema
   * deprecated :doc:`location/location-type </activities-standard/iati-activities/iati-activity/location/location-type>` element
 
 - some documentation has been altered slightly
+
+- 
 
 Codelist Changes
 ----------------
@@ -58,8 +60,9 @@ Embedded:
 - Added `9` (Other) to :doc:`/codelists/ResultType` (`discussion <http://support.iatistandard.org/entries/24090113-Suggestion-Add-other-or-undefined-to-Result-type-codelist>`__)
 - Added `NACE` to :doc:`/codelists/Vocabulary` (`discussion <http://support.iatistandard.org/entries/29678047-Add-NACE-Codes-as-a-Vocabulary-for-Sector?page=1#post_25391443>`__)
 - The categories of :doc:`/codelists/BudgetIdentifierSector` have been described differently. No codes have changed.
+- The "Agency Level" ``B`` category of :doc:`/codelists/DocumentCategory` has been renamed to "Organisation Level" for consitency. (`issue <https://github.com/IATI/IATI-Codelists/issues/28>`__)
 
 Non-Embedded:
 
 - :doc:`/codelists/FileFormat` updated to include all IANA Media Type (`discussion <http://support.iatistandard.org/entries/22915207-Additions-to-File-Format-code-list>`__)
-- :doc:`/codelists/LocationType` updated 
+- :doc:`/codelists/LocationType` updated to include all US NGA Feature Designation Codes
