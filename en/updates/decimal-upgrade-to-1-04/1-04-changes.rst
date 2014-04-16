@@ -66,5 +66,5 @@ Embedded:
 
 Non-Embedded:
 
-- :doc:`/codelists/FileFormat` updated to include all IANA Media Type (`discussion <http://support.iatistandard.org/entries/22915207-Additions-to-File-Format-code-list>`__)
+- :doc:`/codelists/FileFormat` updated to include all IANA Media Types. Note that it no longer has names corresponding to the codes, as the source codelist does not have this. (`discussion <http://support.iatistandard.org/entries/22915207-Additions-to-File-Format-code-list>`__)
 - :doc:`/codelists/LocationType` updated to include all US NGA Feature Designation Codes
