@@ -47,11 +47,7 @@ There are four steps involved in creating an account:
 4. Register your datafiles
 
 1. Register as a user
-<<<<<<< HEAD
->>>>>>>>>>>>>>>>>>>>>>
-=======
 >>>>>>>>>>>>>>>>>>>>>
->>>>>>> 614b28387f531a76b2bdff72a636d17cd86dc090
 
 Submit your details at http://iatiregistry.org/user/register.
 
