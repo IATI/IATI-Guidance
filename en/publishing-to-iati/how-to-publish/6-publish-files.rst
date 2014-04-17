@@ -24,7 +24,7 @@ it is important to consider that the URLs that are used to publish are:
 
 - authoritative - eg: they are associated with a domain that you own (most preferably using unesco.org). Thus the published data has greater integrity and is generally considered 'credible' 
 - stable - they are no subject to constant of frequent change. unesco.org/country1.xml would always be the URL for that country (not countryB.xml the next week!) 
-- accessible - the URLs are not behind any security protocols/certificates or any other means that would hinder open access (eg https).
+- accessible - the URLs are not behind any security measures or any other means that would hinder open access .
 
 It does not matter if the URLs are for a subdomain (data.{publisher}.org) or directory ({publisher}.org/data).
 
@@ -36,15 +36,18 @@ If you have created and published your files via the CSV Convertor then you will
 Create An IATI Registry Account
 ==================================
 
-Each publishing organisation must create a Registry account in order to register its data. There are four steps involved:
+All IATI publishers must have an account on the IATI Registry at http://www.iatiregistry.org/. The Registry is an index of data files published in compliance with the standards of the International Aid Transparency Initiative (IATI). It does not contain the actual data, only links to the published data, and metadata describing the contents of these files.When a publisher is close to publishing for the first time they should create an account on the IATI Registry. Once the account has been 'approved' by the IATI Secritariat the publishing organisation can add details of the location of their IATI XML datafiles. Once this has been done the publisher can consider themselves as having successfully published.
+
+
+There are four steps involved in creating an account:
 
 1. Register as a user
 2. Create a New Publisher Account
 3. Wait for your Publisher Account to be authorised by the IATI Secretariat
 4. Register your datafiles
 
-1. Register as a use
->>>>>>>>>>>>>>>>>>>
+1. Register as a user
+>>>>>>>>>>>>>>>>>>>>>>
 
 Submit your details at http://iatiregistry.org/user/register.
 

@@ -6,6 +6,22 @@ Once your organisation has committed to IATI publishing and the project team or 
 information is recorded on the 'Publishing Information' tab of the Implementation Schedule.
 
 
+
+The Implementation Schedule
+===========================
+
+The purpose of the Implementation Schedule is to:
+- Document an organisation's publishing policies to provide context to its published datafiles
+- Provide the time line for when data for each field of the IATI Standard was / will be published (or not published if not applicable / possible etc.)
+- Enable the IATI Secretariat to confirm that an organisation is delivering on its publishing commitment.
+
+The Implementation Schedule (currently in MS Excel format) is a living document (and should ideally be subject to the version control) which can be updated and added to at any time, to reflect changes or additions to the way an organisation is reporting. It is produced to document how, what and when an organisation is reporting to IATI. 
+The drafting of the Implementation Schedule can be done in parallel with preparing data for publication and it should also be published along side the IATI data. Whilst the Implementation Schedule is not a mandatory document to create (unless the Publisher is a DFID grantee in which case it is mandatory), it is strongly recommended that it is used in order to aid the publisher in publishing their data. 
+
+The Implementation Schedule for NGOs / CSOs can be downloaded from: http://support.iatistandard.org/entries/23287146-The-Implementation-Schedule
+
+
+
 What Will Be Your Activity Unit of Aid? 
 =======================================
 
@@ -15,11 +31,13 @@ If Units of aid are defined via a hierarchy, an explanation needs to be provided
 
 It is also important to differentiate what data will appear at the different levels. For example, activity budgets could be reported at level 1, while transaction level data is reported at level 2. This also helps to avoid double counting, with monetary amounts being reported at the lowest possible hierarchical level (and not repeated or aggregated at higher levels). Lower level activities will inherit data from their parent activity.
  
+ 
 
 Publishing Frequency
 =====================
 
 Organisations may typically publish updates annually, every 6 months, quarterly, monthly and even daily. Ideally IATI would want every publisher to publish as frequently as their information changes. However, IATI recognises that this is not always possible so it encourages publishers to select the most frequent publishing frequently that their organisation is able to support.
+
 
 
 Data Timeliness
@@ -30,12 +48,14 @@ Timeliness of data relates to how current the data is when it is published. IATI
 If you are publishing quarterly do you included transactions that have occurred right up to the day that you publish your information or are your most recent transaction those that occurred a month or so in the past? Timeliness is normally constrained to the accessibility and functioning of an organization's own accounting processes and systems. 
 
 
+
 Data Quality
 ============
 
 it is important to consider how accurate your data is when it is published. The data published does not need to be audited in the same way as would be done with close of year accounts. However, ultimately, the decision on data quality will be taken by each individual organisation, depending on the internal procedures and processes that data may have to go through before being put in the public domain. It will also depend on whether an organisation approaches IATI as an open data initiative or a process for publishing verified statistics. Many organisations publish information taken from unaudited accounts throughout the year that is then revised and republished once the accounts have been through the audit process. Is your data derived from estimated or actual figures or estimated or actual planning information. If data is initially published in an unvalidated format it is important to consider how and when your data can be recreated and published in its formalised format.
 
 publishers to outline the quality assurance processes or any details of their considerations around what they consider to be verified or unverified data, and where their IATI data sits on that scale.
+
 
 
 Thresholds
@@ -46,6 +66,7 @@ If applicable, some organisations may need to establish thresholds in terms of t
 Similarly, if an organisation generally only makes or receives transactions over a particular value, they may wish to aggregate all transactions, in-coming or out-going that are under a particular value, per organisation, per publication period.
 
 As with exclusions, information on thresholds should be clearly published as part of the organisation’s registry record in order to help users of the data understand the context it is being published in.
+
 
 
 Exclusions
@@ -60,16 +81,26 @@ Considerations when defining an exclusion policy
 - Are there entire programmes/activities that would need to be excluded from your IATI data?
 
 
+
 Publishing Scope
 ================
 
-Each organisation needs to understand where it sits within the Aid delivery supply chain and report accordingly. Basically an organisation needs to only report on activities for which they either receive payments or make payments for or are directly involved in in some other way
+Each organisation needs to understand where it sits within the Aid delivery supply chain and report accordingly. Basically an organisation should report on activities for which they either receive payments or make payments for or are directly involved in in some other way
+
+
+
+Which Aid Activities Should Be Included
+=======================================
+
+As its name suggests IATI is about Aid Transparency. However, it is not just about publishing data for ODA activities. Information can be published about any activity which falls under any of the aid catagories as defined at http://iatistandard.org/codelists/flow_type/. 
+
 
 
 Where Will You Publish Your IATI Datafiles? 
 ===============================================
 
 When you publish your information you do not give your information to IATI to look after. You will instead create an account on the IATI Registry that will hold (along with other information) the URL of where your IATI files are located. IATI therefore asks its publishers to host the datafiles that contain their IATI information on their 's own web servers. This is because data that is located within a publisher's own web space has greater integrity due to it being located at source. Therefore you will probably need to work with your IT or web team in order to identify a location where your IATI information can be hosted. If you have decided to create an IATI specific web page you might decide that it should include links to your IATI files?
+
 
 
 Licensing 
@@ -178,6 +209,7 @@ Licensing is important in an open data initiative. Ensuring that your IATI data 
 Licensing of your data is maintained within the information held on your IATI Registry account. 
 
 To find templates and further guidance for licenses, please visit Open Data Commons: http://opendatacommons.org/licenses/
+
 
 
 Open Data Policy For Your Organisation
