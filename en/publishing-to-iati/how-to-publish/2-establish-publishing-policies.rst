@@ -2,8 +2,9 @@
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
-Once your organisation has committed to IATI publishing and the project team or IATI Champion is in place decisions need to be made about what, how and when data will be published. This
-information is recorded on the 'Publishing Information' tab of the Implementation Schedule.
+Once your organisation has committed to IATI publishing and the project team or IATI Champion is in place decisions need to be made about what, how and when data will be published. 
+This information should be initially recorded on the 'Publishing Information' tab of the Implementation Schedule and then copied into the relevant fields of the Publisher's Registry account when it is created.
+
 
 
 
@@ -15,10 +16,12 @@ The purpose of the Implementation Schedule is to:
 - Provide the time line for when data for each field of the IATI Standard was / will be published (or not published if not applicable / possible etc.)
 - Enable the IATI Secretariat to confirm that an organisation is delivering on its publishing commitment.
 
-The Implementation Schedule (currently in MS Excel format) is a living document (and should ideally be subject to the version control) which can be updated and added to at any time, to reflect changes or additions to the way an organisation is reporting. It is produced to document how, what and when an organisation is reporting to IATI. 
+The Implementation Schedule (currently in MS Excel format) is a living document and should ideally be subject to the version control. It can be updated and added to at any time, to reflect changes or additions to the way an organisation is reporting. 
+ 
 The drafting of the Implementation Schedule can be done in parallel with preparing data for publication and it should also be published along side the IATI data. Whilst the Implementation Schedule is not a mandatory document to create (unless the Publisher is a DFID grantee in which case it is mandatory), it is strongly recommended that it is used in order to aid the publisher in publishing their data. 
 
 The Implementation Schedule for NGOs / CSOs can be downloaded from: http://support.iatistandard.org/entries/23287146-The-Implementation-Schedule
+
 
 
 
@@ -27,16 +30,18 @@ What Will Be Your Activity Unit of Aid?
 
 One of the most important decisions to be taken before you start implementing IATI is to decide how to present your particular business model in a way in which your work is best translated into an IATI activity. It is up to you to define your units of aid and you can specify any number of hierarchical levels in which to best organise your activities. Your work might, for example, be broken into themes, programmes, projects, sub-projects and/or contracts. It is up to you to decide whether a hierarchical structure best tells the story of your organisation, or whether such a framework is irrelevant to the data that IATI is asking you to report.It is important to define what the unit of aid being reported is. Organisations use a range of different definitions or may have different ways of identifying an 'activity'. Examples of units of aid include: programmes, projects, sub-projects, activities, grants, etc.
 
-If Units of aid are defined via a hierarchy, an explanation needs to be provided on how the units of aid are split between the hierarchy levels. For example, activities at hierarchy level 1 (or the parent level) could cover things like programmes, umbrella projects or grant streams. Units of aid at hierarchy level 2 (or 'child' level) could include projects or sub-projects. It is also possible for activities to be related on a horizontal basis ('siblings'). For example, a group of projects sitting under a programme could be classed as sibling activities. Related activities can be identified through providing the related activity identifiers when reporting on each individual activity.
+If Units of Aid are defined via a hierarchy, an explanation needs to be provided on how the units of aid are split between the hierarchy levels. For example, activities at hierarchy level 1 (or the parent level) could cover things like programmes, umbrella projects or grant streams. Units of aid at hierarchy level 2 (or 'child' level) could include projects or sub-projects. It is also possible for activities to be related on a horizontal basis ('siblings'). For example, a group of projects sitting under a programme could be classed as sibling activities. Related activities can be identified through providing the related activity identifiers when reporting on each individual activity.
 
 It is also important to differentiate what data will appear at the different levels. For example, activity budgets could be reported at level 1, while transaction level data is reported at level 2. This also helps to avoid double counting, with monetary amounts being reported at the lowest possible hierarchical level (and not repeated or aggregated at higher levels). Lower level activities will inherit data from their parent activity.
+ 
  
  
 
 Publishing Frequency
 =====================
 
-Organisations may typically publish updates annually, every 6 months, quarterly, monthly and even daily. Ideally IATI would want every publisher to publish as frequently as their information changes. However, IATI recognises that this is not always possible so it encourages publishers to select the most frequent publishing frequently that their organisation is able to support.
+Organisations typically publish updates annually, every 6 months, quarterly, monthly and even daily. Ideally IATI would want every publisher to publish as frequently as their information changes. However, IATI recognises that this is not always possible so it encourages publishers to select the most frequent publishing frequently that their organisation is able to support.
+
 
 
 
@@ -49,23 +54,26 @@ If you are publishing quarterly do you included transactions that have occurred 
 
 
 
+
 Data Quality
 ============
 
-it is important to consider how accurate your data is when it is published. The data published does not need to be audited in the same way as would be done with close of year accounts. However, ultimately, the decision on data quality will be taken by each individual organisation, depending on the internal procedures and processes that data may have to go through before being put in the public domain. It will also depend on whether an organisation approaches IATI as an open data initiative or a process for publishing verified statistics. Many organisations publish information taken from unaudited accounts throughout the year that is then revised and republished once the accounts have been through the audit process. Is your data derived from estimated or actual figures or estimated or actual planning information. If data is initially published in an unvalidated format it is important to consider how and when your data can be recreated and published in its formalised format.
+it is important to consider how accurate your data is when it is published. The data published does not need to be audited in the same way as would be done with close of year accounts. However, ultimately, the decision on data quality will be taken by each individual organisation, depending on the internal procedures and processes that data may have to go through before being put in the public domain. It will also depend on whether an organisation approaches IATI as an open data initiative or a process for publishing verified statistics. Many organisations publish information taken from unaudited accounts throughout the year that is then revised and republished once the accounts have been through the audit process. If data is initially published in an unvalidated or estimated format it is important to consider how and when your data can be recreated and published in its formalised format.
 
-publishers to outline the quality assurance processes or any details of their considerations around what they consider to be verified or unverified data, and where their IATI data sits on that scale.
+Publishers should also outline the quality assurance processes or any details of their considerations around what they consider to be verified or unverified data, and where their IATI data sits on that scale.
+
 
 
 
 Thresholds
 ==========
 
-If applicable, some organisations may need to establish thresholds in terms of the value of activities or transactions that they are publishing. For example, an organisation who works on large projects costing thousands of dollars, they may wish only to publish projects over a particular value (for example $500).
+If applicable, some organisations may need to establish thresholds in terms of the value of activities or transactions that they are publishing. For example, an organisation who works on large projects costing thousands of dollars may wish only to publish projects over a particular value (for example $500).
 
 Similarly, if an organisation generally only makes or receives transactions over a particular value, they may wish to aggregate all transactions, in-coming or out-going that are under a particular value, per organisation, per publication period.
 
-As with exclusions, information on thresholds should be clearly published as part of the organisation’s registry record in order to help users of the data understand the context it is being published in.
+As with exclusions, information on thresholds should be clearly published in order to help users of the data understand the context it is being published in.
+
 
 
 
@@ -82,17 +90,19 @@ Considerations when defining an exclusion policy
 
 
 
+
 Publishing Scope
 ================
 
-Each organisation needs to understand where it sits within the Aid delivery supply chain and report accordingly. Basically an organisation should report on activities for which they either receive payments or make payments for or are directly involved in in some other way
+Each organisation needs to understand where it sits within the aid delivery supply chain and report accordingly. Basically an organisation should report on activities for which they either receive payments or make payments for or are directly involved in in some other way
+
 
 
 
 Which Aid Activities Should Be Included
 =======================================
 
-As its name suggests IATI is about Aid Transparency. However, it is not just about publishing data for ODA activities. Information can be published about any activity which falls under any of the aid catagories as defined at http://iatistandard.org/codelists/flow_type/. 
+As its name suggests IATI is about Aid Transparency. However, it is not just about publishing data for ODA activities. Information can be published about any activity which falls under any of the aid categories as defined at http://iatistandard.org/codelists/flow_type/. 
 
 
 
@@ -209,12 +219,3 @@ Licensing is important in an open data initiative. Ensuring that your IATI data 
 Licensing of your data is maintained within the information held on your IATI Registry account. 
 
 To find templates and further guidance for licenses, please visit Open Data Commons: http://opendatacommons.org/licenses/
-
-
-
-Open Data Policy For Your Organisation
-=======================================
-
-Having gone through the experience of considering what data can and cannot be openly published along with making decisions about how that is achieved, it is good practice to use the knowledge gained by the experience to produce an Open Data Policy for your organisation that should apply not just to IATI data but any data that is published externally. 
-
-More information about creating an open information policy can be found at: http://support.iatistandard.org/entries/20858941-Open-Information-Exclusions

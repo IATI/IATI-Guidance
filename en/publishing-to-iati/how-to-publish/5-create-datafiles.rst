@@ -1,7 +1,7 @@
 ﻿Produce Your Datafiles
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Having selected your publishing tool and identified from where your information to be published is derived, you will need to establish your processes for how your IATI data files are created. These should address not just the initial creation of files but also how the files will be regularly updated as per the publishing frequency that you have specified within your Implementation Schedule.
+Having selected your publishing tool and identified from where your information to be published is derived, you will need to establish your processes for how your IATI data files are created. These should address not just the initial creation of files but also how the files will be regularly updated as per the publishing frequency that you have selected.
  
 
 
@@ -11,10 +11,14 @@ Establish Who Is Responsible For Creating and Updating Your Files
 It is essential that you make sure that everybody involved in creating and updating your data files knows what and when their input is required. The IATI publisher may be tasked with updating the files but they are likely to need data provided from other areas within the organisation.
 
 
+
+
 Establish a Change Control Procedure 
 ====================================
 
 Regardless of your publishing tool you should be able to tell who has  updated your data sets and when.
+
+
 
  
 Data Quality Control
@@ -29,7 +33,8 @@ If you are using Aidstream this is built into the publishing process of the tool
 
 EDIT -> COMPLETED -> VERIFIED -> PUBLISHED
 
-Once a dataset is marked as 'Completed' ir is intended that another person should manually check the data that has been entered. The verifier should correct any errors that are found and then mark the data as 'Verified'
+Once a dataset is marked as 'Completed' it is intended that another person should manually check the data that has been entered. The verifier should correct any errors that are found and then mark the data as 'Verified'
+
 
 CSV Convertor and Bespoke System Users
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
