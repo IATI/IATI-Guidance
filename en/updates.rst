@@ -25,7 +25,7 @@ cover:
 
 -  bug-fixes
 
--  code list modifications
+-  codelist modifications
 
 -  minor additions to the standard which improve the functionality
    without introducing substantial new content
