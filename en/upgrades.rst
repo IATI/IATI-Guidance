@@ -1,14 +1,14 @@
-Updates
-=======
+Upgrades
+========
 
 .. toctree::
    :hidden:
 
-   updates/integer-upgrade-to-2-01
-   updates/decimal-upgrade-to-1-04
-   updates/decimal-upgrade-to-1-03
-   updates/decimal-upgrade-to-1-02
-   updates/previous-versions
+   upgrades/integer-upgrade-to-2-01
+   upgrades/decimal-upgrade-to-1-04
+   upgrades/decimal-upgrade-to-1-03
+   upgrades/decimal-upgrade-to-1-02
+   upgrades/previous-versions
 
 The IATI standard is a living entity that will require improvement over
 time. These changes will be driven by the suggestions and experiences of

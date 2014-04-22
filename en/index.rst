@@ -6,5 +6,5 @@ Sitemap
 
    overview
    faqs
-   updates
+   upgrades
 
