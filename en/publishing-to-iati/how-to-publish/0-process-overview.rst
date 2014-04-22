@@ -10,13 +10,14 @@ Process Steps
 
 The publishing process involves the following steps:
 
-- Preparing Your Organisation To Publish - What resources will you need to publish and what sorts of issues should be considered when moving to become transparent?
+- :ref: 'prepare_your_org' - What resources will you need to publish and what sorts of issues should be considered when moving to become transparent?
 - Establishing Publishing Policies - Decide who, what, when and how information will be published.
 - Data Considerations - Issues to consider when deciding what specific data fields will be published.
 - Selecting A Publishing Tool - How to decide what publishing tool is the best choice to use for publishing.
 - Producing The Datafiles - Making sure appropriate change and quality control procedures are in place.
 - Publishing The Datafiles - Updating the IATI Registry and hosting of the datafiles.
 - Regular Update Of Data - Once published, how information should be regularly updated.
+
 
 
 
@@ -28,4 +29,4 @@ The IATI publishing process produces the following regularly updated set of info
 - IATI XML Organisation File (link to org file definition)
 - One or more IATI XML Activity File(s)
 - IATI Registry Account
-- Implementation Schedule (optional but recommended. Mandatory for most DFID grantees)
+- Implementation Schedule (optional but recommended. Mandatory for DFID grantees)

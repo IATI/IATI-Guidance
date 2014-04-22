@@ -14,4 +14,4 @@ Ideally all the information that relates to a specific activity should be kept t
 
 No data should ever be removed or deleted from published files. It is intended that one published data remains permanently available.
 
-You will need to refer to the specific guidance of the tool that you are using to publish in order to  find out how to update pre-existing datasets
+You will need to refer to the specific guidance of the tool that you are using to publish in order to find out how to update pre-existing datasets

@@ -4,6 +4,8 @@
 To publish your files you need to carry out the following: 
 
 
+
+
 Validate Your IATI Files Using The IATI Validator
 =================================================
 
@@ -15,6 +17,8 @@ The IATI Validator tool at http://validator.iatistandard.org/ will currently che
 If errors are found you should investigate the error(s) and amend your data and recreate your files before re-validating to make sure that any problems have been fixed.
 
 
+
+
 Move Your IATI Files to Your Own Web Servers 
 ============================================
 
@@ -22,9 +26,9 @@ Once your files have been validated and contain no errors you should move them t
 
 it is important to consider that the URLs that are used to publish are:
 
-- authoritative - eg: they are associated with a domain that you own (most preferably using unesco.org). Thus the published data has greater integrity and is generally considered 'credible' 
-- stable - they are no subject to constant of frequent change. unesco.org/country1.xml would always be the URL for that country (not countryB.xml the next week!) 
-- accessible - the URLs are not behind any security measures or any other means that would hinder open access .
+- authoritative - eg: they are associated with a domain that you own (most preferably using publishner_name.org). Thus the published data has greater integrity and is generally considered 'credible' 
+- stable - they are no subject to constant of frequent change. publishner_name.org/country1.xml would always be the URL for that country (not countryB.xml the next week!) 
+- accessible - the URLs are not behind any security measures or any other means that would hinder access .
 
 It does not matter if the URLs are for a subdomain (data.{publisher}.org) or directory ({publisher}.org/data).
 
@@ -46,20 +50,26 @@ There are four steps involved in creating an account:
 3. Wait for your Publisher Account to be authorised by the IATI Secretariat
 4. Register your datafiles
 
+
 1. Register as a user
 >>>>>>>>>>>>>>>>>>>>>
 
 Submit your details at http://iatiregistry.org/user/register.
 
+
 2. Create a New Publisher Account
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-Make sure that you are (still?) logged into the user account created in 1. and navigate to “Create a New Publisher” on the “Publishers” menu. (This item will not display if you are not logged in.) Please fill in all the fields on the form following the advice associated with each field. There is a lot of data to provide but much of it can be found in your Implementation Schedule if you have created one.
+Make sure that you are (still?) logged into the user account created in 1. and navigate to “Create a New Publisher” on the “Publishers” menu. (This item will not display if you are not logged in.) 
+
+Please fill in all the fields on the form following the advice associated with each field. There is a lot of data to provide but much of it can be found in your Implementation Schedule if you have created one.
+
 
 3. Wait for the Publisher Account to be authorised?
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 This ensures that no-one can use the Registry to publish data purporting to come from an organisation that they are not authorised to represent. You will receive an email notifying you when the account has been authorised.
+
 
 4. Add Details of Your Datafiles
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
