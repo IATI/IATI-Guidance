@@ -12,7 +12,7 @@ Upgrades
 
 The IATI standard is a living entity that will require improvement over
 time. These changes will be driven by the suggestions and experiences of
-the publishers and users of IATI-format data, and managed by the IATI
+the publishers and users of IATI data, and managed by the IATI
 Steering Committee through its Secretariat and Technical Advisory Group.
 
 There are two types of upgrades:
@@ -54,10 +54,12 @@ Open Consultation on all proposed changes
 All proposed changes, both major and minor, will be published on the
 IATI Knowledge Base
 (`http://support.iatistandard.org/forums <http://support.iatistandard.org/forums>`__).
-Anyone can make a proposal, and the forum allows for a public exchange
+Anyone can make a proposal (via the `Modifications, Additions, Improvements section <http://support.iatistandard.org/forums/20020808-modifications-additions-improvements>`_), and the forum allows for a public exchange
 on the merits of the proposal to take place. The TAG Secretariat will
 contribute to these exchanges and will draft proposals for the formal
 formats required by the standard and xml schema.
+
+If you wish to discuss an idea before submitting a proposal you may wish to consult the `IATI Technical Mailing List <http://wiki.iatistandard.org/community/mailing_list>`_ first.
 
 Decimal Upgrade Procedures
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
