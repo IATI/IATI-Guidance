@@ -53,11 +53,9 @@ Open Consultation on all proposed changes
 
 All proposed changes, both major and minor, will be published on the
 IATI Knowledge Base
-(`http://support.iatistandard.org/forums <http://support.iatistandard.org/forums>`__).
-Anyone can make a proposal (via the `Modifications, Additions, Improvements section <http://support.iatistandard.org/forums/20020808-modifications-additions-improvements>`_), and the forum allows for a public exchange
-on the merits of the proposal to take place. The TAG Secretariat will
-contribute to these exchanges and will draft proposals for the formal
-formats required by the standard and xml schema.
+(`http://support.iatistandard.org/forums <http://support.iatistandard.org/forums>`__) in the `IATI Standard forums <http://support.iatistandard.org/categories/20001338-The-IATI-Standards>`_.
+Anyone can make a proposal (via the `Modifications, Additions, Improvements section <http://support.iatistandard.org/forums/20020808-modifications-additions-improvements>`_), and each upgrade process receives it's own forum where proposals can be assigned. The forums allow for a public exchange on the merits of the proposals to take place. The TAG Secretariat will
+contribute to these exchanges and will draft proposals for the formal formats required for the standard.
 
 If you wish to discuss an idea before submitting a proposal you may wish to consult the `IATI Technical Mailing List <http://wiki.iatistandard.org/community/mailing_list>`_ first.
 
