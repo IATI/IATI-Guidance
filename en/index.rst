@@ -4,6 +4,6 @@ Sitemap
 .. toctree::
    :titlesonly:
 
-   overview
+   how-to-publish
    upgrades
 
