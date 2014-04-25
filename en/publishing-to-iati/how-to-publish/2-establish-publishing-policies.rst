@@ -12,13 +12,14 @@ The Implementation Schedule
 ===========================
 
 The purpose of the Implementation Schedule is to:
+
 - Document an organisation's publishing policies to provide context to its published datafiles
 - Provide the time line for when data for each field of the IATI Standard was / will be published (or not published if not applicable / possible etc.)
 - Enable the IATI Secretariat to confirm that an organisation is delivering on its publishing commitment.
 
 The Implementation Schedule (currently in MS Excel format) is a living document and should ideally be subject to the version control. It can be updated and added to at any time, to reflect changes or additions to the way an organisation is reporting. 
  
-The drafting of the Implementation Schedule can be done in parallel with preparing data for publication and it should also be published along side the IATI data. Whilst the Implementation Schedule is not a mandatory document to create (unless the Publisher is a DFID grantee in which case it is mandatory), it is strongly recommended that it is used in order to aid the publisher in publishing their data. 
+The drafting of the Implementation Schedule can be done in parallel with preparing data for publication and it should also be published along side the IATI data. Whilst the Implementation Schedule is not a mandatory document to create (unless of course there is a contractual requirement attached to funding to produce one), it is strongly recommended that it is used in order to aid the publisher in publishing their data. 
 
 The Implementation Schedule for NGOs / CSOs can be downloaded from: http://support.iatistandard.org/entries/23287146-The-Implementation-Schedule
 
@@ -50,7 +51,7 @@ Data Timeliness
 
 Timeliness of data relates to how current the data is when it is published. IATI differs from other reporting standards and systems, by emphasising the importance of publishing timely data, that is reflective of the swift-changing nature of projects and activities. With this comes a tension between provision of timely data and quality data.
 
-If you are publishing quarterly do you included transactions that have occurred right up to the day that you publish your information or are your most recent transaction those that occurred a month or so in the past? Timeliness is normally constrained to the accessibility and functioning of an organization's own accounting processes and systems. 
+If you are publishing quarterly do you include transactions that have occurred right up to the day that you publish your information or are your most recent transaction those that occurred a month or so in the past? Timeliness is normally constrained to the accessibility and functioning of an organization's own accounting processes and systems. 
 
 
 
@@ -102,14 +103,18 @@ Each organisation needs to understand where it sits within the aid delivery supp
 Which Aid Activities Should Be Included
 =======================================
 
-As its name suggests IATI is about Aid Transparency. However, it is not just about publishing data for ODA activities. Information can be published about any activity which falls under any of the aid categories as defined at http://iatistandard.org/codelists/flow_type/. 
+As its name suggests IATI is about Aid Transparency. However, it is not just about publishing data for ODA activities. Information can be published about any activity which falls under any of the aid categories as defined at http://iatistandard.org/codelists/flow_type/ .
+
+Consideration should also be given to which specific aid activities are reported on. Ideally IATI would want details of all of an organisation's aid activities to be published and not just those that have funding which comes with a contractual requirement to publish.
+
 
 
 
 Where Will You Publish Your IATI Datafiles? 
 ===============================================
 
-When you publish your information you do not give your information to IATI to look after. You will instead create an account on the IATI Registry that will hold (along with other information) the URL of where your IATI files are located. IATI therefore asks its publishers to host the datafiles that contain their IATI information on their 's own web servers. This is because data that is located within a publisher's own web space has greater integrity due to it being located at source. Therefore you will probably need to work with your IT or web team in order to identify a location where your IATI information can be hosted. If you have decided to create an IATI specific web page you might decide that it should include links to your IATI files?
+When you publish your information you do not give your information to IATI to look after. You will instead create an account on the IATI Registry that will hold (along with other information) the URL of where your IATI files are located. IATI therefore asks its publishers to host the datafiles that contain their IATI information on their own web servers. This is because data that is located within a publisher's own web space has greater integrity due to it being located at source. Therefore you will probably need to work with your IT or web team in order to identify a location where your IATI information can be hosted. If you have decided to create an IATI specific web page it is a good idea to include links to your published IATI files?
+
 
 
 
@@ -129,7 +134,7 @@ In parallel with the IATI process, there is a movement towards open government a
 2) add additional data and select which data records to include or exclude in derived works;
 3) change the organisation of the data (its schema) and change the database to a different format;
 4) copy and distribute the information.
-5) The TAG secretariat, in collaboration with a small group chaired by the World Bank and including an open data/intellectual property lawyer, produced a set of recommendations for licensing. The IATI Licensing Standard, agreed in February 2011 at a meeting of signatories and the IATI Steering Committee, is that information published through the IATI standard should be licensed under an open license. It is a set of principles that must be adhered to, rather than a prescriptive set of terms and conditions.
+5) The TAG Secretariat, in collaboration with a small group chaired by the World Bank and including an open data/intellectual property lawyer, produced a set of recommendations for licensing. The IATI Licensing Standard, agreed in February 2011 at a meeting of signatories and the IATI Steering Committee, is that information published through the IATI standard should be licensed under an open license. It is a set of principles that must be adhered to, rather than a prescriptive set of terms and conditions.
 
 Open Aid Information Licensing Standard
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
@@ -145,6 +150,7 @@ Open Aid Information compliant with this Standard
 - Intellectual Property (IP) Policies related to the Open Aid Information must be in plain language and easily accessible to users [Element 4].
 
 This Standard strongly recommends that Open Aid Information:
+
 - Should use a recognised and established open public license appropriate for databases [Element 2];
 - Should include FAQs and licensing help by the aid information publishers whenever possible [Element 5].
 
@@ -154,7 +160,10 @@ This standard concerns open aid information. But what is open aid information?
 
 By open we mean open as in the Open (Knowledge) Definition — in essence information (data and documents) is open if it can be freely used, reused and redistributed by anyone.
 By aid information we mean data and information on aid flows by both official and private providers of development assistance (inc. NGOs and Foundations)
-Element 1: Aid information must be published under public domain waivers or attribution-only open licenses as defined by the Open Knowledge Definition.
+
+Element 1: 
+>>>>>>>>>>
+Aid information must be published under public domain waivers or attribution-only open licenses as defined by the Open Knowledge Definition.
 
 The goal is for aid information to be effectively used and added to by others as widely as possible.  Therefore the use of licenses which limit commercial re-use or limit the production of derivative works by excluding use for particular purposes or by specific persons or organisations is discouraged. These restrictive licenses make it impossible to effectively integrate and re-purpose datasets and prevent commercial activities that could be used to support preservation and innovation with aid information. As a result, we have selected the Open Knowledge Definition as our standard for openness for aid information as it provides for a stable, accepted, legal standard of openness used in multiple fields.
 
@@ -183,7 +192,10 @@ Any type of disclaimer of warranties.
 
 Licenses: Open Data Commons Public Domain Dedication and License (PDDL); Creative Commons CC0 tool or Public Domain certification; Open Data Commons Attribution License (ODC-BY); Creative Commons Attribution License (CC-BY)
 
-Element 2: Aid information publishers should use recognised public domain waivers or open licenses.
+
+Element 2: 
+>>>>>>>>>>
+Aid information publishers should use recognised public domain waivers or open licenses.
 
 Making use of recognised open licenses and waivers (together, “legal tools”) helps encourage the greatest use and reuse of aid information by tapping into already existing online communities built around these legal tools. [4] This greatly helps use and reuse as recipients of open aid information don’t have to continually learn new legal terms — they can learn how one legal tool works and apply it across multiple sources of open aid information.
 
@@ -193,7 +205,10 @@ In simple terms, using recognised tools makes it easier on everyone, including b
 
 [4] Providers of open licenses with recognised communities are often referred to as “Public licensing bodies”. For more information, see http://www.jordanhatcher.com/2010/open-licenses-vs-public-licenses/
 
-Element 3: The legal tools used must be appropriate for data.
+
+Element 3: 
+>>>>>>>>>>
+The legal tools used must be appropriate for data.
 
 Aid information published under this initiative will often be data and databases. Many widely recognised licenses are not intended for, and are not appropriate for, data or collections of data (databases). We recommend using legal tools specifically tailored for data for the publication of aid information. The two key elements:
 
@@ -201,11 +216,17 @@ Legal – the legal tool must clearly cover the rights over data — including c
 Practical – particularly for open licenses requiring attribution, the legal tools must take into account the practical questions that often come up in a database environment in complying with the license terms, such as how and when to attribute the source.
 If a legal tool meets these two elements, generally it can be safe for use for aid information compliant with this standard.
 
-Element 4:    IP Policies related to aid information must be in plain language and easily accessible to users.
+
+Element 4:    
+>>>>>>>>>>
+IP Policies related to aid information must be in plain language and easily accessible to users.
 
 Publishers should make use of plain language and should highlight their IP policies to users accessing aid information in order to make it as easy as possible for users to access, read, and understand the rights that they have to use, reuse, and redistribute the aid information.
 
-Element 5: Publishers should include FAQs and licensing help whenever possible.
+
+Element 5: 
+>>>>>>>>>>
+Publishers should include FAQs and licensing help whenever possible.
 
 In order to further help facilitate understanding of their rights and obligations under the license, publishers and IATI itself should publish detailed FAQs and related licensing help resources. As part of the work behind this Standard, IATI will build the materials and resources available to both publishers and users to learn more about Open Aid Information.
 

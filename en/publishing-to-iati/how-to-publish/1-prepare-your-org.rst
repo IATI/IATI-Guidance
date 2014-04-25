@@ -44,6 +44,8 @@ It is important to gain buy in from the Senior Management Team or senior decisio
 Publishing to IATI data is not simply about sharing information but an opportunity to increase the openness of the whole organisation. Lessons from organisations that have already published have shown that integrating IATI and other transparency measures within the organisations practices increases its success and the impact it can have.
  
 
+ 
+ 
 5. Get key external stakeholder agreement
 =========================================
 
@@ -58,6 +60,7 @@ The information your organisation publishes may be derived from information prov
 As part of the process for implementing IATI sustainably within an organisation, many organisations take the approach of forming a working group, in order to bring together all the relevant parts of the organisation. In most situations this group should be formed early in the process of working on IATI implementation, to integrate the ideas and practical plans for publishing IATI data. Also, identify from within the group an individual within the organisation who will take the lead on IATI publishing as the IATI champion. 
 
 Areas involved in the IATI process may include one or more of the following:
+
 - Finance
 - Programmes
 - IT
@@ -92,7 +95,7 @@ Every organisation that publishes to IATI has its own unique identifier. Create 
 
 
 
-9. Notify IATI of your intent to publish 
+10. Notify IATI of your intent to publish 
 ================================
 
 Once the project team and plan are in place it is helpful to notify the IATI Support team (by email to support@iatistandard.org) of your organisation's intent and your estimate for initial publishing. Also provide IATI with the name of the organisational Point of Contact for IATI matters (usually the person involved with day to day publishing). 

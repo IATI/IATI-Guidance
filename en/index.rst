@@ -5,6 +5,5 @@ Sitemap
    :titlesonly:
 
    overview
-   faqs
    upgrades
 

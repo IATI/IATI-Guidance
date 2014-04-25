@@ -11,7 +11,7 @@ Deciding What Data To Publish
 
 When working towards publication, it is important to know what data you have available as an organisation and the quality of this data. The focus is very much on publishing what you can, based on what is readily available, ensuring it is of reasonable quality, and also taking into account any exclusions. The idea is to then continually improve over time.
 
-Publishers should try and consider publishing data for all fields of the IATI Standard. However, it is recognised that some elements will not be relevant to all organisations or information in some areas may need to be excluded for reasons of security of confidentiality.
+Publishers should try and consider publishing data for all fields of the IATI Standard. However, it is recognised that some elements will not be relevant to all organisations or information in some areas may need to be excluded for reasons of security or confidentiality.
 
 IATI recognises that an organisation is unlikely to have all of the information set out in the IATI Standard available for immediate publication. An organisation can therefore work with whatever information they currently have available with the aim of adding to this as they progress through the IATI process. 
 
