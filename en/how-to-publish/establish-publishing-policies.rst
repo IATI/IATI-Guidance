@@ -1,9 +1,9 @@
-﻿Establish Publishing Policies
+﻿Establish publishing policies
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 
 Once your organisation has committed to IATI publishing and the project team or IATI Champion is in place decisions need to be made about what, how and when data will be published. 
-This information should be initially recorded on the 'Publishing Information' tab of the Implementation Schedule and then copied into the relevant fields of the Publisher's Registry account when it is created.
+This information should be initially recorded on the 'Publishing Information' tab of the Implementation Schedule and then copied into the relevant fields of the publisher's Registry account when it is created.
 
 
 
@@ -13,9 +13,9 @@ The Implementation Schedule
 
 The purpose of the Implementation Schedule is to:
 
-- Document an organisation's publishing policies to provide context to its published datafiles
+- Document an organisation's publishing policies to provide context to its published data files
 - Provide the time line for when data for each field of the IATI Standard was / will be published (or not published if not applicable / possible etc.)
-- Enable the IATI Secretariat to confirm that an organisation is delivering on its publishing commitment.
+- Enable others to the IATI Secretariat to confirm that an organisation is delivering on its publishing commitment.
 
 The Implementation Schedule (currently in MS Excel format) is a living document and should ideally be subject to the version control. It can be updated and added to at any time, to reflect changes or additions to the way an organisation is reporting. 
  
