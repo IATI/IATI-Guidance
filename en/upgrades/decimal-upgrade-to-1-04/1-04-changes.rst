@@ -8,6 +8,8 @@ Schema Changes
 
 A full diff of all schema changes in 1.04 can be found in github at https://github.com/IATI/IATI-Schemas/compare/version-1.03...version-1.04#files_bucket
 
+.. _1_04_activities_schema_changes:
+
 Activities schema
 ~~~~~~~~~~~~~~~~~
 
