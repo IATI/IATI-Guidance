@@ -13,9 +13,11 @@ A full diff of all schema changes in 1.04 can be found in github at https://gith
 Activities schema
 ~~~~~~~~~~~~~~~~~
 
-- Added :doc:`reporting-org/@secondary-reporter </activity-standard/iati-activities/iati-activity/reporting-org>` attribute
+- Added :doc:`reporting-org/@secondary-reporter </activity-standard/iati-activities/iati-activity/reporting-org>` attribute (`discussion <http://support.iatistandard.org/entries/28509756-Add-secondary-publisher-info>`__)
 
-- Made a number of changes to the :doc:`/activity-standard/iati-activities/iati-activity/location` element
+- :doc:`country-budget-items/budget-item/@percentage </activity-standard/iati-activities/iati-activity/country-budget-items/budget-item>` is now optional rather than required (`discussion <http://support.iatistandard.org/entries/49964613-Bug-Fix-make-budget-item-percentage-optional>`__)
+
+- Made a number of changes to the :doc:`/activity-standard/iati-activities/iati-activity/location` element (`discussion <http://support.iatistandard.org/entries/30343967-Summary-of-Geocoding-Changes>`__)
 
   * added ``location/@ref`` attribute
   * added :doc:`location/location-reach </activity-standard/iati-activities/iati-activity/location/location-reach>` element
@@ -38,7 +40,7 @@ Activities schema
 Codelist Changes
 ----------------
 
-In 1.04 the idea of Embedded and Non-Embedded codelists was introduced.
+In 1.04 the idea of Embedded and Non-Embedded codelists was introduced. See :doc:`/codelists/codelist-management` for more information.
 
 A `codelist mapping file <https://github.com/IATI/IATI-Codelists/blob/version-1.04/mapping.xml>`__ describing the mapping between codelists and xml elements, was introduced. (`discussion <http://support.iatistandard.org/entries/27805388-Mapping-between-codelists-and-schemas>`__)
 
