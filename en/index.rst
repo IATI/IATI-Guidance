@@ -6,4 +6,5 @@ Sitemap
 
    how-to-publish
    upgrades
+   datastore
 
