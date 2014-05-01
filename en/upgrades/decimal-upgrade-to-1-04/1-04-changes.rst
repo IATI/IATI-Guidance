@@ -13,23 +13,23 @@ A full diff of all schema changes in 1.04 can be found in github at https://gith
 Activities schema
 ~~~~~~~~~~~~~~~~~
 
-- Added :doc:`reporting-org/@secondary-reporter </activities-standard/iati-activities/iati-activity/reporting-org>` attribute
+- Added :doc:`reporting-org/@secondary-reporter </activity-standard/iati-activities/iati-activity/reporting-org>` attribute
 
-- Made a number of changes to the :doc:`/activities-standard/iati-activities/iati-activity/location` element
+- Made a number of changes to the :doc:`/activity-standard/iati-activities/iati-activity/location` element
 
   * added ``location/@ref`` attribute
-  * added :doc:`location/location-reach </activities-standard/iati-activities/iati-activity/location/location-reach>` element
-  * added :doc:`location/location-id </activities-standard/iati-activities/iati-activity/location/location-id>` element
-  * added :doc:`location/activity-description </activities-standard/iati-activities/iati-activity/location/activity-description>` element
-  * :doc:`location/administrative </activities-standard/iati-activities/iati-activity/location/administrative>` gets new attributes:  ``@level``, ``@vocabulary``, ``@code``, ``@xml:lang``
-  * :doc:`location/administrative </activities-standard/iati-activities/iati-activity/location/administrative>` has the following attributes deprecated: ``@country``, ``@adm1``, ``@adm2``
-  * added :doc:`location/point </activities-standard/iati-activities/iati-activity/location/point>` element
-  * added :doc:`location/exactness </activities-standard/iati-activities/iati-activity/location/exactness>` element
-  * added :doc:`location/location-class </activities-standard/iati-activities/iati-activity/location/location-class>` element
-  * added :doc:`location/feature-designation </activities-standard/iati-activities/iati-activity/location/feature-designation>` element
-  * deprecated :doc:`location/gazetteer-entry </activities-standard/iati-activities/iati-activity/location/gazetteer-entry>` element
-  * deprecated :doc:`location/coordinates </activities-standard/iati-activities/iati-activity/location/coordinates>` element
-  * deprecated :doc:`location/location-type </activities-standard/iati-activities/iati-activity/location/location-type>` element
+  * added :doc:`location/location-reach </activity-standard/iati-activities/iati-activity/location/location-reach>` element
+  * added :doc:`location/location-id </activity-standard/iati-activities/iati-activity/location/location-id>` element
+  * added :doc:`location/activity-description </activity-standard/iati-activities/iati-activity/location/activity-description>` element
+  * :doc:`location/administrative </activity-standard/iati-activities/iati-activity/location/administrative>` gets new attributes:  ``@level``, ``@vocabulary``, ``@code``, ``@xml:lang``
+  * :doc:`location/administrative </activity-standard/iati-activities/iati-activity/location/administrative>` has the following attributes deprecated: ``@country``, ``@adm1``, ``@adm2``
+  * added :doc:`location/point </activity-standard/iati-activities/iati-activity/location/point>` element
+  * added :doc:`location/exactness </activity-standard/iati-activities/iati-activity/location/exactness>` element
+  * added :doc:`location/location-class </activity-standard/iati-activities/iati-activity/location/location-class>` element
+  * added :doc:`location/feature-designation </activity-standard/iati-activities/iati-activity/location/feature-designation>` element
+  * deprecated :doc:`location/gazetteer-entry </activity-standard/iati-activities/iati-activity/location/gazetteer-entry>` element
+  * deprecated :doc:`location/coordinates </activity-standard/iati-activities/iati-activity/location/coordinates>` element
+  * deprecated :doc:`location/location-type </activity-standard/iati-activities/iati-activity/location/location-type>` element
 
 - Some documentation has been altered slightly
 

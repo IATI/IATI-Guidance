@@ -16,25 +16,25 @@ Updated elements:
    only change in line with the standard.
 
 -  added the
-   optional \ `contact-info <http://iatistandard.org/activities-standard/contact-info/>`__/website
+   optional \ `contact-info <http://iatistandard.org/activity-standard/contact-info/>`__/website
    element
 
 -  added the
-   optional \ `contact-info <http://iatistandard.org/activities-standard/contact-info/>`__/@type
+   optional \ `contact-info <http://iatistandard.org/activity-standard/contact-info/>`__/@type
    attribute
 
 -  added the
-   optional \ `contact-info <http://iatistandard.org/activities-standard/contact-info/>`__/job-title
+   optional \ `contact-info <http://iatistandard.org/activity-standard/contact-info/>`__/job-title
    element
 
 -  changed the following subelements
-   of \ `contact-info <http://iatistandard.org/activities-standard/contact-info/>`__ to
+   of \ `contact-info <http://iatistandard.org/activity-standard/contact-info/>`__ to
    allow multiple-language versions explicitly (no change to parsing;
    purely semantic): organisation, person-name, job-title,
    mailing-address
 
 -  added
-   optional \ `recipient-regio <http://iatistandard.org/activities-standard/recipient-region/>`__\ n/@vocabulary
+   optional \ `recipient-regio <http://iatistandard.org/activity-standard/recipient-region/>`__\ n/@vocabulary
    attribute
 
 -  globally changed the @percentage attribute to allow decimals (e.g.
@@ -44,20 +44,20 @@ Updated elements:
    ``99.99`` as well as ``99``)
 
 -  added the
-   optional \ `country-budget-item <http://iatistandard.org/activities-standard/country_budget_items/>`__ element
+   optional \ `country-budget-item <http://iatistandard.org/activity-standard/country_budget_items/>`__ element
 
 -  added the
-   optional \ `capital-spend <http://iatistandard.org/activities-standard/capital_spend/>`__ element
+   optional \ `capital-spend <http://iatistandard.org/activity-standard/capital_spend/>`__ element
 
 -  added the
-   optional \ `crs-add <http://iatistandard.org/activities-standard/crs-add/>`__ element
+   optional \ `crs-add <http://iatistandard.org/activity-standard/crs-add/>`__ element
    and its child elements
 
 -  added
-   the \ `activity-scope <http://iatistandard.org/activities-standard/activity-scope/>`__ element
+   the \ `activity-scope <http://iatistandard.org/activity-standard/activity-scope/>`__ element
 
 -  added the
-   optional \ `fss <http://iatistandard.org/activities-standard/fss/>`__ element
+   optional \ `fss <http://iatistandard.org/activity-standard/fss/>`__ element
    and its child elements
 
 Organisation schema
