@@ -1,8 +1,9 @@
-﻿.. _prepare_your_org
-Preparing your organisation
+﻿Preparing your organisation
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 When planning to publish to IATI, an organisation should consider taking the following steps:
+
+.. contents::
 
 
 1. Understand the wider impacts of transparency 
@@ -90,7 +91,7 @@ Once your organisation has published who do you want to tell? Some organisations
 9. Create your unique IATI Organisation Identifier
 ==================================================
 
-Every organisation that publishes to IATI has its own unique identifier. Create your organisation's identifier by following the instructions at http://iatistandard.org/organisation-standard/organisation-identifier. If you are still unsure about what your identifier should be then please ask when you contact the IATI support team
+Every organisation that publishes to IATI has its own unique identifier. Create your organisation's identifier by following the instructions at :doc:`/organisation-identifiers`. If you are still unsure about what your identifier should be then please ask when you contact the IATI support team
 
 
 
