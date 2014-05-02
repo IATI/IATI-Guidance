@@ -17,6 +17,8 @@ Activities schema
 
 - :doc:`country-budget-items/budget-item/@percentage </activity-standard/iati-activities/iati-activity/country-budget-items/budget-item>` is now optional rather than required (`discussion <http://support.iatistandard.org/entries/49964613-Bug-Fix-make-budget-item-percentage-optional>`__)
 
+- Added :doc:`conditions/condition/@xml:lang </activity-standard/iati-activities/iati-activity/conditions/condition>` attribute. (`discussion <http://support.iatistandard.org/entries/28296716-Condition-is-missing-a-language-attribute>`__)
+
 - Made a number of changes to the :doc:`/activity-standard/iati-activities/iati-activity/location` element (`discussion <http://support.iatistandard.org/entries/30343967-Summary-of-Geocoding-Changes>`__)
 
   * added ``location/@ref`` attribute
