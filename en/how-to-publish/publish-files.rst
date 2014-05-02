@@ -74,4 +74,4 @@ This ensures that no-one can use the Registry to publish data purporting to come
 4. Add Details Of Your Datafiles
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-Once your publisher account has been authorised, log into it and select the 'Add Datafile' option in order to add the details and URL location of your IATI datafiles that you are publishing. If you have a lot of datafiles details to add you can instead add the details to a CSV files which can be imported to the Registry to add the files in bulk. The template and other information for using the CSV files is at http://www.iatiregistry.org/csv/upload .
+Once your publisher account has been authorised, log into it and select the 'Add Datafile' option in order to add the details and URL location of your IATI datafiles that you are publishing. If you have a lot of datafiles' details to add you can instead add the details to a CSV file which can be imported to the Registry to add the files in bulk. The template and other information for using the CSV file is at http://www.iatiregistry.org/csv/upload .

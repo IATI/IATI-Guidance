@@ -133,7 +133,8 @@ In parallel with the IATI process, there is a movement towards open government a
 2) add additional data and select which data records to include or exclude in derived works;
 3) change the organisation of the data (its schema) and change the database to a different format;
 4) copy and distribute the information.
-5) The TAG Secretariat, in collaboration with a small group chaired by the World Bank and including an open data/intellectual property lawyer, produced a set of recommendations for licensing. The IATI Licensing Standard, agreed in February 2011 at a meeting of signatories and the IATI Steering Committee, is that information published through the IATI standard should be licensed under an open license. It is a set of principles that must be adhered to, rather than a prescriptive set of terms and conditions.
+
+The TAG Secretariat, in collaboration with a small group chaired by the World Bank and including an open data/intellectual property lawyer, produced a set of recommendations for licensing. The IATI Licensing Standard, agreed in February 2011 at a meeting of signatories and the IATI Steering Committee, is that information published through the IATI standard should be licensed under an open license. It is a set of principles that must be adhered to, rather than a prescriptive set of terms and conditions.
 
 Open Aid Information Licensing Standard
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
