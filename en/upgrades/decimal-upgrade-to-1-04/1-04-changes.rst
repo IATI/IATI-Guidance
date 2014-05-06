@@ -74,3 +74,5 @@ Non-Embedded:
 
 - :doc:`/codelists/FileFormat` updated to include all IANA Media Types. Note that it no longer has names corresponding to the codes, as the source codelist does not have this. (`discussion <http://support.iatistandard.org/entries/22915207-Additions-to-File-Format-code-list>`__)
 - :doc:`/codelists/LocationType` updated to include all US NGA Feature Designation Codes
+- :doc:`/codelists/Sector` re-aligned with DAC values (`commit <https://github.com/IATI/IATI-Codelists-NonEmbedded/commit/1cf0f9baa9b0eba52d9230917cab729567fe6bc8>`__)
+- :doc:`/codelists/Country` adds deprecated ISO value, ``AN`` that is still in use in some IATI data (`commit <https://github.com/IATI/IATI-Codelists-NonEmbedded/commit/1cf0f9baa9b0eba52d9230917cab729567fe6bc8>`__)
