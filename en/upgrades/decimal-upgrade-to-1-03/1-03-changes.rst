@@ -107,10 +107,8 @@ New Codelists
 -  Budget Identifier
    Vocabulary\ `http://iatistandard.org/codelists/budget\_identifier\_vocabulary/ <http://iatistandard.org/codelists/budget_identifier_vocabulary/>`__
 
--  | Contact Type
-   `http://iatistandard.org/codelists/contact-type/ <http://iatistandard.org/codelists/contact-type/>`__
-   | Loan Repayment Period
-   `http://iatistandard.org/codelists/loan-repayment-period/ <http://iatistandard.org/codelists/loan-repayment-period/>`__
+-  | Contact Type `http://iatistandard.org/codelists/contact-type/ <http://iatistandard.org/codelists/contact-type/>`__
+   | Loan Repayment Period `http://iatistandard.org/codelists/loan-repayment-period/ <http://iatistandard.org/codelists/loan-repayment-period/>`__
 
 -  Loan Repayment Type
    `http://iatistandard.org/codelists/loan-repayment-type/ <http://iatistandard.org/codelists/loan-repayment-type/>`__
