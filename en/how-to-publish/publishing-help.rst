@@ -10,10 +10,10 @@ Contact the IATI Support Team Help Desk
 If you have a question or need help with IATI publishing then contact the IATI support team by emailing them at support@iatistandard.org. The team will aim to respond to any enquiry within 72 hours.
 
 
-BOND NGO Community Forum 
+Bond NGO Community Forum 
 ========================
 
-You can contact your peers and get other useful information (not just related to IATI) by joining the BOND NGO Community Forum at http://www.bond.org.uk/groups.
+You can contact your peers and get other useful information (not just related to IATI) by joining the Bond NGO Community Forum at http://www.bond.org.uk/groups.
 
 
 Partos members support programme
