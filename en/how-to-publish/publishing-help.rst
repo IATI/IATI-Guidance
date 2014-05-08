@@ -14,3 +14,9 @@ BOND NGO Community Forum
 ========================
 
 You can contact your peers and get other useful information (not just related to IATI) by joining the BOND NGO Community Forum at http://www.bond.org.uk/groups.
+
+
+Partos members support programme
+================================
+
+Partos member organisations can get support and participate in workshops organised in the Open Data Programma. Contact jasper [at] partos.nl or visit https://partos.nl/iati
