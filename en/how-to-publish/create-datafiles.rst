@@ -8,7 +8,7 @@ Having selected your publishing tool and identified from where your information 
 Establish who is responsible for creating and updating your files
 =================================================================
 
-It is essential that you make sure that everybody involved in creating and updating your data files knows what input is required from them and when. The IATI publisher may be tasked with updating the files but they are likely to need data provided from other areas within the organisation.
+It is essential that you make sure that everybody involved in creating and updating your data files knows what input is required from them and when. The IATI publisher may be tasked with updating the files but they are likely to need data provided from other areas within the organisation so it is important that those who may have to provide the data are also quite clear about what information is needed and when.
 
 
 
@@ -16,7 +16,7 @@ It is essential that you make sure that everybody involved in creating and updat
 Establish a change control procedure 
 ====================================
 
-Regardless of your publishing tool you should be able to tell who has updated your data sets and when.
+Regardless of your publishing tool you should be able to tell who has updated your data sets and when. Therefore it is recommended that a change control process is established around the files that you publish.
 
 
 

@@ -14,7 +14,7 @@ The purpose of the Implementation Schedule is to:
 
 - Document an organisation's publishing policies to provide context to its published data files
 - Provide the time line for when data for each field of the IATI Standard was / will be published (or not published if not applicable / possible etc.)
-- Enable others to the IATI Secretariat to confirm that an organisation is delivering on its publishing commitment.
+- Enable others and the IATI Secretariat to confirm that an organisation is delivering on its publishing commitment.
 
 The Implementation Schedule (currently in MS Excel format) is a living document and should ideally be subject to the version control. It can be updated and added to at any time, to reflect changes or additions to the way an organisation is reporting. 
  

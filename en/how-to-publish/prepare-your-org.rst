@@ -14,6 +14,8 @@ Publishing data to IATI is not simply about sharing information but an opportuni
 In order to drive this process, there is often value in creating an Open Information Policy for the whole organisation to help identify all sources of information that can be made public. Further information about creating an Open Information Policy is available at http://support.iatistandard.org/entries/20858941-Open-Information-Exclusions
 
 
+
+
 2. Assess the potential risks of transparency 
 =============================================
 
@@ -22,6 +24,7 @@ It is important to assess and mitigate the risks of moving to a more transparent
 - May be subject to much closer scrutiny of its work and financial management;
 - Must properly assess the potential security implications of publishing data related to activities that may be sensitive due to their sector/type or location;
 - Should accept that a financial investment may be required in order to establish a new permanent business function for IATI publishing, or the addition of this responsibility to an existing staff member.
+
 
 
 3. Prepare the case for IATI publishing
@@ -36,6 +39,7 @@ There are many benefits for your organisation of publishing information about th
 - Reduce opportunities for corruption. Openly publishing financial data makes it much harder to hide inappropriate payments or expenditure;
 - Addressing political pressures. Transparency and openness are now central to policy discussions in government and IATI is a way of delivering on commitments of openness and improving accountability.
 
+ 
  
 4. Gain senior management backing
 =================================
@@ -70,6 +74,8 @@ Areas involved in the IATI process may include one or more of the following:
 - Communications and Marketing
 
 The project team should also create and maintain a time lined plan for both initial and subsequent regular publication of data.
+
+
 
 
 7. Establish IATI publishing as a permanent business function

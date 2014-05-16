@@ -14,6 +14,8 @@ The IATI Validator tool at http://validator.iatistandard.org/ will currently che
 - That it contains only valid XML
 - That it only uses elements as defined in the relevant version of the IATI Standard.
 
+As a result, using the Validator is a two stage process. When you first upload or specify the URL of you file it carries out the check that the file only contains valid data. If no errors are found click on the 'Test Validation' link to make sure that the file contents conform to the IATI Standard.
+
 If errors are found you should investigate the error(s) and amend your data and recreate your files before re-validating to make sure that any problems have been fixed.
 
 
