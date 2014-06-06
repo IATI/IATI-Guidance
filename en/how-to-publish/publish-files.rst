@@ -34,6 +34,13 @@ it is important to consider that the URLs that are used to publish are:
 
 It does not matter if the URLs are for a subdomain (data.{publisher}.org) or directory ({publisher}.org/data).
 
+When publishing your IATI XML files it helps users your server can be configured to:
+
+- Provide a HTTP Content-type header indicating that the file is application/xml
+- Provide a HTTP last-modified header indicating the last time that the file was modified
+
+The last-modified header will help applications checking that they have the most up-to-date data to avoid fetching data that hasn't changed since they last looked, and so will reduce bandwidth and load on your servers. 
+
 if you have created and published your files via Aidstream then you will need to consult the Aidstream guide for instructions on how to locate and move your files from Aidstream to your own servers.
 
 If you have created and published your files via the CSV Convertor then you will need to consult the CSV Converter guide for instructions on how to locate and  move your files from Aidstream to your own servers.

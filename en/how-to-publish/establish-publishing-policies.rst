@@ -20,9 +20,9 @@ The Implementation Schedule (currently in MS Excel format) is a living document 
  
 The drafting of the Implementation Schedule can be done in parallel with preparing data for publication and it should also be published along side the IATI data. Whilst the Implementation Schedule is not a mandatory document to create (unless of course there is a contractual requirement attached to funding to produce one), it is strongly recommended that it is used in order to aid the publisher in publishing their data. 
 
-The Implementation Schedule for NGOs / CSOs can be downloaded from: http://support.iatistandard.org/entries/23287146-The-Implementation-Schedule
+The Implementation Schedule for NGOs / CSOs can be downloaded from: https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template%20-%20ngo/Implementation%20Schedule%20TEMPLATE%20for%20NGOs%20Sept%202013.xlsx
 
-
+If your organisation also reports to the DAC then you should use the Common Standard Implementation Schedule which can be downloaded from here: https://github.com/IATI/IATI-Implementation-Schedule/blob/master/files/template-commonstandard/Implementation-Schedule-for-the-common-standard-ENG.xls
 
 
 What Will Be Your Activity Unit of Aid? 
@@ -134,7 +134,7 @@ In parallel with the IATI process, there is a movement towards open government a
 3) change the organisation of the data (its schema) and change the database to a different format;
 4) copy and distribute the information.
 
-The TAG Secretariat, in collaboration with a small group chaired by the World Bank and including an open data/intellectual property lawyer, produced a set of recommendations for licensing. The IATI Licensing Standard, agreed in February 2011 at a meeting of signatories and the IATI Steering Committee, is that information published through the IATI standard should be licensed under an open license. It is a set of principles that must be adhered to, rather than a prescriptive set of terms and conditions.
+The TAG Secretariat, in collaboration with a small group chaired by the World Bank and including an open data/intellectual property lawyer, produced a set of recommendations for licensing. The Open Aid Information Licensing Standard, agreed in February 2011 at a meeting of signatories and the IATI Steering Committee, is that information published through the IATI standard should be licensed under an open license. It is a set of principles that must be adhered to, rather than a prescriptive set of terms and conditions.
 
 Open Aid Information Licensing Standard
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
