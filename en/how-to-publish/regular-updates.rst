@@ -1,4 +1,4 @@
-﻿Regularly Updating Your Data
+﻿Regularly updating your data
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Once you have initially published your first data sets you need to ensure that they are updated regularly. 

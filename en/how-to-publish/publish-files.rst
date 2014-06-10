@@ -1,4 +1,4 @@
-﻿Publish Your Datafiles
+﻿Publish your datafiles
 ^^^^^^^^^^^^^^^^^^^^^^
 
 To publish your files you need to carry out the following: 
@@ -34,7 +34,7 @@ it is important to consider that the URLs that are used to publish are:
 
 It does not matter if the URLs are for a subdomain (data.{publisher}.org) or directory ({publisher}.org/data).
 
-When publishing your IATI XML files it helps users your server can be configured to:
+When publishing your IATI XML files it helps users if your server can be configured to:
 
 - Provide a HTTP Content-type header indicating that the file is application/xml
 - Provide a HTTP last-modified header indicating the last time that the file was modified

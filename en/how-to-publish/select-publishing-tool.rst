@@ -1,4 +1,4 @@
-﻿Select A Publishing Tool
+﻿Select a publishing tool
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 There are currently three different mechanisms recommended by the IATI Secritariat to convert data into IATI- XML data files. Aidstream and the CSV Convertor are recommended because they are both currently actively maintained either by or with the involvement of the IATI Secretariat. 
