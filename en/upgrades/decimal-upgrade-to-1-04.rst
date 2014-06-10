@@ -7,13 +7,17 @@ Decimal Upgrade to 1.04
 
    decimal-upgrade-to-1-04/*
 
-The process for the 1.04 decimal upgrade of the standard is outlined
-below.
+The third decimal upgrade grade of the standard was proposed to occur
+during the winnter of 2013, but faced delays that meant the timetable had
+to be revised. The process for doing so is outlined below.
 
 Details about the specific changes are listed on the \ `knowledge
 base <http://support.iatistandard.org/>`__ in the \ `1.04 Decimal
 Upgrade
 Forum <http://support.iatistandard.org/forums/22743317-1-04-Decimal-Upgrade>`__.
+
+You can contribute issues to be considered in future upgrades in
+the \ `knowledge base <http://support.iatistandard.org/>`__.
 
 +----------------+----------------+----------------+----------------+----------------+
 | IATI           | Community      | Timescale      | Due Date       | Now Due        |
