@@ -94,7 +94,7 @@ Decimal Upgrade Procedures
 ~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Clear cut off dates for proposals to be considered for a Decimal Upgrade
-will be advertised on the `Upgrades section of the IATI Standard website <http://iatistandard.org/upgrades>`__
+will be advertised on the `Upgrades section of the IATI Standard website <http://iatistandard.org/upgrades>`__.
 The IATI Technical Team will select those proposals meeting
 the above mentioned guidelines and prepare a proposed decimal upgrade on behalf of the IATI Secretariat.
 The contents of this proposed upgrade will be published on the Knowledge
