@@ -14,6 +14,8 @@ The IATI Validator tool at http://validator.iatistandard.org/ will currently che
 - That it contains only valid XML
 - That it only uses elements as defined in the relevant version of the IATI Standard.
 
+As a result, using the Validator is a two stage process. When you first upload or specify the URL of you file it carries out the check that the file only contains valid data. If no errors are found click on the 'Test Validation' link to make sure that the file contents conform to the IATI Standard.
+
 If errors are found you should investigate the error(s) and amend your data and recreate your files before re-validating to make sure that any problems have been fixed.
 
 
@@ -31,6 +33,13 @@ it is important to consider that the URLs that are used to publish are:
 - accessible - the URLs are not behind any security measures or any other means that would hinder access. (Note that access can also be hindered accidentally, due to a variety of technical reasons, see the :doc:`Accessing Data page of the Developer Documentation </developer/access/>` for more information).
 
 It does not matter if the URLs are for a subdomain (data.{publisher}.org) or directory ({publisher}.org/data).
+
+When publishing your IATI XML files it helps users your server can be configured to:
+
+- Provide a HTTP Content-type header indicating that the file is application/xml
+- Provide a HTTP last-modified header indicating the last time that the file was modified
+
+The last-modified header will help applications checking that they have the most up-to-date data to avoid fetching data that hasn't changed since they last looked, and so will reduce bandwidth and load on your servers. 
 
 if you have created and published your files via Aidstream then you will need to consult the Aidstream guide for instructions on how to locate and move your files from Aidstream to your own servers.
 
