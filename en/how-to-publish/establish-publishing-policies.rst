@@ -80,7 +80,7 @@ As with exclusions, information on thresholds should be clearly published in ord
 Exclusions
 ==========
 
-IATI enables publishers of information to the Standard to exclude certain information from their data. However IATI requires that the policy of how those exclusions are made is made public, as part of the Registry Record in order to provide context to those who are using the data. Reasons for needing to exclude data depend on each organisation but can vary from security concerns to the need to protect commercial information. If your organisation carries out works which could be considered by others as controversial or unethical eg. providing family planning services to people who live in catholic countries, education of girls within cultures that are seen as oppressive to women etc.,  you may not want to publish all the details of your work in order to both protect those who are doing the work as well as the intervention itself. Similarly if you are working in sensitive geographic areas you may not wish to publish details of your work and the areas in which it is taken place. In such circumstances you can elect to only publish minimal details or even to not publish any details at all.
+IATI enables publishers of information to the Standard to exclude certain information from their data. However IATI requires that the policy of how those exclusions are made is made public, as part of the Registry Record in order to provide context to those who are using the data. Reasons for needing to exclude data depend on each organisation but can vary from security concerns to the need to protect commercial information. If your organisation carries out works which could be considered by states or societies as illegal or unacceptable, for example in the fields of human rights, gender or governance, you may not want to publish all the details of your work in order to both protect those who are doing the work as well as the intervention itself. Similarly if you are working in sensitive geographic areas you may not wish to publish details of your work and the areas in which it is taken place. In such circumstances you can elect to only publish minimal details or even to not publish any details at all.
 
 Considerations when defining an exclusion policy
 
@@ -94,7 +94,7 @@ Considerations when defining an exclusion policy
 Publishing Scope
 ================
 
-Each organisation needs to understand where it sits within the aid delivery supply chain and report accordingly. Basically an organisation should report on activities for which they either receive payments or make payments for or are directly involved in in some other way
+Each organisation needs to consider and understand where it sits within the aid delivery supply chain and report accordingly. Basically an organisation should report on activities for which they either receive payments or make payments for or are directly involved in in some other way. This means that if an organisation has an HQ which makes payment to a country office then both the HQ and country office should report separately to IATI
 
 
 
