@@ -1,4 +1,4 @@
-﻿Publish Your Datafiles
+﻿Publish your datafiles
 ^^^^^^^^^^^^^^^^^^^^^^
 
 To publish your files you need to carry out the following: 
@@ -16,7 +16,7 @@ The IATI Validator tool at http://validator.iatistandard.org/ will currently che
 
 As a result, using the Validator is a two stage process. When you first upload or specify the URL of you file it carries out the check that the file only contains valid data. If no errors are found click on the 'Test Validation' link to make sure that the file contents conform to the IATI Standard.
 
-If errors are found you should investigate the error(s) and amend your data and recreate your files before re-validating to make sure that any problems have been fixed.
+If errors are found you should investigate and amend your original input CSV file data and recreate your files before re-validating to make sure that any problems have been fixed.
 
 
 
@@ -34,16 +34,17 @@ it is important to consider that the URLs that are used to publish are:
 
 It does not matter if the URLs are for a subdomain (data.{publisher}.org) or directory ({publisher}.org/data).
 
-When publishing your IATI XML files it helps users your server can be configured to:
+When publishing your IATI XML files it helps users if your server can be configured to:
 
 - Provide a HTTP Content-type header indicating that the file is application/xml
 - Provide a HTTP last-modified header indicating the last time that the file was modified
 
 The last-modified header will help applications checking that they have the most up-to-date data to avoid fetching data that hasn't changed since they last looked, and so will reduce bandwidth and load on your servers. 
 
-if you have created and published your files via Aidstream then you will need to consult the Aidstream guide for instructions on how to locate and move your files from Aidstream to your own servers.
+If you have created and published your files via Aidstream then you will need to login to your Aidstream account, click on 'List Published Files' and then for each file right click on the filename and select 'Save Link As ...' to download the file.
 
-If you have created and published your files via the CSV Convertor then you will need to consult the CSV Converter guide for instructions on how to locate and  move your files from Aidstream to your own servers.
+If you have created and published your files via the CSV Convertor then you will need to login to your CSV Convertor account and click on the model was used to generate your published files. Click on 'Convert' and then click on 'View Conversion History'. Put you cursor over the file that you want to download, right click on the filename and select 'Save Link As ...' to download the file.
+
 
  
 Create An IATI Registry Account
@@ -83,4 +84,17 @@ This ensures that no-one can use the Registry to publish data purporting to come
 4. Add Details Of Your Datafiles
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
-Once your publisher account has been authorised, log into it and select the 'Add Datafile' option in order to add the details and URL location of your IATI datafiles that you are publishing. If you have a lot of datafiles' details to add you can instead add the details to a CSV file which can be imported to the Registry to add the files in bulk. The template and other information for using the CSV file is at http://www.iatiregistry.org/csv/upload .
+Once your publisher account has been authorised, log into it and select the 'Add Datafile' option in order to add the details and URL location of your IATI datafiles that you are publishing. 
+
+
+
+5. Bulk Upload Details Of Your Datafiles
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
+
+If a Publisher has a large number of datafiles to add to the Registry they can do a bulk upload using a CSV file rather than adding each one manually and individually .
+
+The CSV file template and guidance for how to do this can be found at: http://www.iatiregistry.org/csv/upload or by hovering over ‘Data’ and clicking on ‘upload CSV file’.
+
+Most of the fields are self-explanatory and relate to the ‘Add a Datafile’ form that would be completed if adding files manually. The template requires each file to be a line in the CSV file. For each line (file) the ‘registry-publisher-id’ which is the publisher ID used to set up the publisher account on the Publisher's Registry account is required. A ‘registry-file-id’ is also needed. This identifies the data covered in the file through including country or region coding or the file type (activity or org). Further information on this can be found in the section above on uploading individual files.
+
+Once the CSV file has been completed and saved it can be uploaded to add the Datafile details files by clicking on ‘Choose file’, selecting the CSV file and then clicking on ‘upload’ .
