@@ -10,10 +10,11 @@ The Role Of the IATI Standard
 
 The IATI Standard is fundamental to the publishing process because the it provides the specification for how data must be formatted for IATI publishing. 
 
-The IATI Standard has two components:
+The IATI Standard has three main components:
 
-The Organisation Standard - which provides the definition for what data can be included and how it must be formatted for the Organisation file
-The Activity Standard - which provides the definition for what data can be included and how it must be formatted for an Activity file
+Organisation Standard - which provides the definition for what data can be included and how it must be formatted for the Organisation file
+Activity Standard - which provides the definition for what data can be included and how it must be formatted for an Activity file
+Codelists - provide the definitive list of allowed values for specific data elements or attributes
 
 The IATI Standard is managed by the IATI Secretariat and anyone can request amendments or changes to the IATI Standard via the IATI Standard Upgrade process - see http://iatistandard.org/upgrades .
 
@@ -35,10 +36,34 @@ The availability of data will also depend on how information is currently captur
 
 
 
+Segmenting Files & File Size
+=============================
+
+It is recommended that publishers segment their files to ensure that no file is larger than 40MB in size. Whilst there is no definitive rule as to when a file is too large, we recommend a maximum file size in order to minimise any issues of file processing by both IATI and third parties data users.
+
+With regard to segmentation, there is no definitive best practice for how files should be segmented. By country was historically the preferred option but this is no longer a requirement because published data can now be queried more easily via the IATI Datastore. The publisher should therefore carry out segmenetation on whatever makes most sense to their publishing process. Examples might be by country, by region, by grant or loan type etc. As data volumes have increased some publisher are now segmenting by open and closed activities. This has the benefit that once created, there is no further requirement to reproduce or update a file of closed projects each time the Publisher updates their data. 
+
+
+
+
+Character Encoding
+==================
+
+The use of the Unicode UTF-8 or UTF-16 character encodings is strongly recommended to provide support for the widest range of languages.  These encodings may be declared at the beginning of XML documents as follows:
+
+<?xml version=”1.0” encoding=”UTF-8”?>
+or
+<?xml version=”1.0” encoding=”UTF-16”?>
+
+The XML standard requires all conforming software to support both of these encodings, so the choice is up to the publisher.  In most cases, UTF-8 should result in smaller documents even for non-alphabetic languages like Han Chinese, since much of an IATI document consists of XML markup, (alphabetic) codes, and numeric values.
+
+it is recommended that  non-Unicode character encodings such as “BIG5” or “ISO-8859-1” are NOT used, since these might not be supported by all XML processing software, and the Initiative’s goal is maximum transparency and portability.
+
+
+
+
 DFID Minimum Requirements (UK NGOs and their Partners)
 ======================================================
 
 If you are a DFID grantee then you need to make sure that you include all the fields that have been designated as mandatory by DFID. The list of these fields is at http://support.iatistandard.org/entries/21477271-DFID-Requirements-for-NGOs
-
-
 

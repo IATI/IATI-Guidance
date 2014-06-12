@@ -25,12 +25,14 @@ The Implementation Schedule for NGOs / CSOs can be downloaded from: https://gith
 If your organisation also reports to the DAC then you should use the Common Standard Implementation Schedule which can be downloaded from here: https://github.com/IATI/IATI-Implementation-Schedule/blob/master/files/template-commonstandard/Implementation-Schedule-for-the-common-standard-ENG.xls
 
 
+
+
 What Will Be Your Activity Unit of Aid? 
 =======================================
 
-One of the most important decisions to be taken before you start implementing IATI is to decide how to present your particular business model in a way in which your work is best translated into an IATI activity. It is up to you to define your units of aid and you can specify any number of hierarchical levels in which to best organise your activities. Your work might, for example, be broken into themes, programmes, projects, sub-projects and/or contracts. It is up to you to decide whether a hierarchical structure best tells the story of your organisation, or whether such a framework is irrelevant to the data that IATI is asking you to report.It is important to define what the unit of aid being reported is. Organisations use a range of different definitions or may have different ways of identifying an 'activity'. Examples of units of aid include: programmes, projects, sub-projects, activities, grants, etc.
+One of the most important decisions to be taken before an organisation starts preparing to publish to IATI is to decide how to present their particular business model in a way in which their work is best translated into an IATI activity. It is up to the Publisher to define their units of aid and they can specify any number of hierarchical levels in which to best organise activities. Their work might, for example, be broken into themes, programmes, projects, sub-projects and/or contracts. It is up to the Publisher to decide whether a hierarchical structure best tells the story of their organisation, or whether such a framework is irrelevant to the data that IATI requires to be reported. 
 
-If Units of Aid are defined via a hierarchy, an explanation needs to be provided on how the units of aid are split between the hierarchy levels. For example, activities at hierarchy level 1 (or the parent level) could cover things like programmes, umbrella projects or grant streams. Units of aid at hierarchy level 2 (or 'child' level) could include projects or sub-projects. It is also possible for activities to be related on a horizontal basis ('siblings'). For example, a group of projects sitting under a programme could be classed as sibling activities. Related activities can be identified through providing the related activity identifiers when reporting on each individual activity.
+If Units of Aid are defined via a hierarchy, an explanation (to be ultimately documented in IATI Registry account) should be provided on how the units of aid are split between the hierarchy levels  . For example, activities at hierarchy level 1 (or the parent level) could cover things like programmes, umbrella projects or grant streams. Units of aid at hierarchy level 2 (or 'child' level) could include projects or sub-projects. It is also possible for activities to be related on a horizontal basis ('siblings'). For example, a group of projects sitting under a programme could be classed as sibling activities. Related activities can be identified through providing the related activity identifiers when reporting on each individual activity.
 
 It is also important to differentiate what data will appear at the different levels. For example, activity budgets could be reported at level 1, while transaction level data is reported at level 2. This also helps to avoid double counting, with monetary amounts being reported at the lowest possible hierarchical level (and not repeated or aggregated at higher levels). Lower level activities will inherit data from their parent activity.
  
@@ -40,7 +42,7 @@ It is also important to differentiate what data will appear at the different lev
 Publishing Frequency
 =====================
 
-Organisations typically publish updates annually, every 6 months, quarterly, monthly and even daily. Ideally IATI would want every publisher to publish as frequently as their information changes. However, IATI recognises that this is not always possible so it encourages publishers to select the most frequent publishing frequently that their organisation is able to support.
+Organisations typically publish updates annually, every 6 months, quarterly, monthly and even daily. Ideally it would be a requirement for every publisher to publish as frequently as their information changes. However, it is recognised that this is not always possible so it encourages publishers to select the most frequent publishing frequently that their organisation is able to support.
 
 
 
@@ -61,6 +63,13 @@ Data Quality
 it is important to consider how accurate your data is when it is published. The data published does not need to be audited in the same way as would be done with close of year accounts. However, ultimately, the decision on data quality will be taken by each individual organisation, depending on the internal procedures and processes that data may have to go through before being put in the public domain. It will also depend on whether an organisation approaches IATI as an open data initiative or a process for publishing verified statistics. Many organisations publish information taken from unaudited accounts throughout the year that is then revised and republished once the accounts have been through the audit process. If data is initially published in an unvalidated or estimated format it is important to consider how and when your data can be recreated and published in its formalised format.
 
 Publishers should also outline the quality assurance processes or any details of their considerations around what they consider to be verified or unverified data, and where their IATI data sits on that scale.
+
+
+
+Data Coverage
+==============
+
+It is very important that an organisation considers which of its activities it will publish information to IATI about. Ideally it would be a requirement that a publisher provides information of all of its activities. However, this sometimes not always possible and initially a Publisher might decide to only publish information in relation to those activities for which they are contractually bound to publish to IATI. However, it is hoped that over time a Publisher will move to publishing to IATI for all of its work.
 
 
 
