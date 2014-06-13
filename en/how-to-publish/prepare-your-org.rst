@@ -105,5 +105,5 @@ Every organisation that publishes to IATI has its own unique identifier. Create 
 10. Notify IATI of your intent to publish 
 =========================================
 
-Once the project team and plan are in place it is helpful to notify the IATI Support team (by email to support@iatistandard.org) of your organisation's intent and your estimate for initial publishing. Also provide IATI with the name of the organisational Point of Contact for IATI matters (usually the person involved with day to day publishing). 
+Once the project team and plan are in place it is helpful to notify the IATI Technical Support team (see :doc:`publishing-help` for contact details) of your organisation's intent and your estimate for initial publishing. Also provide IATI with the name of the organisational Point of Contact for IATI matters (usually the person involved with day to day publishing). 
 

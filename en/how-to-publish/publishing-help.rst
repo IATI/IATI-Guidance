@@ -11,6 +11,7 @@ If you have a question or need help with IATI publishing then contact the IATI s
 
 
 
+
 Bond NGO IATI Support Services 
 ==============================
 Bond is the UK membership body for organisations working in international development or supporting those that do through funding, research, training and other services. 
@@ -34,10 +35,10 @@ Bond IATI FAQs For NGOs
 Bond has its own set of FAQS aimed at NGOS - see http://www.bond.org.uk/transparency/iati-faqs
 
 
-
 Bond IATI Training Sessions 
-==============================
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
 Bond run regular IATI training sessions - see https://www.eventbrite.co.uk/e/introduction-to-iati-publishing-for-uk-ngos-tickets-9436068535. To qualify for a free place, your organisation must be a member of Bond, NIDOS, CADA or Welsh Hub, or be in receipt of a DFID grant. If you don't qualify for a free place then contact Bond at transparency@bond.org.uk
+
 
 
 

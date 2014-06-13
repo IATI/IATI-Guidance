@@ -37,7 +37,7 @@ Key process outputs
 The IATI publishing process produces the following regularly updated set of information products:
 
 - Implementation Schedule (optional but recommended. Mandatory for Busan signatories and DFID grantees)
-- IATI XML Organisation file (link to org file definition)
+- IATI XML Organisation file 
 - One or more IATI XML Activity file(s)
 - IATI Registry account
 
