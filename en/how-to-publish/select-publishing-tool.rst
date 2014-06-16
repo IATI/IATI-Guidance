@@ -5,7 +5,7 @@ There are currently three different mechanisms recommended by the IATI Secritari
 
 
 
-Aidstream
+Aidstream 
 =========
 
 Aidstream (http://www.aidstream.org) is an online data entry and management tool which you use by manually entering all of the relevant activity information through the use of drop-down menus and text boxes. Aidstream converts the data entered into XML and outputs both organisation and activity datafiles for publishing . The data stored in Aidstream can be added to or amended at any point. Aidstream is usually the tool of choice if you only have a small number of activities (approx < 15 - 20) to publish.
@@ -43,5 +43,20 @@ Other Tools
 
 There are other IATI publishing tools available that have been developed by Third Parties. They are:
 
-- Open Aid Register (see http://www.openaidregister.org/)
-- SQL-to-XML Database (see http://support.iatistandard.org/entries/20053813-SQL-To-XML-Database)
+Open Aid Register
+>>>>>>>>>>>>>>>>>
+
+The Open Aid Register (see http://www.openaidregister.org/) is a New York Law School open source project funded by the Fulbright Commission and the Government of Spain. Similarly to Aidstream it is a free to use online tool that allows users to input their data which is then converted to IATI format. 
+
+
+
+SQL-To-IATI
+>>>>>>>>>>>>
+
+The SQL-to-IATI tool generates IATI XML data from activity data stored in a SQL database. DFID use this to publish their full set of 13000 activities each month, so it supports enterprise-grade IATI. 
+
+The core of the database is the SchemaData schema which contains a set of tables that mirror the IATI 1.03 standard in a relational database. The data held in these tables can be output as valid IATI XML files directly from a SQL function.  
+
+A stored procedure populates the SchemaData tables through a series of transformations from source data (for example a corporate ERP). Although the stored procedure is written to deal with DFID’s specific source data, it would be a good starting point. During transformation the PublicationControl schema is used to control the data to be published to IATI, for example it contains a table to allow the exclusion of activities from publication to the IATI registry. The CodeList schema holds all of the IATI standing data (i.e. lists of valid countries, currencies and Aid Type categories), taken from the IATI codelists. 
+
+DFID are willing to share the codebase with organisations as they seek to publish more data to the IATI standard. They would like to partner with others interested in developing this further as an open source tool for the IATI community. Contact John Adams or Ross Clements if you are interested.
