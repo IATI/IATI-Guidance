@@ -22,7 +22,7 @@ The CSV Convertor tool (http://csv2iati.iatistandard.org/) enables relevant acti
 
 Once the CSV file is completed, it is uploaded to the conversion tool and a mapping model is created. Column titles from the CSV file are mapped to IATI fields so that information is picked up from the correct place. Default values for some fields can also be set. Once the mapping exercise is completed, you simply click to convert the data and the tool creates an Activity file (no organisation file) for publishing..
 
-Specific guidance on the use of the CSV Convertor can be found at http://csv2iati.iatistandard.org/docs/user_guide.html. Examples of an input CSV file can be found at http://support.iatistandard.org/entries/27375838-CSV-Convertor-Example-Input-CSV-Files .
+Specific guidance on the use of the CSV Convertor can be found at http://csv2iati.iatistandard.org/docs/user_guide.html. Examples of an input CSV file are also available as part of the online guidance. 
 
 It is also recommended that Publishers creating their Activity files via the CSV Converter should also use Aidstream in order to create their organisation files
 
@@ -60,3 +60,69 @@ The core of the database is the SchemaData schema which contains a set of tables
 A stored procedure populates the SchemaData tables through a series of transformations from source data (for example a corporate ERP). Although the stored procedure is written to deal with DFID’s specific source data, it would be a good starting point. During transformation the PublicationControl schema is used to control the data to be published to IATI, for example it contains a table to allow the exclusion of activities from publication to the IATI registry. The CodeList schema holds all of the IATI standing data (i.e. lists of valid countries, currencies and Aid Type categories), taken from the IATI codelists. 
 
 DFID are willing to share the codebase with organisations as they seek to publish more data to the IATI standard. They would like to partner with others interested in developing this further as an open source tool for the IATI community. Contact John Adams or Ross Clements if you are interested.
+
+
+
+Comparison of Tools
+===================
+
+The sections below provide a summary of the three main tool options that can be used to convert data for IATI purposes:
+
+Aidstream
+>>>>>>>>>>>>
+Typical users:	Small organisations reporting on small number of activities	
+Number of activities for publication: (rough guide)	Up to 20	
+Internal technical capacity required: No	
+Data entry type:	Manual	
+Input type:	Drop down menus and text boxes	
+Availability of conversion type: 	Online and free	
+Knowledge of XML required:    No	
+XML formats required:	No (selected automatically through drop down menus)
+Automatic publication: to IATI Registry?	Yes 
+Can files be segmented:	Yes	
+Organisation file ability:	Yes
+Preparation required:	Activity data available	
+Resources required (set-up):	Minimal – data entry	
+Resources required (ongoing management):	Minimal – ongoing data entry	
+Updating activities:	Manual	
+User guidance / support available:	Yes	
+
+
+CSV Converter
+>>>>>>>>>>>>>>
+Typical users:	Medium organisations without technical capacity to develop own conversion systems but too many activities to use web entry platforms	
+Number of activities for publication: (rough guide)	Up to 200
+Internal technical capacity required:	Yes
+Data entry type: Manual	CSV (spreadsheet) template
+Input type:	Manual mapping to spreadsheet columns or fixed values
+Availability of conversion type: Online and free
+Knowledge of XML required:   No	
+XML formats required:	Yes (data has to be stored in the correct format in the spreadsheet)
+Automatic publication to IATI Registry:	Possibly in future	No
+Can files be segmented:	No (possibly in the future)	
+Organisation file ability:	Not yet	
+Preparation required:	Storage of data in correct format in spreadsheet	
+Resources required (set-up): Medium – set up and feeding into spreadsheet and then mapping	
+Resources required (ongoing management):	Minimal – ongoing feed into spreadsheet	
+Updating activities:	Manual	
+User guidance / support available:	Yes	
+
+
+Bespoke
+>>>>>>>>>>>>>>
+Typical users:	Large organisations with numerous activities to report who want to invest in own systems
+Number of activities for publication: (rough guide)	Over 200
+Internal technical capacity required:	Yes
+Data entry type: Automatic / built-in feed from internal systems
+Input type:	Pulled from internal systems automatically
+Availability of conversion type: Needs internal capacity / consultants to develop bespoke system
+Knowledge of XML required: Yes
+XML formats required:	No (converts this from internal systems)
+Automatic publication to IATI Registry:	Yes (if using Registry API)
+Can files be segmented:	Yes
+Organisation file ability:	Yes
+Preparation required: System development to ensure activity relevant data is pulled in
+Resources required (set-up):	High – internal technical capacity or consultants required to develop system
+Resources required (ongoing management):	Minimal – system able to run automatically
+Updating activities: Automatic
+User guidance / support available:	No

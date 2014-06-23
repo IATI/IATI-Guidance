@@ -11,7 +11,19 @@ When planning to publish to IATI, an organisation should consider taking the fol
 
 Publishing data to IATI is not simply about sharing information but an opportunity to increase the openness of the whole organisation. Lessons from organisations that have already published show that integrating IATI and other transparency measures within the organisation's practices can increase its success and the impact it can have.
 
-In order to drive this process, there is often value in creating an Open Information Policy for the whole organisation to help identify all sources of information that can be made public. Further information about creating an Open Information Policy is available at http://support.iatistandard.org/entries/20858941-Open-Information-Exclusions
+In order to drive this process, there is often value in creating an Open Information Policy for the whole organisation to help identify all sources of information that can be made public. 
+
+Further information resources about creating an Open Information Policy are available:
+
+- DFID guidance on exclusions - https://drive.google.com/file/d/0B32cSl_hOcDjTzdTVFlPZGpWYXc/edit?usp=sharing
+- DFID exclusions template - https://drive.google.com/file/d/0B32cSl_hOcDjalJqWWlCeDRVMW8/edit?usp=sharing
+- Bond Guidance - Developing an Open Information Policy: Guidance for NGOs - https://drive.google.com/file/d/0B32cSl_hOcDjRXdiTlRHZnRVUEk/edit?usp=sharing
+- General Open Data Information - http://www.saidia.org/open
+
+Also these are examples of NGO open information policies:
+
+- Oxfam UK - http://www.oxfam.org.uk/what-we-do/about-us/plans-reports-and-policies/open-information-policy
+
 
 
 
@@ -90,6 +102,12 @@ IATI publishing is not a one-off activity but must be repeated on a regular basi
 =================================================
 
 Once your organisation has published who do you want to tell? Some organisations create a specific web page that includes information about IATI and the commitment to transparency that the organisation has made. Should news of publications also be distributed via social media and e-newsletters etc. You need to decide what mediums you want to use to inform your stakeholders about having published.
+
+Some examples of organisations that have created specific IATI pages on their website are:
+- Oxfam - http://policy-practice.oxfam.org.uk/our-work/methods-approaches/open-information
+- African Development Bank - http://www.afdb.org/en/topics-and-sectors/topics/quality-assurance-results/afdb-and-iati/iati-data/
+- Cordaid - https://www.cordaid.org/en/open-data/
+- CDC Group - http://www.cdcgroup.com/disclosure-transparency.aspx
 
 
 
