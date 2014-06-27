@@ -1,6 +1,15 @@
 The IATI Standard
 =================
 
+.. toctree::
+   :hidden:
+   
+   introduction/publishing-expectations
+   introduction/standards
+   introduction/codelists-schema--rulesets
+   introduction/upgrade-processes
+   introduction/guidance-materials
+
 Definition
 ----------
 The **IATI standard** is a framework for publishing information on aid and overseas development activities in a timely, comprehensive and forward-looking manner.  This site provides guidance, documentation and reference materials on the various documents that make up **The IATI Standard**.  
