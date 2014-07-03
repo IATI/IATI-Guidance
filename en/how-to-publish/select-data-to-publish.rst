@@ -51,9 +51,15 @@ Character Encoding
 
 The use of the Unicode UTF-8 or UTF-16 character encodings is strongly recommended to provide support for the widest range of languages.  These encodings may be declared at the beginning of XML documents as follows:
 
-<?xml version=”1.0” encoding=”UTF-8”?>
+.. code-block:: xml
+   
+   <?xml version="1.0" encoding="UTF-8"?>
+
 or
-<?xml version=”1.0” encoding=”UTF-16”?>
+
+.. code-block:: xml
+
+   <?xml version="1.0" encoding="UTF-16"?>
 
 The XML standard requires all conforming software to support both of these encodings, so the choice is up to the publisher.  In most cases, UTF-8 should result in smaller documents even for non-alphabetic languages like Han Chinese, since much of an IATI document consists of XML markup, (alphabetic) codes, and numeric values.
 
