@@ -28,7 +28,7 @@ These are:
 
 Considerations
 --------------
-* The **Publishing Expectations** detail the mechanisms that organisations publishing IATI data are expected to follow.
+* The **Publishing Expectations** give publishers some ideal characteristics for the data that they will publish.
 
 * The Organisation and Activity **Standards** outline the data fields that can be published.
 
