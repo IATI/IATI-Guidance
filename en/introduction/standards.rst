@@ -8,7 +8,7 @@ The **IATI Standard** enables the publication of data at both organisation and a
 
 * The **Organisation Standard** is used to describe one of more organisations involved in the aid delivery chain.
 
-* The **Activity Standard** is used to describe the details of individual aid activities/projects.
+* The **Activity Standard** is used to describe the details of individual development cooperation activities/projects.
 
 
 Considerations
