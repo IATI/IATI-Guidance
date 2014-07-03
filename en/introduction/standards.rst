@@ -6,7 +6,7 @@ Definition
 
 The **IATI Standard** enables the publication of data at both organisation and activity level:
 
-* The **Organisation Standard** is used to describe one of more organisations involved in the aid delivery chain.
+* The **Organisation Standard** is used to describe an organisation involved in any stage development cooperation (funding, implementing etc.).
 
 * The **Activity Standard** is used to describe the details of individual development cooperation activities/projects.
 
@@ -16,7 +16,6 @@ Considerations
 
 * Organisations publishing to IATI, should aim to make available data at both organisation and activity levels.
 
-* 
 
 Further information
 -------------------
