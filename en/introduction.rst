@@ -42,7 +42,7 @@ Considerations
 
 * The **Upgrade Processes** describe how changes to the Standard are changed.
 
-* **Guidance Materials** represents written documents that provide instruction around various facets of the Standard.
+* **Guidance Materials** contain instructions and recommendations for implementing the Standard.
 
 
 Further information
