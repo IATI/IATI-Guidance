@@ -3,7 +3,9 @@ Publishing Expectations
 
 Definition
 ----------
-When publishing to the **IATI standard** it is expected that an organisation considers their data to be:
+| In publishing data to IATI, organisations commit to providing data that is accessible, useful and useable for a range of actors, particularly in developing countries. 
+| 
+| To ensure this, publishers are expected to provide data that meets the following characteristics:
 
 * Valid.
 * Comprehensive.
