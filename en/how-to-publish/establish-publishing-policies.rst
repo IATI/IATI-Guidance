@@ -27,7 +27,7 @@ The drafting of the Implementation Schedule can be done in parallel with prepari
 
 The Implementation Schedule for NGOs / CSOs can be `downloaded <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template%20-%20ngo/Implementation%20Schedule%20TEMPLATE%20for%20NGOs%20Sept%202013.xlsx>`__
 
-If your organisation reports to the DAC then the Common Standard Implementation Schedule should be `downloaded <https://github.com/IATI/IATI-Implementation-Schedule/blob/master/files/template-commonstandard/Implementation-Schedule-for-the-common-standard-ENG.xls>`__
+If your organisation reports to the DAC then the Common Standard Implementation Schedule should be `downloaded <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template-commonstandard/Implementation-Schedule-for-the-common-standard-ENG.xls>`__
 
 
 
