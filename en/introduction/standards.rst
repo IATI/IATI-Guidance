@@ -24,5 +24,5 @@ Further information
 Both the **Organisation Standard** and **Activity Standard** sections of this documentation include the following:
 
 * Overview: these provide an introduction to various aspects both standards. 
-* Examples - fully worked examples of both standards, expressed as both IATI XML but also in tabular format. 
+* Examples - fully worked examples of both standards, expressed as both IATI XML and in a table with descriptions. 
 * Reference pages: details on each and every element and attribute of the standards, with links to relevant code lists and rulesets.
