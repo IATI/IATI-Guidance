@@ -32,6 +32,10 @@ Considerations
 
 * The Organisation and Activity **Standards** outline the data fields that can be published.
 
+	* The Organisation Standard outlines the data fields that can be published about the organisation
+
+	* The Activity Standard outlines the data fields that can be published about the development cooperation activities carried out by the publishing organisation.
+
 * The **Codelists** provide lists of values that can be utilised within the Standard.
  
 * The **Schema** and **Rulesets** describe the constraints and conditions that are placed upon data published to the Standard.
