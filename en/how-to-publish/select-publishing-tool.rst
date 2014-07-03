@@ -87,8 +87,8 @@ Automatic publication: to IATI Registry?            Yes                         
 Can files be segmented:                             Yes                             No (possibly in the future)	                           Yes
 Organisation file ability:                          Yes                             Not yet	                                           Yes
 Preparation required:                               Activity data available	    Storage of data in correct format in spreadsheet	   System development to ensure activity relevant data is pulled in
-                                                                                    Medium – set up and feeding into spreadsheet and then  High – internal technical capacity or consultants required to
-Resources required (set-up):                        Minimal – data entry	    mapping	                                           develop system
+Resources required (set-up):                        Minimal – data entry            Medium – set up and feeding into spreadsheet and then  High – internal technical capacity or consultants required to
+                                                                                    mapping	                                           develop system
 Resources required (ongoing management):            Minimal – ongoing data entry    Minimal – ongoing feed into spreadsheet	           Minimal – system able to run automatically
 Updating activities:                                Manual	                    Manual	                                           Automatic
 User guidance / support available:                  Yes                             Yes                                                    No
