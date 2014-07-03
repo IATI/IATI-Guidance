@@ -3,8 +3,8 @@
 
 Sorry. It seems we can’t find what you’re looking for.
 ------------------------------------------------------
+We're sorry, it seems that the page you were trying to access isn't here.
 
-If you would like to tell us about this problem please use the support tag on the right.
+You could try and to `search </gsearch>`__  or even access the IATI Standard `sitemap </sitemap>`__ . for the item you are looking for.
 
-Perhaps `searching </gsearch>`__ can help.
-
+If you feel a page is missing, then please contact IATI support via the tab to the right of this page, or via support@iatistandard.org.
