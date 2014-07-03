@@ -6,7 +6,7 @@ Definition
 
 The **IATI Standard** is a living document, that grows and adapts over time.  
 
-To ensure this is delivered in a scalable, productive and appropriate manner, an upgrade process is describe and maintained.
+To ensure this is delivered in a scalable, productive and appropriate manner, a comprehensive upgrade process is maintained.
 
 
 Considerations
