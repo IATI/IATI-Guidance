@@ -4,7 +4,7 @@ The IATI Organisation and Activity Standards
 Definition
 ----------
 
-The **IATI Standard** enables the publication of data at both organisation and activity level:
+The **IATI Standard** requires publication of data about both the organisation and development cooperation activities carried out by the organisation:
 
 * The **Organisation Standard** is used to describe an organisation involved in any stage development cooperation (funding, implementing etc.).
 
