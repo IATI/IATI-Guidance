@@ -4,7 +4,7 @@ The IATI Standard
 .. toctree::
    :hidden:
    
-   introduction/publishing-expectations
+   introduction/publishing-data
    introduction/standards
    introduction/codelists-schema--rulesets
    introduction/upgrade-processes
@@ -16,7 +16,7 @@ The **IATI standard** is a framework for publishing information on aid and overs
 
 These are:
 
-* **Publishing Expectations**
+* **Publishing Data**
 * **The Organisation Standard**
 * **The Activity Standard**
 * **Codelists**
@@ -28,7 +28,7 @@ These are:
 
 Considerations
 --------------
-* The **Publishing Expectations** give publishers some ideal characteristics for the data that they will publish.
+* **Publishing Data** gives publishers some ideal characteristics for the data that they will publish.
 
 * The Organisation and Activity **Standards** outline the data fields that can be published.
 
