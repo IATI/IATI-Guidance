@@ -25,9 +25,9 @@ The Implementation Schedule (currently in MS Excel format) is a living document 
  
 The drafting of the Implementation Schedule can be done in parallel with preparing data for publication and it should also be published along side the IATI data. Whilst the Implementation Schedule is not a mandatory document to create (unless of course there is a contractual requirement attached to funding to produce one), it is strongly recommended that it is used in order to aid the publisher in publishing their data. 
 
-The Implementation Schedule for NGOs / CSOs can be downloaded from: https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template%20-%20ngo/Implementation%20Schedule%20TEMPLATE%20for%20NGOs%20Sept%202013.xlsx
+The Implementation Schedule for NGOs / CSOs can be `downloaded <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template%20-%20ngo/Implementation%20Schedule%20TEMPLATE%20for%20NGOs%20Sept%202013.xlsx>`__
 
-If your organisation also reports to the DAC then you should use the Common Standard Implementation Schedule which can be downloaded from here: https://github.com/IATI/IATI-Implementation-Schedule/blob/master/files/template-commonstandard/Implementation-Schedule-for-the-common-standard-ENG.xls
+If your organisation reports to the DAC then the Common Standard Implementation Schedule should be `downloaded <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template-commonstandard/Implementation-Schedule-for-the-common-standard-ENG.xls>`__
 
 
 
