@@ -1,15 +1,6 @@
 The IATI Standard
 =================
 
-.. toctree::
-   :titlesonly:
-   
-   introduction/publishing-data
-   introduction/standards
-   introduction/codelists-schema--rulesets
-   introduction/upgrade-processes
-   introduction/guidance-materials
-
 Definition
 ----------
 The **IATI standard** is a framework for publishing information on aid and overseas development activities in a timely, comprehensive and forward-looking manner.  This site provides guidance, documentation and reference materials on the various documents that make up **The IATI Standard**.  
@@ -21,7 +12,6 @@ These are:
 * **The Activity Standard**
 * **Codelists**
 * **Schema**
-* **Rulesets**
 * **Upgrade Processes**
 * **Guidance Materials**
 
@@ -38,7 +28,7 @@ Considerations
 
 * The **Codelists** provide lists of values that can be utilised within the Standard.
  
-* The **Schema** and **Rulesets** describe the constraints and conditions that are placed upon data published to the Standard.
+* The **Schema** describes the constraints and conditions that are placed upon data published to the Standard.
 
 * The **Upgrade Processes** describe how changes to the Standard are changed.
 
@@ -47,3 +37,12 @@ Considerations
 
 Further information
 -------------------
+
+.. toctree::
+   :titlesonly:
+   
+   introduction/publishing-data
+   introduction/standards
+   introduction/codelists-schema
+   introduction/upgrade-processes
+   introduction/guidance-materials

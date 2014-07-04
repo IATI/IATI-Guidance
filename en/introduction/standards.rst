@@ -14,16 +14,16 @@ The **IATI Standard** requires publication of data about both the organisation a
 Considerations
 --------------
 
-* Organisations publishing to IATI, should aim to make available data at both organisation and activity levels.
+* Organisations publishing to IATI, should aim to make data available at both organisation and activity levels.
 
+| Both the **Organisation Standard** and **Activity Standard** sections of this documentation include the following:
+
+* Overview: an introduction to key aspects of both the organisation and activity standards.
+* Examples - fully worked examples of both standards, expressed as both IATI XML and in a table with descriptions. 
+* Element pages: details on each and every element and attribute of the standards, with links to relevant code lists and rulesets.
 
 Further information
 -------------------
 
-Both the **Organisation Standard** and **Activity Standard** sections of this documentation include the following:
-
-* Overview: an introduction to key aspects of both the organisation and activity standards.
-* Examples - fully worked examples of both standards, expressed as both IATI XML and in a table with descriptions. 
-* Reference pages: details on each and every element and attribute of the standards, with links to relevant code lists and rulesets.
-
-
+* :doc:`../organisation-standard`
+* :doc:`../activity-standard`

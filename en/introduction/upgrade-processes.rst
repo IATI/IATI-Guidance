@@ -4,9 +4,9 @@ Upgrade processes
 Definition
 ----------
 
-The **IATI Standard** is a living document, that grows and adapts over time.  
+The **IATI Standard** is a living entity, that grows and adapts over time.  
 
-To ensure this is delivered in a scalable, productive and appropriate manner, a comprehensive upgrade process is maintained.
+| To ensure this is delivered in a scalable, productive and appropriate manner, a comprehensive upgrade process is maintained.
 
 
 Considerations
@@ -21,3 +21,6 @@ Considerations
 
 Further information
 -------------------
+
+*  :doc:`../upgrades`
+

@@ -10,10 +10,13 @@ Whilst core documentation on the Standard focuses on general definitions, guidan
 In some cases, this may be applicable to different kinds of organisations, all with diverse needs. 
 
 
-
 Considerations
 --------------
+
+* The current focus of Guidance materials is on the mechanisms and processes to publish IATI data
 
 
 Further information
 -------------------
+
+*  :doc:`../guidance`

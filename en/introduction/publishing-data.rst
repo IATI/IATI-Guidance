@@ -60,5 +60,6 @@ Considerations
 Further information
 -------------------
 
+*  :doc:`../guidance/how-to-publish`
 
 
