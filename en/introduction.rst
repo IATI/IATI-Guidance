@@ -7,7 +7,6 @@ The **IATI standard** is a framework for publishing information on aid and overs
 
 These are:
 
-* **Publishing Data**
 * **The Organisation Standard**
 * **The Activity Standard**
 * **Codelists**
@@ -18,8 +17,6 @@ These are:
 
 Considerations
 --------------
-* **Publishing Data** gives publishers some ideal characteristics for the data that they will publish.
-
 * The Organisation and Activity **Standards** outline the data fields that can be published.
 
 	* The Organisation Standard outlines the data fields that can be published about the organisation
@@ -41,7 +38,6 @@ Further information
 .. toctree::
    :titlesonly:
    
-   introduction/publishing-data
    introduction/standards
    introduction/codelists-schema
    introduction/upgrade-processes
