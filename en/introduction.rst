@@ -12,7 +12,7 @@ The IATI Standard
 
 Definition
 ----------
-The **IATI standard** is a framework for publishing information on aid and overseas development activities in a timely, comprehensive and forward-looking manner.  This site provides guidance, documentation and reference materials on the various documents that make up **The IATI Standard**.  
+The **IATI standard** is a framework for publishing information on development cooperation activities in a timely, comprehensive and forward-looking manner.  This site provides guidance, documentation and reference materials on the building blocks that make up **The IATI Standard**.  
 
 These are:
 
