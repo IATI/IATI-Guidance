@@ -19,4 +19,5 @@ Considerations
 Further information
 -------------------
 
-*  :doc:`../guidance`
+*  :doc:`../guidance/index`
+
