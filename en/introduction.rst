@@ -2,7 +2,7 @@ The IATI Standard
 =================
 
 .. toctree::
-   :hidden:
+   :titlesonly:
    
    introduction/publishing-data
    introduction/standards

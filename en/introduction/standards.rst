@@ -1,5 +1,5 @@
-The IATI Organisation and Activity Standards
-============================================
+The organisation & activity standards
+=====================================
 
 Definition
 ----------

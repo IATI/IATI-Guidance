@@ -1,4 +1,4 @@
-Guidance Materials
+Guidance materials
 ==================
 
 Definition

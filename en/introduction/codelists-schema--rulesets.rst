@@ -1,5 +1,5 @@
-Code lists, schema and rulesets
-===============================
+Codelists, schema & rulesets
+============================
 
 Definition
 ----------

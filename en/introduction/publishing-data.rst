@@ -1,4 +1,4 @@
-Publishing Data
+Publishing data
 ===============
 
 Definition

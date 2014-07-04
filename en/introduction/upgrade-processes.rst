@@ -1,4 +1,4 @@
-Upgrade Processes
+Upgrade processes
 =================
 
 Definition
