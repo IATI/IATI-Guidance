@@ -7,6 +7,7 @@ The **IATI standard** is a framework for publishing information on development c
 
 These are:
 
+* **Key Considerations**
 * **The Organisation Standard**
 * **The Activity Standard**
 * **Codelists**
@@ -17,6 +18,8 @@ These are:
 
 Considerations
 --------------
+* Key Considerations covers the core aspects of the IATI Standard
+
 * The Organisation and Activity **Standards** outline the data fields that can be published.
 
 	* The Organisation Standard outlines the data fields that can be published about the organisation
@@ -38,6 +41,7 @@ Further information
 .. toctree::
    :titlesonly:
    
+   introduction/key-considerations
    introduction/standards
    introduction/codelists-schema
    introduction/upgrade-processes

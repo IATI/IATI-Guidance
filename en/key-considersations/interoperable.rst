@@ -4,6 +4,8 @@ Interoperable
 Definition
 ----------
 
+* Codelists
+* Org identifiers
 
 
 Considerations
