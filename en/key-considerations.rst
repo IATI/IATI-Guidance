@@ -23,4 +23,4 @@ Contents
    :glob:
    :titlesonly:
 
-   key-cosiderations/*
+   key-considerations/*
