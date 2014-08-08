@@ -2,13 +2,13 @@ Location: Summary of changes in IATI Standard version 1.04
 ==========================================================
 
 **See also:**
-`Overview <https://docs.google.com/spreadsheets/d/1lr1sKwxCKKER4_eDTK254ivAOtpDCqh4k7Ki-y1XZn4/edit#gid=0>`__
+`Overview table of changes <https://docs.google.com/spreadsheets/d/1lr1sKwxCKKER4_eDTK254ivAOtpDCqh4k7Ki-y1XZn4/edit#gid=0>`__
 
 Overview
 --------
 
 In order to improve the quality and effectiveness of geolocation data a
-number of enhancements were made in the upgrade to version 1.04 of the
+number of enhancements were made in the upgrade to `version 1.04 <http://iatistandard.org//upgrades/decimal-upgrade-to-1-04/>`__ of the
 IATI Standard. Should publishers want to move from previous versions of
 the IATI Standard (1.01, 1.02, 1.03) to 1.04, two things should be
 considered:
@@ -31,9 +31,9 @@ However, in version 1.04 deprecated elements and attributes are NOT
 removed. This means data published to version 1.04 of the IATI Standard
 may still contain deprecated elements. Publishers may incorporate other
 changes introduced in version 1.04, without making specific changes to
-their location data elements. However, it is advised that for those
-publishers using location do read this guidance and attempt to update
-their data accordingly.
+their location data elements. 
+
+However, for those publishers using location it is advised to read this guidance and attempt to update data accordingly.
 
 Deletion of Deprecated items
 ----------------------------
@@ -589,13 +589,13 @@ definition and examples)
 
   * -
   
-    - <pos> FIXME
+    - <pos> `New Element <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/point/pos/>`__
 
     - N
 
     - Y
 
-    - New.
+    - New ELEMENT.
       The latitude and longitude coordinates expressed as decimals and
       separated by a space.
 
