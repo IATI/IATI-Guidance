@@ -5,6 +5,7 @@ Upgrades
    :hidden:
 
    upgrades/all-versions
+   upgrades/nonembedded-codelist-changelog
    upgrades/integer-upgrade-to-2-01
    upgrades/decimal-upgrade-to-1-05
    upgrades/decimal-upgrade-to-1-04
