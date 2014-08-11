@@ -303,8 +303,7 @@ definition and examples)
 
     - Y
 
-    - New. The system for determining the meaning of each @level value is
-      determined by the @vocabulary being used
+    - New. A number defining a subdivision within a hierarchical system of administrative areas. The precise system for defining the particular meaning of each @level value is determined by the @vocabulary being used.
 
     -
 
