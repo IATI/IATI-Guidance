@@ -14,11 +14,11 @@ the IATI Standard (1.01, 1.02, 1.03) to 1.04, two things should be
 considered:
 
 1. Review current use of location related elements and attributes to
-identify any possible changes (see Table 1)
+identify any possible changes (see Table 1 below)
 
 2. Review the new location elements introduced in version 1.04 to
 determine what additional location information could be published (see
-Table 2)
+Table 2 below)
 
 A note on deprecation
 ---------------------
@@ -33,7 +33,7 @@ may still contain deprecated elements. Publishers may incorporate other
 changes introduced in version 1.04, without making specific changes to
 their location data elements. 
 
-However, for those publishers using location it is advised to read this guidance and attempt to update data accordingly.
+However, for those publishers using the location element it is advised to read this guidance and attempt to update data accordingly.
 
 Deletion of Deprecated items
 ----------------------------
