@@ -11,7 +11,7 @@ When publishing IATI data, organisations should consider how to achieve the foll
 
 Considerations
 --------------
-When providing timely IATI data, publishers should also consider:
+When providing *timely* IATI data, publishers should also consider:
 
 * When data is timely, a publisher is providing the most recently available data possible.  There should not be a significant gap between the timeframe represented by the data and the actual activity being described.
 * Publishers should provide new and refreshed data as often as possible, ideally on a monthly or quarterly basis.
@@ -21,7 +21,7 @@ When providing timely IATI data, publishers should also consider:
 
 Benefits
 ---------
-It’s useful to access timely IATI data because:
+It’s useful to access *timely* IATI data because:
 
 * When IATI data is timely, it is up to date, and more useful for users, particularly for partner country governments using it to inform forward planning. 
 * When IATI data is historical, it enables users to monitor changes in development cooperation activities more easily.
