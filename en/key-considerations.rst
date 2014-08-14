@@ -1,20 +1,18 @@
 Key Considerations
 ==================
 
-Definition
-----------
-| Good quality data is more useable and gives a clearer and more comprehensive picture of a Publisher's activities. 
-|
-| By publishing data with the **IATI Standard**, organisations are committing to provide information that is accessible, useful and useable for a range of actors, particularly in partner countries. 
-| 
-| To ensure this, organisations are expected to consider the following in their IATI publication:
+By publishing data with the **IATI Standard**, organisations are committing to provide information that is accessible, useful and useable for a range of actors, particularly in partner countries. 
+  
+To ensure this, organisations are expected to consider that their IATI data is: 
 
-1. Timely - data is kept up-to-date
-2. Comprehensive - data represents a significant amount of activity
-3. Forward-looking - data can be used for indicative purposes
-4. Well-formed - data is valid in line with the standard
-5. Interoperable - data can be linked across publishers
-6. Available openly - data is appropiately licenced and hosted
+* Timely - data is kept up-to-date and updated regularly
+* Comprehensive - data represents a significant amount of activity
+* Forward-looking - data can be used for indicative purposes
+* Structured - data is valid in line with the Standard schema and rules
+* Comparable - data can be linked across publishers through codelists and shared references
+* Open - data is appropriately licensed and hosted
+
+This section provides further guidance on each of these considerations, and provides links to information, tools and materials, where appropriate.
 
 Contents
 -------------
