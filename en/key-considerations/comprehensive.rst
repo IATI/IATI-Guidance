@@ -3,23 +3,27 @@ Comprehensive
 
 Definition
 ----------
+When publishing IATI data, organisations should consider how to achieve the following:
 
-* When data is timely, a publisher is providing the most recently available data possible.
-* The more timely data is, the more useful it is for users, particularly for partner country governments using it to inform forward planning.
-* Publishers should provide new and refreshed data as often as possible, ideally on a monthly or quarterly basis.
-* Some publishers start publishing data on a six-monthly or annual basis and improve their frequency over time. Other publishers are updating their data files on a daily or weekly basis.
-* When data is historic, it means that it is not lost or replaced over time.
-* IATI data does not serve as a snapshot, but as an historic record of activities.
-* Access to historical information enables users to monitor changes in development cooperation activities more easily.
+* Coverage - IATI data should represent a significant proportion of the development cooperation activities undertaken by the organisation.
+* Scope - IATI data should cover as many of the relevant fields outlined in the standard as possible.
+* Sense - IATI data should be represented in units that are manageable for the publisher and meaningful for the user - particularly when focussing on aggregation of transaction data.
 
 
 Considerations
 --------------
+When providing *comprehensive* IATI data, publishers should also consider:
 
+* Organisations can state the scope and scale of their IATI publication in an Implementation Schedule.
+* Exclusions and redactions can be made for a variety of reasons, usually security of personnel or property, or for reasons of client or commercial confidentiality.
+* Expenditure data in a lot of detail- such as an individual train journey or cup of coffee - may be best avoided in IATI transactions.  Many publishers aggregate expenditure items around certain cost areas, and by monthly/quarterly timeframes.
+
+Benefits
+-------
+It’s useful to access *comprehensive* IATI data because:
+
+* When IATI data is comprehensive, users of information can gain a fuller picture of the extent of development cooperation happening in different locations around the world.
 
 
 Further information
 -------------------
-
-
-
