@@ -12,7 +12,7 @@ When publishing IATI data, organisations should consider how to achieve the foll
 
 Considerations
 --------------
-When providing structured IATI data, publishers should also consider:
+When providing *structured* IATI data, publishers should also consider:
 
 * XML is the chosen technical markup language of IATI - it is vital that published data meets the minimum requirement of “well-formed XML”.
 * Schema validation is very important to ensure - IATI has different versions of the standard from which to operate.
@@ -21,7 +21,7 @@ When providing structured IATI data, publishers should also consider:
 
 Benefits
 --------
-It’s useful to access structured IATI data because:
+It’s useful to access *structured* IATI data because:
 
 * When IATI data is well-formed,  it can be more easily accessed and utilised in conjunction with other published IATI datasets.
 
