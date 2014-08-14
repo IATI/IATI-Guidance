@@ -110,7 +110,7 @@ Objections, improvements, observations etc. will be addressed throughout
 the upgrade process.
 
 Integer Upgrade Procedures
-~~~~~~~~~~~~~~~~~~~~~~~~
+~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 The timing and planning for an Integer Upgrade will be approved by the
 Steering Committee. All proposed changes will be fully documented and
