@@ -11,12 +11,12 @@ The second decimal upgrade grade of the standard was proposed to occur
 during the spring of 2013, but faced delays that meant the timetable had
 to be revised. The process for doing so is outlined below.
 
-You can contribute issues to be considered in future upgrades in
-the \ `knowledge base <http://support.iatistandard.org/>`__.
-
 Full proposals were worked up on the \ `Changes
 Specification <http://wiki.iatistandard.org/standard/revision/1.03/changes_specification>`__ page
 on the \ `wiki <http://wiki.iatistandard.org/>`__.
+
+You can contribute issues to be considered in future upgrades in
+the \ `knowledge base <http://support.iatistandard.org/>`__.
 
 +----------------+----------------+----------------+----------------+----------------+
 | IATI           | Community      | Timescale      | Due Date       | Revised Date   |

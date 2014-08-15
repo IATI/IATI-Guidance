@@ -1,10 +1,9 @@
-Sitemap
-=======
+Guidance
+========
 
 .. toctree::
    :titlesonly:
 
    how-to-publish
-   upgrades
    datastore
 

@@ -1,6 +1,12 @@
 Decimal Upgrade to 1.02
 =======================
 
+.. toctree::
+   :hidden:
+   :glob:
+
+   decimal-upgrade-to-1-02/*
+
 The first decimal upgrade of the standard happened in December 2012. The
 process for achieving that is outlined below.
 

@@ -11,7 +11,21 @@ When planning to publish to IATI, an organisation should consider taking the fol
 
 Publishing data to IATI is not simply about sharing information but an opportunity to increase the openness of the whole organisation. Lessons from organisations that have already published show that integrating IATI and other transparency measures within the organisation's practices can increase its success and the impact it can have.
 
-In order to drive this process, there is often value in creating an Open Information Policy for the whole organisation to help identify all sources of information that can be made public. Further information about creating an Open Information Policy is available at http://support.iatistandard.org/entries/20858941-Open-Information-Exclusions
+In order to drive this process, there is often value in creating an Open Information Policy for the whole organisation to help identify all sources of information that can be made public. 
+
+Further information resources about creating an Open Information Policy are available:
+
+- DFID guidance on exclusions - https://drive.google.com/file/d/0B32cSl_hOcDjTzdTVFlPZGpWYXc/edit?usp=sharing
+- DFID exclusions template - https://drive.google.com/file/d/0B32cSl_hOcDjalJqWWlCeDRVMW8/edit?usp=sharing
+- Bond Guidance - Developing an Open Information Policy: Guidance for NGOs - https://drive.google.com/file/d/0B32cSl_hOcDjRXdiTlRHZnRVUEk/edit?usp=sharing
+- General Open Data Information - http://www.saidia.org/open
+
+Also these are examples of NGO open information policies:
+
+- Oxfam UK - http://www.oxfam.org.uk/what-we-do/about-us/plans-reports-and-policies/open-information-policy
+
+
+
 
 
 2. Assess the potential risks of transparency 
@@ -22,6 +36,7 @@ It is important to assess and mitigate the risks of moving to a more transparent
 - May be subject to much closer scrutiny of its work and financial management;
 - Must properly assess the potential security implications of publishing data related to activities that may be sensitive due to their sector/type or location;
 - Should accept that a financial investment may be required in order to establish a new permanent business function for IATI publishing, or the addition of this responsibility to an existing staff member.
+
 
 
 3. Prepare the case for IATI publishing
@@ -36,6 +51,7 @@ There are many benefits for your organisation of publishing information about th
 - Reduce opportunities for corruption. Openly publishing financial data makes it much harder to hide inappropriate payments or expenditure;
 - Addressing political pressures. Transparency and openness are now central to policy discussions in government and IATI is a way of delivering on commitments of openness and improving accountability.
 
+ 
  
 4. Gain senior management backing
 =================================
@@ -72,6 +88,8 @@ Areas involved in the IATI process may include one or more of the following:
 The project team should also create and maintain a time lined plan for both initial and subsequent regular publication of data.
 
 
+
+
 7. Establish IATI publishing as a permanent business function
 =============================================================
 
@@ -84,6 +102,12 @@ IATI publishing is not a one-off activity but must be repeated on a regular basi
 =================================================
 
 Once your organisation has published who do you want to tell? Some organisations create a specific web page that includes information about IATI and the commitment to transparency that the organisation has made. Should news of publications also be distributed via social media and e-newsletters etc. You need to decide what mediums you want to use to inform your stakeholders about having published.
+
+Some examples of organisations that have created specific IATI pages on their website are:
+- Oxfam - http://policy-practice.oxfam.org.uk/our-work/methods-approaches/open-information
+- African Development Bank - http://www.afdb.org/en/topics-and-sectors/topics/quality-assurance-results/afdb-and-iati/iati-data/
+- Cordaid - https://www.cordaid.org/en/open-data/
+- CDC Group - http://www.cdcgroup.com/disclosure-transparency.aspx
 
 
 
@@ -99,5 +123,5 @@ Every organisation that publishes to IATI has its own unique identifier. Create 
 10. Notify IATI of your intent to publish 
 =========================================
 
-Once the project team and plan are in place it is helpful to notify the IATI Support team (by email to support@iatistandard.org) of your organisation's intent and your estimate for initial publishing. Also provide IATI with the name of the organisational Point of Contact for IATI matters (usually the person involved with day to day publishing). 
+Once the project team and plan are in place it is helpful to notify the IATI Technical Support team (see :doc:`publishing-help` for contact details) of your organisation's intent and your estimate for initial publishing. Also provide IATI with the name of the organisational Point of Contact for IATI matters (usually the person involved with day to day publishing). 
 

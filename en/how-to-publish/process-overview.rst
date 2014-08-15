@@ -5,7 +5,7 @@ This is an introductory guide for organisations who want to publish their data t
 
 
 
-Process Steps
+Process steps
 =============
 
 The publishing process involves the following steps:
@@ -21,12 +21,23 @@ The publishing process involves the following steps:
 
 
 
+Key process inputs
+===================
+
+The IATI publishing process is entirely dependent on:
+
+- The IATI Standard
+
+
+
+
 Key process outputs
 ===================
 
 The IATI publishing process produces the following regularly updated set of information products:
 
-- IATI XML Organisation file (link to org file definition)
+- Implementation Schedule (optional but recommended. Mandatory for Busan signatories and DFID grantees)
+- IATI XML Organisation file 
 - One or more IATI XML Activity file(s)
 - IATI Registry account
-- Implementation Schedule (optional but recommended. Mandatory for Busan signatories and DFID grantees)
+
