@@ -235,7 +235,7 @@ definition and examples)
       
       Changes to this element have been made to allow any number of
       administrative levels to be reported (as opposed to only two in versions
-      1.0x) and for accurate encoding of these areas according to recognised
+      up to 1.03) and for accurate encoding of these areas according to recognised
       vocabularies.
       
       Where possible, it is encouraged to include information on every
@@ -337,13 +337,15 @@ definition and examples)
 
   * - `coordinates <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/coordinates/>`__
 
+    -
+
     - Y
 
     - N
 
     - Deprecated. Should no longer be used.
-
-    - To align the geocoding standard with the more generic
+      
+      To align the geocoding standard with the more generic
       `Geographic Markup Language <http://www.opengeospatial.org/standards/gml>`__
       (GML) the Coordinates element has been replaced by the new Location /
       Point element
@@ -388,13 +390,15 @@ definition and examples)
 
   * - `gazetteer <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/gazetteer-entry/>`__\ `- <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/gazetteer-entry/>`__\ `entry <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/gazetteer-entry/>`__
 
+    -
+
     - Y
 
     - N
 
     - Deprecated. Should no longer be used.
-
-    - The location/gazetteer-entry element has been subsumed into the
+      
+      The location/gazetteer-entry element has been subsumed into the
       location/location-id element which identifies both gazetteer and
       administrative area vocabularies and codes.
 
