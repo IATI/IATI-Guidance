@@ -590,19 +590,22 @@ definition and examples)
 
     -
 
-  * -
+  * - `pos <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/point/pos/>`__
   
-    - <pos> `New Element <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/point/pos/>`__
+    -
 
     - N
 
     - Y
 
-    - New ELEMENT.
-      The latitude and longitude coordinates expressed as decimals and
-      separated by a space.
+    - New. The latitude and longitude coordinates expressed as decimals and
+      separated by a space, within a location/point element.
 
-    -
+    - <point srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
+
+      <pos>31.616944 65.716944</pos>
+
+      </point>
 
   * - `exactness <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/exactness/>`__
 
@@ -612,9 +615,7 @@ definition and examples)
 
     - Y
 
-    - New.
-
-      Defines whether the location represents the most distinct point
+    - New. Defines whether the location represents the most distinct point
       reasonably possible for this type of activity or is an approximation due
       to lack of more detailed information.
 
