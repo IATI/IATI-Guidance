@@ -244,7 +244,10 @@ definition and examples)
     - <administrative level="1" code="1453782" vocabulary="G1" />
 
       example with multiple administrative elements:
-      FIXME this is missing
+      
+      <administrative vocabulary="GADM" level="1" code="8">Shinyanga</administrative>
+      <administrative vocabulary="GADM" level="2" code="36">Kigoma Urban</administrative>
+      <administrative vocabulary="GADM" level="3" code="771">Kigoma Bangwe</administrative>
 
   * -
 
