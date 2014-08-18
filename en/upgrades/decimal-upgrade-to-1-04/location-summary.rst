@@ -235,7 +235,7 @@ definition and examples)
       
       Changes to this element have been made to allow any number of
       administrative levels to be reported (as opposed to only two in versions
-      1.0x) and for accurate encoding of these areas according to recognised
+      up to 1.03) and for accurate encoding of these areas according to recognised
       vocabularies.
       
       Where possible, it is encouraged to include information on every
@@ -244,7 +244,10 @@ definition and examples)
     - <administrative level="1" code="1453782" vocabulary="G1" />
 
       example with multiple administrative elements:
-      FIXME this is missing
+      
+      <administrative vocabulary="GADM" level="1" code="8">Shinyanga</administrative>
+      <administrative vocabulary="GADM" level="2" code="36">Kigoma Urban</administrative>
+      <administrative vocabulary="GADM" level="3" code="771">Kigoma Bangwe</administrative>
 
   * -
 
@@ -337,13 +340,15 @@ definition and examples)
 
   * - `coordinates <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/coordinates/>`__
 
+    -
+
     - Y
 
     - N
 
     - Deprecated. Should no longer be used.
-
-    - To align the geocoding standard with the more generic
+      
+      To align the geocoding standard with the more generic
       `Geographic Markup Language <http://www.opengeospatial.org/standards/gml>`__
       (GML) the Coordinates element has been replaced by the new Location /
       Point element
@@ -388,13 +393,15 @@ definition and examples)
 
   * - `gazetteer <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/gazetteer-entry/>`__\ `- <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/gazetteer-entry/>`__\ `entry <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/gazetteer-entry/>`__
 
+    -
+
     - Y
 
     - N
 
     - Deprecated. Should no longer be used.
-
-    - The location/gazetteer-entry element has been subsumed into the
+      
+      The location/gazetteer-entry element has been subsumed into the
       location/location-id element which identifies both gazetteer and
       administrative area vocabularies and codes.
 
@@ -586,19 +593,22 @@ definition and examples)
 
     -
 
-  * -
+  * - `pos <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/point/pos/>`__
   
-    - <pos> `New Element <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/point/pos/>`__
+    -
 
     - N
 
     - Y
 
-    - New ELEMENT.
-      The latitude and longitude coordinates expressed as decimals and
-      separated by a space.
+    - New. The latitude and longitude coordinates expressed as decimals and
+      separated by a space, within a location/point element.
 
-    -
+    - <point srsName="http://www.opengis.net/def/crs/EPSG/0/4326">
+
+      <pos>31.616944 65.716944</pos>
+
+      </point>
 
   * - `exactness <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/exactness/>`__
 
@@ -608,9 +618,7 @@ definition and examples)
 
     - Y
 
-    - New.
-
-      Defines whether the location represents the most distinct point
+    - New. Defines whether the location represents the most distinct point
       reasonably possible for this type of activity or is an approximation due
       to lack of more detailed information.
 
