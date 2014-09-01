@@ -1,5 +1,5 @@
-Introduction to IATI Standard
-=============================
+Introduction
+============
 
 Definition
 ----------
