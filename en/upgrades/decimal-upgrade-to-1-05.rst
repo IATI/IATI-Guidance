@@ -1,6 +1,12 @@
 Decimal Upgrade to 1.05
 =======================
 
+.. toctree::
+   :hidden:
+   :glob:
+
+   decimal-upgrade-to-1-05/*
+
 Details about the specific changes are listed on the \ `knowledge
 base <http://support.iatistandard.org/>`__ in the \ `1.05 Decimal
 Upgrade
