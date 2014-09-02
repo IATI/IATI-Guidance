@@ -14,7 +14,7 @@ Activities schema
 ~~~~~~~~~~~~~~~~~
 - Updated description text to :doc:`planned-disbursement </activity-standard/iati-activities/iati-activity/planned-disbursement>` attribute (`discussion <http://support.iatistandard.org/entries/50424779-Add-a-description-in-the-schema-to-planned-disbursement-element>`__)
 
-> The planned disbursement element should only be used to report specific planned cash transfers. These should be reported for a specific date or a meaningfully predictable period. These transactions should be reported in addition to budgets - which are typically annual breakdowns of the total activity commitment.
+    The planned disbursement element should only be used to report specific planned cash transfers. These should be reported for a specific date or a meaningfully predictable period. These transactions should be reported in addition to budgets - which are typically annual breakdowns of the total activity commitment.
 
 Organisations schema
 ~~~~~~~~~~~~~~~~~~~~
@@ -38,7 +38,7 @@ Updated Codelists
 
 - Updated description for ``Incoming Funds`` on codelist :doc:`/codelists/TransactionType` has been updated
 
-> Funds received (whether from an external source or through internal accounting) for specific use on this activity.
+    Funds received (whether from an external source or through internal accounting) for specific use on this activity.
 (`discussion <http://support.iatistandard.org/entries/50777388-Description-For-Transcation-Type-Incoming-Funds-Is-Incorrect>`__)
 
 - Added ``5`` (*Third Party*) to :doc:`/codelists/RelatedActivity` (`discussion <http://support.iatistandard.org/entries/54201556-related-activity-new-code>`__)
@@ -46,10 +46,12 @@ Updated Codelists
 - Added ``B11`` (*Sector strategy*), ``B12`` (*Thematic strategy*), ``B13`` (*Country-level Memorandum of Understanding*), ``B14`` (*Evaluations policy*), ``B15`` (*General Terms and Conditions*) to :doc:`/codelists/DocumentType` (`discussion <http://support.iatistandard.org/entries/86661313-Document-Types->`__)
 
 - Added ``4`` (*Other*) to :doc:`/codelists/DescriptionType` (`discussion <http://support.iatistandard.org/entries/22922878-Description-type-extend-the-codelist>`__)
-> For miscellaneous use. A further classification or breakdown may be included in the narrative.
+    
+    For miscellaneous use. A further classification or breakdown may be included in the narrative.
 
 - Added ``RO2`` (* Reporting Organisation (2)*) to :doc:`/codelists/Vocabulary`
-> where reporting organisations have more than one vocabulary that they wish to reference.
+
+    where reporting organisations have more than one vocabulary that they wish to reference.
 
 - Added ``6`` (*Suspended*) to :doc:`/codelists/DescriptionType` (`discussion <http://support.iatistandard.org/entries/43247528-Activity-Status-Suspended->`__)
 
@@ -64,7 +66,8 @@ Documentation Changes
 ---------------------
 
 - Guidance added to :doc:`/overview/dates/`
-> ActivityStatus code 6 indicates a temporary suspension of an activity. In this state an activity is assumed not to be current, but future, forward-looking budgets are still assumed to be applicable.
+
+    ActivityStatus code 6 indicates a temporary suspension of an activity. In this state an activity is assumed not to be current, but future, forward-looking budgets are still assumed to be applicable.
 
 - Guidance updated for :doc:`/overview/classifications/` around used of ``TiedStatus`` codelist
 (`commit <https://github.com/IATI/IATI-Extra-Documentation/commit/af04ae4cff33e1ee28cfe75c710bafdb61caf07b>`__)
