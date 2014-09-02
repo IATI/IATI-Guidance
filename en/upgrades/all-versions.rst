@@ -16,6 +16,8 @@ Previous Versions
 
 Development Versions
 
+- 1.05: http://dev.iatistandard.org/
+
 - 2.01: http://dev.iatistandard.org/201/
 
 
