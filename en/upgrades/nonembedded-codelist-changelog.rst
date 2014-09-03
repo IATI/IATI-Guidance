@@ -10,6 +10,13 @@ This page details any additions of changes to Non-Embedded codelists.  Further i
 2014
 ^^^^
 
+Add '4 - Explicit primary objective' to Policy Significance Codelist
+--------------------------------------------------------------------
+
+*(8th September 2014)*
+
+This was added as part of the 1.05 upgrade to accomodate the new Policy Markers published by the OECD DAC.  See `New Policy Markers Significance Codes <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__ on the support forum.
+
 Add Kosovo (XK) to Country Codelist
 -----------------------------------
 
