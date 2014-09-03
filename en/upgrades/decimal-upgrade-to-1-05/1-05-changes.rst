@@ -72,9 +72,9 @@ Updated Codelists
 *New code*
 
 ===========  ===========  ========================
-Code      	 Name    	  Description
+Code         Name    	  Description
 ===========  ===========  ========================
-6			 Suspended	  a temporary suspension of an activity. In this state an activity is assumed not to be current, but future, forward-looking budgets are still assumed to be applicable.
+6	     Suspended	  a temporary suspension of an activity. In this state an activity is assumed not to be current, but future, forward-looking budgets are still assumed to be applicable.
 ===========  ===========  ========================
 
 :doc:`Description Type </codelists/DescriptionType>` 
@@ -83,9 +83,9 @@ Code      	 Name    	  Description
 *New code*
 
 ===========  ===========  ========================
-Code      	 Name    	  Description
+Code         Name    	  Description
 ===========  ===========  ========================
-4			 Other	      For miscellaneous use. A further classification or breakdown may be included in the narrative.
+4	     Other	  For miscellaneous use. A further classification or breakdown may be included in the narrative.
 ===========  ===========  ========================
 
 :doc:`Document Type </codelists/DocumentType>` 
@@ -94,13 +94,13 @@ Code      	 Name    	  Description
 *New codes*
 
 ===========  ============================================  ========================
-Code     	 Name    	   								   Description
+Code         Name    	   				   Description
 ===========  ============================================  ========================
-B11			 Sector strategy	      				       
-B12		     Thematic strategy
-B13	 		 Country-level Memorandum of Understanding
-B14			 Evaluations policy
-B15			 General Terms and Conditions
+B11	     Sector strategy	      				       
+B12	     Thematic strategy
+B13	     Country-level Memorandum of Understanding
+B14	     Evaluations policy
+B15	     General Terms and Conditions
 ===========  ============================================  ========================
 
 :doc:`Related Activity Type </codelists/RelatedActivityType>` 
@@ -109,9 +109,9 @@ B15			 General Terms and Conditions
 *New code*
 
 ===========  ===========  ========================
-Code      	 Name     	  Description
+Code         Name     	  Description
 ===========  ===========  ========================
-5			 Third Party  A report by another organisation on the same activity (excluding activities reported as part of financial transactions - eg. provider-activity-id - or a co-funded activity using code = 4)
+5	     Third Party  A report by another organisation on the same activity (excluding activities reported as part of financial transactions - eg. provider-activity-id - or a co-funded activity using code = 4)
 ===========  ===========  ========================
 
 *Amended code*
@@ -119,17 +119,17 @@ Code      	 Name     	  Description
 In 1.04:
 
 ===========  ===========  ========================
-Code      	 Name    	  Description
+Code         Name    	  Description
 ===========  ===========  ========================
-4			 Multifunded  A multifunded, or co-funded activity. The identifier should be globally unique and shared by all reporters of this activity.
+4	     Multifunded  A multifunded, or co-funded activity. The identifier should be globally unique and shared by all reporters of this activity.
 ===========  ===========  ========================
 
 Name and description changed in 1.05:
 
 ===========  ===========  ========================
-Code       	 Name     	  Description
+Code         Name     	  Description
 ===========  ===========  ========================
-5			 Co-funded    An activity that receives funding from more than one organisation.
+5	     Co-funded    An activity that receives funding from more than one organisation.
 ===========  ===========  ========================
 
 :doc:`Transaction Type </codelists/TransactionType>` 
@@ -140,17 +140,17 @@ Code       	 Name     	  Description
 In 1.04:
 
 ===========  ==============  ========================
-Code      	 Name    	  	 Description
+Code         Name    	     Description
 ===========  ==============  ========================
-IF			 Incoming Funds  Funds received from an external funding source (eg a donor).
+IF	     Incoming Funds  Funds received from an external funding source (eg a donor).
 ===========  ==============  ========================
 
 Description changed in 1.05:
 
 ===========  ==============  ========================
-Code       	 Name     	  	 Description
+Code         Name     	     Description
 ===========  ==============  ========================
-IF			 Co-funded    	 Funds received (whether from an external source or through internal accounting) for specific use on this activity.
+IF	     Co-funded       Funds received (whether from an external source or through internal accounting) for specific use on this activity.
 ===========  ==============  ========================
 
 
@@ -159,9 +159,9 @@ IF			 Co-funded    	 Funds received (whether from an external source or through 
 *New code*
 
 ===========  =================================  ========================
-Code      	 Name     	  						Description
+Code         Name     	  			Description
 ===========  =================================  ========================
-RO2			 Reporting Organisation (2)  		Where reporting organisations have more than one vocabulary that they wish to reference.
+RO2	     Reporting Organisation (2)  	Where reporting organisations have more than one vocabulary that they wish to reference.
 ===========  =================================  ========================
 
 :doc:`Policy Marker </codelists/PolicyMarker>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
@@ -169,9 +169,9 @@ RO2			 Reporting Organisation (2)  		Where reporting organisations have more tha
 *New code*
 
 ===========  ==================================================================  ========================
-Code      	 Name     	  														 Description
+Code         Name     	  							 Description
 ===========  ==================================================================  ========================
-9			 Reproductive, Maternal, Newborn and Child Health (RMNCH)
+9	     Reproductive, Maternal, Newborn and Child Health (RMNCH)
 ===========  ==================================================================  ========================
 
 :doc:`Policy Significance </codelists/PolicySignificance>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
@@ -179,9 +179,9 @@ Code      	 Name     	  														 Description
 *New codes*
 
 ===========  =================================  ========================
-Code      	 Name     	  						Description
+Code         Name     	  			Description
 ===========  =================================  ========================
-4			 Explicit primary objective
+4	     Explicit primary objective
 ===========  =================================  ========================
 
 
