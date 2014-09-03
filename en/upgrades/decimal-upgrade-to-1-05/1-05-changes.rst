@@ -155,6 +155,7 @@ IF	     Co-funded       Funds received (whether from an external source or throu
 
 
 :doc:`Vocabulary </codelists/Vocabulary>` 
+(`discussion <http://support.iatistandard.org/entries/22916773>`__)
 
 *New code*
 
@@ -179,7 +180,7 @@ Code         Name     	  							 Description
 
 :doc:`Policy Significance </codelists/PolicySignificance>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
-*New codes*
+*New code*
 
 ===========  =================================  ========================
 Code         Name     	  			Description
