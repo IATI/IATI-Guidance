@@ -193,11 +193,31 @@ Code         Name     	  			Description
 Documentation Changes
 ---------------------
 
-- Guidance added to :doc:`/overview/dates/`
+:doc:`Activity Standard - Dates Overview </overview/dates/>` (`discussion <http://support.iatistandard.org/entries/43247528-Activity-Status-Suspended->`__)
 
-    ActivityStatus code 6 indicates a temporary suspension of an activity. In this state an activity is assumed not to be current, but future, forward-looking budgets are still assumed to be applicable.
+============================================  =================================
+Page         				                  Additional guidance   	  			
+============================================  =================================
+Activity Standard - Dates Overview.	          ActivityStatus code 6 indicates a temporary suspension of an activity. In this state an activity is assumed not to be current, but future, forward-looking budgets are still assumed to be applicable.
+============================================  =================================
+    
+:doc:`Activity Standard - Classifications Overview </overview/classifications/>` (`discussion <http://support.iatistandard.org/entries/55170393-Tied-and-partially-tied-values>`__) (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
-- Guidance updated for :doc:`/overview/classifications/` around used of ``TiedStatus`` codelist
-(`commit <https://github.com/IATI/IATI-Extra-Documentation/commit/af04ae4cff33e1ee28cfe75c710bafdb61caf07b>`__)
+============================================  =================================
+Page         				                  Additional guidance   	  			
+============================================  =================================
+Activity Standard - Classifications Overview  If an activity is either wholly "tied" or "untied" it is recommended that the appropriate ``default-tied-status`` code is used / If an activity is "partially tied" it is recommended that the reported commitment/s are split into "tied" and "untied" amounts and ``tied-status`` is reported at ``transaction`` level. (NB that tied status should be reported for commitments only.)
 
-- Guidance included for :doc:`Policy Significance </codelists/PolicySignificance>` codelist
+Activity Standard - Classifications Overview  When using ``policy-marker`` and the ``Policy Significance`` code *4* (Explicit primary objective) - this SHOULD ONLY be used in conjunction with ``Policy Marker`` code *9* (Reproductive, Maternal, Newborn and Child Health)
+============================================  =================================
+
+
+:doc:`Codelist - Policy Significance </codelists/PolicySignificance>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
+
+============================================  =================================
+Page         				                  Additional guidance   	  			
+============================================  =================================
+Policy Significance codelist		          Policy Significance code = 4 (Explicit primary objective) SHOULD ONLY be used in conjunction with :doc:`Policy Marker </codelists/PolicyMarker/>` code = 9 (Reproductive, Maternal, Newborn and Child Health)
+
+
+============================================  =================================
