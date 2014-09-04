@@ -129,7 +129,7 @@ Name and description changed in 1.05:
 ===========  ===========  ========================
 Code         Name     	  Description
 ===========  ===========  ========================
-5	     Co-funded    An activity that receives funding from more than one organisation.
+4	     Co-funded    An activity that receives funding from more than one organisation.
 ===========  ===========  ========================
 
 :doc:`Transaction Type </codelists/TransactionType>` 
