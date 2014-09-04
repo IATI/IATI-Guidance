@@ -74,7 +74,7 @@ Updated Codelists
 ===========  ===========  ========================
 Code         Name    	  Description
 ===========  ===========  ========================
-6	     Suspended	  a temporary suspension of an activity. In this state an activity is assumed not to be current, but future, forward-looking budgets are still assumed to be applicable.
+6	     Suspended	 
 ===========  ===========  ========================
 
 :doc:`Description Type </codelists/DescriptionType>` 
@@ -150,7 +150,7 @@ Description changed in 1.05:
 ===========  ==============  ========================
 Code         Name     	     Description
 ===========  ==============  ========================
-IF	     Co-funded       Funds received (whether from an external source or through internal accounting) for specific use on this activity.
+IF	     Incoming Funds  Funds received (whether from an external source or through internal accounting) for specific use on this activity.
 ===========  ==============  ========================
 
 
@@ -162,7 +162,7 @@ IF	     Co-funded       Funds received (whether from an external source or throu
 ===========  =================================  ========================
 Code         Name     	  			Description
 ===========  =================================  ========================
-RO2	     Reporting Organisation (2)  	Where reporting organisations have more than one vocabulary that they wish to reference.
+RO2	     Reporting Organisation (2) - where reporting organisations have more than one vocabulary that they wish to reference.
 ===========  =================================  ========================
 
 :doc:`Policy Marker </codelists/PolicyMarker>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
@@ -188,6 +188,7 @@ Code         Name     	  			Description
 4	     Explicit primary objective
 ===========  =================================  ========================
 
+As part of this process, the `non-embedded codelist changelog <upgrades/nonembedded-codelist-changelog>`__ was also updated
 
 
 Documentation Changes
