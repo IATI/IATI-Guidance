@@ -88,7 +88,7 @@ Code         Name    	  Description
 4	     Other	  For miscellaneous use. A further classification or breakdown may be included in the narrative.
 ===========  ===========  ========================
 
-:doc:`Document Type </codelists/DocumentType>` 
+:doc:`Document Category </codelists/DocumentCategory>` 
 (`discussion <http://support.iatistandard.org/entries/86661313-Document-Types->`__)
 
 *New codes*
@@ -194,7 +194,7 @@ As part of this process, the `non-embedded codelist changelog <upgrades/nonembed
 Documentation Changes
 ---------------------
 
-:doc:`Activity Standard - Dates Overview </overview/dates/>` (`discussion <http://support.iatistandard.org/entries/43247528-Activity-Status-Suspended->`__)
+:doc:`Activity Standard - Dates Overview </activity-standard/overview/dates/>` (`discussion <http://support.iatistandard.org/entries/43247528-Activity-Status-Suspended->`__)
 
 ============================================  =================================
 Page         				                  Additional guidance   	  			
@@ -202,7 +202,7 @@ Page         				                  Additional guidance
 Activity Standard - Dates Overview.	          ActivityStatus code 6 indicates a temporary suspension of an activity. In this state an activity is assumed not to be current, but future, forward-looking budgets are still assumed to be applicable.
 ============================================  =================================
     
-:doc:`Activity Standard - Classifications Overview </overview/classifications/>` (`discussion <http://support.iatistandard.org/entries/55170393-Tied-and-partially-tied-values>`__) (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
+:doc:`Activity Standard - Classifications Overview </activity-standard/overview/classifications/>` (`discussion <http://support.iatistandard.org/entries/55170393-Tied-and-partially-tied-values>`__) (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
 ============================================  =================================
 Page         				                  Additional guidance   	  			
