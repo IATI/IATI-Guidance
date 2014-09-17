@@ -1,6 +1,12 @@
 Integer Upgrade to 2.01
 =======================
 
+.. toctree::
+   :hidden:
+   :glob:
+
+   integer-upgrade-to-2-01/*
+
 The process for the 2.01 decimal upgrade of the standard is outlined
 below.
 
