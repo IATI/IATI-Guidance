@@ -19,10 +19,10 @@ ActivityDateType
 ============= ====
 1.0x          2.01
 ============= ====
-start-actual  1
-end-actual    2
-start-planned 3
-end-planned   4
+start-planned 1
+start-actual  2
+end-planned   3
+end-actual    4
 ============= ====
 
 
