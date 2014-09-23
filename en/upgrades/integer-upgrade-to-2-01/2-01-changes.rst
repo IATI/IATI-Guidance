@@ -40,14 +40,14 @@ OSM  3
 OrganisationRole
 ^^^^^^^^^^^^^^^^
 
-============ ==== ======
-1.0x         2.01 Notes
-============ ==== ======
-Accountable       Removed
-Extending    1
-Funding      2
-Implementing 3
-============ ==== ======
+============ ====
+1.0x         2.01
+============ ====
+Funding      1
+Accountable  2
+Extending    3
+Implementing 4
+============ ====
 
 TransactionType
 ^^^^^^^^^^^^^^^
