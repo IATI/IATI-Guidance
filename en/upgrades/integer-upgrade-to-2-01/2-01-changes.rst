@@ -55,10 +55,10 @@ TransactionType
 ==== ====
 1.0x 2.01
 ==== ====
-C    1
-D    2
-E    3
-IF   4
+IF   1
+C    2
+D    3
+E    4
 IR   5
 LR   6
 R    7
