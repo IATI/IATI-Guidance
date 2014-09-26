@@ -58,15 +58,15 @@ In version 2.01 of the IATI Standard, therefore, we need a way to record
 the previous organisation identifier when this changes. We can do this 
 using the other-identifier element. For infation on the changes to that 
 element see: 
-Update to other-identifier - adding @type, changing definition, new codelist
+Update to other-identifier - adding \@type, changing definition, new codelist
 
 in addition:
 
-* ALL publishers of IATI data MUST have a valid organisation identifier reported in reporting-org/@ref
-* When using the @ref attribute in in participating-org/@ref, transaction/provider-org/@ref and transaction/receiver-org/@ref must be a valid organisation identifier. If you do not have one, then the narrative element may be used to describe the organisation.
+* ALL publishers of IATI data MUST have a valid organisation identifier reported in reporting-org/\@ref
+* When using the \@ref attribute in in participating-org/\@ref, transaction/provider-org/\@ref and transaction/receiver-org/\@ref must be a valid organisation identifier. If you do not have one, then the narrative element may be used to describe the organisation.
 * The reporting-org element is MANDATORY.
 
-  - ALL the following rules must apply to the organisation-identifier in reporting-org/@ref
+  - ALL the following rules must apply to the organisation-identifier in reporting-org/\@ref
   - It is mandatory
   - The agency prefix MUST be a valid code in the IATI OrganisationRegistrationAgency codelist
   - The identifier MUST be the same as that recorded by the publisher on the IATI Registry
@@ -76,7 +76,7 @@ in addition:
 
   - It MUST be globally unique among all activities published through the IATI Registry
   - Once an activity has been reported to IATI its identifier MUST NOT be changed in subsequent updates, 
-  - It MUST be prefixed with EITHER the organisation-identifier found in reporting-org/@ref OR a previous reporting-org identifier reported in other-identifier
+  - It MUST be prefixed with EITHER the organisation-identifier found in reporting-org/\@ref OR a previous reporting-org identifier reported in other-identifier
   - The identifier MUST only contain alphanumeric characters and hyphen, underscore, colon or period
 
 What is the change?
@@ -94,7 +94,7 @@ In addtion, if they wish to use IATI as their registration agency, they
 will need to agree their new identifier on the IATI 
 OrganisationRegistrationAgency codelist.
 
-Wherever @ref is used to talk about organisations in the standard, those
+Wherever \@ref is used to talk about organisations in the standard, those
 references must be a valid organisation identifier.
 
 Where is this applicable?
@@ -110,8 +110,8 @@ compliance. However if your data does not meet these standards then it
 becomes difficult for others to use.
 
 
-Update to other-identifier - adding @type, changing definition, new codelist
-============================================================================
+Update to other-identifier - adding \@type, changing definition, new codelist
+=============================================================================
 THERE IS MORE OT BE DONE HERE - THE CHANEGS ARE NOW MUCH BIGGER
 
 What is the change?
@@ -122,7 +122,7 @@ be used to specify an alternative, non-IATI identifier for the activity.
 In version 2.01 of the IATI Standard the definition of the element has
 changed to allow an number of types of alternative identifiers.
 
-In version 2.01 of the IATI Standard a new other-identifier/@type
+In version 2.01 of the IATI Standard a new other-identifier/\@type
 attribute is used to specify the type of identifier being given.
 
 In version 2.01 of the IATI Standard a new OtherIdentifierType codelist is introduced.
@@ -142,7 +142,7 @@ other-identifier element.
 
 Therefore, an iati-identifier must be prefixed with:
 
--  EITHER the organisation-identifier found in reporting-org/@ref
+-  EITHER the organisation-identifier found in reporting-org/\@ref
 -  OR a previous reporting-org identifier reported in other-identifier
 
 For more information see:
@@ -245,9 +245,9 @@ Participating organisation
 
 -  At least one occurrence of iati-activity/participating-org is
    MANDATORY - enforced by the schema
--  For each occurrence of participating-org @role is MANDATORY  -
+-  For each occurrence of participating-org \@role is MANDATORY  -
    enforced by the schema
--  For each occurrence of participating-org @ref or
+-  For each occurrence of participating-org \@ref or
    participating-org/narrative is MANDATORY - not enforceable by the
    schema
 
@@ -291,9 +291,9 @@ Sector / Transaction Sector
    here <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F52106549-Version-2-01-Iteration-2-3-7-Replicate-more-activity-level-elements-at-transaction-level&sa=D&sntz=1&usg=AFQjCNE-c34Px_RjQKda_H58c6bmPIIg6A>`__
 -  At least one occurrence of sector OR transaction/sector is MANDATORY
    - not enforceable
--  sector/@code OR transaction/sector/@code is MANDATORY  - enforced by
+-  sector/\@code OR transaction/sector/\@code is MANDATORY  - enforced by
    the schema
--  If Sector/@vocabulary is not present then the DAC 5-digit vocabulary
+-  If Sector/\@vocabulary is not present then the DAC 5-digit vocabulary
    is assumed
 -  Use of DAC codes (either 5-digit or 3-digit) is recommended
 
@@ -311,11 +311,11 @@ Budget dates
    duration - not enforceable
 -  If the budget element is present then
 
--  period-start/@iso-date is MANDATORY and must be a valid ISO format  -
+-  period-start/\@iso-date is MANDATORY and must be a valid ISO format  -
    enforced by the schema
--  period-end/@iso-date is MANDATORY and must be a valid ISO format -
+-  period-end/\@iso-date is MANDATORY and must be a valid ISO format -
    enforced by the schema
--  period-end/@iso-date must be after period-start/@iso-date - not
+-  period-end/\@iso-date must be after period-start/\@iso-date - not
    enforceable by the schema
 -  Each budget should cover a period no longer than 1 year- not
    enforceable by the schema
@@ -390,22 +390,22 @@ What is the change?
 +++++++++++++++++++
 In the Activity Standard
 
--  From version 2.01, the @version attribute of \`\`iati-activities\`\`
+-  From version 2.01, the \@version attribute of \`\`iati-activities\`\`
    is mandatory
--  In version 1.x the \`\`iati-activity\`\`element had an @version
+-  In version 1.x the \`\`iati-activity\`\`element had an \@version
    attribute. This is no longer the case in version 2.01 (it has been
    removed).
--  The values for @version must be on the \`\`Version\`\`
+-  The values for \@version must be on the \`\`Version\`\`
    codeli\ `st: <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Fcodelists%2FVersion%2F&sa=D&sntz=1&usg=AFQjCNFQv12St-sRC8bZDjGDZxi1yogfYA>`__\ `http://dev.iatistandard.org/201/codelists/Version/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Fcodelists%2FVersion%2F&sa=D&sntz=1&usg=AFQjCNFQv12St-sRC8bZDjGDZxi1yogfYA>`__
 
 In the Organisation Standard
 
--  From version 2.01, the @version attribute of
+-  From version 2.01, the \@version attribute of
    \`\`iati-organisations\`\` is mandatory
--  In version 1.x the \`iati-organisation\`\`element had an @version
+-  In version 1.x the \`iati-organisation\`\`element had an \@version
    attribute. This is no longer the case in version 2.01 (it has been
    removed).
--  The values for @version must be on the \`\`Version\`\`
+-  The values for \@version must be on the \`\`Version\`\`
    codeli\ `st: <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Fcodelists%2FVersion%2F&sa=D&sntz=1&usg=AFQjCNFQv12St-sRC8bZDjGDZxi1yogfYA>`__\ `http://dev.iatistandard.org/201/codelists/Version/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Fcodelists%2FVersion%2F&sa=D&sntz=1&usg=AFQjCNFQv12St-sRC8bZDjGDZxi1yogfYA>`__
 
 Where is this applicable?
@@ -424,13 +424,13 @@ For an iati-organisation example see:
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-If you omit iati-activities/@version or iati-organisations/@versions the
+If you omit iati-activities/\@version or iati-organisations/\@versions the
 data will fail validation against the relevant 2.01 schema.
 
-If you include iati-activity/@verison or iati-organisation@version the
+If you include iati-activity/\@verison or iati-organisation\@version the
 data will fail validation against the relevant 2.01 schema.
 
-If you do not use a value for @version from the  \`\`Version\`\`
+If you do not use a value for \@version from the  \`\`Version\`\`
 codeli\ `st: <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Fcodelists%2FVersion%2F&sa=D&sntz=1&usg=AFQjCNFQv12St-sRC8bZDjGDZxi1yogfYA>`__\ `http://dev.iatistandard.org/201/codelists/Version/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Fcodelists%2FVersion%2F&sa=D&sntz=1&usg=AFQjCNFQv12St-sRC8bZDjGDZxi1yogfYA>`__ data
 users may have difficulty processing your data.
 
@@ -769,7 +769,7 @@ Usage
 -  budget-line should be used in addition to total-budget/value,
    recipient-org-budget/value and/or recipient-country-budget/value. NB
    that it does not replace the existing reporting guidelines
--  budget-line/@ref as a reporting organisation reference for the budget
+-  budget-line/\@ref as a reporting organisation reference for the budget
    line
 -  budget-line/narrative for a description of the budget line (repeated
    for multiple languages)
@@ -911,7 +911,7 @@ What is the change?
 In version 2.01 of IATI activity standard the elements of sector,
 recipient-country and recipient-region have been added as child elements
 for any transaction. Each of these elements takes the same format as
-when used at activity level except that the @percentage attribute is
+when used at activity level except that the \@percentage attribute is
 missing.
 
 Where is this applicable?
@@ -1007,14 +1007,14 @@ Affected attributes:
 
 dates:
 
--  all @iso-date attributes
--  fss/@extraction-date attribute
--  all @value-date attributes
+-  all \@iso-date attributes
+-  fss/\@extraction-date attribute
+-  all \@value-date attributes
 
 datetimes:
 
--  all @generated-datetime attributes
--  all  @last-updated-datetime attributes
+-  all \@generated-datetime attributes
+-  all  \@last-updated-datetime attributes
 
 Example
 +++++++
@@ -1031,7 +1031,7 @@ xsd:dateTime formats, then you do not to take any action.
 
 
 URL validation
-=============
+==============
 What is the change?
 +++++++++++++++++++
 In version 1.x of the IATI Standard,  the schema data type used for some
@@ -1107,10 +1107,10 @@ In version 2.01, these elements are no longer available:
 
 In version 2.01, these attributes are no longer available:
 
--  location/@percentage
--  location/administrative/@country
--  location/administrative/@adm1
--  location/administrative/@adm2
+-  location/\@percentage
+-  location/administrative/\@country
+-  location/administrative/\@adm1
+-  location/administrative/\@adm2
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
@@ -1122,17 +1122,17 @@ Changes to the Planned Disbursement element (planned-disbursement)
 What is the change?
 +++++++++++++++++++
 In versions 1.x of the IATI Standard there is a
-planned-disbursement/@updated attribute
+planned-disbursement/\@updated attribute
 
-In version 2.01 of the IATI Standard the  planned-disbursement/@updated
+In version 2.01 of the IATI Standard the  planned-disbursement/\@updated
 attribute is no longer available (it has been removed)
 
-In version 2.01 of the IATI Standard the planned-disbursement/@type
+In version 2.01 of the IATI Standard the planned-disbursement/\@type
 attribute, that uses the BudgetType codelist is added
 
 In version 2.01 of the IATI Standard, if a planned-disbursement is
 given, then the planned-disbursement/period-start element is mandatory
-and a date must be supplied using its @iso-date attribute.
+and a date must be supplied using its \@iso-date attribute.
 
 In versions 1.x of the IATI Standard the description in the schema of
 the planned-disbursement/period-end stated that "This element must be
@@ -1148,10 +1148,10 @@ subject to change. The standard does not expect an audit trail of these
 changes to be reported.
 
 While, for example, the budget element handles this correctly by simply
-indicating (through budget/@type) whether the budget is original or
+indicating (through budget/\@type) whether the budget is original or
 revised, a planned-disbursement currently requires a date on which the
-data was last updated (planned-disbursement/@updated). This is not
-necessary, so it is being removed and instead the @type attribute is
+data was last updated (planned-disbursement/\@updated). This is not
+necessary, so it is being removed and instead the \@type attribute is
 added.
 
 Making the start date mandatory (if the element is used) will improve
@@ -1165,30 +1165,30 @@ defined end date.
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-If you continue to use the @updated attributes your data will fail
+If you continue to use the \@updated attributes your data will fail
 validation against the relevant 2.01 schema
 
-The @type attribute is optional.
+The \@type attribute is optional.
 
 
-Removal of the @type attribute on some description elements
-===========================================================
+Removal of the \@type attribute on some description elements
+============================================================
 What is the change?
 +++++++++++++++++++
 In version 1.x of the IATI Standard all description elements have a
-@type attribute.
+\@type attribute.
 
 In version 2.01 of the IATI Standard this is only applicable to
 iati-activity/description, therefore the following attributes have been
 removed:
 
--  country-budget-items/budget-item/description/@type
--  result/description/@type
--  result/indicator/description/@type
+-  country-budget-items/budget-item/description/\@type
+-  result/description/\@type
+-  result/indicator/description/\@type
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-If you currently use @type on any of the elements detailed above and do
+If you currently use \@type on any of the elements detailed above and do
 not change that when creating 2.01 data, your data will fail validation
 against the schema. Data users should be aware that if they expect to
 gather data from those fields they should no longer be present.
@@ -1220,8 +1220,8 @@ updated codelists
 -  Vocabulary Codelists
 
 -  Add Sector Vocabulary codelist (derived from current Vocabulary
-   codelist) and link to sector/@vocabulary
--  Add Policy Marker Codelist and link to policy-marker/@vocabulary
+   codelist) and link to sector/\@vocabulary
+-  Add Policy Marker Codelist and link to policy-marker/\@vocabulary
 
 
 Embedded codelists - descriptions of code values
@@ -1282,6 +1282,6 @@ See:
 `http://support.iatistandard.org/entries/55170393-Tied-and-partially-tied-values <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F55170393-Tied-and-partially-tied-values&sa=D&sntz=1&usg=AFQjCNFu_H9jcvgyauPKiAT0FT3FLgeMAg>`__
 
 
-Modify guidance on participating-org/@role : Definition of funding organisation
+Modify guidance on participating-org/\@role : Definition of funding organisation
 =========================================================================================================
 `http://support.iatistandard.org/entries/41583626-Modify-guidance-on-participating-org-role-Definition-of-funding-organisation <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F41583626-Modify-guidance-on-participating-org-role-Definition-of-funding-organisation&sa=D&sntz=1&usg=AFQjCNFQJ8ZIfD9UmyhfBtlHTjGVq4FInQ>`__
