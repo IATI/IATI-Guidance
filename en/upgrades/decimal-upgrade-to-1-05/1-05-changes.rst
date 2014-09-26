@@ -1,6 +1,5 @@
 1.05 Changes
 ^^^^^^^^^^^^
-
 Changes / Additions to IATI Standard for version 1.05
 
 .. contents::
@@ -13,12 +12,9 @@ A full diff of all schema changes in 1.05 can be found in github at https://gith
 
 Activities schema
 -----------------
-
-Planned Disbursement: Updated description text
-``````````````````````````````````````````````
-:doc:`planned-disbursement </activity-standard/iati-activities/iati-activity/planned-disbursement>` (`discussion  <http://support.iatistandard.org/entries/50424779-Add-a-description-in-the-schema-to-planned-disbursement-element>`__)
-
-*Updated description text*
+*Planned Disbursement: Updated description text*
+````````````````````````````````````````````````
+Element: :doc:`planned-disbursement </activity-standard/iati-activities/iati-activity/planned-disbursement>` (`discussion  <http://support.iatistandard.org/entries/50424779-Add-a-description-in-the-schema-to-planned-disbursement-element>`__)
 
 In 1.04:
  
@@ -42,7 +38,6 @@ Description added in 1.05:
    * - planned-disbursement
      - The planned disbursement element should only be used to report specific planned cash transfers. These should be reported for a specific date or a meaningfully predictable period. These transactions should be reported in addition to budgets - which are typically annual breakdowns of the total activity commitment.
 
-
 Organisations schema
 --------------------
 No substantial changes were made in 1.05, aside from essential version references.
@@ -65,19 +60,16 @@ Codelist Changes
 
 New Codelists
 -------------
-
 No new codelists were added in 1.05
 
 
-**Embedded codelist updates**
------------------------------
+Embedded codelist updates
+-------------------------
 
-Activity Status: New code
-`````````````````````````
-:doc:`Activity Status </codelists/ActivityStatus>` 
+*Activity Status: New code*
+```````````````````````````
+Codelist: :doc:`Activity Status </codelists/ActivityStatus>` 
 (`discussion <http://support.iatistandard.org/entries/43247528-Activity-Status-Suspended->`__)
-
-*New code*
 
 .. list-table::
    :widths: 15 20 30
@@ -90,13 +82,10 @@ Activity Status: New code
      - Suspended
      - (none)
 
-
-Description Type: New code
-``````````````````````````
-:doc:`Description Type </codelists/DescriptionType>` 
+*Description Type: New code*
+````````````````````````````
+Codelist: :doc:`Description Type </codelists/DescriptionType>` 
 (`discussion <http://support.iatistandard.org/entries/22922878-Description-type-extend-the-codelist>`__)
-
-*New code*
 
 .. list-table::
    :widths: 15 20 30
@@ -109,13 +98,10 @@ Description Type: New code
      - Other
      - For miscellaneous use. A further classification or breakdown may be included in the narrative.
 
-
-Document Category: New codes
-````````````````````````````
-:doc:`Document Category </codelists/DocumentCategory>` 
+*Document Category: New codes*
+``````````````````````````````
+Codelist:  :doc:`Document Category </codelists/DocumentCategory>` 
 (`discussion <http://support.iatistandard.org/entries/86661313-Document-Types->`__)
-
-*New codes*
 
 .. list-table::
    :widths: 15 20 30
@@ -141,12 +127,10 @@ Document Category: New codes
      - (none)     
 
 
-Related Activity Type: New code
-```````````````````````````````  
-:doc:`Related Activity Type </codelists/RelatedActivityType>` 
+*Related Activity Type: New code*
+`````````````````````````````````  
+Codelist: :doc:`Related Activity Type </codelists/RelatedActivityType>` 
 (`discussion <http://support.iatistandard.org/entries/54201556-related-activity-new-code>`__)
-
-*New code*
 
 .. list-table::
    :widths: 15 20 30
@@ -159,13 +143,10 @@ Related Activity Type: New code
      - Third Party
      - A report by another organisation on the same activity (excluding activities reported as part of financial transactions - eg. provider-activity-id - or a co-funded activity using code = 4).
 
-
-Related Activity Type: Amended code
-```````````````````````````````````
-:doc:`Related Activity Type </codelists/RelatedActivityType>` 
+*Related Activity Type: Amended code*
+`````````````````````````````````````
+Codelist: :doc:`Related Activity Type </codelists/RelatedActivityType>` 
 (`discussion <http://support.iatistandard.org/entries/54201556-related-activity-new-code>`__)
-
-*Amended code*
 
 In 1.04:
 
@@ -193,12 +174,10 @@ Name and description changed in 1.05:
      - Co-funded
      - An activity that receives funding from more than one organisation.
 
-Transaction Type: Amended code
-``````````````````````````````
-:doc:`Transaction Type </codelists/TransactionType>` 
+*Transaction Type: Amended code*
+````````````````````````````````
+Codelist: :doc:`Transaction Type </codelists/TransactionType>` 
 (`discussion <http://support.iatistandard.org/entries/50777388-Description-For-Transcation-Type-Incoming-Funds-Is-Incorrect>`__)
-
-*Amended code*
 
 In 1.04:
 
@@ -225,14 +204,11 @@ Description changed in 1.05:
    * - IF
      - Incoming Funds
      - Funds received (whether from an external source or through internal accounting) for specific use on this activity.
-     
-     
-Vocabulary: New code
-````````````````````
-:doc:`Vocabulary </codelists/Vocabulary>` 
+               
+*Vocabulary: New code*
+``````````````````````
+Codelist: :doc:`Vocabulary </codelists/Vocabulary>` 
 (`discussion <http://support.iatistandard.org/entries/22916773>`__)
-
-*New code*
 
 .. list-table::
    :widths: 15 20 30
@@ -246,11 +222,9 @@ Vocabulary: New code
      - Where reporting organisations have more than one vocabulary that they wish to reference.
      
      
-Policy Marker: New code
-```````````````````````
-:doc:`Policy Marker </codelists/PolicyMarker>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
-
-*New code*
+*Policy Marker: New code*
+`````````````````````````
+Codelist: :doc:`Policy Marker </codelists/PolicyMarker>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
 .. list-table::
    :widths: 15 20 30
@@ -263,15 +237,12 @@ Policy Marker: New code
      - Reproductive, Maternal, Newborn and Child Health (RMNCH)
      - (none)
 
+Non-embedded codelist updates
+-----------------------------
 
-**Non-embedded codelist updates**
----------------------------------
-
-Policy Significance: New code
-`````````````````````````````
-:doc:`Policy Significance </codelists/PolicySignificance>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
-
-*New code*
+*Policy Significance: New code*
+```````````````````````````````
+Codelist: :doc:`Policy Significance </codelists/PolicySignificance>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
 .. list-table::
    :widths: 15 20 30
@@ -284,16 +255,17 @@ Policy Significance: New code
      - Explicit primary objective
      - (none)
 
-
 As part of this process, the `non-embedded codelist changelog <upgrades/nonembedded-codelist-changelog>`__ was also updated
-
 
 Documentation Changes
 =====================
 
-Activity Standard - Dates Overview
-``````````````````````````````````
-:doc:`Activity Standard - Dates Overview </activity-standard/overview/dates/>` (`discussion <http://support.iatistandard.org/entries/43247528-Activity-Status-Suspended->`__)
+Overview pages
+--------------
+
+*Activity Standard - Dates Overview*
+````````````````````````````````````
+Overview page: :doc:`Activity Standard - Dates Overview </activity-standard/overview/dates/>` (`discussion <http://support.iatistandard.org/entries/43247528-Activity-Status-Suspended->`__)
 
 .. list-table::
    :widths: 20 40
@@ -304,10 +276,9 @@ Activity Standard - Dates Overview
    * - Activity Standard - Dates Overview.	 
      - ActivityStatus code 6 indicates a temporary suspension of an activity. In this state an activity is assumed not to be current, but future, forward-looking budgets are still assumed to be applicable.
      
-
-Activity Standard - Classifications Overview
-````````````````````````````````````````````    
-:doc:`Activity Standard - Classifications Overview </activity-standard/overview/classifications/>` (`discussion <http://support.iatistandard.org/entries/55170393-Tied-and-partially-tied-values>`__) (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
+*Activity Standard - Classifications Overview*
+``````````````````````````````````````````````    
+Overview page: :doc:`Activity Standard - Classifications Overview </activity-standard/overview/classifications/>` (`discussion <http://support.iatistandard.org/entries/55170393-Tied-and-partially-tied-values>`__) (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
 .. list-table::
    :widths: 20 40
@@ -319,11 +290,13 @@ Activity Standard - Classifications Overview
      - If an activity is either wholly "tied" or "untied" it is recommended that the appropriate ``default-tied-status`` code is used / If an activity is "partially tied" it is recommended that the reported commitment/s are split into "tied" and "untied" amounts and ``tied-status`` is reported at ``transaction`` level. (NB that tied status should be reported for commitments only.)
    * - Activity Standard - Classifications Overview	 
      - Activity Standard - Classifications Overview  When using ``policy-marker`` and the ``Policy Significance`` code *4* (Explicit primary objective) - this SHOULD ONLY be used in conjunction with ``Policy Marker`` code *9* (Reproductive, Maternal, Newborn and Child Health) 
-     
 
-Policy Significance
-```````````````````
-:doc:`Codelist - Policy Significance </codelists/PolicySignificance>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
+Codelist pages
+--------------     
+
+*Policy Significance*
+`````````````````````
+Codelist: :doc:`Policy Significance </codelists/PolicySignificance>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
 .. list-table::
    :widths: 20 40
