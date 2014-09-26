@@ -1,20 +1,22 @@
 1.05 Changes
-============
+^^^^^^^^^^^^
 
 Changes / Additions to IATI Standard for version 1.05
 
-Schema Changes
---------------
+.. contents::
 
+Schema Changes
+==============
 A full diff of all schema changes in 1.05 can be found in github at https://github.com/IATI/IATI-Schemas/compare/version-1.04...version-1.05#files_bucket
 
 .. _1_05_activities_schema_changes:
 
 Activities schema
-~~~~~~~~~~~~~~~~~
+-----------------
 
-:doc:`planned-disbursement </activity-standard/iati-activities/iati-activity/planned-disbursement>` 
-(`discussion <http://support.iatistandard.org/entries/50424779-Add-a-description-in-the-schema-to-planned-disbursement-element>`__)
+Planned Disbursement: Updated description text
+``````````````````````````````````````````````
+:doc:`planned-disbursement </activity-standard/iati-activities/iati-activity/planned-disbursement>` (`discussion  <http://support.iatistandard.org/entries/50424779-Add-a-description-in-the-schema-to-planned-disbursement-element>`__)
 
 *Updated description text*
 
@@ -36,36 +38,36 @@ planned-disbursement	The planned disbursement element should only be used to rep
 
 
 Organisations schema
-~~~~~~~~~~~~~~~~~~~~
+--------------------
 No substantial changes were made in 1.05, aside from essential version references.
 
 Common schema
-~~~~~~~~~~~~~~~~~~~~
+-------------
 No substantial changes were made in 1.05, aside from essential version references.
 
 XML supplementary schema
-~~~~~~~~~~~~~~~~~~~~~~~~~~
+------------------------
 No substantial changes were made in 1.05, aside from essential version references.
 
 Registry record schema
-~~~~~~~~~~~~~~~~~~~~~~~
+----------------------
 No substantial changes were made in 1.05, aside from essential version references.
 
 
 Codelist Changes
-----------------
+================
 
 New Codelists
-~~~~~~~~~~~~~
+-------------
 
 No new codelists were added in 1.05
 
 
-Updated Codelists
-~~~~~~~~~~~~~~~~~
+**Embedded codelist updates**
+-----------------------------
 
-**Embedded codelist updates**:
-
+Activity Status: New code
+`````````````````````````
 :doc:`Activity Status </codelists/ActivityStatus>` 
 (`discussion <http://support.iatistandard.org/entries/43247528-Activity-Status-Suspended->`__)
 
@@ -77,6 +79,8 @@ Code         Name    	  Description
 6	     Suspended	 
 ===========  ===========  ========================
 
+Description Type: New code
+``````````````````````````
 :doc:`Description Type </codelists/DescriptionType>` 
 (`discussion <http://support.iatistandard.org/entries/22922878-Description-type-extend-the-codelist>`__)
 
@@ -88,6 +92,8 @@ Code         Name    	  Description
 4	     Other	  For miscellaneous use. A further classification or breakdown may be included in the narrative.
 ===========  ===========  ========================
 
+Document Category: New codes
+````````````````````````````
 :doc:`Document Category </codelists/DocumentCategory>` 
 (`discussion <http://support.iatistandard.org/entries/86661313-Document-Types->`__)
 
@@ -103,6 +109,8 @@ B14	     Evaluations policy
 B15	     General Terms and Conditions
 ===========  ============================================  ========================
 
+Related Activity Type: New code
+```````````````````````````````  
 :doc:`Related Activity Type </codelists/RelatedActivityType>` 
 (`discussion <http://support.iatistandard.org/entries/54201556-related-activity-new-code>`__)
 
@@ -113,6 +121,11 @@ Code         Name     	  Description
 ===========  ===========  ========================
 5	     Third Party  A report by another organisation on the same activity (excluding activities reported as part of financial transactions - eg. provider-activity-id - or a co-funded activity using code = 4)
 ===========  ===========  ========================
+
+Related Activity Type: Amended code
+```````````````````````````````````
+:doc:`Related Activity Type </codelists/RelatedActivityType>` 
+(`discussion <http://support.iatistandard.org/entries/54201556-related-activity-new-code>`__)
 
 *Amended code*
 
@@ -132,6 +145,8 @@ Code         Name     	  Description
 4	     Co-funded    An activity that receives funding from more than one organisation.
 ===========  ===========  ========================
 
+Transaction Type: Amended code
+``````````````````````````````
 :doc:`Transaction Type </codelists/TransactionType>` 
 (`discussion <http://support.iatistandard.org/entries/50777388-Description-For-Transcation-Type-Incoming-Funds-Is-Incorrect>`__)
 
@@ -153,21 +168,25 @@ Code         Name     	     Description
 IF	     Incoming Funds  Funds received (whether from an external source or through internal accounting) for specific use on this activity.
 ===========  ==============  ========================
 
-
+Vocabulary: New code
+````````````````````
 :doc:`Vocabulary </codelists/Vocabulary>` 
 (`discussion <http://support.iatistandard.org/entries/22916773>`__)
 
 *New code*
 
 ===========  =================================  ========================
-Code         Name     	  			Description
+Code         Name     	  						Description
 ===========  =================================  ========================
-RO2	     Reporting Organisation (2) - where reporting organisations have more than one vocabulary that they wish to reference.
+RO2	     Reporting Organisation (2)				where reporting organisations have more than one vocabulary that they wish to reference.
 ===========  =================================  ========================
 
+Policy Marker: New code
+```````````````````````
 :doc:`Policy Marker </codelists/PolicyMarker>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
 *New code*
+
 
 ===========  ==================================================================  ========================
 Code         Name     	  							 Description
@@ -176,8 +195,11 @@ Code         Name     	  							 Description
 ===========  ==================================================================  ========================
 
 
-**Non-embedded codelist updates**:
+**Non-embedded codelist updates**
+---------------------------------
 
+Policy Significance: New code
+`````````````````````````````
 :doc:`Policy Significance </codelists/PolicySignificance>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
 *New code*
@@ -192,8 +214,10 @@ As part of this process, the `non-embedded codelist changelog <upgrades/nonembed
 
 
 Documentation Changes
----------------------
+=====================
 
+Activity Standard - Dates Overview
+``````````````````````````````````
 :doc:`Activity Standard - Dates Overview </activity-standard/overview/dates/>` (`discussion <http://support.iatistandard.org/entries/43247528-Activity-Status-Suspended->`__)
 
 ============================================  =================================
@@ -201,7 +225,9 @@ Page         				                  Additional guidance
 ============================================  =================================
 Activity Standard - Dates Overview.	          ActivityStatus code 6 indicates a temporary suspension of an activity. In this state an activity is assumed not to be current, but future, forward-looking budgets are still assumed to be applicable.
 ============================================  =================================
-    
+
+Activity Standard - Classifications Overview
+````````````````````````````````````````````    
 :doc:`Activity Standard - Classifications Overview </activity-standard/overview/classifications/>` (`discussion <http://support.iatistandard.org/entries/55170393-Tied-and-partially-tied-values>`__) (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
 ============================================  =================================
@@ -212,7 +238,8 @@ Activity Standard - Classifications Overview  If an activity is either wholly "t
 Activity Standard - Classifications Overview  When using ``policy-marker`` and the ``Policy Significance`` code *4* (Explicit primary objective) - this SHOULD ONLY be used in conjunction with ``Policy Marker`` code *9* (Reproductive, Maternal, Newborn and Child Health)
 ============================================  =================================
 
-
+Policy Significance
+```````````````````
 :doc:`Codelist - Policy Significance </codelists/PolicySignificance>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
 ============================================  =================================
