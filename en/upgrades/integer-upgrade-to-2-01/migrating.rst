@@ -4,13 +4,12 @@ Migrating from IATI Standard versions 1.x to version 2.01
 Document Status: DRAFT
 ----------------------
 
-Publication date: wk bg: 22nd September (in dev 2.01 site)
+Publication date: wk bg: 29nd September (in dev 2.01 site)
 Publication destination: Upgrades section (with relevant links to from)
 
 
 Overview
 --------
-
 This is an issue by issue guide for data publishers and data users of
 the IATI Standard.
 
@@ -27,9 +26,9 @@ in the document implies a hierarchy of importance. Different data
 users/publishers will find some issues more relevant/important than
 others.
 
+
 Organisation and Activity Identifiers
 =====================================
-
 What does version 2.01 of the IATI Standard require?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 IATI organisation identifiers should:
@@ -80,7 +79,6 @@ in addition:
   - It MUST be prefixed with EITHER the organisation-identifier found in reporting-org/@ref OR a previous reporting-org identifier reported in other-identifier
   - The identifier MUST only contain alphanumeric characters and hyphen, underscore, colon or period
 
-
 What is the change?
 +++++++++++++++++++
 The biggest change is that all organisations must have an Organisation 
@@ -106,21 +104,19 @@ throughout the IATI Standard
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-
 While the schema will not be able to test for valid Organistion and 
 IATI identifiers, it is possible to machine write tests to check for some
 compliance. However if your data does not meet these standards then it 
 becomes difficult for others to use.
 
+
 Update to other-identifier - adding @type, changing definition, new codelist
 ============================================================================
-
 THERE IS MORE OT BE DONE HERE - THE CHANEGS ARE NOW MUCH BIGGER
 
 What is the change?
 +++++++++++++++++++
-
-in versions 1.x of the IATI Standard the other-identifier element could
+In versions 1.x of the IATI Standard the other-identifier element could
 be used to specify an alternative, non-IATI identifier for the activity.
 
 In version 2.01 of the IATI Standard the definition of the element has
@@ -133,12 +129,10 @@ In version 2.01 of the IATI Standard a new OtherIdentifierType codelist is intro
 
 Where is this applicable?
 +++++++++++++++++++++++++
-
 In the Activity schema
 
 Why has this been done?
 +++++++++++++++++++++++
-
 Because an iati-identifier needs to be unique and (once reported to
 IATI) will never change, and because it is constructed using an
 organisation identifier, when organisation identifiers change, data
@@ -155,25 +149,21 @@ For more information see:
 `http://support.iatistandard.org/entries/52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers&sa=D&sntz=1&usg=AFQjCNEOXRcN9LWCZwcYQPAAxmUD2wPZ5A>`__
 
 
-
-
 Changes introduced between versions 1.04 and 1.05 have also been included in 2.01
 =================================================================================
-
 As 2.01 of the IATI Standard was being prepared there was a decimal
 upgrade to version 1.05 that ran in parallel. All changes to the
 Standard between version 1.04 and 1.05 have been carried over into 2.01
 
+
 Element Order
 =============
-
 What does version 2.01 of the IATI Standard require?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 Data elements must be published in the order specified by the schema.
 
 What is the change?
 +++++++++++++++++++
-
 In versions 1.x of the IATI Standard, data elements could be published
 in any order and still be valid when checked against the relevant
 schema.
@@ -197,7 +187,6 @@ In both the Organisation and Activity Standards
 
 Example
 +++++++
-
 Element order can be found by inspecting the schema directly:
 
 -  `http://dev.iatistandard.org/201/schema/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Fschema%2F&sa=D&sntz=1&usg=AFQjCNGoLWYpWF12X__nOhI46c4C4E3Q_A>`__
@@ -219,20 +208,17 @@ Tables generated from the schema can be found at:
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-
 Data will fail validation against the relevant 2.01 schema.
+
 
 Mandatory Fields in Activity Standard
 =====================================
-
 What does version 2.01 of the IATI Standard require?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 Certain elements are now mandatory within any iati-activity record.
 
 What is the change?
 +++++++++++++++++++
-
 There are more mandatory items. More elements and attributes are made
 mandatory by the schema.
 
@@ -354,19 +340,17 @@ often they may occur.
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-
 Data will fail validation against the relevant 2.01 schema
 
-Mandatory Fields in Organisation  Standard
 
+Mandatory Fields in Organisation Standard
+=========================================
 What does version 2.01 of the IATI Standard require?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 Certain elements are now mandatory within any iati-organisation record.
 
 What is the change?
 +++++++++++++++++++
-
 There are more mandatory items. More elements and attributes are made
 mandatory by the schema.
 
@@ -393,20 +377,17 @@ often they may occur.
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-
 Data will fail validation against the relevant 2.01 schema
+
 
 Declaring the Version of the IATI Standard being used
 =====================================================
-
 What does version 2.01 of the IATI Standard require?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 You MUST correctly report the version of the standard you are using.
 
 What is the change?
 +++++++++++++++++++
-
 In the Activity Standard
 
 -  From version 2.01, the @version attribute of \`\`iati-activities\`\`
@@ -429,7 +410,6 @@ In the Organisation Standard
 
 Where is this applicable?
 +++++++++++++++++++++++++
-
 In both the Organisation and Activity standards
 
 Example
@@ -444,7 +424,6 @@ For an iati-organisation example see:
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-
 If you omit iati-activities/@version or iati-organisations/@versions the
 data will fail validation against the relevant 2.01 schema.
 
@@ -455,12 +434,11 @@ If you do not use a value for @version from the  \`\`Version\`\`
 codeli\ `st: <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Fcodelists%2FVersion%2F&sa=D&sntz=1&usg=AFQjCNFQv12St-sRC8bZDjGDZxi1yogfYA>`__\ `http://dev.iatistandard.org/201/codelists/Version/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Fcodelists%2FVersion%2F&sa=D&sntz=1&usg=AFQjCNFQv12St-sRC8bZDjGDZxi1yogfYA>`__ data
 users may have difficulty processing your data.
 
+
 Using Namespaces
 ================
-
 What does version 2.01 of the IATI Standard require?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 Data publishers are allowed to add data using their own defined
 namespaces to add additional data to an IATI data file. They must do
 this in such a way that their data is still valid against the relevant
@@ -468,14 +446,12 @@ schema.
 
 What is the change?
 +++++++++++++++++++
-
 Because ordering has been enforced in the schema, any namespace elements
 are now expected to be positioned as the last child of the relevant
 parent element.
 
 Where is this applicable?
 +++++++++++++++++++++++++
-
 In both the Organisation and Activity standards
 
 This applies to any use of namespaces
@@ -494,9 +470,9 @@ What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
 Data will fail validation against the relevant 2.01 schema
 
+
 Segmentation and file size
 ==========================
-
 What does version 2.01 of the IATI Standard require?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
 
@@ -512,25 +488,22 @@ What does version 2.01 of the IATI Standard require?
 
 What is the change?
 +++++++++++++++++++
-
 Previous guidance has been to segment data by country where
 possible/useful. This was an arbitrary
 decision.
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-
 Files larger than 40MB are difficult for data users to use - even at
 40MB this is still difficult for many users. If your files are too large
 it is possible that applications wanting to use your data may not be
 able to do so.
 
+
 Free Text Fields
 ================
-
 What is the change?
 +++++++++++++++++++
-
 In version 2.01 free text is handled very differently than it is in
 versions 1.x
 
@@ -548,13 +521,11 @@ is no longer allowed on data specified by codes (with some exceptions)
 
 Why has this been done?
 +++++++++++++++++++++++
-
 The change has been made to improve how multilingual reporting can
 occur, and to improve clarity where codes are reported.
 
 Where is this applicable?
 +++++++++++++++++++++++++
-
 In both the Organisation and Activity Standards
 
 Even where publishers do not supply translations of their text data,
@@ -585,15 +556,13 @@ Examples of how this change works can be seen on (for example):
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-
 Data will fail validation against the relevant 2.01 schema
+
 
 Handling Translations
 =====================
-
 What does version 2.01 of the IATI Standard require?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 The standard wants to allow publishers to easily declare multilingual
 translations for text data, and for data users to be able to easily
 access those translations. In 2.01 the way in which this done should
@@ -601,7 +570,6 @@ make it easier for data users to handle.
 
 What is the change?
 +++++++++++++++++++
-
 In version 1.x elements that allowed text to be declared (e.g. title)
 could be repeated for different languages.
 
@@ -615,7 +583,6 @@ in the default language declared in the document root element.
 
 Where is this applicable?
 +++++++++++++++++++++++++
-
 For a full list of elements where this now applies, see: Including
 nested, multi-lingual text elements for all elements containing free
 text
@@ -632,15 +599,13 @@ Examples of how this change works can be seen on (for example):
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-
 Data will fail validation against the relevant 2.01 schema
+
 
 Descriptive text is no longer allowed on data specified by codes (with some exceptions)
 =======================================================================================
-
 What does version 2.01 of the IATI Standard require?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 Where published data is defined by codes, the code is authoritative, and
 the associated look up value should not supplied.
 
@@ -651,7 +616,6 @@ standard
 
 What is the change?
 +++++++++++++++++++
-
 In version 1.x of the standard, a number of elements allowed the
 reporting of a code (usually in an attribute) and free text.  Where both
 a code and text was supplied it was impossible for a data user to know
@@ -662,7 +626,6 @@ been removed from a number of elements.
 
 Where is this applicable?
 +++++++++++++++++++++++++
-
 For a list of elements where this applies see:
 
 Scrapping text of purely code elements -
@@ -693,7 +656,7 @@ activity status of implementing you would simply declare:
 <activity-status code="2" />
 
 Exceptions
-
+++++++++++
 Both the recipient-region and recipient-country elements still allow
 both a code and descriptive text to be specified. This is to cover the
 cases where the organisation publishing the data may not agree with name
@@ -723,15 +686,13 @@ To declare a recipient country of Kosovo, both of these are acceptable:
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-
 Data will fail validation against the relevant 2.01 schema
+
 
 Language Neutral Codelists
 ==========================
-
 What is the change?
 +++++++++++++++++++
-
 A number of codes on several codelists have been changed, in order to
 make them language neutral.
 
@@ -744,7 +705,6 @@ In general:
 
 Where is this applicable?
 +++++++++++++++++++++++++
-
 A list of the affected codelists, and the differences between version
 1.x and 2.01 are detailed here:
 
@@ -757,16 +717,14 @@ We will use this:
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-
 Data will not be referenceable against the relevant code list, making it
 difficult to use.
 
+
 Allow multiple languages to be specified for a single document (document-link)
 ==============================================================================
-
 What is the change?
 +++++++++++++++++++
-
 In version 1.x of the IATI Standard, you were only allowed to use one
 document-link/language child element per document-link parent.
 
@@ -775,25 +733,21 @@ document-link/language elements as you need.
 
 Where is this applicable?
 +++++++++++++++++++++++++
-
 In both the Activity and Organisation standard.
 
 Why has this been done?
 +++++++++++++++++++++++
-
 In recognition that some documents are multilingual
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-
 Nothing. This change is an opportunity to produce more accurate data.
+
 
 New Elements
 ============
-
 What is the change?
 +++++++++++++++++++
-
 In version 2.01 of the IATI Standard there is a new element
 iati-activity/contact-info/department
 
@@ -822,7 +776,7 @@ Usage
 -  budget-line/value
 
 See also
-
+++++++++
 Additionally, new child elements have been introduced to the existing
 
 -  iati-activity/transaction element: Additional elements in the
@@ -832,7 +786,6 @@ Additionally, new child elements have been introduced to the existing
 
 Why has this been done?
 +++++++++++++++++++++++
-
 A number of publishers have requested the facility to add department
 information to contact details.
 
@@ -844,18 +797,16 @@ languages.
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-
 In the case of the narrative element, these are required when using
 freetext
 
 The other new elements are all optional.
 
+
 Renamed, Moved and Removed Elements
 ===================================
-
 What is the change?
 +++++++++++++++++++
-
 In versions 1.x of the IATI Standard there is an element
 iati-organisation/iati-identifier
 
@@ -885,16 +836,14 @@ In version 2.01 of the IATI Standard this element is not present.
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-
 If elements and attributes are published with the old properties, then
 data will fail validation against the relevant 2.01 schema
 
+
 Using Recipient-Region and Recipient Country
 ============================================
-
 What does version 2.01 of the IATI Standard require?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 From the schema (recipient-country):
 
 "Multiple countries and regions can be reported, in which case the
@@ -923,7 +872,6 @@ It should be clear that:
 
 What is the change?
 +++++++++++++++++++
-
 In versions 1.x of the IATI Standard, data publishers were told to
 report EITHER recipient-country or recipient-region, but not both.
 
@@ -939,29 +887,27 @@ reported at transaction level.
 In version 2.,01 of the standard, you MUST NOT report regions and
 countries at BOTH activity and transaction level
 
-Example code
-
+Example
++++++++
 See:
 
 -  `http://dev.iatistandard.org/201/activity-standard/iati-activities/iati-activity/recipient-country/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Factivity-standard%2Fiati-activities%2Fiati-activity%2Frecipient-country%2F&sa=D&sntz=1&usg=AFQjCNE8l-WQRgRPddoM7uV7xtqrW9jHEg>`__
 -  `http://dev.iatistandard.org/201/activity-standard/iati-activities/iati-activity/recipient-region/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Factivity-standard%2Fiati-activities%2Fiati-activity%2Frecipient-region%2F&sa=D&sntz=1&usg=AFQjCNFQdghoBweGBiukVrKBzLcDbj0OQQ>`__
 
 See also
-
+++++++++
 Additional elements in transactions (sector, recipient-country,
 recipient-region) below
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-
 Nothing. This change is an opportunity to produce more accurate data.
+
 
 Additional elements in transactions (sector, recipient-country, recipient-region)
 =================================================================================
-
 What is the change?
 +++++++++++++++++++
-
 In version 2.01 of IATI activity standard the elements of sector,
 recipient-country and recipient-region have been added as child elements
 for any transaction. Each of these elements takes the same format as
@@ -970,20 +916,16 @@ missing.
 
 Where is this applicable?
 +++++++++++++++++++++++++
-
 Only in the Activity standard
 
 Why has this been done?
 +++++++++++++++++++++++
-
 In order to provide more accurate reporting of multi-country and
 multi-sector activities, and to allow for the changing of the
 activity-level sector over time without compromising previously reported
 sector-specific commitments and disbursements, it is proposed to add the
 following fields at transaction level (in addition to activity-level):
-
  
-
 N.B. If any of these elements are used at transaction level, they must
 not be used at activity level within the same activity.
 
@@ -996,40 +938,34 @@ For more information see:
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-
 Nothing. This change is an opportunity to produce more accurate data.
+
 
 Additional elements in Organisation documents (document-link)
 =============================================================
-
 What is the change?
 +++++++++++++++++++
-
 There is now a document-link/recipient-country element ONLY in the
 Organisation standard. This is to allow multiple countries to be
 reported per document-link.
 
 Where is this applicable?
 +++++++++++++++++++++++++
-
 Only in the Organisation standard
 
 Why has this been done?
 +++++++++++++++++++++++
-
 In order for organisation-level documents to be classified by country.
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-
 Nothing. This change is an opportunity to produce more accurate data.
+
 
 Formatting of Dates (and datetimes)
 ===================================
-
 What does version 2.01 of the IATI Standard require?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 To ensure that IATI data can be utilised, dates and datetimes should be
 formatted in a consistent way.
 
@@ -1038,7 +974,6 @@ should be a valid xsd:dateTime
 
 What is the change?
 +++++++++++++++++++
-
 In versions 1.x of the IATI Standard dates and date formats were
 specified with reference to ISO 8601 standard, and it was not always
 clear how that standard should be interpreted and used.
@@ -1048,7 +983,6 @@ should be a valid xsd:dateTime
 
 Why has this been done?
 +++++++++++++++++++++++
-
 In the past IATI has not given clear guidance about the specific formats
 of the ISO 8601 standard that can be used. It is clear that the data
 types built into the XML standard, xsd:date and
@@ -1060,7 +994,6 @@ the data to be easily validated.
 
 Where is this applicable?
 +++++++++++++++++++++++++
-
 In both Activity and Organisation standard.
 
 Wherever a date or a datetime is required (search the schema for
@@ -1083,8 +1016,8 @@ datetimes:
 -  all @generated-datetime attributes
 -  all  @last-updated-datetime attributes
 
-Example code
-
+Example
++++++++
 Examples of how this change works can be seen on (for example):
 
 -  `http://dev.iatistandard.org/201/activity-standard/iati-activities/iati-activity/activity-date/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Factivity-standard%2Fiati-activities%2Fiati-activity%2Factivity-date%2F&sa=D&sntz=1&usg=AFQjCNFGAgQQebvxFOVvnW6E0kNu-r6KVw>`__
@@ -1092,17 +1025,15 @@ Examples of how this change works can be seen on (for example):
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-
 If your dates and datetimes are not in the correct formats, schema
 validation will fail. If your dates already meet xsd:date and
 xsd:dateTime formats, then you do not to take any action.
 
-URL validation
-==============
 
+URL validation
+=============
 What is the change?
 +++++++++++++++++++
-
 In version 1.x of the IATI Standard,  the schema data type used for some
 data fields where a URL was expected was set as xsd:string.
 
@@ -1124,23 +1055,20 @@ N.B. xsd:anyURI does not guarantee that a valid URL will be supplied.
 
 Why has this been done?
 +++++++++++++++++++++++
-
 To make validation of the data at the schema level easier
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-
 Nothing UNLESS you have been publishing data that does not meet the
 restrictions of xsd:anyURI. URL data that was
 recognised as a string, but not as xsd:anyURI will now fail validation
 against the relevant 2.01 schema
 
+
 Location Changes
 ================
-
 What does version 2.01 of the IATI Standard require?
 ++++++++++++++++++++++++++++++++++++++++++++++++++++
-
 If you are currently using a version of the IATI Standard lower than
 1.04 AND report details of sub-national geographic locations, you MUST
 adopt all the changes specified in the upgrade from version 1.03 of the
@@ -1148,7 +1076,6 @@ IATI Standard to version 1.04.
 
 What is the change?
 +++++++++++++++++++
-
 Significant changes to the way that location data could be reported were
 introduced in the upgrade of the standard from version 1.03 to version
 1.04.
@@ -1187,15 +1114,13 @@ In version 2.01, these attributes are no longer available:
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-
 Data will fail validation against the relevant 2.01 schema
+
 
 Changes to the Planned Disbursement element (planned-disbursement)
 ==================================================================
-
 What is the change?
 +++++++++++++++++++
-
 In versions 1.x of the IATI Standard there is a
 planned-disbursement/@updated attribute
 
@@ -1218,7 +1143,6 @@ element is optional.
 
 Why has this been done?
 +++++++++++++++++++++++
-
 The planned-disbursement element contain indicative information that is
 subject to change. The standard does not expect an audit trail of these
 changes to be reported.
@@ -1241,18 +1165,16 @@ defined end date.
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-
 If you continue to use the @updated attributes your data will fail
 validation against the relevant 2.01 schema
 
 The @type attribute is optional.
 
+
 Removal of the @type attribute on some description elements
 ===========================================================
-
 What is the change?
 +++++++++++++++++++
-
 In version 1.x of the IATI Standard all description elements have a
 @type attribute.
 
@@ -1266,18 +1188,16 @@ removed:
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
-
 If you currently use @type on any of the elements detailed above and do
 not change that when creating 2.01 data, your data will fail validation
 against the schema. Data users should be aware that if they expect to
 gather data from those fields they should no longer be present.
 
+
 New Codes for Embedded codelists
 ================================
-
 What is the change?
 +++++++++++++++++++
-
 As part of the 2.01 IATI Standard upgrade, the following embedded
 codelists were updated.
 
@@ -1303,12 +1223,11 @@ updated codelists
    codelist) and link to sector/@vocabulary
 -  Add Policy Marker Codelist and link to policy-marker/@vocabulary
 
+
 Embedded codelists - descriptions of code values
 ================================================
-
 What is the change?
 +++++++++++++++++++
-
 Embedded codelist descriptions have been reviewed and updated.
 
 In some cases, description text has been added, where it was previously
@@ -1316,23 +1235,20 @@ missing.
 
 Where is this applicable?
 +++++++++++++++++++++++++
-
 In all embedded codelists.
 
 `https://github.com/IATI/IATI-Codelists/commit/33b2174f8c2aeb42f277f8ad9d715b31233179bc <https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FIATI%2FIATI-Codelists%2Fcommit%2F33b2174f8c2aeb42f277f8ad9d715b31233179bc&sa=D&sntz=1&usg=AFQjCNEvk8bCa1k85UnpOSZF3gltSwq4nw>`__
 
 Why has this been done?
 +++++++++++++++++++++++
-
 It was recognised that various description texts were out-of-date or not
 clear.  This has been an opportunity to update these.
 
+
 Update of Schema description texts
 ==================================
-
 What is the change?
 +++++++++++++++++++
-
 Descriptive text in the schema has been reviewed and updated.
 
 In some cases, description text has been added, where it was previously
@@ -1344,12 +1260,10 @@ removed). See:
 
 Where is this applicable?
 +++++++++++++++++++++++++
-
 In the Activity schema, the Organisation schema and the Common schema.
 
 Why has this been done?
 +++++++++++++++++++++++
-
 It was recognised that various description texts were out-of-date or not
 clear.  This has been an opportunity to update these.
 
@@ -1360,22 +1274,14 @@ developers. See:
 `http://support.iatistandard.org/entries/27805388-Mapping-between-codelists-and-schemas <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F27805388-Mapping-between-codelists-and-schemas&sa=D&sntz=1&usg=AFQjCNGUMMxPCX08V33oDc7Pg2xOygnvBQ>`__
 
 
-
 Tied and partially tied values
 ==============================
-
 new guidance has been added
 
 See:
 `http://support.iatistandard.org/entries/55170393-Tied-and-partially-tied-values <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F55170393-Tied-and-partially-tied-values&sa=D&sntz=1&usg=AFQjCNFu_H9jcvgyauPKiAT0FT3FLgeMAg>`__
 
+
 Modify guidance on participating-org/@role : Definition of funding organisation
 =========================================================================================================
-
 `http://support.iatistandard.org/entries/41583626-Modify-guidance-on-participating-org-role-Definition-of-funding-organisation <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F41583626-Modify-guidance-on-participating-org-role-Definition-of-funding-organisation&sa=D&sntz=1&usg=AFQjCNFQJ8ZIfD9UmyhfBtlHTjGVq4FInQ>`__
-
-| 
-
-Items to add to the above list (pending work):
-==============================================
-
