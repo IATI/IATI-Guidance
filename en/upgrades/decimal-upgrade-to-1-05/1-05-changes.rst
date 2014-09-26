@@ -21,20 +21,26 @@ Planned Disbursement: Updated description text
 *Updated description text*
 
 In 1.04:
+ 
+.. list-table::
+   :widths: 15 30
+   :header-rows: 1
 
-======================  ========================
-Element     	    	Description
-======================  ========================
-planned-disbursement	(none)
-======================  ========================
+   * - Element
+     - Description
+   * - planned-disbursement
+     - (none)
 
 Description added in 1.05:
 
-======================  ========================
-Element     	    	Description
-======================  ========================
-planned-disbursement	The planned disbursement element should only be used to report specific planned cash transfers. These should be reported for a specific date or a meaningfully predictable period. These transactions should be reported in addition to budgets - which are typically annual breakdowns of the total activity commitment.
-======================  ========================
+.. list-table:: 
+   :widths: 20 40
+   :header-rows: 1
+
+   * - Element
+     - Description
+   * - planned-disbursement
+     - The planned disbursement element should only be used to report specific planned cash transfers. These should be reported for a specific date or a meaningfully predictable period. These transactions should be reported in addition to budgets - which are typically annual breakdowns of the total activity commitment.
 
 
 Organisations schema
@@ -73,11 +79,17 @@ Activity Status: New code
 
 *New code*
 
-===========  ===========  ========================
-Code         Name    	  Description
-===========  ===========  ========================
-6	     Suspended	 
-===========  ===========  ========================
+.. list-table::
+   :widths: 15 20 30
+   :header-rows: 1
+
+   * - Code
+     - Name
+     - Description
+   * - 6
+     - Suspended
+     - (none)
+
 
 Description Type: New code
 ``````````````````````````
@@ -86,11 +98,17 @@ Description Type: New code
 
 *New code*
 
-===========  ===========  ========================
-Code         Name    	  Description
-===========  ===========  ========================
-4	     Other	  For miscellaneous use. A further classification or breakdown may be included in the narrative.
-===========  ===========  ========================
+.. list-table::
+   :widths: 15 20 30
+   :header-rows: 1
+
+   * - Code
+     - Name
+     - Description
+   * - 4
+     - Other
+     - For miscellaneous use. A further classification or breakdown may be included in the narrative.
+
 
 Document Category: New codes
 ````````````````````````````
@@ -99,15 +117,29 @@ Document Category: New codes
 
 *New codes*
 
-===========  ============================================  ========================
-Code         Name    	   				   Description
-===========  ============================================  ========================
-B11	     Sector strategy	      				       
-B12	     Thematic strategy
-B13	     Country-level Memorandum of Understanding
-B14	     Evaluations policy
-B15	     General Terms and Conditions
-===========  ============================================  ========================
+.. list-table::
+   :widths: 15 20 30
+   :header-rows: 1
+
+   * - Code
+     - Name
+     - Description
+   * - B11
+     - Sector strategy
+     - (none)
+   * - B12
+     - Thematic strategy
+     - (none)
+   * - B13
+     - Country-level Memorandum of Understanding
+     - (none)
+   * - B14
+     - Evaluations policy
+     - (none)
+   * - B15
+     - General Terms and Conditions
+     - (none)     
+
 
 Related Activity Type: New code
 ```````````````````````````````  
@@ -116,11 +148,17 @@ Related Activity Type: New code
 
 *New code*
 
-===========  ===========  ========================
-Code         Name     	  Description
-===========  ===========  ========================
-5	     Third Party  A report by another organisation on the same activity (excluding activities reported as part of financial transactions - eg. provider-activity-id - or a co-funded activity using code = 4)
-===========  ===========  ========================
+.. list-table::
+   :widths: 15 20 30
+   :header-rows: 1
+
+   * - Code
+     - Name
+     - Description
+   * - 5
+     - Third Party
+     - A report by another organisation on the same activity (excluding activities reported as part of financial transactions - eg. provider-activity-id - or a co-funded activity using code = 4).
+
 
 Related Activity Type: Amended code
 ```````````````````````````````````
@@ -131,19 +169,29 @@ Related Activity Type: Amended code
 
 In 1.04:
 
-===========  ===========  ========================
-Code         Name    	  Description
-===========  ===========  ========================
-4	     Multifunded  A multifunded, or co-funded activity. The identifier should be globally unique and shared by all reporters of this activity.
-===========  ===========  ========================
+.. list-table::
+   :widths: 15 20 30
+   :header-rows: 1
+
+   * - Code
+     - Name
+     - Description
+   * - 4
+     - Multifunded
+     - A multifunded, or co-funded activity. The identifier should be globally unique and shared by all reporters of this activity.
 
 Name and description changed in 1.05:
 
-===========  ===========  ========================
-Code         Name     	  Description
-===========  ===========  ========================
-4	     Co-funded    An activity that receives funding from more than one organisation.
-===========  ===========  ========================
+.. list-table::
+   :widths: 15 20 30
+   :header-rows: 1
+
+   * - Code
+     - Name
+     - Description
+   * - 4
+     - Co-funded
+     - An activity that receives funding from more than one organisation.
 
 Transaction Type: Amended code
 ``````````````````````````````
@@ -154,20 +202,31 @@ Transaction Type: Amended code
 
 In 1.04:
 
-===========  ==============  ========================
-Code         Name    	     Description
-===========  ==============  ========================
-IF	     Incoming Funds  Funds received from an external funding source (eg a donor).
-===========  ==============  ========================
+.. list-table::
+   :widths: 15 20 30
+   :header-rows: 1
 
+   * - Code
+     - Name
+     - Description
+   * - IF
+     - Incoming Funds
+     - Funds received from an external funding source (eg a donor).
+     
 Description changed in 1.05:
 
-===========  ==============  ========================
-Code         Name     	     Description
-===========  ==============  ========================
-IF	     Incoming Funds  Funds received (whether from an external source or through internal accounting) for specific use on this activity.
-===========  ==============  ========================
+.. list-table::
+   :widths: 15 20 30
+   :header-rows: 1
 
+   * - Code
+     - Name
+     - Description
+   * - IF
+     - Incoming Funds
+     - Funds received (whether from an external source or through internal accounting) for specific use on this activity.
+     
+     
 Vocabulary: New code
 ````````````````````
 :doc:`Vocabulary </codelists/Vocabulary>` 
@@ -175,24 +234,34 @@ Vocabulary: New code
 
 *New code*
 
-===========  =================================  ========================
-Code         Name     	  						Description
-===========  =================================  ========================
-RO2	     Reporting Organisation (2)				where reporting organisations have more than one vocabulary that they wish to reference.
-===========  =================================  ========================
+.. list-table::
+   :widths: 15 20 30
+   :header-rows: 1
 
+   * - Code
+     - Name
+     - Description
+   * - RO2
+     - Reporting Organisation (2)	
+     - Where reporting organisations have more than one vocabulary that they wish to reference.
+     
+     
 Policy Marker: New code
 ```````````````````````
 :doc:`Policy Marker </codelists/PolicyMarker>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
 *New code*
 
+.. list-table::
+   :widths: 15 20 30
+   :header-rows: 1
 
-===========  ==================================================================  ========================
-Code         Name     	  							 Description
-===========  ==================================================================  ========================
-9	     Reproductive, Maternal, Newborn and Child Health (RMNCH)
-===========  ==================================================================  ========================
+   * - Code
+     - Name
+     - Description
+   * - 9
+     - Reproductive, Maternal, Newborn and Child Health (RMNCH)
+     - (none)
 
 
 **Non-embedded codelist updates**
@@ -204,11 +273,17 @@ Policy Significance: New code
 
 *New code*
 
-===========  =================================  ========================
-Code         Name     	  			Description
-===========  =================================  ========================
-4	     Explicit primary objective
-===========  =================================  ========================
+.. list-table::
+   :widths: 15 20 30
+   :header-rows: 1
+
+   * - Code
+     - Name
+     - Description
+   * - 4
+     - Explicit primary objective
+     - (none)
+
 
 As part of this process, the `non-embedded codelist changelog <upgrades/nonembedded-codelist-changelog>`__ was also updated
 
@@ -220,32 +295,41 @@ Activity Standard - Dates Overview
 ``````````````````````````````````
 :doc:`Activity Standard - Dates Overview </activity-standard/overview/dates/>` (`discussion <http://support.iatistandard.org/entries/43247528-Activity-Status-Suspended->`__)
 
-============================================  =================================
-Page         				                  Additional guidance   	  			
-============================================  =================================
-Activity Standard - Dates Overview.	          ActivityStatus code 6 indicates a temporary suspension of an activity. In this state an activity is assumed not to be current, but future, forward-looking budgets are still assumed to be applicable.
-============================================  =================================
+.. list-table::
+   :widths: 20 40
+   :header-rows: 1
+
+   * - Page
+     - Additional guidance 
+   * - Activity Standard - Dates Overview.	 
+     - ActivityStatus code 6 indicates a temporary suspension of an activity. In this state an activity is assumed not to be current, but future, forward-looking budgets are still assumed to be applicable.
+     
 
 Activity Standard - Classifications Overview
 ````````````````````````````````````````````    
 :doc:`Activity Standard - Classifications Overview </activity-standard/overview/classifications/>` (`discussion <http://support.iatistandard.org/entries/55170393-Tied-and-partially-tied-values>`__) (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
-============================================  =================================
-Page         				                  Additional guidance   	  			
-============================================  =================================
-Activity Standard - Classifications Overview  If an activity is either wholly "tied" or "untied" it is recommended that the appropriate ``default-tied-status`` code is used / If an activity is "partially tied" it is recommended that the reported commitment/s are split into "tied" and "untied" amounts and ``tied-status`` is reported at ``transaction`` level. (NB that tied status should be reported for commitments only.)
+.. list-table::
+   :widths: 20 40
+   :header-rows: 1
 
-Activity Standard - Classifications Overview  When using ``policy-marker`` and the ``Policy Significance`` code *4* (Explicit primary objective) - this SHOULD ONLY be used in conjunction with ``Policy Marker`` code *9* (Reproductive, Maternal, Newborn and Child Health)
-============================================  =================================
+   * - Page
+     - Additional guidance 
+   * - Activity Standard - Classifications Overview	 
+     - If an activity is either wholly "tied" or "untied" it is recommended that the appropriate ``default-tied-status`` code is used / If an activity is "partially tied" it is recommended that the reported commitment/s are split into "tied" and "untied" amounts and ``tied-status`` is reported at ``transaction`` level. (NB that tied status should be reported for commitments only.)
+   * - Activity Standard - Classifications Overview	 
+     - Activity Standard - Classifications Overview  When using ``policy-marker`` and the ``Policy Significance`` code *4* (Explicit primary objective) - this SHOULD ONLY be used in conjunction with ``Policy Marker`` code *9* (Reproductive, Maternal, Newborn and Child Health) 
+     
 
 Policy Significance
 ```````````````````
 :doc:`Codelist - Policy Significance </codelists/PolicySignificance>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
-============================================  =================================
-Page         				                  Additional guidance   	  			
-============================================  =================================
-Policy Significance codelist		          Policy Significance code = 4 (Explicit primary objective) SHOULD ONLY be used in conjunction with :doc:`Policy Marker </codelists/PolicyMarker/>` code = 9 (Reproductive, Maternal, Newborn and Child Health)
+.. list-table::
+   :widths: 20 40
+   :header-rows: 1
 
-
-============================================  =================================
+   * - Page
+     - Additional guidance 
+   * - Policy Significance codelist 
+     - Policy Significance code = 4 (Explicit primary objective) SHOULD ONLY be used in conjunction with :doc:`Policy Marker </codelists/PolicyMarker/>` code = 9 (Reproductive, Maternal, Newborn and Child Health)
