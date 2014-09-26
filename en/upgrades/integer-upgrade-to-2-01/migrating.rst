@@ -112,7 +112,7 @@ becomes difficult for others to use.
 
 Update to other-identifier - adding \@type, changing definition, new codelist
 =============================================================================
-THERE IS MORE OT BE DONE HERE - THE CHANEGS ARE NOW MUCH BIGGER
+THERE IS MORE TO BE DONE HERE - THE CHANGES ARE NOW MUCH BIGGER
 
 What is the change?
 +++++++++++++++++++
@@ -241,7 +241,7 @@ Each Activity record MUST contain:
 -  a recipient-country or recipient-region (presence could be tested by
    software)
 
-Participating organisation
+**Participating organisation**
 
 -  At least one occurrence of iati-activity/participating-org is
    MANDATORY - enforced by the schema
@@ -254,7 +254,7 @@ Participating organisation
 for discussion go to
 `http://support.iatistandard.org/entries/41047217-Modify-participating-org-Validation-and-guidance <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F41047217-Modify-participating-org-Validation-and-guidance&sa=D&sntz=1&usg=AFQjCNFxiOgh30J6a6cVu8mqSUijcLIS0g>`__
 
-Title
+**Title**
 
 -  iati-activity/title is MANDATORY  - enforced by the schema
 -  It is recommended that the title contains a meaningful summary of the
@@ -263,7 +263,7 @@ Title
 for discussion go to
 `http://support.iatistandard.org/entries/41584666-Modify-title-validation-and-guidance <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F41584666-Modify-title-validation-and-guidance&sa=D&sntz=1&usg=AFQjCNEwrNwzD2PbpeK5uVk3cE3PzqW9-Q>`__
 
-Description
+**Description**
 
 -  The iati-activity/description is MANDATORY  - enforced by the schema
 -  It is recommended that the description contains a meaningful
@@ -272,7 +272,7 @@ Description
 for discussion go to
 `http://support.iatistandard.org/entries/41584706-Modify-description-validation-and-guidance <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F41584706-Modify-description-validation-and-guidance&sa=D&sntz=1&usg=AFQjCNFd0zKLV5mXPeuoqZYLscVLEcFjkQ>`__
 
-Activity Date
+**Activity Date**
 
 -  At least one occurrence of iati-activity/activity-date is MANDATORY
     - enforced by the schema
@@ -282,9 +282,7 @@ Activity Date
 for discussion go to
 `http://support.iatistandard.org/entries/41089758-Modify-activity-date-validation-and-guidance <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F41089758-Modify-activity-date-validation-and-guidance&sa=D&sntz=1&usg=AFQjCNEeNc4gPTnRxtWZxe7RGb3ej9CeBg>`__
 
-Sector / Transaction Sector
-
-[Modified to include transaction/sector option in 08-09-2014]
+**Sector / Transaction Sector**
 
 -  Sector may now be reported at transaction level instead of activity
    level. For details `see
@@ -300,30 +298,24 @@ Sector / Transaction Sector
 for discussion go to
 `http://support.iatistandard.org/entries/22993317-Modify-sector-validation-and-guidance <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F22993317-Modify-sector-validation-and-guidance&sa=D&sntz=1&usg=AFQjCNG8UMyxTCOmgxbS7BRfkyB7r59d7g>`__
 
-budgets / planned-disbursement
+**budgets / planned-disbursement**
 
 budgets and planned-disbursements now contain mandatory elements when
 used.
 
-Budget dates
+**Budget dates**
 
--  The budget element should be repeated for each year of the activity's
+- The budget element should be repeated for each year of the activity's
    duration - not enforceable
--  If the budget element is present then
+- If the budget element is present then
 
--  period-start/\@iso-date is MANDATORY and must be a valid ISO format  -
-   enforced by the schema
--  period-end/\@iso-date is MANDATORY and must be a valid ISO format -
-   enforced by the schema
--  period-end/\@iso-date must be after period-start/\@iso-date - not
-   enforceable by the schema
--  Each budget should cover a period no longer than 1 year- not
-   enforceable by the schema
+  * period-start/\@iso-date is MANDATORY and must be a valid ISO format (enforced by the schema)
+  * period-end/\@iso-date is MANDATORY and must be a valid ISO format (enforced by the schema)
+  * period-end/\@iso-date must be after period-start/\@iso-date (not enforceable by the schema)
+  * Each budget should cover a period no longer than 1 year (not enforceable by the schema)
 
 for discussion go to
 `http://support.iatistandard.org/entries/22900321-Modify-budget-period-start-and-budget-period-end-make-mandatory <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F22900321-Modify-budget-period-start-and-budget-period-end-make-mandatory%3Fpage%3D1%23post_25441557&sa=D&sntz=1&usg=AFQjCNE9udxHYgDMzfDgbLZEH-PrplBHUg>`__
-
-` <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F22993317-Modify-sector-validation-and-guidance&sa=D&sntz=1&usg=AFQjCNG8UMyxTCOmgxbS7BRfkyB7r59d7g>`__
 
 In addition, when other non-mandatory elements are used, the schema may
 dictate whether or not child elements must be present, the number of
@@ -356,10 +348,10 @@ mandatory by the schema.
 
 Each Organisation record MUST contain:
 
--  a valid organisation identifier;  (element ( organisation-identifier)
+-  a valid organisation identifier;  (element (`organisation-identifier <http://dev.iatistandard.org/201/organisation-standard/iati-organisations/iati-organisation/organisation-identifier/>`__)
    presence tested by schema)
--  a name; (element (name/narrative) presence tested by schema)
--  a valid reporting organisation identifier (element (reporting-org)
+-  a name; (element (`name/narrative <http://dev.iatistandard.org/201/organisation-standard/iati-organisations/iati-organisation/name/narrative/>`__) presence tested by schema)
+-  a valid reporting organisation identifier (element (`reporting-org <http://dev.iatistandard.org/201/organisation-standard/iati-organisations/iati-organisation/reporting-org/>`__)
    presence tested by schema - validity could be tested by software)
 
 In addition, when other non-mandatory elements are used, the schema may
@@ -390,23 +382,20 @@ What is the change?
 +++++++++++++++++++
 In the Activity Standard
 
--  From version 2.01, the \@version attribute of \`\`iati-activities\`\`
+-  From version 2.01, the \@version attribute of `iati-activities <http://dev.iatistandard.org/201/activity-standard/iati-activities/>`__
    is mandatory
 -  In version 1.x the \`\`iati-activity\`\`element had an \@version
    attribute. This is no longer the case in version 2.01 (it has been
    removed).
--  The values for \@version must be on the \`\`Version\`\`
-   codeli\ `st: <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Fcodelists%2FVersion%2F&sa=D&sntz=1&usg=AFQjCNFQv12St-sRC8bZDjGDZxi1yogfYA>`__\ `http://dev.iatistandard.org/201/codelists/Version/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Fcodelists%2FVersion%2F&sa=D&sntz=1&usg=AFQjCNFQv12St-sRC8bZDjGDZxi1yogfYA>`__
+-  The values for \@version must be on the `version codelist <http://dev.iatistandard.org/201/codelists/Version/>`__.
 
 In the Organisation Standard
 
--  From version 2.01, the \@version attribute of
-   \`\`iati-organisations\`\` is mandatory
--  In version 1.x the \`iati-organisation\`\`element had an \@version
+-  From version 2.01, the \@version attribute of `iati-organisations <http://dev.iatistandard.org/201/organisation-standard/iati-organisations/>`__ is mandatory
+-  In version 1.x the \`iati-organisation\` element had an \@version
    attribute. This is no longer the case in version 2.01 (it has been
    removed).
--  The values for \@version must be on the \`\`Version\`\`
-   codeli\ `st: <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Fcodelists%2FVersion%2F&sa=D&sntz=1&usg=AFQjCNFQv12St-sRC8bZDjGDZxi1yogfYA>`__\ `http://dev.iatistandard.org/201/codelists/Version/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Fcodelists%2FVersion%2F&sa=D&sntz=1&usg=AFQjCNFQv12St-sRC8bZDjGDZxi1yogfYA>`__
+-  The values for \@version must be on the `version codelist <http://dev.iatistandard.org/201/codelists/Version/>`__.
 
 Where is this applicable?
 +++++++++++++++++++++++++
@@ -420,7 +409,7 @@ For an iati-activity example see:
 
 For an iati-organisation example see:
 
--  `http://dev.iatistandard.org/201 <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Factivity-standard%2Fiati-activities%2F&sa=D&sntz=1&usg=AFQjCNHdl8J5xzWHX623ZGEhhAlwZqw5pQ>`__/`organisation-standard/iati-organisations/ <http://www.google.com/url?q=http%3A%2F%2Forganisation-standard%2Fiati-organisations%2F&sa=D&sntz=1&usg=AFQjCNGxmlj8oCYwmzYdiTVGCJXHpskaHw>`__
+-  `http://dev.iatistandard.org/201/organisation-standard/iati-organisations/ <http://dev.iatistandard.org/201/organisation-standard/iati-organisations/>`__
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
@@ -430,8 +419,7 @@ data will fail validation against the relevant 2.01 schema.
 If you include iati-activity/\@verison or iati-organisation\@version the
 data will fail validation against the relevant 2.01 schema.
 
-If you do not use a value for \@version from the  \`\`Version\`\`
-codeli\ `st: <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Fcodelists%2FVersion%2F&sa=D&sntz=1&usg=AFQjCNFQv12St-sRC8bZDjGDZxi1yogfYA>`__\ `http://dev.iatistandard.org/201/codelists/Version/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Fcodelists%2FVersion%2F&sa=D&sntz=1&usg=AFQjCNFQv12St-sRC8bZDjGDZxi1yogfYA>`__ data
+If you do not use a value for \@version from the `version codelist <http://dev.iatistandard.org/201/codelists/Version/>`__. data
 users may have difficulty processing your data.
 
 
@@ -513,11 +501,11 @@ changed in version 2.01.
 Text is no longer reported directly in the element itself, instead every
 affected element gets a new 'narrative' child element, where the text
 can be supplied. The narrative element can be repeated in order to
-supply translations in different languages.  See Handling Translations
+supply translations in different languages.  See **Handling Translations**
 
 There are many elements that contain data specified by a code value
-where free text can no longer be supplied at all. See Descriptive text
-is no longer allowed on data specified by codes (with some exceptions)
+where free text can no longer be supplied at all. See **Descriptive text
+is no longer allowed on data specified by codes (with some exceptions)**
 
 Why has this been done?
 +++++++++++++++++++++++
@@ -543,12 +531,12 @@ in 2.01
 
 <title>
 
-<narrative>Some title here</narrative>
+  <narrative>Some title here</narrative>
 
 </title>
 
-See also:
-
+See also
+++++++++
 Examples of how this change works can be seen on (for example):
 
 -  `http://dev.iatistandard.org/201/activity-standard/iati-activities/iati-activity/title/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Factivity-standard%2Fiati-activities%2Fiati-activity%2Ftitle%2F&sa=D&sntz=1&usg=AFQjCNFfJsTmCPEzMQ7hA-OOYhuRhqAfmA>`__
