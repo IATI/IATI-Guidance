@@ -7,6 +7,7 @@ Document Status: DRAFT
 Publication date: wk bg: 29nd September (in dev 2.01 site)
 Publication destination: Upgrades section (with relevant links to from)
 
+.. contents::
 
 Overview
 --------

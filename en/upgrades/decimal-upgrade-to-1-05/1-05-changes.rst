@@ -1,12 +1,13 @@
 1.05 Changes
 ^^^^^^^^^^^^
+
 Changes / Additions to IATI Standard for version 1.05
 
 .. contents::
 
 Schema Changes
 ==============
-A full diff of all schema changes in 1.05 can be found in github at https://github.com/IATI/IATI-Schemas/compare/version-1.04...version-1.05#files_bucket
+A full diff of all schema changes in 1.05 can be found in the `IATI GitHub <https://github.com/IATI/IATI-Schemas/compare/version-1.04...version-1.05#files_bucket>`__
 
 .. _1_05_activities_schema_changes:
 
@@ -84,7 +85,7 @@ Codelist: :doc:`Activity Status </codelists/ActivityStatus>`
 
 *Description Type: New code*
 ````````````````````````````
-Codelist: :doc:`Description Type </codelists/DescriptionType>` 
+Codelist: :doc:`DescriptionType </codelists/DescriptionType>` 
 (`discussion <http://support.iatistandard.org/entries/22922878-Description-type-extend-the-codelist>`__)
 
 .. list-table::
@@ -100,7 +101,7 @@ Codelist: :doc:`Description Type </codelists/DescriptionType>`
 
 *Document Category: New codes*
 ``````````````````````````````
-Codelist:  :doc:`Document Category </codelists/DocumentCategory>` 
+Codelist:  :doc:`DocumentCategory </codelists/DocumentCategory>` 
 (`discussion <http://support.iatistandard.org/entries/86661313-Document-Types->`__)
 
 .. list-table::
@@ -129,7 +130,7 @@ Codelist:  :doc:`Document Category </codelists/DocumentCategory>`
 
 *Related Activity Type: New code*
 `````````````````````````````````  
-Codelist: :doc:`Related Activity Type </codelists/RelatedActivityType>` 
+Codelist: :doc:`RelatedActivityType </codelists/RelatedActivityType>` 
 (`discussion <http://support.iatistandard.org/entries/54201556-related-activity-new-code>`__)
 
 .. list-table::
@@ -145,7 +146,7 @@ Codelist: :doc:`Related Activity Type </codelists/RelatedActivityType>`
 
 *Related Activity Type: Amended code*
 `````````````````````````````````````
-Codelist: :doc:`Related Activity Type </codelists/RelatedActivityType>` 
+Codelist: :doc:`RelatedActivityType </codelists/RelatedActivityType>` 
 (`discussion <http://support.iatistandard.org/entries/54201556-related-activity-new-code>`__)
 
 In 1.04:
@@ -176,7 +177,7 @@ Name and description changed in 1.05:
 
 *Transaction Type: Amended code*
 ````````````````````````````````
-Codelist: :doc:`Transaction Type </codelists/TransactionType>` 
+Codelist: :doc:`TransactionType </codelists/TransactionType>` 
 (`discussion <http://support.iatistandard.org/entries/50777388-Description-For-Transcation-Type-Incoming-Funds-Is-Incorrect>`__)
 
 In 1.04:
@@ -224,7 +225,7 @@ Codelist: :doc:`Vocabulary </codelists/Vocabulary>`
      
 *Policy Marker: New code*
 `````````````````````````
-Codelist: :doc:`Policy Marker </codelists/PolicyMarker>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
+Codelist: :doc:`PolicyMarker </codelists/PolicyMarker>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
 .. list-table::
    :widths: 15 20 30
@@ -242,7 +243,7 @@ Non-embedded codelist updates
 
 *Policy Significance: New code*
 ```````````````````````````````
-Codelist: :doc:`Policy Significance </codelists/PolicySignificance>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
+Codelist: :doc:`PolicySignificance </codelists/PolicySignificance>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
 .. list-table::
    :widths: 15 20 30
@@ -296,7 +297,7 @@ Codelist pages
 
 *Policy Significance*
 `````````````````````
-Codelist: :doc:`Policy Significance </codelists/PolicySignificance>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
+Codelist: :doc:`PolicySignificance </codelists/PolicySignificance>` (`discussion <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__)
 
 .. list-table::
    :widths: 20 40
