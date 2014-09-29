@@ -181,6 +181,33 @@ Element: :doc:`crs-add/other-flags </activity-standard/iati-activities/ iati-act
    * - aid-type-flag
      - other-flags
 
+*Other Identifier: New Child Elements*
+`````````````````````````````````
+The following elements were added to the ``other-identifier`` element:
+
+(`discussion <http://support.iatistandard.org/entries/52106549-Version-2-01-Iteration-2-3-7-Replicate-more-activity-level-elements-at-transaction-level->`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#additional-elements-in-transactions-sector-recipient-country-recipient-region>`__)
+
+* Element: :doc:`other-identifier/owner-org </activity-standard/activity-standard/iati-activities/iati-activity/other-identifier/owner-org>`
+* Element: :doc:`other-identifier/owner-org/narrative </activity-standard/activity-standard/iati-activities/iati-activity/other-identifier/owner-org/narrative>`
+
+*Other Identifier: Removed / New Attributes*
+````````````````````````````````````````````
+Element: :doc:`other-identifier </activity-standard/activity-standard/iati-activities/iati-activity/other-identifier>` 
+(`discussion <http://support.iatistandard.org/entries/52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#update-to-other-identifier-adding-type-changing-definition-new-codelist>`__)
+
+.. list-table::
+   :widths: 20 20
+   :header-rows: 1
+
+   * - 1.0x
+     - 2.01
+   * - other-identifier/@owner-name
+     - (removed)
+   * - other-identifier/@owner-ref
+     - (removed)
+   * - (none)
+     - other-identifier/@ref
+          
 *Planned Disbursement: New Attribute*
 `````````````````````````````````````
 Element: :doc:`planned-disbursement </activity-standard/activity-standard/iati-activities/iati-activity/planned-disbursement>` 
@@ -208,7 +235,23 @@ Element: :doc:`planned-disbursement </activity-standard/activity-standard/iati-a
      - 2.01
    * - planned-disbursement/@updated
      - (removed)
-    
+
+*Planned Disbursement: Removed/Renamed Attributes*
+``````````````````````````````````````````
+Element: :doc:`other-identifier </activity-standard/activity-standard/iati-activities/iati-activity/other-identifier>` 
+(`discussion <http://support.iatistandard.org/entries/77495498-Align-planned-disbursement-with-budget>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#update-to-other-identifier-adding-type-changing-definition-new-codelist>`__)
+
+.. list-table::
+   :widths: 20 20
+   :header-rows: 1
+
+   * - 1.0x
+     - 2.01
+   * - planned-disbursement/@updated
+     - (removed)
+   * - planned-disbursement/@updated
+     - (removed)
+   
 *Transaction: New Child Elements*
 `````````````````````````````````
 The following elements were added to the ``transaction`` element:
@@ -294,17 +337,47 @@ Codelist Changes
 
 New Codelists
 -------------
-No new codelists were added in 1.05
 
+*Other Identifier Type: New Codelist*
+`````````````````````````````````````
+Codelist: :doc:`OtherIdentifierType Type </codelists/OtherIdentifierType>` 
+(`discussion <http://support.iatistandard.org/entries/52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#update-to-other-identifier-adding-type-changing-definition-new-codelist>`__)
 
+.. list-table::
+   :widths: 15 20 30
+   :header-rows: 1
+   
+   * - Code
+     - Name
+     - Description
+   * - A1
+     - Reporting Organisation’s internal activity identifier
+     - (none)
+   * - A2
+     - CRS Activity identifier
+     - (none)
+   * - A3
+     - Previous Activity Identifier
+     - The standard insists that once an activity has been reported to IATI its identifier MUST NOT be changed, even if the reporting organisation changes its organisation identifier. There may be exceptional circumstances in which this rule cannot be followed, in which case the previous identifier should be reported using this code.
+   * - A9
+     - Other Activity Identifier
+     - (none)
+   * - B1
+     - Previous Reporting Organisation Identifier
+     - (none)
+   * - B9
+     - Other Organisation Identifier
+     - (none)
+
+     
 Embedded codelist updates
 -------------------------
 
 *Aid Type Flag: Renamed codelist*
-```````````````````````````````````
+`````````````````````````````````
 The *AidTypeFlag* codelist has been renamed to *CRSAddOtherFlags*.
  
-Codelist: :doc:`CRSAddOtherFlags Type </codelists/CRSAddOtherFlags>` 
+Codelist: :doc:`CRSAddOtherFlags </codelists/CRSAddOtherFlags>` 
 (`discussion <http://support.iatistandard.org/entries/29705458-Confusion-Between-Aid-Type-Flag-Type-of-Aid->`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#renamed-moved-and-removed-elements>`__)
 
 .. list-table::
