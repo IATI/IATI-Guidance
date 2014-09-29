@@ -89,6 +89,19 @@ The ability to add free text has been removed from the following elements:
 * Element: :doc:`location/location-id </activity-standard/iati-activities/iati-activity/location/location-id>`
 * Element: :doc:`location/administrative </activity-standard/iati-activities/iati-activity/location/administrative>`
 
+*IATI Activity: Removed Attribute*
+``````````````````````````````````
+Element: :doc:`iati-activity </activity-standard/iati-activities/iati-activity/>` (`discussion <http://support.iatistandard.org/entries/52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#update-to-other-identifier-adding-type-changing-definition-new-codelist>`__)
+
+.. list-table::
+   :widths: 20 20
+   :header-rows: 1
+
+   * - 1.0x
+     - 2.01
+   * - iati-activity/@version
+     - (removed)
+
 *Location: Removed Elements*
 `````````````````````````````
 Element: :doc:`location </activity-standard/iati-activities/iati-activity/location>` 
@@ -319,6 +332,18 @@ A ``narrative`` child element was added to the following elements, to enable the
 * Element: :doc:`recipient-country-budget/recipient-country/narrative </organisation-standard/iati-organisations/iati-organisation/recipient-country-budget/recipient-country/narrative>`
 * Element: :doc:`recipient-org-budget/recipient-org/narrative </organisation-standard/iati-organisations/iati-organisation/recipient-org-budget/recipient-org/narrative>`
 
+*IATI Organisation: Removed Attribute*
+``````````````````````````````````
+Element: :doc:`iati-activity </organisation-standard/iati-organisations/iati-organisation/>` (`discussion <http://support.iatistandard.org/entries/52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#update-to-other-identifier-adding-type-changing-definition-new-codelist>`__)
+
+.. list-table::
+   :widths: 20 20
+   :header-rows: 1
+
+   * - 1.0x
+     - 2.01
+   * - iati-organisation/@version
+     - (removed)
 
 Common schema
 -------------
@@ -368,6 +393,44 @@ Codelist: :doc:`OtherIdentifierType Type </codelists/OtherIdentifierType>`
    * - B9
      - Other Organisation Identifier
      - (none)
+
+*Version: New Codelist*
+`````````````````````````````````````
+Codelist: :doc:`Version </codelists/Version>` 
+(`discussion <http://support.iatistandard.org/entries/57866638-Tightening-up-on-version>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#declaring-the-version-of-the-iati-standard-being-used>`__)
+
+.. list-table::
+   :widths: 15 10 10 20
+   :header-rows: 1
+   
+   * - Code
+     - Name
+     - Description
+     - URL
+   * - 1.01
+     - (none)
+     - (none)
+     - http://iatistandard.org/101/
+   * - 1.02
+     - CRS Activity identifier
+     - (none)
+     - http://iatistandard.org/102/
+   * - 1.03
+     - (none)
+     - (none)
+     - http://iatistandard.org/103/
+   * - 1.04
+     - (none)
+     - (none)
+     - http://iatistandard.org/104/
+   * - 1.05
+     - (none)
+     - (none)
+     - http://iatistandard.org/105/
+   * - 2.01
+     - (none)
+     - (none)
+     -  http://iatistandard.org/201/
 
      
 Embedded codelist updates
