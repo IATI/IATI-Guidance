@@ -832,11 +832,6 @@ In version 2.01 of the IATI Standard, to report an activity website you
 would do so using a document-link element, and it's child 'category' to
 specify the document is a web site.
 
-In version 1.x of the IATI Standard there is an element called
-indicatorOutcomeType which seems to have never been used.
-
-In version 2.01 of the IATI Standard this element is not present.
-
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
 If elements and attributes are published with the old properties, then
