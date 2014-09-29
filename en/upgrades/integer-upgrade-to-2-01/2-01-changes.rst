@@ -15,7 +15,7 @@ A full diff of all schema changes in 2.01 can be found in the `IATI GitHub <http
 Activities schema
 -----------------
 *Activity Website: Removed Element*
-```````````````````````````````````
+````````````````````````````````````
 Element: `activity-website <http://iatistandard.org/reference/activity-standard/iati-activities/iati-activity/activity-website>`__ 
 (`discussion <http://support.iatistandard.org/entries/76684383-Redefine-activity-website-as-a-document-link>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#renamed-moved-and-removed-elements>`__)
 
@@ -29,7 +29,7 @@ Element: `activity-website <http://iatistandard.org/reference/activity-standard/
      - (removed)
      
 *Contact Info - Department: New Element*
-````````````````````````````````````````
+`````````````````````````````````````````
 Element: :doc:`contact-info/department </activity-standard/iati-activities/iati-activity/contact-info/department>` 
 (`discussion <http://support.iatistandard.org/entries/44571616-Organisational-unit-within-contact-details>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#new-elements>`__)
 
@@ -43,7 +43,7 @@ Element: :doc:`contact-info/department </activity-standard/iati-activities/iati-
      - contact-info/department
 
 *Description: Removed Attributes*
-`````````````````````````````````
+``````````````````````````````````
 Elements: :doc:`country-budget-items/budget-item/description </activity-standard/activity-standard/iati-activities/iati-activity/country-budget-items/budget-item/description>` | :doc:`result/description </activity-standard/activity-standard/iati-activities/iati-activity/result/description/>` | :doc:`result/indicator/description </activity-standard/activity-standard/iati-activities/iati-activity/result/indicator/description/>`
 (`discussion <http://support.iatistandard.org/entries/52106609-Version-2-01-Iteration-3-8-Miscellaneous>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#removal-of-the-type-attribute-on-some-description-elements>`__)
 
@@ -90,7 +90,7 @@ The ability to add free text has been removed from the following elements:
 * Element: :doc:`location/administrative </activity-standard/iati-activities/iati-activity/location/administrative>`
 
 *Location: Removed Elements*
-````````````````````````````
+`````````````````````````````
 Element: :doc:`location </activity-standard/iati-activities/iati-activity/location>` 
 (`discussion <http://support.iatistandard.org/entries/51310806-Delete-don-t-just-deprecate-codes-in-2-01>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#location-changes>`__)
 
@@ -128,7 +128,7 @@ Element: :doc:`location </activity-standard/activity-standard/iati-activities/ia
      - (removed)  
                
 *Narrative: New Elements*
-`````````````````````````
+``````````````````````````
 A ``narrative`` child element was added to the following elements, to enable the inclusion free text.
  
 (`discussion <http://support.iatistandard.org/entries/41585166-General-Standardise-multi-lingual-text-fields>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#new-elements>`__)
@@ -166,7 +166,7 @@ A ``narrative`` child element was added to the following elements, to enable the
 * Element: :doc:`result/indicator/period/actual/comment/narrative </activity-standard/iati-activities/iati-activity/result/indicator/period/actual/comment/narrative>`
 
 *Other Flags: Renamed Element*
-``````````````````````````````
+```````````````````````````````
 The ``aid-type-flag`` element has been renamed to ``other-flags``.
 
 Element: :doc:`crs-add/other-flags </activity-standard/iati-activities/ iati-activity/crs-add/other-flags>` 
@@ -182,7 +182,7 @@ Element: :doc:`crs-add/other-flags </activity-standard/iati-activities/ iati-act
      - other-flags
 
 *Other Identifier: New Child Elements*
-`````````````````````````````````
+```````````````````````````````````````
 The following elements were added to the ``other-identifier`` element:
 
 (`discussion <http://support.iatistandard.org/entries/52106549-Version-2-01-Iteration-2-3-7-Replicate-more-activity-level-elements-at-transaction-level->`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#additional-elements-in-transactions-sector-recipient-country-recipient-region>`__)
@@ -191,7 +191,7 @@ The following elements were added to the ``other-identifier`` element:
 * Element: :doc:`other-identifier/owner-org/narrative </activity-standard/activity-standard/iati-activities/iati-activity/other-identifier/owner-org/narrative>`
 
 *Other Identifier: Removed / New Attributes*
-````````````````````````````````````````````
+`````````````````````````````````````````````
 Element: :doc:`other-identifier </activity-standard/activity-standard/iati-activities/iati-activity/other-identifier>` 
 (`discussion <http://support.iatistandard.org/entries/52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#update-to-other-identifier-adding-type-changing-definition-new-codelist>`__)
 
@@ -209,7 +209,7 @@ Element: :doc:`other-identifier </activity-standard/activity-standard/iati-activ
      - other-identifier/@ref
           
 *Planned Disbursement: New Attribute*
-`````````````````````````````````````
+``````````````````````````````````````
 Element: :doc:`planned-disbursement </activity-standard/activity-standard/iati-activities/iati-activity/planned-disbursement>` 
 (`discussion <http://support.iatistandard.org/entries/77495498-Align-planned-disbursement-with-budget>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#changes-to-the-planned-disbursement-element-planned-disbursement>`__)
 
@@ -223,7 +223,7 @@ Element: :doc:`planned-disbursement </activity-standard/activity-standard/iati-a
      - planned-disbursement/@type
      
 *Planned Disbursement: Removed Attribute*
-`````````````````````````````````````````
+``````````````````````````````````````````
 Element: :doc:`planned-disbursement </activity-standard/activity-standard/iati-activities/iati-activity/planned-disbursement>` 
 (`discussion <http://support.iatistandard.org/entries/77495498-Align-planned-disbursement-with-budget>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#changes-to-the-planned-disbursement-element-planned-disbursement>`__)
 
@@ -237,7 +237,7 @@ Element: :doc:`planned-disbursement </activity-standard/activity-standard/iati-a
      - (removed)
 
 *Planned Disbursement: Removed/Renamed Attributes*
-``````````````````````````````````````````
+```````````````````````````````````````````````````
 Element: :doc:`other-identifier </activity-standard/activity-standard/iati-activities/iati-activity/other-identifier>` 
 (`discussion <http://support.iatistandard.org/entries/77495498-Align-planned-disbursement-with-budget>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#update-to-other-identifier-adding-type-changing-definition-new-codelist>`__)
 
@@ -253,7 +253,7 @@ Element: :doc:`other-identifier </activity-standard/activity-standard/iati-activ
      - (removed)
    
 *Transaction: New Child Elements*
-`````````````````````````````````
+``````````````````````````````````
 The following elements were added to the ``transaction`` element:
 
 (`discussion <http://support.iatistandard.org/entries/52106549-Version-2-01-Iteration-2-3-7-Replicate-more-activity-level-elements-at-transaction-level->`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#additional-elements-in-transactions-sector-recipient-country-recipient-region>`__)
@@ -283,7 +283,7 @@ The ``recipient-country`` child element was added to the ``iati-organisation/doc
 Element: :doc:`document-link/recipient-country/narrative </organisation-standard/iati-organisations/iati-organisation/document-link/recipient-country/narrative>` (`discussion <http://support.iatistandard.org/entries/78420356-Org-Add-recipient-country-to-document-link>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#additional-elements-in-organisation-documents-document-link>`__)
 
 *Freetext: Amended Elements*
-````````````````````````````
+`````````````````````````````
 The ability to add free text has been removed from the following element:
  
 (`discussion <http://support.iatistandard.org/entries/41585166-General-Standardise-multi-lingual-text-fields>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#descriptive-text-is-no-longer-allowed-on-data-specified-by-codes-with-some-exceptions>`__)
@@ -291,7 +291,7 @@ The ability to add free text has been removed from the following element:
 * Element: :doc:`document-category </organisation-standard/iati-organisations/iati-organisation/document-category>`
 
 *IATI Identifier: Renamed Element*
-``````````````````````````````
+```````````````````````````````````
 The ``iati-organisation/iati-identifier`` element has been renamed to ``iati-organisation/organisation-identifier``.
 
 Element: :doc:`iati-organisation/organisation-identifier </organisation-standard/iati-organisation/ iati-organisation/organisation-identifier>` 
@@ -307,7 +307,7 @@ Element: :doc:`iati-organisation/organisation-identifier </organisation-standard
      - other-flags
      
 *Narrative: New Elements*
-`````````````````````````
+``````````````````````````
 A ``narrative`` child element was added to the following elements, to enable the inclusion free text.
  
 (`discussion <http://support.iatistandard.org/entries/44571616-Organisational-unit-within-contact-details>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#new-elements>`__)
