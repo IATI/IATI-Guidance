@@ -819,7 +819,7 @@ would do so using a document-link element, and it's child 'category' to
 specify the document is a web site.
 
 In version 1.x of the IATI Standard there is an element called
-indicatorOutcomerType which seems to have never been used.
+indicatorOutcomeType which seems to have never been used.
 
 In version 2.01 of the IATI Standard this element is not present.
 
