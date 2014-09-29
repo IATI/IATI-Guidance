@@ -316,8 +316,8 @@ Element: :doc:`iati-organisation/organisation-identifier </organisation-standard
 
    * - 1.0x
      - 2.01
-   * - aid-type-flag
-     - other-flags
+   * - iati-organisation/iati-identifier
+     - iati-organisation/organisation-identifier
      
 *Narrative: New Elements*
 ``````````````````````````
