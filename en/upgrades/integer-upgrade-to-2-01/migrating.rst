@@ -4,9 +4,6 @@ Migrating from IATI Standard versions 1.x to version 2.01
 Document Status: DRAFT
 ----------------------
 
-Publication date: wk bg: 29nd September (in dev 2.01 site)
-Publication destination: Upgrades section (with relevant links to from)
-
 .. contents::
 
 Overview
@@ -38,6 +35,12 @@ IATI organisation identifiers should:
 * be constructed from a consistent methodology
 * be compatible with other data standards
 
+Specifically, a valid organisation identifier:
+
+* Must start with a valid agency prefix
+* The agency prefix MUST be a valid code in the :doc:`IATI OrganisationRegistrationAgency codelist </codelists/OrganisationRegistrationAgency/>`
+* MUST only contain alphanumeric characters and hyphen, underscore, colon or period
+
 IATI activity identifiers
 
 * must be globally unique
@@ -57,46 +60,41 @@ once reported, an activity should maintain its original identifier).
 
 In version 2.01 of the IATI Standard, therefore, we need a way to record
 the previous organisation identifier when this changes. We can do this 
-using the other-identifier element. For infation on the changes to that 
-element see: 
-Update to other-identifier - adding \@type, changing definition, new codelist
+using the :doc:`other-identifier </activity-standard/iati-activities/iati-activity/other-identifier/>` element. For information on the changes to that 
+element see: **Update to other-identifier element**
 
-in addition:
+In addition:
 
 * ALL publishers of IATI data MUST have a valid organisation identifier reported in reporting-org/\@ref
-* When using the \@ref attribute in in participating-org/\@ref, transaction/provider-org/\@ref and transaction/receiver-org/\@ref must be a valid organisation identifier. If you do not have one, then the narrative element may be used to describe the organisation.
+* When using the \@ref attribute in participating-org/\@ref, transaction/provider-org/\@ref and transaction/receiver-org/\@ref must be a valid organisation identifier. If you do not have one, then the narrative element may be used to describe the organisation.
 * The reporting-org element is MANDATORY.
 
   - ALL the following rules must apply to the organisation-identifier in reporting-org/\@ref
   - It is mandatory
-  - The agency prefix MUST be a valid code in the IATI OrganisationRegistrationAgency codelist
   - The identifier MUST be the same as that recorded by the publisher on the IATI Registry
-  - The identifier MUST only contain alphanumeric characters and hyphen, underscore, colon or period
   
 * The iati-identifier is MANDATORY
 
   - It MUST be globally unique among all activities published through the IATI Registry
   - Once an activity has been reported to IATI its identifier MUST NOT be changed in subsequent updates, 
-  - It MUST be prefixed with EITHER the organisation-identifier found in reporting-org/\@ref OR a previous reporting-org identifier reported in other-identifier
+  - It MUST be prefixed with EITHER the organisation-identifier found in reporting-org/\@ref OR a previous reporting-org identifier reported in :doc:`other-identifier </activity-standard/iati-activities/iati-activity/other-identifier/>`
   - The identifier MUST only contain alphanumeric characters and hyphen, underscore, colon or period
 
 What is the change?
 +++++++++++++++++++
 The biggest change is that all organisations must have an Organisation 
-Identifier that is prefixed with a valid code on the IATI 
-OrganisationRegistrationAgency codelist.
+Identifier that is prefixed with a valid code on the :doc:`IATI OrganisationRegistrationAgency codelist </codelists/OrganisationRegistrationAgency/>`
 
 This means that a number of publishers will have to:
 
 * Change their organisation identifier
-* Continue to report existing activities using the same activity identifier, but also report their previous Organisation Identifier using the `other-identifier` element.
+* Continue to report existing activities using the same activity identifier, but also report their previous Organisation Identifier using the :doc:`other-identifier </activity-standard/iati-activities/iati-activity/other-identifier/>` element.
 
-In addtion, if they wish to use IATI as their registration agency, they 
-will need to agree their new identifier on the IATI 
-OrganisationRegistrationAgency codelist.
+In addition, if they wish to use IATI as their registration agency, they 
+will need to agree their new identifier on the :doc:`IATIOrganisationIdentifier codelist </codelists/IATIOrganisationIdentifier/>`
 
 Wherever \@ref is used to talk about organisations in the standard, those
-references must be a valid organisation identifier.
+references must be a valid organisation identifier (as defined above).
 
 Where is this applicable?
 +++++++++++++++++++++++++
@@ -106,14 +104,13 @@ throughout the IATI Standard
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
 While the schema will not be able to test for valid Organistion and 
-IATI identifiers, it is possible to machine write tests to check for some
+Activity identifiers, it is possible to machine write tests to check for some
 compliance. However if your data does not meet these standards then it 
 becomes difficult for others to use.
 
 
-Update to other-identifier - adding \@type, changing definition, new codelist
-=============================================================================
-THERE IS MORE TO BE DONE HERE - THE CHANGES ARE NOW MUCH BIGGER
+Update to other-identifier element
+==================================
 
 What is the change?
 +++++++++++++++++++
@@ -123,10 +120,14 @@ be used to specify an alternative, non-IATI identifier for the activity.
 In version 2.01 of the IATI Standard the definition of the element has
 changed to allow an number of types of alternative identifiers.
 
-In version 2.01 of the IATI Standard a new other-identifier/\@type
-attribute is used to specify the type of identifier being given.
+In version 2.01 of the IATI Standard the element has been re-constructed
+ - The \@owner-ref and \@owner-name attributes have been removed.
+ - New attributes other-identifier/\@type and other-identifier/\@ref are added
+ - The \@type attribute is used to specify the type of identifier being given.
+ - The \@ref attribute is used for the identifier itself.
+ - There is a child element :doc:`other-identifier/owner-org </activity-standard/iati-activities/iati-activity/other-identifier/owner-org/>` where information about the organiation that crafted the identifier can be given. This field is set up so that multilingual text can be supplied,
 
-In version 2.01 of the IATI Standard a new OtherIdentifierType codelist is introduced.
+In version 2.01 of the IATI Standard a new :doc:`OtherIdentifierType </codelists/OtherIdentifierType/>` codelist is introduced.
 
 Where is this applicable?
 +++++++++++++++++++++++++
@@ -134,20 +135,34 @@ In the Activity schema
 
 Why has this been done?
 +++++++++++++++++++++++
-Because an iati-identifier needs to be unique and (once reported to
+This change is in part to be able to deal with organisations changing their
+organsiation identifiers. Because an iati-identifier needs to be unique and (once reported to
 IATI) will never change, and because it is constructed using an
 organisation identifier, when organisation identifiers change, data
-users still need to be able to relate activities to organisations. To
-solve this, a previous reporting-org identifier can be reported in
-other-identifier element.
+users still need to be able to relate activities to organisations. 
 
-Therefore, an iati-identifier must be prefixed with:
+To solve this, a previous reporting-org identifier can be reported in the
+:doc:`other-identifier </activity-standard/iati-activities/iati-activity/other-identifier/>` element. This then allows us to require that an iati-identifier must be prefixed with:
 
 -  EITHER the organisation-identifier found in reporting-org/\@ref
--  OR a previous reporting-org identifier reported in other-identifier
+-  OR a previous reporting-org identifier reported in :doc:`other-identifier </activity-standard/iati-activities/iati-activity/other-identifier/>`
 
 For more information see:
 `http://support.iatistandard.org/entries/52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers&sa=D&sntz=1&usg=AFQjCNEOXRcN9LWCZwcYQPAAxmUD2wPZ5A>`__
+
+To make this element work, a new OtherIdentifierType codelist has been 
+constructed, and the entire element has been re-constructed.
+
+Example
++++++++
+See: :doc:`other-identifier </activity-standard/iati-activities/iati-activity/other-identifier/>`
+
+What happens if we do not do this?
+++++++++++++++++++++++++++++++++++
+ - Anyone reporting other-identifier in versions 1.x of the IATI Standard will need to reconstruct the way they report the data. They can continue to report the same data, but just need to reformat it. 
+ - Data users should be aware that parsing :doc:`other-identifier </activity-standard/iati-activities/iati-activity/other-identifier/>` is different in 2.01.
+ - Data publishers may take advantage of the opportunities to report other types of identifier that were not previously available to them.
+ - Data may fail validation against the relevant 2.01 schema if the changes are not taken into consideration.
 
 
 Changes introduced between versions 1.04 and 1.05 have also been included in 2.01
@@ -349,8 +364,7 @@ mandatory by the schema.
 
 Each Organisation record MUST contain:
 
--  a valid organisation identifier;  (element (`organisation-identifier <http://dev.iatistandard.org/201/organisation-standard/iati-organisations/iati-organisation/organisation-identifier/>`__)
-   presence tested by schema)
+-  a valid organisation identifier;  (element (:doc:`organisation-identifier </organisation-standard/iati-organisations/iati-organisation/organisation-identifier/>`) presence tested by schema)
 -  a name; (element (`name/narrative <http://dev.iatistandard.org/201/organisation-standard/iati-organisations/iati-organisation/name/narrative/>`__) presence tested by schema)
 -  a valid reporting organisation identifier (element (`reporting-org <http://dev.iatistandard.org/201/organisation-standard/iati-organisations/iati-organisation/reporting-org/>`__)
    presence tested by schema - validity could be tested by software)
@@ -817,11 +831,6 @@ element.
 In version 2.01 of the IATI Standard, to report an activity website you
 would do so using a document-link element, and it's child 'category' to
 specify the document is a web site.
-
-In version 1.x of the IATI Standard there is an element called
-indicatorOutcomerType which seems to have never been used.
-
-In version 2.01 of the IATI Standard this element is not present.
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
