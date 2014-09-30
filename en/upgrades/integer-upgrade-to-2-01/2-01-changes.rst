@@ -16,7 +16,7 @@ Activities schema
 -----------------
 *Activity Website: Removed Element*
 ````````````````````````````````````
-Element: `activity-website <http://iatistandard.org/reference/activity-standard/iati-activities/iati-activity/activity-website>`__ 
+Element: :doc:`activity-website <activity-standard/iati-activities/iati-activity/activity-website>` 
 (`discussion <http://support.iatistandard.org/entries/76684383-Redefine-activity-website-as-a-document-link>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#renamed-moved-and-removed-elements>`__)
 
 .. list-table::
@@ -55,9 +55,9 @@ Elements: :doc:`country-budget-items/budget-item/description </activity-standard
      - 2.01
    * - country-budget-items/budget-item/description/@type
      - (removed)
-   * - result/description/@type
+   * - result/description/\@type
      - (removed)
-   * - result/indicator/description/@type
+   * - result/indicator/description/\@type
      - (removed)          
 
 *Freetext: Amended Elements*
@@ -99,7 +99,7 @@ Element: :doc:`iati-activity </activity-standard/iati-activities/iati-activity/>
 
    * - 1.0x
      - 2.01
-   * - iati-activity/@version
+   * - iati-activity/\@version
      - (removed)
 
 *Location: Removed Elements*
@@ -131,13 +131,13 @@ Element: :doc:`location </activity-standard/activity-standard/iati-activities/ia
 
    * - 1.0x
      - 2.01
-   * - location/@percentage
+   * - location/\@percentage
      - (removed)
-   * - location/administrative/@country
+   * - location/administrative/\@country
      - (removed)
-   * - location/administrative/@adm1
+   * - location/administrative/\@adm1
      - (removed)          
-   * - location/administrative/@adm2
+   * - location/administrative/\@adm2
      - (removed)  
                
 *Narrative: New Elements*
@@ -154,7 +154,7 @@ A ``narrative`` child element was added to the following elements, to enable the
 * Element: :doc:`contact-info/organisation/narrative </activity-standard/iati-activities/iati-activity/contact-info/organisation/narrative>`
 * Element: :doc:`contact-info/department/narrative </activity-standard/iati-activities/iati-activity/contact-info/department/narrative>`
 * Element: :doc:`contact-info/person-name/narrative </activity-standard/iati-activities/iati-activity/contact-info/person-name/narrative>`
-* Element: :doc:`contact-info/job-title/narrative </activity-standard/iati-activities/iati-activity/contact-info/job-tite/narrative>`
+* Element: :doc:`contact-info/job-title/narrative </activity-standard/iati-activities/iati-activity/contact-info/job-title/narrative>`
 * Element: :doc:`contact-info/mailing-address/narrative </activity-standard/iati-activities/iati-activity/contact-info/mailing-address/narrative>`
 * Element: :doc:`recipient-country/narrative </activity-standard/iati-activities/iati-activity/recipient-country/narrative>`
 * Element: :doc:`recipient-region/narrative </activity-standard/iati-activities/iati-activity/recipient-region/narrative>`
@@ -214,12 +214,12 @@ Element: :doc:`other-identifier </activity-standard/activity-standard/iati-activ
 
    * - 1.0x
      - 2.01
-   * - other-identifier/@owner-name
+   * - other-identifier/\@owner-name
      - (removed)
-   * - other-identifier/@owner-ref
+   * - other-identifier/\@owner-ref
      - (removed)
    * - (none)
-     - other-identifier/@ref
+     - other-identifier/\@ref
           
 *Planned Disbursement: New Attribute*
 ``````````````````````````````````````
@@ -233,7 +233,7 @@ Element: :doc:`planned-disbursement </activity-standard/activity-standard/iati-a
    * - 1.0x
      - 2.01
    * - (none)
-     - planned-disbursement/@type
+     - planned-disbursement/\@type
      
 *Planned Disbursement: Removed Attribute*
 ``````````````````````````````````````````
@@ -246,7 +246,7 @@ Element: :doc:`planned-disbursement </activity-standard/activity-standard/iati-a
 
    * - 1.0x
      - 2.01
-   * - planned-disbursement/@updated
+   * - planned-disbursement/\@updated
      - (removed)
 
 *Planned Disbursement: Removed/Renamed Attributes*
@@ -260,9 +260,9 @@ Element: :doc:`other-identifier </activity-standard/activity-standard/iati-activ
 
    * - 1.0x
      - 2.01
-   * - planned-disbursement/@updated
+   * - planned-disbursement/\@updated
      - (removed)
-   * - planned-disbursement/@updated
+   * - planned-disbursement/\@updated
      - (removed)
    
 *Transaction: New Child Elements*
@@ -342,7 +342,7 @@ Element: :doc:`iati-activity </organisation-standard/iati-organisations/iati-org
 
    * - 1.0x
      - 2.01
-   * - iati-organisation/@version
+   * - iati-organisation/\@version
      - (removed)
 
 Common schema
@@ -393,6 +393,20 @@ Codelist: :doc:`OtherIdentifierType Type </codelists/OtherIdentifierType>`
    * - B9
      - Other Organisation Identifier
      - (none)
+
+*Policy Marker Vocabulary: New codelist*
+`````````````````````````````````
+The ``PolicyMarkerVocabulary`` has been created, split from the deleted ``Vocabulary`` codelist.
+
+Codelist: :doc:`SectorVocabulary </codelists/PolicyMarkerVocabulary>` 
+(`discussion <http://support.iatistandard.org/entries/78019646-Separate-vocabulary-codelists>`__)
+
+*Sector Vocabulary: New codelist*
+`````````````````````````````````
+The ``SectorVocabulary`` has been created, split from the deleted ``Vocabulary`` codelist.
+
+Codelist: :doc:`SectorVocabulary </codelists/SectorVocabulary>` 
+(`discussion <http://support.iatistandard.org/entries/78019646-Separate-vocabulary-codelists>`__)
 
 *Version: New Codelist*
 `````````````````````````````````````
@@ -629,3 +643,10 @@ Codelist: :doc:`TransactionType </codelists/TransactionType>`
      - 9
    * - CG
      - 10
+
+*Vocabulary: Removed / split codelist*
+```````````````````````````````````````
+The ``Vocabulary`` has been removed, and split into two new codelists: ``SectorVocabulary`` and `PolicyMarkerVocabulary``.
+
+Codelist: :doc:`SectorVocabulary </codelists/SectorVocabulary>` | :doc:`SectorVocabulary </codelists/PolicyMarkerVocabulary>` 
+(`discussion <http://support.iatistandard.org/entries/78019646-Separate-vocabulary-codelists>`__)
