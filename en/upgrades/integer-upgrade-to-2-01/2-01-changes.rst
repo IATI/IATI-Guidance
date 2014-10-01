@@ -16,8 +16,7 @@ Activities schema
 -----------------
 *Activity Website: Removed Element*
 ````````````````````````````````````
-Element: `activity-website <http://iatistandard.org/reference/activity-standard/iati-activities/iati-activity/activity-website>`__ 
-(`discussion <http://support.iatistandard.org/entries/76684383-Redefine-activity-website-as-a-document-link>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#renamed-moved-and-removed-elements>`__)
+Element: ``activity-website`` (`discussion <http://support.iatistandard.org/entries/76684383-Redefine-activity-website-as-a-document-link>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#renamed-moved-and-removed-elements>`__)
 
 .. list-table::
    :widths: 20 20
@@ -44,7 +43,10 @@ Element: :doc:`contact-info/department </activity-standard/iati-activities/iati-
 
 *Description: Removed Attributes*
 ``````````````````````````````````
-Elements: :doc:`country-budget-items/budget-item/description </activity-standard/activity-standard/iati-activities/iati-activity/country-budget-items/budget-item/description>` | :doc:`result/description </activity-standard/activity-standard/iati-activities/iati-activity/result/description/>` | :doc:`result/indicator/description </activity-standard/activity-standard/iati-activities/iati-activity/result/indicator/description/>`
+* Element: :doc:`country-budget-items/budget-item/description </activity-standard/iati-activities/iati-activity/country-budget-items/budget-item/description>`
+* Element: :doc:`result/description </activity-standard/iati-activities/iati-activity/result/description/>`
+* Element: :doc:`result/indicator/description </activity-standard/iati-activities/iati-activity/result/indicator/description/>`
+
 (`discussion <http://support.iatistandard.org/entries/52106609-Version-2-01-Iteration-3-8-Miscellaneous>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#removal-of-the-type-attribute-on-some-description-elements>`__)
 
 .. list-table::
@@ -53,11 +55,11 @@ Elements: :doc:`country-budget-items/budget-item/description </activity-standard
 
    * - 1.0x
      - 2.01
-   * - country-budget-items/budget-item/description/@type
+   * - country-budget-items/budget-item/description/\@type
      - (removed)
-   * - result/description/@type
+   * - result/description/\@type
      - (removed)
-   * - result/indicator/description/@type
+   * - result/indicator/description/\@type
      - (removed)          
 
 *Freetext: Amended Elements*
@@ -99,7 +101,7 @@ Element: :doc:`iati-activity </activity-standard/iati-activities/iati-activity/>
 
    * - 1.0x
      - 2.01
-   * - iati-activity/@version
+   * - iati-activity/\@version
      - (removed)
 
 *Location: Removed Elements*
@@ -122,7 +124,7 @@ Element: :doc:`location </activity-standard/iati-activities/iati-activity/locati
               
 *Location: Removed Attributes*
 ``````````````````````````````
-Element: :doc:`location </activity-standard/activity-standard/iati-activities/iati-activity/location>` 
+Element: :doc:`location </activity-standard/iati-activities/iati-activity/location>` 
 (`discussion <http://support.iatistandard.org/entries/51310806-Delete-don-t-just-deprecate-codes-in-2-01>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#location-changes>`__)
 
 .. list-table::
@@ -131,13 +133,13 @@ Element: :doc:`location </activity-standard/activity-standard/iati-activities/ia
 
    * - 1.0x
      - 2.01
-   * - location/@percentage
+   * - location/\@percentage
      - (removed)
-   * - location/administrative/@country
+   * - location/administrative/\@country
      - (removed)
-   * - location/administrative/@adm1
+   * - location/administrative/\@adm1
      - (removed)          
-   * - location/administrative/@adm2
+   * - location/administrative/\@adm2
      - (removed)  
                
 *Narrative: New Elements*
@@ -154,7 +156,7 @@ A ``narrative`` child element was added to the following elements, to enable the
 * Element: :doc:`contact-info/organisation/narrative </activity-standard/iati-activities/iati-activity/contact-info/organisation/narrative>`
 * Element: :doc:`contact-info/department/narrative </activity-standard/iati-activities/iati-activity/contact-info/department/narrative>`
 * Element: :doc:`contact-info/person-name/narrative </activity-standard/iati-activities/iati-activity/contact-info/person-name/narrative>`
-* Element: :doc:`contact-info/job-title/narrative </activity-standard/iati-activities/iati-activity/contact-info/job-tite/narrative>`
+* Element: :doc:`contact-info/job-title/narrative </activity-standard/iati-activities/iati-activity/contact-info/job-title/narrative>`
 * Element: :doc:`contact-info/mailing-address/narrative </activity-standard/iati-activities/iati-activity/contact-info/mailing-address/narrative>`
 * Element: :doc:`recipient-country/narrative </activity-standard/iati-activities/iati-activity/recipient-country/narrative>`
 * Element: :doc:`recipient-region/narrative </activity-standard/iati-activities/iati-activity/recipient-region/narrative>`
@@ -182,7 +184,7 @@ A ``narrative`` child element was added to the following elements, to enable the
 ```````````````````````````````
 The ``aid-type-flag`` element has been renamed to ``other-flags``.
 
-Element: :doc:`crs-add/other-flags </activity-standard/iati-activities/ iati-activity/crs-add/other-flags>` 
+Element: :doc:`crs-add/other-flags </activity-standard/iati-activities/iati-activity/crs-add/other-flags>` 
 (`discussion <http://support.iatistandard.org/entries/29705458-Confusion-Between-Aid-Type-Flag-Type-of-Aid->`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#renamed-moved-and-removed-elements>`__)
 
 .. list-table::
@@ -200,12 +202,12 @@ The following elements were added to the ``other-identifier`` element:
 
 (`discussion <http://support.iatistandard.org/entries/52106549-Version-2-01-Iteration-2-3-7-Replicate-more-activity-level-elements-at-transaction-level->`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#additional-elements-in-transactions-sector-recipient-country-recipient-region>`__)
 
-* Element: :doc:`other-identifier/owner-org </activity-standard/activity-standard/iati-activities/iati-activity/other-identifier/owner-org>`
-* Element: :doc:`other-identifier/owner-org/narrative </activity-standard/activity-standard/iati-activities/iati-activity/other-identifier/owner-org/narrative>`
+* Element: :doc:`other-identifier/owner-org </activity-standard/iati-activities/iati-activity/other-identifier/owner-org>`
+* Element: :doc:`other-identifier/owner-org/narrative </activity-standard/iati-activities/iati-activity/other-identifier/owner-org/narrative>`
 
 *Other Identifier: Removed / New Attributes*
 `````````````````````````````````````````````
-Element: :doc:`other-identifier </activity-standard/activity-standard/iati-activities/iati-activity/other-identifier>` 
+Element: :doc:`other-identifier </activity-standard/iati-activities/iati-activity/other-identifier>` 
 (`discussion <http://support.iatistandard.org/entries/52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#update-to-other-identifier-adding-type-changing-definition-new-codelist>`__)
 
 .. list-table::
@@ -214,16 +216,16 @@ Element: :doc:`other-identifier </activity-standard/activity-standard/iati-activ
 
    * - 1.0x
      - 2.01
-   * - other-identifier/@owner-name
+   * - other-identifier/\@owner-name
      - (removed)
-   * - other-identifier/@owner-ref
+   * - other-identifier/\@owner-ref
      - (removed)
    * - (none)
-     - other-identifier/@ref
+     - other-identifier/\@ref
           
 *Planned Disbursement: New Attribute*
 ``````````````````````````````````````
-Element: :doc:`planned-disbursement </activity-standard/activity-standard/iati-activities/iati-activity/planned-disbursement>` 
+Element: :doc:`planned-disbursement </activity-standard/iati-activities/iati-activity/planned-disbursement>` 
 (`discussion <http://support.iatistandard.org/entries/77495498-Align-planned-disbursement-with-budget>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#changes-to-the-planned-disbursement-element-planned-disbursement>`__)
 
 .. list-table::
@@ -233,11 +235,11 @@ Element: :doc:`planned-disbursement </activity-standard/activity-standard/iati-a
    * - 1.0x
      - 2.01
    * - (none)
-     - planned-disbursement/@type
+     - planned-disbursement/\@type
      
 *Planned Disbursement: Removed Attribute*
 ``````````````````````````````````````````
-Element: :doc:`planned-disbursement </activity-standard/activity-standard/iati-activities/iati-activity/planned-disbursement>` 
+Element: :doc:`planned-disbursement </activity-standard/iati-activities/iati-activity/planned-disbursement>` 
 (`discussion <http://support.iatistandard.org/entries/77495498-Align-planned-disbursement-with-budget>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#changes-to-the-planned-disbursement-element-planned-disbursement>`__)
 
 .. list-table::
@@ -246,12 +248,12 @@ Element: :doc:`planned-disbursement </activity-standard/activity-standard/iati-a
 
    * - 1.0x
      - 2.01
-   * - planned-disbursement/@updated
+   * - planned-disbursement/\@updated
      - (removed)
 
 *Planned Disbursement: Removed/Renamed Attributes*
 ```````````````````````````````````````````````````
-Element: :doc:`other-identifier </activity-standard/activity-standard/iati-activities/iati-activity/other-identifier>` 
+Element: :doc:`other-identifier </activity-standard/iati-activities/iati-activity/other-identifier>` 
 (`discussion <http://support.iatistandard.org/entries/77495498-Align-planned-disbursement-with-budget>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#update-to-other-identifier-adding-type-changing-definition-new-codelist>`__)
 
 .. list-table::
@@ -260,9 +262,9 @@ Element: :doc:`other-identifier </activity-standard/activity-standard/iati-activ
 
    * - 1.0x
      - 2.01
-   * - planned-disbursement/@updated
+   * - planned-disbursement/\@updated
      - (removed)
-   * - planned-disbursement/@updated
+   * - planned-disbursement/\@updated
      - (removed)
    
 *Transaction: New Child Elements*
@@ -307,7 +309,7 @@ The ability to add free text has been removed from the following element:
 ```````````````````````````````````
 The ``iati-organisation/iati-identifier`` element has been renamed to ``iati-organisation/organisation-identifier``.
 
-Element: :doc:`iati-organisation/organisation-identifier </organisation-standard/iati-organisation/ iati-organisation/organisation-identifier>` 
+Element: :doc:`iati-organisation/organisation-identifier </organisation-standard/iati-organisations/ iati-organisation/organisation-identifier>` 
 (`discussion <http://support.iatistandard.org/entries/78421626-Org-Replace-iati-identifier-with-organisation>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#renamed-moved-and-removed-elements>`__)
 
 .. list-table::
@@ -342,7 +344,7 @@ Element: :doc:`iati-activity </organisation-standard/iati-organisations/iati-org
 
    * - 1.0x
      - 2.01
-   * - iati-organisation/@version
+   * - iati-organisation/\@version
      - (removed)
 
 Common schema
@@ -365,7 +367,7 @@ New Codelists
 
 *Other Identifier Type: New Codelist*
 `````````````````````````````````````
-Codelist: :doc:`OtherIdentifierType Type </codelists/OtherIdentifierType>` 
+Codelist: :doc:`OtherIdentifierType </codelists/OtherIdentifierType>` 
 (`discussion <http://support.iatistandard.org/entries/52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#update-to-other-identifier-adding-type-changing-definition-new-codelist>`__)
 
 .. list-table::
@@ -393,6 +395,20 @@ Codelist: :doc:`OtherIdentifierType Type </codelists/OtherIdentifierType>`
    * - B9
      - Other Organisation Identifier
      - (none)
+
+*Policy Marker Vocabulary: New codelist*
+`````````````````````````````````
+The *PolicyMarkerVocabulary* has been created, split from the deleted *Vocabulary* codelist.
+
+Codelist: :doc:`SectorVocabulary </codelists/PolicyMarkerVocabulary>` 
+(`discussion <http://support.iatistandard.org/entries/78019646-Separate-vocabulary-codelists>`__)
+
+*Sector Vocabulary: New codelist*
+`````````````````````````````````
+The *SectorVocabulary* has been created, split from the deleted *Vocabulary* codelist.
+
+Codelist: :doc:`SectorVocabulary </codelists/SectorVocabulary>` 
+(`discussion <http://support.iatistandard.org/entries/78019646-Separate-vocabulary-codelists>`__)
 
 *Version: New Codelist*
 `````````````````````````````````````
@@ -629,3 +645,10 @@ Codelist: :doc:`TransactionType </codelists/TransactionType>`
      - 9
    * - CG
      - 10
+
+*Vocabulary: Removed / split codelist*
+```````````````````````````````````````
+The *Vocabulary* has been removed, and split into two new codelists: *SectorVocabulary* and *PolicyMarkerVocabulary*.
+
+Codelist: :doc:`SectorVocabulary </codelists/SectorVocabulary>` | :doc:`SectorVocabulary </codelists/PolicyMarkerVocabulary>` 
+(`discussion <http://support.iatistandard.org/entries/78019646-Separate-vocabulary-codelists>`__)
