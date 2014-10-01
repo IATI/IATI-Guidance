@@ -709,14 +709,8 @@ In general:
 Where is this applicable?
 +++++++++++++++++++++++++
 A list of the affected codelists, and the differences between version
-1.x and 2.01 are detailed here:
-
-We will use this:
-
-`https://github.com/IATI/IATI-Guidance/blob/master/en/upgrades/integer-upgrade-to-2-01/2-01-changes.rst <https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FIATI%2FIATI-Guidance%2Fblob%2Fmaster%2Fen%2Fupgrades%2Finteger-upgrade-to-2-01%2F2-01-changes.rst&sa=D&sntz=1&usg=AFQjCNFLjqQkkD0HAemz3bpNusBNBltXzA>`__ 
-
-(see also :
-`https://github.com/IATI/IATI-Guidance/issues/140 <https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FIATI%2FIATI-Guidance%2Fissues%2F140&sa=D&sntz=1&usg=AFQjCNFM47E3aOTJqAVE98pAtsHBxLVqWQ>`__ )
+1.x and 2.01 are detailed under **Codelist Changes** on the :doc:`2.01 Changes </upgrades/integer-upgrade-to-2-01/2-01-changes>`
+page of the website.
 
 What happens if we do not do this?
 ++++++++++++++++++++++++++++++++++
@@ -889,8 +883,8 @@ Example
 +++++++
 See:
 
--  `http://dev.iatistandard.org/201/activity-standard/iati-activities/iati-activity/recipient-country/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Factivity-standard%2Fiati-activities%2Fiati-activity%2Frecipient-country%2F&sa=D&sntz=1&usg=AFQjCNE8l-WQRgRPddoM7uV7xtqrW9jHEg>`__
--  `http://dev.iatistandard.org/201/activity-standard/iati-activities/iati-activity/recipient-region/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Factivity-standard%2Fiati-activities%2Fiati-activity%2Frecipient-region%2F&sa=D&sntz=1&usg=AFQjCNFQdghoBweGBiukVrKBzLcDbj0OQQ>`__
+-  http://dev.iatistandard.org/201/activity-standard/iati-activities/iati-activity/recipient-country/ 
+-  http://dev.iatistandard.org/201/activity-standard/iati-activities/iati-activity/recipient-region/ 
 
 See also
 ++++++++
@@ -1094,8 +1088,7 @@ information in 2.01
 
 A detailed guide to what has changed and what you need to do can be
 found here:
-
-`http://dev.iatistandard.org/201/upgrades/decimal-upgrade-to-1-04/location-summary/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Fupgrades%2Fdecimal-upgrade-to-1-04%2Flocation-summary%2F&sa=D&sntz=1&usg=AFQjCNH_URb1KgyLj8mHc8sYBh-fP5cSiw>`__
+http://dev.iatistandard.org/201/upgrades/decimal-upgrade-to-1-04/location-summary/
 
 In version 2.01, these elements are no longer available:
 
@@ -1155,7 +1148,7 @@ added.
 Making the start date mandatory (if the element is used) will improve
 data quality and enable publishers and data users to better check that
 their data is complete. See:
-`http://support.iatistandard.org/entries/22915067-Modify-planned-disbursement-period-start-Alter-guidance-AND-make-start-date-mandatory <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F22915067-Modify-planned-disbursement-period-start-Alter-guidance-AND-make-start-date-mandatory&sa=D&sntz=1&usg=AFQjCNHhnh9aCOcyXl7a-Lh2a7MbwUa7yA>`__
+http://support.iatistandard.org/entries/22915067-Modify-planned-disbursement-period-start-Alter-guidance-AND-make-start-date-mandatory
 
 Making the planned-disbursement/period-end element optional allows
 publishers more scope to report planned disbursements that do not have a
@@ -1192,34 +1185,63 @@ against the schema. Data users should be aware that if they expect to
 gather data from those fields they should no longer be present.
 
 
-New Codes for Embedded codelists
-================================
+Embedded codelists - Codelists added and removed
+================================================
+What is the change?
++++++++++++++++++++
+
+As part of the 2.01 IATI Standard upgrade, the Vocabulary codelist was 
+split into two new codelists. The following embedded
+codelists were added:
+
+* Policy Marker Vocabulary
+* Sector Vocabulary
+
+and the following embedded
+codelists were removed:
+
+* Vocabulary
+
+See also
+++++++++
+**Codelist Changes** on the :doc:`2.01 Changes </upgrades/integer-upgrade-to-2-01/2-01-changes>`
+
+Why has this been done?
++++++++++++++++++++++++
+The Vocabulary codelist has over time become unfit for it's original
+purpose as more and more elements have required their own tailored
+vocabulary choices. Where vocabularies are used, they are often tailored
+to that particular element.
+
+What happens if we do not do this?
+++++++++++++++++++++++++++++++++++
+You will need to re-organise the way you present data using the new 
+vocabularies. If you do not do this your data may not be useable by data
+users.
+
+
+Embedded codelists - New Codes
+==============================
 What is the change?
 +++++++++++++++++++
 As part of the 2.01 IATI Standard upgrade, the following embedded
 codelists were updated.
 
-updated codelists
+* Aid Type Flag: Renamed to CRSADDOtherFlags codelist
+* Activity Date Type: Amended codes
+* Document Category: New codes
+* Gazetteer Agency: Amended codes
+* Organisation Role: Amended codes
+* Policy Marker Vocabulary (was Vocabulary): Amended codes
+* Related Activity Type: New code
+* Sector Vocabulary (was Vocabulary): Amended codes
+* Transaction Type: Amended codes
+* Vocabulary: Removed / split codelist
 
--  Addition to DocumentCategory codelist
+See also
+++++++++
+**Codelist Changes** on the :doc:`2.01 Changes </upgrades/integer-upgrade-to-2-01/2-01-changes>`
 
--   Organisation Webpage, Sector Webpage, Country Webpage and Activity
-   Webpage
-
--  Addition to RelatedActivityType Codelist
-
--  Add a value to the codelist:
-
--  5 - Third Party - A report by another organisation on the same
-   activity (excluding activities reported as part of financial
-   transactions - eg. provider-activity-id - or a co-funded activity
-   using code = 4)
-
--  Vocabulary Codelists
-
--  Add Sector Vocabulary codelist (derived from current Vocabulary
-   codelist) and link to sector/\@vocabulary
--  Add Policy Marker Codelist and link to policy-marker/\@vocabulary
 
 
 Embedded codelists - descriptions of code values
@@ -1235,12 +1257,37 @@ Where is this applicable?
 +++++++++++++++++++++++++
 In all embedded codelists.
 
-`https://github.com/IATI/IATI-Codelists/commit/33b2174f8c2aeb42f277f8ad9d715b31233179bc <https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FIATI%2FIATI-Codelists%2Fcommit%2F33b2174f8c2aeb42f277f8ad9d715b31233179bc&sa=D&sntz=1&usg=AFQjCNEvk8bCa1k85UnpOSZF3gltSwq4nw>`__
+You can see the changes in this code commit:
+https://github.com/IATI/IATI-Codelists/commit/33b2174f8c2aeb42f277f8ad9d715b31233179bc
+
+See also
+++++++++
+**Codelist Changes** on the :doc:`2.01 Changes </upgrades/integer-upgrade-to-2-01/2-01-changes>`
 
 Why has this been done?
 +++++++++++++++++++++++
 It was recognised that various description texts were out-of-date or not
 clear.  This has been an opportunity to update these.
+
+
+Non-Embedded Codelists 
+==============================
+What is the change?
++++++++++++++++++++
+As part of the 2.01 IATI Standard upgrade, the following non-embedded
+codelists were created.
+
+New Non-Embedded Codelists
+* Other Identifier Type
+* Version
+* IATIOrganisationIdentifier
+
+and the following Non-Embdedded Codelists were removed:
+* OrganisationIdentifier
+
+See also
+++++++++
+:doc:`Non-Embedded Codelist Changelog </upgrades/nonembedded-codelist-changelog/>`
 
 
 Update of Schema description texts
@@ -1254,7 +1301,7 @@ missing.
 
 Descriptive text no longer contains URLs (in effect they have been
 removed). See:
-`http://support.iatistandard.org/entries/47188607-Removing-urls-from-schema-descriptions <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F47188607-Removing-urls-from-schema-descriptions&sa=D&sntz=1&usg=AFQjCNHKNAMlkUr0k5E7OQ4RW4fReq1qJw>`__
+http://support.iatistandard.org/entries/47188607-Removing-urls-from-schema-descriptions
 
 Where is this applicable?
 +++++++++++++++++++++++++
@@ -1269,17 +1316,17 @@ URLs are no longer maintained in schema text in order to maintain those
 links more appropriately. As part of that decision, a machine readable
 way of mapping attributes to codelists hgas been created to help
 developers. See:
-`http://support.iatistandard.org/entries/27805388-Mapping-between-codelists-and-schemas <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F27805388-Mapping-between-codelists-and-schemas&sa=D&sntz=1&usg=AFQjCNGUMMxPCX08V33oDc7Pg2xOygnvBQ>`__
+http://support.iatistandard.org/entries/27805388-Mapping-between-codelists-and-schemas
 
 
 Tied and partially tied values
 ==============================
-new guidance has been added
+New guidance has been added
 
 See:
-`http://support.iatistandard.org/entries/55170393-Tied-and-partially-tied-values <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F55170393-Tied-and-partially-tied-values&sa=D&sntz=1&usg=AFQjCNFu_H9jcvgyauPKiAT0FT3FLgeMAg>`__
+http://support.iatistandard.org/entries/55170393-Tied-and-partially-tied-values
 
 
 Modify guidance on participating-org/\@role : Definition of funding organisation
 =========================================================================================================
-`http://support.iatistandard.org/entries/41583626-Modify-guidance-on-participating-org-role-Definition-of-funding-organisation <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F41583626-Modify-guidance-on-participating-org-role-Definition-of-funding-organisation&sa=D&sntz=1&usg=AFQjCNFQJ8ZIfD9UmyhfBtlHTjGVq4FInQ>`__
+See: http://support.iatistandard.org/entries/41583626-Modify-guidance-on-participating-org-role-Definition-of-funding-organisation
