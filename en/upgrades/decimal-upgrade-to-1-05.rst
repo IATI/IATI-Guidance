@@ -7,18 +7,16 @@ Decimal Upgrade to 1.05
 
    decimal-upgrade-to-1-05/*
 
-Details about the specific changes are listed on the \ `knowledge
-base <http://support.iatistandard.org/>`__ in the \ `1.05 Decimal
-Upgrade
-Forum <http://support.iatistandard.org/forums/22895158-1-05-Decimal-Upgrade>`__.
+Details about the specific changes are listed in the :doc:`1.05 Changelog <http://support.iatistandard.org/>`.  
 
-You can contribute issues to be considered in future upgrades in
-the \ `knowledge base <http://support.iatistandard.org/>`__.
+| Discussions on changes can be foud in the \ `1.05 Decimal Upgrade Forum <http://support.iatistandard.org/forums/22895158-1-05-Decimal-Upgrade>`__.
+
+You can contribute issues to be considered in future upgrades in the \ `knowledge base <http://support.iatistandard.org/>`__.
 
 .. csv-table::
     :header-rows: 1
 
-    IATI, Community, Timescale,Final Dates?,Notes,2.01 dates
+    IATI, Community, Timescale,Final Dates,Notes,2.01 dates
     A clear cut off date for new submissions should be advertised.,,,3rd July,Announcement goes out on or before this date.,
     No more subnmissions accepted after due date,,2 weeks,17th July,,
     "The TAG technical team should have agreed as to which proposals should go forward to the next upgrade, and communicated this with the community.  These are flagged on the knowledge base as under consideration. Announcement is made on due date",Individuals may be contacted and asked for opinoin/clarity., usually within 1 week,28th July,,2.01 Second Consultation due date cut off
