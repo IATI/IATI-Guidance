@@ -2,16 +2,15 @@ Integer Upgrade to 2.01
 =======================
 
 .. toctree::
-   :hidden:
-   :glob:
+   :titlesonly:
 
-   integer-upgrade-to-2-01/*
+	integer-upgrade-to-2-01/*
 
 The process for the 2.01 decimal upgrade of the standard is outlined
 below.
 
 Details about the specific changes are listed on the `knowledge
-base <http://support.iatistandard.org/>`__ in the `Thematic content
+base <http://support.iatistandard.org/>`__ in the `thematic content
 agreed by IATI Steering Committee
 Forum <http://support.iatistandard.org/entries/45539933-Thematic-content-agreed-by-IATI-Steering-Committee>`__.
 

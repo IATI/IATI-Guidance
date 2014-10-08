@@ -3,7 +3,7 @@
 
 Proposed changes / additions to IATI Standard for version 2.01
 
-Note that this page is currently a `work in progress <http://support.iatistandard.org/entries/56842973-Version-2-01-Formal-Proposal-Iteration-1-Overview for the full list of proposed changes>`__.
+*Note that this page is currently a `work in progress <http://support.iatistandard.org/entries/56842973-Version-2-01-Formal-Proposal-Iteration-1-Overview for the full list of proposed changes>`__.*
 
 .. contents::
 
