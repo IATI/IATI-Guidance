@@ -4,7 +4,9 @@ Integer Upgrade to 2.01
 .. toctree::
    :titlesonly:
 
-	integer-upgrade-to-2-01/*
+   integer-upgrade-to-2-01/2-01-headlines
+   integer-upgrade-to-2-01/migrating
+   integer-upgrade-to-2-01/2-01-changes
 
 The process for the 2.01 decimal upgrade of the standard is outlined
 below.
