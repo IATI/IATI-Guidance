@@ -365,6 +365,13 @@ Codelist Changes
 New Codelists
 -------------
 
+*IATI Organisation Identifier: New codelist*
+````````````````````````````````````````
+The *IATIOrganisationIdentifier* codelist has been created.
+
+Codelist: :doc:`IATIOrganisationIdentifier </codelists/IATIOrganisationIdentifier>` 
+(`discussion <http://support.iatistandard.org/entries/52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers>`__)
+
 *Other Identifier Type: New Codelist*
 `````````````````````````````````````
 Codelist: :doc:`OtherIdentifierType </codelists/OtherIdentifierType>` 
@@ -397,7 +404,7 @@ Codelist: :doc:`OtherIdentifierType </codelists/OtherIdentifierType>`
      - (none)
 
 *Policy Marker Vocabulary: New codelist*
-`````````````````````````````````
+````````````````````````````````````````
 The *PolicyMarkerVocabulary* has been created, split from the deleted *Vocabulary* codelist.
 
 Codelist: :doc:`SectorVocabulary </codelists/PolicyMarkerVocabulary>` 
