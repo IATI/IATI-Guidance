@@ -364,11 +364,14 @@ Element: :doc:`iati-activity </organisation-standard/iati-organisations/iati-org
 
 Common schema
 -------------
-No substantial changes were made in 1.05, aside from essential version references.
+Many substantial changes were made in 2.01. Both the organisation and activity schema draw on the common schema for 
+common definitions of elements and types. The changes in the common schema are reflected in the sections above, so are 
+not given in detail here. For further information see the CHANGES.txt file that can be found with the 
+:doc:`schema <schema>`
 
 XML supplementary schema
 ------------------------
-No substantial changes were made in 1.05, aside from essential version references.
+No substantial changes were made in 2.01, aside from essential version references.
 
 Registry record schema
 ----------------------
