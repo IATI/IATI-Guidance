@@ -20,7 +20,7 @@ A version of 2.01 is now available for testing and development:
 
 - 2.01: http://dev.iatistandard.org/201/
 
-Please note: 2.01 will be "live" from the 5th January 2015.  From this date, publishers will be able to release data to version 2.01 of the standard.
+Please note: 2.01 will be "live" from the 6th January 2015.  From this date, publishers will be able to release data to version 2.01 of the standard.
 
 
 Previous Versions
