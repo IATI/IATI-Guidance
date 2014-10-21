@@ -4,9 +4,28 @@ All Versions
 Links to all versions IATI Standard documentation are available below. This
 includes versions of the documentation, schemas and codelists:
 
-The current live version is ****1.05**** http://iatistandard.org
+Current live version
+--------------------
+
+The current live version is **1.05** http://iatistandard.org
+
+
+Version 2.01
+------------
+*Current status*: in release.
+
+On the 16th October 2014, the IATI Steering Committee formally approved version 2.01.
+
+A version of 2.01 is now available for testing and development:
+
+- 2.01: http://dev.iatistandard.org/201/
+
+Please note: 2.01 will be "live" from the 5th January 2015.  From this date, publishers will be able to release data to version 2.01 of the standard.
+
 
 Previous Versions
+-----------------
+Previous versions of the IATI Standard are available.  Publishers are able to release data to these versions:
 
 - 1.04: http://iatistandard.org/104/
 
@@ -16,8 +35,5 @@ Previous Versions
 
 - 1.01: http://iatistandard.org/101/
 
-Development Versions
-
-- 2.01: http://dev.iatistandard.org/201/
 
 
