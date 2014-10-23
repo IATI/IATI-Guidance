@@ -15,7 +15,7 @@ Common Standard Implementation Schedule
 ---------------------------------------
 If your organisation reports to the DAC then the Common Standard Implementation Schedule should be used:
 
-* `xlsx format (Excel) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template-commonstandard/Implementation-Schedule-for-the-common-standard-ENG.xls>`__
+* `xls format (Excel) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template-commonstandard/Implementation-Schedule-for-the-common-standard-ENG.xls>`__
 
 * `ods format (Open Document Format) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template-commonstandard/Implementation-Schedule-for-the-common-standard-ENG.ods>`__
 
@@ -23,7 +23,7 @@ Implementation Schedule for NGOs / CSOs
 ---------------------------------------
 This version can be downloaded in:
 
-* `xlsx format (Excel) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template%20-%20ngo/Implementation%20Schedule%20TEMPLATE%20for%20NGOs%20Sept%202013.xlsx>`__
+* `xls format (Excel) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template%20-%20ngo/Implementation%20Schedule%20TEMPLATE%20for%20NGOs%20Sept%202013.xlsx>`__
 
 * `ods format (Open Document Format) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template%20-%20ngo/Implementation%20Schedule%20TEMPLATE%20for%20NGOs%20Sept%202013.ods>`__
 
@@ -31,6 +31,6 @@ DFI IFI Implementation Schedule
 -------------------------------
 This version can be downloaded in:
 
-* `xlsx format (Excel) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template%20-%20DFIs/Best%20practice%20for%20IATI%20reporting%20by%20DFI%20IFI%20Implementation%20Schedule.xls>`__
+* `xls format (Excel) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template%20-%20DFIs/Best%20practice%20for%20IATI%20reporting%20by%20DFI%20IFI%20Implementation%20Schedule.xls>`__
 
 * `ods format (Open Document Format) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template%20-%20DFIs/Best%20practice%20for%20IATI%20reporting%20by%20DFI%20IFI%20Implementation%20Schedule.ods>`__
