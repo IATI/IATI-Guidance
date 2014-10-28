@@ -66,7 +66,7 @@ Element: :doc:`contact-info/department </activity-standard/iati-activities/iati-
 `````````````````````````
 Inconsistencies in the document-link element were identified and applied, around the mandatory use of the language and title child elements.
 
-* Element: :doc:`document-link 
+* Element: :doc:`document-link </activity-standard/iati-activities/iati-activity/document-link>`
 (`discussion <https://github.com/IATI/IATI-Schemas/pull/256>`__ )
 
 
@@ -303,7 +303,7 @@ A new ``budget-line`` element was added to the following elements.
 `````````````````````````
 Inconsistencies in the document-link element were identified and applied, around the mandatory use of the language and title child elements.
 
-* Element: :doc:`document-link 
+* Element: :doc:`document-link </organisation-standard/iati-organisations/iati-organisation/document-link>`
 (`discussion <https://github.com/IATI/IATI-Schemas/pull/256>`__ )
 
 *Document Link: New Child Element*
