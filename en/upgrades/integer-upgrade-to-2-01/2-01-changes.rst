@@ -78,7 +78,6 @@ The ability to add free text has been removed from the following elements:
 
 * Element: :doc:`activity-status </activity-standard/iati-activities/iati-activity/activity-status>`
 * Element: :doc:`activity-scope </activity-standard/iati-activities/iati-activity/activity-scope>`
-* Element: :doc:`policy-marker </activity-standard/iati-activities/iati-activity/policy-marker>`
 * Element: :doc:`collaboration-type </activity-standard/iati-activities/iati-activity/collaboration-type>`
 * Element: :doc:`default-finance-type </activity-standard/iati-activities/iati-activity/default-finance-type>`
 * Element: :doc:`default-flow-type </activity-standard/iati-activities/iati-activity/default-flow-type>`
@@ -230,9 +229,11 @@ Element: :doc:`other-identifier </activity-standard/iati-activities/iati-activit
      - (removed)
    * - (none)
      - other-identifier/\@ref
+   * - (none)
+     - other-identifier/\@type     
           
-*Planned Disbursement: New Attribute*
-``````````````````````````````````````
+*Planned Disbursement: Removed/Renamed Attributes*
+``````````````````````````````````````````````````
 Element: :doc:`planned-disbursement </activity-standard/iati-activities/iati-activity/planned-disbursement>` 
 (`discussion <http://support.iatistandard.org/entries/77495498-Align-planned-disbursement-with-budget>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#changes-to-the-planned-disbursement-element-planned-disbursement>`__)
 
@@ -244,36 +245,8 @@ Element: :doc:`planned-disbursement </activity-standard/iati-activities/iati-act
      - 2.01
    * - (none)
      - planned-disbursement/\@type
-     
-*Planned Disbursement: Removed Attribute*
-``````````````````````````````````````````
-Element: :doc:`planned-disbursement </activity-standard/iati-activities/iati-activity/planned-disbursement>` 
-(`discussion <http://support.iatistandard.org/entries/77495498-Align-planned-disbursement-with-budget>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#changes-to-the-planned-disbursement-element-planned-disbursement>`__)
-
-.. list-table::
-   :widths: 20 20
-   :header-rows: 1
-
-   * - 1.0x
-     - 2.01
-   * - planned-disbursement/\@updated
-     - (removed)
-
-*Planned Disbursement: Removed/Renamed Attributes*
-```````````````````````````````````````````````````
-Element: :doc:`other-identifier </activity-standard/iati-activities/iati-activity/other-identifier>` 
-(`discussion <http://support.iatistandard.org/entries/77495498-Align-planned-disbursement-with-budget>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#update-to-other-identifier-adding-type-changing-definition-new-codelist>`__)
-
-.. list-table::
-   :widths: 20 20
-   :header-rows: 1
-
-   * - 1.0x
-     - 2.01
-   * - planned-disbursement/\@updated
-     - (removed)
-   * - planned-disbursement/\@updated
-     - (removed)
+   * - planned-disbursement/\@last-updated
+     - (removed)          
    
 *Transaction: New Child Elements*
 ``````````````````````````````````
@@ -351,7 +324,7 @@ A ``narrative`` child element was added to the following elements, to enable the
 
 *IATI Organisation: Removed Attribute*
 ``````````````````````````````````
-Element: :doc:`iati-activity </organisation-standard/iati-organisations/iati-organisation/>` (`discussion <http://support.iatistandard.org/entries/52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#update-to-other-identifier-adding-type-changing-definition-new-codelist>`__)
+Element: :doc:`iati-organisation </organisation-standard/iati-organisations/iati-organisation/>` (`discussion <http://support.iatistandard.org/entries/52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers>`__ | `guidance <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#update-to-other-identifier-adding-type-changing-definition-new-codelist>`__)
 
 .. list-table::
    :widths: 20 20
