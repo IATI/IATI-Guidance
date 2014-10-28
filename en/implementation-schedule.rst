@@ -23,7 +23,7 @@ Implementation Schedule for NGOs / CSOs
 ---------------------------------------
 This version can be downloaded in:
 
-* `xls format (Excel) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template%20-%20ngo/Implementation%20Schedule%20TEMPLATE%20for%20NGOs%20Sept%202013.xlsx>`__
+* `xls format (Excel) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template%20-%20ngo/Implementation%20Schedule%20TEMPLATE%20for%20NGOs%20Sept%202013.xls>`__
 
 * `ods format (Open Document Format) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template%20-%20ngo/Implementation%20Schedule%20TEMPLATE%20for%20NGOs%20Sept%202013.ods>`__
 
