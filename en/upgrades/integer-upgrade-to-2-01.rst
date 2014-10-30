@@ -6,15 +6,17 @@ Integer Upgrade to 2.01
 
    integer-upgrade-to-2-01/2-01-headlines
    integer-upgrade-to-2-01/migrating
-   integer-upgrade-to-2-01/2-01-changes
+   integer-upgrade-to-2-01/2-01-changelog
 
-The process for the 2.01 decimal upgrade of the standard is outlined
-below.
+The IATI Steering Committee agreed to accept version 2.01 of the **IATI Standard** on the 16th October 2014.  
 
-Details about the specific changes are listed on the `knowledge
-base <http://support.iatistandard.org/>`__ in the `thematic content
-agreed by IATI Steering Committee
-Forum <http://support.iatistandard.org/entries/45539933-Thematic-content-agreed-by-IATI-Steering-Committee>`__.
+Version 2.01 is now available for testing, with a live date of 6th January 2014.
+
+Details about the specific proposals for 2.01 are listed on the `knowledge
+base <http://support.iatistandard.org/>`__ in the `2.01 Integer Upgrade section
+Forum <http://support.iatistandard.org/forums/21200855-2-01-Integer-Upgrade>`__.
+
+The full process and timetable for the 2.01 Integer Upgrade is outlined below.
 
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+-----------------------------+-----------------------------+
 | Milestone                                                                                                                                                                              | Consultation                                                                                                                                                                  | Timescale            | Completion Date             | Revised Date                |
@@ -39,6 +41,6 @@ Forum <http://support.iatistandard.org/entries/45539933-Thematic-content-agreed-
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+-----------------------------+-----------------------------+
 | Steering committee formally accepts Version 2.01. 2.01 is set in stone. No more changes.                                                                                               |                                                                                                                                                                               | Mid September 2014   |                             | October 15th/16th           |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+-----------------------------+-----------------------------+
-| Go live                                                                                                                                                                                |  This period of grace between approval of the upgrade and go live is primarily to ensure that systems that use IATI data can make all necessary preparations and adjustments. | 8 weeks              |                             |                             |
+| Go live                                                                                                                                                                                |  This period of grace between approval of the upgrade and go live is primarily to ensure that systems that use IATI data can make all necessary preparations and adjustments. | 8 weeks              |                             |   6th January 2015                          |
 +----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+----------------------+-----------------------------+-----------------------------+
 
