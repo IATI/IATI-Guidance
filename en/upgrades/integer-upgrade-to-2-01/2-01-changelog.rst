@@ -1,9 +1,9 @@
-2.01 Changes
-^^^^^^^^^^^^
+2.01 Changelog
+^^^^^^^^^^^^^^
 
-Proposed changes / additions to IATI Standard for version 2.01
+Changes / additions to IATI Standard for version 2.01
 
-*Note that this page is currently a `work in progress <http://support.iatistandard.org/entries/56842973-Version-2-01-Formal-Proposal-Iteration-1-Overview for the full list of proposed changes>`__.*
+Note: Version 2.01 of the standard is now available for testing, with a go live date set for 6th January 2015.
 
 .. contents::
 
