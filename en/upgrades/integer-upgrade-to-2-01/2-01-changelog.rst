@@ -1,5 +1,5 @@
-2.01 Changes
-^^^^^^^^^^^^
+2.01 Changelog
+^^^^^^^^^^^^^^
 
 Proposed changes / additions to IATI Standard for version 2.01
 

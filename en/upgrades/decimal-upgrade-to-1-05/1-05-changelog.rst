@@ -1,5 +1,5 @@
-1.05 Changes
-^^^^^^^^^^^^
+1.05 Changelog
+^^^^^^^^^^^^^^
 
 Changes / Additions to IATI Standard for version 1.05
 
