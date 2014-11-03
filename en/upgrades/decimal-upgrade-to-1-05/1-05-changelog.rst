@@ -13,9 +13,15 @@ A full diff of all schema changes in 1.05 can be found in the `IATI GitHub <http
 
 Activities schema
 -----------------
+
+*Location/Location ID: Updated description text*
+````````````````````````````````````````````````
+Element: :doc:`location/location-id </activity-standard/iati-activities/iati-activity/location/location-id>` (`discussion  <http://support.iatistandard.org/entries/50424779-Add-a-description-in-the-schema-to-planned-disbursement-element>`__)
+
+
 *Planned Disbursement: Updated description text*
 ````````````````````````````````````````````````
-Element: :doc:`planned-disbursement </activity-standard/iati-activities/iati-activity/planned-disbursement>` (`discussion  <http://support.iatistandard.org/entries/50424779-Add-a-description-in-the-schema-to-planned-disbursement-element>`__)
+Element: :doc:`planned-disbursement </activity-standard/iati-activities/iati-activity/planned-disbursement>` (`discussion  <https://github.com/IATI/IATI-Extra-Documentation/issues/205>`__)
 
 In 1.04:
  
@@ -25,10 +31,10 @@ In 1.04:
 
    * - Element
      - Description
-   * - planned-disbursement
-     - (none)
+   * - location/location-id
+     - For administrative areas this identifier should only be used if the location being defined is the administrative area itself. For describing the administrative area/s within which a location falls the location/administrative element should be used.
 
-Description added in 1.05:
+Description amended in 1.05:
 
 .. list-table:: 
    :widths: 20 40
@@ -36,8 +42,8 @@ Description added in 1.05:
 
    * - Element
      - Description
-   * - planned-disbursement
-     - The planned disbursement element should only be used to report specific planned cash transfers. These should be reported for a specific date or a meaningfully predictable period. These transactions should be reported in addition to budgets - which are typically annual breakdowns of the total activity commitment.
+   * - location/location-id
+     - A unique code describing the location according to a recognised gazetteer or administrative boundary repository. Administrative areas should only be reported here if the location being defined is the administrative area itself. For describing the administrative area/s within which a more specific location falls the location/administrative element should be used.
 
 Organisations schema
 --------------------
@@ -126,7 +132,6 @@ Codelist:  :doc:`DocumentCategory </codelists/DocumentCategory>`
    * - B15
      - General Terms and Conditions
      - (none)     
-
 
 *Related Activity Type: New code*
 `````````````````````````````````  
