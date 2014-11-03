@@ -35,5 +35,18 @@ Previous versions of the IATI Standard are available.  Publishers are able to re
 
 - 1.01: http://iatistandard.org/101/
 
+Changelogs
+----------
+Changelogs are available for all versions of the IATI Standard
+
+- 2.01: http://iatistandard.org/upgrades/integer-upgrade-to-2-01/2-01-changelog/
+
+- 1.05: http://iatistandard.org/upgrades/decimal-upgrade-to-1-05/1-05-changelog/
+
+- 1.04: http://iatistandard.org/upgrades/decimal-upgrade-to-1-04/1-04-changs/
+
+- 1.03: http://iatistandard.org/upgrades/decimal-upgrade-to-1-03/1-03-changes/
+
+- 1.02: http://iatistandard.org/upgrades/decimal-upgrade-to-1-02/1-02-changes/
 
 
