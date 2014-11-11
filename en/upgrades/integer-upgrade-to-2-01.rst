@@ -6,7 +6,7 @@ Integer Upgrade to 2.01
 
    integer-upgrade-to-2-01/2-01-headlines
    integer-upgrade-to-2-01/migrating
-   integer-upgrade-to-2-01/2-01-changelog
+   integer-upgrade-to-2-01/2-01-changes
 
 The IATI Steering Committee agreed to accept version 2.01 of the **IATI Standard** on the 16th October 2014.  
 
