@@ -7,11 +7,13 @@ Decimal Upgrade to 1.05
 
    decimal-upgrade-to-1-05/*
 
-Details about the specific changes are listed in the :doc:`1.05 Changelog <http://support.iatistandard.org/>`.  
+Version 1.05 of the **IATI Standard** was released on 6th October 2014.
+
+Details about the specific changes are listed in the :doc:`1.05 Changelog </upgrades/decimal-upgrade-to-1-05/1-05-changelog>`.  
 
 | Discussions on changes can be foud in the \ `1.05 Decimal Upgrade Forum <http://support.iatistandard.org/forums/22895158-1-05-Decimal-Upgrade>`__.
 
-You can contribute issues to be considered in future upgrades in the \ `knowledge base <http://support.iatistandard.org/>`__.
+Ideas, suggestions and issues for future upgrades can be accessed and added in the \ `knowledge base <http://support.iatistandard.org/categories/20001338-The-IATI-Standards>`__.
 
 .. csv-table::
     :header-rows: 1

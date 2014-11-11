@@ -1,7 +1,5 @@
-Migrating from IATI Standard versions 1.x to version 2.01
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
-
-*Document Status: DRAFT*
+Migrating from versions 1.x to version 2.01
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 .. contents::
 

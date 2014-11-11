@@ -2,15 +2,15 @@ Upgrades
 ========
 
 .. toctree::
-   :hidden:
+	 :hidden:
 
-   upgrades/all-versions
-   upgrades/nonembedded-codelist-changelog
-   upgrades/integer-upgrade-to-2-01
-   upgrades/decimal-upgrade-to-1-05
-   upgrades/decimal-upgrade-to-1-04
-   upgrades/decimal-upgrade-to-1-03
-   upgrades/decimal-upgrade-to-1-02
+	 upgrades/all-versions
+	 upgrades/nonembedded-codelist-changelog
+	 upgrades/integer-upgrade-to-2-01
+	 upgrades/decimal-upgrade-to-1-05
+	 upgrades/decimal-upgrade-to-1-04
+	 upgrades/decimal-upgrade-to-1-03
+	 upgrades/decimal-upgrade-to-1-02
 
 The IATI standard is a living entity that will require improvement over
 time. 
@@ -23,11 +23,11 @@ the suggestions and experiences of the publishers and users of IATI
 data, and managed by the IATI Steering Committee through its Secretariat
 and Technical Advisory Group.
 
-Some changes can be made at any time without having a major effect on 
-data publishers or data users. These are known as Minor Changes:
-
 Minor Changes
 ~~~~~~~~~~~~~
+
+Some changes can be made at any time without having a major effect on 
+data publishers or data users. These are known as Minor Changes
 
 Minor changes can be made without changing the version of the standard. 
 They cover:
