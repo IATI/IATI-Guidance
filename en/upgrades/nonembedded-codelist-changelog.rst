@@ -38,6 +38,11 @@ New codes added to non-embedded codelists
      - Change description
      - Notes
      - Discussion
+   * - 10th November 2014
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *XM-OCHA* (United Nations Office for the Coordination of Humanitarian Affairs)
+     - This was added via a request made by the community.  
+     - See `Addition of XM-OCHA  <http://support.iatistandard.org/entries/62137845-Addition-of-XM-OCHA->`__ on the support forum.      
    * - 7th October 2014
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
      - Add *FI-PRO* (Finnish Patient and Registration office)
