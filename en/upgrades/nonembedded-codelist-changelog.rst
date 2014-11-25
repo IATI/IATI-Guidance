@@ -38,6 +38,11 @@ New codes added to non-embedded codelists
      - Change description
      - Notes
      - Discussion
+   * - 25th November 2014
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *SK-ZRSR* (Slovakia Ministry Of Interior)
+     - This was added via a request made by the community.  
+     - See `Organisation Identifier: Slovakia  <http://support.iatistandard.org/entries/65310299-Organisation-Identifier-Slovakia>`__ on the support forum.       
    * - 10th November 2014
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
      - Add *XM-OCHA* (United Nations Office for the Coordination of Humanitarian Affairs)
@@ -90,4 +95,4 @@ Updates to names/descriptions of non-embedded codelists
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
      - Update Descriptions To Remove 'Updated By'
      - This was added as part of a clean up of the codelist 
-     - See `Registration Agencies - Update Descriptions To Remove 'Updated By' <http://support.iatistandard.org/entries/53429445-Registration-Agencies-Update-Descriptions-To-Remove-Updated-By->`__ on the support forum.     
+     - See `Registration Agencies - Update Descriptions To Remove 'Updated By' <http://support.iatistandard.org/entries/53429445-Registration-Agencies-Update-Descriptions-To-Remove-Updated-By->`__ on the support forum.
