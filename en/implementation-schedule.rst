@@ -15,23 +15,23 @@ Common Standard Implementation Schedule
 ---------------------------------------
 If your organisation reports to the DAC then the Common Standard Implementation Schedule should be used:
 
-* `xls format (Excel) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template-commonstandard/Implementation-Schedule-for-the-common-standard-ENG.xls>`__
+* 'Excel format (.xls) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template_commonstandard/CommonStandard-ImplementationSchedule.xls>`__
 
-* `ods format (Open Document Format) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template-commonstandard/Implementation-Schedule-for-the-common-standard-ENG.ods>`__
+* 'Open Document Format (.ods) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template_commonstandard/CommonStandard-ImplementationSchedule.ods>`__
 
-DFI / IFI Implementation Schedule
+DFIs (Development Finance Institutions) and IFIs (International Financial Institutions) Implementation Schedule
 -------------------------------
 This version can be downloaded in:
 
-* `xls format (Excel) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template%20-%20DFIs/Best%20practice%20for%20IATI%20reporting%20by%20DFI%20IFI%20Implementation%20Schedule.xls>`__
+* 'Excel format (.xls) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template_DFIs/DFI-IFI_ImplementationSchedule.xls>`__
 
-* `ods format (Open Document Format) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template%20-%20DFIs/Best%20practice%20for%20IATI%20reporting%20by%20DFI%20IFI%20Implementation%20Schedule.ods>`__
+* 'Open Document Format (.ods) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template_DFIs/DFI-IFI_ImplementationSchedule.ods>`__
 
 All Other Publishers Implementation Schedule
 ---------------------------------------
 This version can be downloaded in:
 
-* `xls format (Excel) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template%20-%20ngo/ImplementationSchedule-AllOtherPublishers.xlsx>`__
+* 'Excel format (.xlsx) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template_AllOther/ImplementationSchedule-AllOtherPublishers.xlsx>`__
 
-* `ods format (Open Document Format) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template%20-%20ngo/ImplementationSchedule-AllOtherPublishers.ods>`__
+* 'Open Document Format (.ods) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template_AllOther/ImplementationSchedule-AllOtherPublishers.ods>`__
 
