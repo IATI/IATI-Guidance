@@ -13,7 +13,7 @@ The drafting of the Implementation Schedule can be done in parallel with prepari
 
 Common Standard Implementation Schedule
 ---------------------------------------
-If your organisation endorsed the `outcome document <http://effectivecooperation.org/files/OUTCOME_DOCUMENT_-_FINAL_EN2.pdf>` from the fourth High Level Forum on Aid Effectiveness in Busan (specifically para. 23 c) then the Common Standard Implementation Schedule should be used:
+If your organisation endorsed the `outcome document <http://effectivecooperation.org/files/OUTCOME_DOCUMENT_-_FINAL_EN2.pdf>`__ from the fourth High Level Forum on Aid Effectiveness in Busan (specifically para. 23 c) then the Common Standard Implementation Schedule should be used:
 
 * `Excel format (.xls) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template_commonstandard/CommonStandard-ImplementationSchedule.xls>`__
 
