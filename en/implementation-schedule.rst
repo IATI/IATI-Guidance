@@ -4,12 +4,14 @@ The Implementation Schedule
 The purpose of the Implementation Schedule is to:
 
 - Document an organisation's publishing policies to provide context to its published data files
-- Provide the time line for when data for each field of the IATI Standard was / will be published (or not published if not applicable / possible etc.)
-- Enable others and the IATI Secretariat to confirm that an organisation is delivering on its publishing commitment.
+- Help an organisation plan what they are publishing to the IATI Standard, when and how, as well as indicating what they are not able to publish
+- Enable data users and others to confirm that an organisation is delivering on its publishing commitments
 
-The Implementation Schedule (currently in MS Excel format) is a living document and should ideally be subject to the version control. It can be updated and added to at any time, to reflect changes or additions to the way an organisation is reporting. 
+The Implementation Schedule (available in both MS Excel and Open Document formats) is a living document and should ideally be periodically reviewed and updated (and version controlled). 
  
-The drafting of the Implementation Schedule can be done in parallel with preparing data for publication and it should also be published along side the IATI data. Whilst the Implementation Schedule is not a mandatory document to create (unless of course there is a contractual requirement attached to funding to produce one), it is strongly recommended that it is used in order to aid the publisher in publishing their data. 
+The drafting of the Implementation Schedule can be done in parallel with preparing data for publication and should be published alongside IATI data (by adding the url in the specified field in your Registry account). 
+
+Completing an Implementation Schedule is mandatory for organisations who endorsed the Busan outcome document or who have a grant or contract from DFID that requires publishing to IATI. For other publishers, we strongly recommended that it is used as a planning and publishing aid. 
 
 Common Standard Implementation Schedule
 ---------------------------------------
