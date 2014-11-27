@@ -4,33 +4,36 @@ The Implementation Schedule
 The purpose of the Implementation Schedule is to:
 
 - Document an organisation's publishing policies to provide context to its published data files
-- Provide the time line for when data for each field of the IATI Standard was / will be published (or not published if not applicable / possible etc.)
-- Enable others and the IATI Secretariat to confirm that an organisation is delivering on its publishing commitment.
+- Help an organisation plan what they are publishing to the IATI Standard, when and how, as well as indicating what they are not able to publish
+- Enable data users and others to confirm that an organisation is delivering on its publishing commitments
 
-The Implementation Schedule (currently in MS Excel format) is a living document and should ideally be subject to the version control. It can be updated and added to at any time, to reflect changes or additions to the way an organisation is reporting. 
+The Implementation Schedule (available in both MS Excel and Open Document formats) is a living document and should ideally be periodically reviewed and updated (and version controlled). 
  
-The drafting of the Implementation Schedule can be done in parallel with preparing data for publication and it should also be published along side the IATI data. Whilst the Implementation Schedule is not a mandatory document to create (unless of course there is a contractual requirement attached to funding to produce one), it is strongly recommended that it is used in order to aid the publisher in publishing their data. 
+The drafting of the Implementation Schedule can be done in parallel with preparing data for publication and should be published alongside IATI data (by adding the url in the specified field in your Registry account). 
+
+Completing an Implementation Schedule is mandatory for organisations who endorsed the Busan outcome document or who have a grant or contract from DFID that requires publishing to IATI. For other publishers, we strongly recommended that it is used as a planning and publishing aid. 
 
 Common Standard Implementation Schedule
 ---------------------------------------
-If your organisation reports to the DAC then the Common Standard Implementation Schedule should be used:
+If your organisation endorsed the `outcome document <http://effectivecooperation.org/files/OUTCOME_DOCUMENT_-_FINAL_EN2.pdf>`__ from the fourth High Level Forum on Aid Effectiveness in Busan (specifically para. 23 c) then the Common Standard Implementation Schedule should be used:
 
-* `xls format (Excel) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template-commonstandard/Implementation-Schedule-for-the-common-standard-ENG.xls>`__
+* `Excel format (.xls) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template_commonstandard/CommonStandard-ImplementationSchedule.xls>`__
 
-* `ods format (Open Document Format) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template-commonstandard/Implementation-Schedule-for-the-common-standard-ENG.ods>`__
+* `Open Document Format (.ods) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template_commonstandard/CommonStandard-ImplementationSchedule.ods>`__
 
-Implementation Schedule for NGOs / CSOs 
----------------------------------------
-This version can be downloaded in:
-
-* `xls format (Excel) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template%20-%20ngo/Implementation%20Schedule%20TEMPLATE%20for%20NGOs%20Sept%202013.xls>`__
-
-* `ods format (Open Document Format) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template%20-%20ngo/Implementation%20Schedule%20TEMPLATE%20for%20NGOs%20Sept%202013.ods>`__
-
-DFI IFI Implementation Schedule
+DFIs (Development Finance Institutions) and IFIs (International Financial Institutions) Implementation Schedule
 -------------------------------
 This version can be downloaded in:
 
-* `xls format (Excel) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template%20-%20DFIs/Best%20practice%20for%20IATI%20reporting%20by%20DFI%20IFI%20Implementation%20Schedule.xls>`__
+* `Excel format (.xls) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template_DFIs/DFI-IFI_ImplementationSchedule.xls>`__
 
-* `ods format (Open Document Format) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template%20-%20DFIs/Best%20practice%20for%20IATI%20reporting%20by%20DFI%20IFI%20Implementation%20Schedule.ods>`__
+* `Open Document Format (.ods) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template_DFIs/DFI-IFI_ImplementationSchedule.ods>`__
+
+All Other Publishers Implementation Schedule
+---------------------------------------
+This version can be downloaded in:
+
+* `Excel format (.xlsx) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template_AllOther/ImplementationSchedule-AllOtherPublishers.xlsx>`__
+
+* `Open Document Format (.ods) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template_AllOther/ImplementationSchedule-AllOtherPublishers.ods>`__
+
