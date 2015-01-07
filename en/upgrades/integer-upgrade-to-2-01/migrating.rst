@@ -206,7 +206,7 @@ In both the Organisation and Activity Standards
 
 Element order can be found by inspecting the schema directly:
 
--  `http://dev.iatistandard.org/201/schema/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Fschema%2F&sa=D&sntz=1&usg=AFQjCNGoLWYpWF12X__nOhI46c4C4E3Q_A>`__
+-  `http://iatistandard.org/201/schema/ <http://iatistandard.org/201/schema/>`__
 
 Or via our GitHub repository:
 
@@ -216,12 +216,12 @@ Or via our GitHub repository:
 
 The order is also reflected in the left hand navigation of the website:
 
--  http://dev.iatistandard.org/201/
+-  http://iatistandard.org/201/
 
 Tables generated from the schema can be found at:
 
--  `http://dev.iatistandard.org/201/activity-standard/summary-table/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Factivity-standard%2Fsummary-table%2F&sa=D&sntz=1&usg=AFQjCNEwDpjea_sAMKBWD5eBJ0tttqr2sA>`__
--  `http://dev.iatistandard.org/201/organisation-standard/summary-table/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Forganisation-standard%2Fsummary-table%2F&sa=D&sntz=1&usg=AFQjCNHRRw-l5kmIRp2aabhm28EnJanqEQ>`__
+-  `http://iatistandard.org/201/activity-standard/summary-table/ <http://iatistandard.org/201/activity-standard/summary-table/>`__
+-  `http://iatistandard.org/201/organisation-standard/summary-table/ <http://iatistandard.org/201/organisation-standard/summary-table/>`__
 
 **What happens if we do not do this?**
 
@@ -338,11 +338,11 @@ In addition, when other non-mandatory elements are used, the schema may
 dictate whether or not child elements must be present, the number of
 times they may occur, and the presence of attributes. You can find the
 detail in the relevant schema
-documents. \ `http://dev.iatistandard.org/201/schema/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Fschema%2F&sa=D&sntz=1&usg=AFQjCNGoLWYpWF12X__nOhI46c4C4E3Q_A>`__
+documents. \ `http://iatistandard.org/201/schema/ <http://iatistandard.org/201/schema/>`__
 
 The 'occurs' column of the overview table:
 
--  `http://dev.iatistandard.org/201/activity-standard/summary-table/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Factivity-standard%2Fsummary-table%2F&sa=D&sntz=1&usg=AFQjCNEwDpjea_sAMKBWD5eBJ0tttqr2sA>`__
+-  `http://iatistandard.org/201/activity-standard/summary-table/ <http://iatistandard.org/201/activity-standard/summary-table/>`__
 
 also indicates where both elements and attributes are required, and how
 often they may occur.
@@ -366,19 +366,19 @@ mandatory by the schema.
 Each Organisation record MUST contain:
 
 -  a valid organisation identifier;  (element (:doc:`organisation-identifier </organisation-standard/iati-organisations/iati-organisation/organisation-identifier/>`) presence tested by schema)
--  a name; (element (`name/narrative <http://dev.iatistandard.org/201/organisation-standard/iati-organisations/iati-organisation/name/narrative/>`__) presence tested by schema)
--  a valid reporting organisation identifier (element (`reporting-org <http://dev.iatistandard.org/201/organisation-standard/iati-organisations/iati-organisation/reporting-org/>`__)
+-  a name; (element (`name/narrative <http://iatistandard.org/201/organisation-standard/iati-organisations/iati-organisation/name/narrative/>`__) presence tested by schema)
+-  a valid reporting organisation identifier (element (`reporting-org <http://iatistandard.org/201/organisation-standard/iati-organisations/iati-organisation/reporting-org/>`__)
    presence tested by schema - validity could be tested by software)
 
 In addition, when other non-mandatory elements are used, the schema may
 dictate whether or not child elements must be present, the number of
 times they may occur, and the presence of attributes.  You can find the
 detail in the relevant schema documents.
-`http://dev.iatistandard.org/201/schema/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Fschema%2F&sa=D&sntz=1&usg=AFQjCNGoLWYpWF12X__nOhI46c4C4E3Q_A>`__
+`http://iatistandard.org/201/schema/ <http://iatistandard.org/201/schema/>`__
 
 The 'occurs' column of the overview table:
 
--  `http://dev.iatistandard.org/201/organisation-standard/summary-table/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Forganisation-standard%2Fsummary-table%2F&sa=D&sntz=1&usg=AFQjCNHRRw-l5kmIRp2aabhm28EnJanqEQ>`__
+-  `http://iatistandard.org/201/organisation-standard/summary-table/ <http://iatistandard.org/201/organisation-standard/summary-table/>`__
 
 also indicates where both elements and attributes are required, and how
 often they may occur.
@@ -398,20 +398,20 @@ You MUST correctly report the version of the standard you are using.
 
 In the Activity Standard
 
--  From version 2.01, the \@version attribute of `iati-activities <http://dev.iatistandard.org/201/activity-standard/iati-activities/>`__
+-  From version 2.01, the \@version attribute of `iati-activities <http://iatistandard.org/201/activity-standard/iati-activities/>`__
    is mandatory
 -  In version 1.x the \`\`iati-activity\`\`element had an \@version
    attribute. This is no longer the case in version 2.01 (it has been
    removed).
--  The values for \@version must be on the `version codelist <http://dev.iatistandard.org/201/codelists/Version/>`__.
+-  The values for \@version must be on the `version codelist <http://iatistandard.org/201/codelists/Version/>`__.
 
 In the Organisation Standard
 
--  From version 2.01, the \@version attribute of `iati-organisations <http://dev.iatistandard.org/201/organisation-standard/iati-organisations/>`__ is mandatory
+-  From version 2.01, the \@version attribute of `iati-organisations <http://iatistandard.org/201/organisation-standard/iati-organisations/>`__ is mandatory
 -  In version 1.x the \`iati-organisation\` element had an \@version
    attribute. This is no longer the case in version 2.01 (it has been
    removed).
--  The values for \@version must be on the `version codelist <http://dev.iatistandard.org/201/codelists/Version/>`__.
+-  The values for \@version must be on the `version codelist <http://iatistandard.org/201/codelists/Version/>`__.
 
 **Where is this applicable?**
 
@@ -421,11 +421,11 @@ In both the Organisation and Activity standards
 
 For an iati-activity example see:
 
--  `http://dev.iatistandard.org/201/activity-standard/iati-activities/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Factivity-standard%2Fiati-activities%2F&sa=D&sntz=1&usg=AFQjCNHdl8J5xzWHX623ZGEhhAlwZqw5pQ>`__
+-  `http://iatistandard.org/201/activity-standard/iati-activities/ <http://iatistandard.org/201/activity-standard/iati-activities/>`__
 
 For an iati-organisation example see:
 
--  `http://dev.iatistandard.org/201/organisation-standard/iati-organisations/ <http://dev.iatistandard.org/201/organisation-standard/iati-organisations/>`__
+-  `http://iatistandard.org/201/organisation-standard/iati-organisations/ <http://iatistandard.org/201/organisation-standard/iati-organisations/>`__
 
 **What happens if we do not do this?**
 
@@ -435,7 +435,7 @@ data will fail validation against the relevant 2.01 schema.
 If you include iati-activity/\@verison or iati-organisation\@version the
 data will fail validation against the relevant 2.01 schema.
 
-If you do not use a value for \@version from the `version codelist <http://dev.iatistandard.org/201/codelists/Version/>`__. data
+If you do not use a value for \@version from the `version codelist <http://iatistandard.org/201/codelists/Version/>`__. data
 users may have difficulty processing your data.
 
 
@@ -557,8 +557,8 @@ in 2.01
 
 Examples of how this change works can be seen on (for example):
 
--  `http://dev.iatistandard.org/201/activity-standard/iati-activities/iati-activity/title/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Factivity-standard%2Fiati-activities%2Fiati-activity%2Ftitle%2F&sa=D&sntz=1&usg=AFQjCNFfJsTmCPEzMQ7hA-OOYhuRhqAfmA>`__
--  http://dev.iatistandard.org/201/organisation-standard/iati-organisations/iati-organisation/name/
+-  `http://iatistandard.org/201/activity-standard/iati-activities/iati-activity/title/ <http://iatistandard.org/201/activity-standard/iati-activities/iati-activity/title/>`__
+-  http://iatistandard.org/201/organisation-standard/iati-organisations/iati-organisation/name/
 
 **What happens if we do not do this?**
 
@@ -600,8 +600,8 @@ in this post:
 
 Examples of how this change works can be seen on (for example):
 
--  `http://dev.iatistandard.org/201/activity-standard/iati-activities/iati-activity/title/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Factivity-standard%2Fiati-activities%2Fiati-activity%2Ftitle%2F&sa=D&sntz=1&usg=AFQjCNFfJsTmCPEzMQ7hA-OOYhuRhqAfmA>`__
--  `http://dev.iatistandard.org/201/organisation-standard/iati-organisations/iati-organisation/name/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Forganisation-standard%2Fiati-organisations%2Fiati-organisation%2Fname%2F&sa=D&sntz=1&usg=AFQjCNGoBnjVh1n-2Qyf50-YwNOU2DKmgQ>`__ 
+-  `http://iatistandard.org/201/activity-standard/iati-activities/iati-activity/title/ <http://iatistandard.org/201/activity-standard/iati-activities/iati-activity/title/>`__
+-  `http://iatistandard.org/201/organisation-standard/iati-organisations/iati-organisation/name/ <http://iatistandard.org/201/organisation-standard/iati-organisations/iati-organisation/name/>`__ 
 
 **What happens if we do not do this?**
 
@@ -686,7 +686,7 @@ To declare a recipient country of Kosovo, both of these are acceptable:
 
 #. <recipient-country code="XK" /> - a lookup against the relevant
    codelist
-   (`http://dev.iatistandard.org/201/codelists/Country/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Fcodelists%2FCountry%2F&sa=D&sntz=1&usg=AFQjCNFzxOJxVt1Rz9tXzx2wm5wJdx8z4w>`__)
+   (`http://iatistandard.org/201/codelists/Country/ <http://iatistandard.org/201/codelists/Country/>`__)
    would return a country name of 'Kosovo'
 #. If you prefer to declare a different name that differs from the ISO
    3166-1 part of the ISO 3166 standard  (e.g. Kosovo (As per UNSCR
@@ -894,8 +894,8 @@ countries at BOTH activity and transaction level
 
 See:
 
--  http://dev.iatistandard.org/201/activity-standard/iati-activities/iati-activity/recipient-country/ 
--  http://dev.iatistandard.org/201/activity-standard/iati-activities/iati-activity/recipient-region/ 
+-  http://iatistandard.org/201/activity-standard/iati-activities/iati-activity/recipient-country/ 
+-  http://iatistandard.org/201/activity-standard/iati-activities/iati-activity/recipient-region/ 
 
 **See also**
 
@@ -1023,8 +1023,8 @@ datetimes:
 
 Examples of how this change works can be seen on (for example):
 
--  `http://dev.iatistandard.org/201/activity-standard/iati-activities/iati-activity/activity-date/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Factivity-standard%2Fiati-activities%2Fiati-activity%2Factivity-date%2F&sa=D&sntz=1&usg=AFQjCNFGAgQQebvxFOVvnW6E0kNu-r6KVw>`__
--  `http://dev.iatistandard.org/201/organisation-standard/iati-organisations/iati-organisation/total-budget/period-start/ <http://www.google.com/url?q=http%3A%2F%2Fdev.iatistandard.org%2F201%2Forganisation-standard%2Fiati-organisations%2Fiati-organisation%2Ftotal-budget%2Fperiod-start%2F&sa=D&sntz=1&usg=AFQjCNEj4bz724J89mCqDHuSwZiJKqTQPA>`__
+-  `http://iatistandard.org/201/activity-standard/iati-activities/iati-activity/activity-date/ <http://iatistandard.org/201/activity-standard/iati-activities/iati-activity/activity-date/>`__
+-  `http://iatistandard.org/201/organisation-standard/iati-organisations/iati-organisation/total-budget/period-start/ <http://iatistandard.org/201/organisation-standard/iati-organisations/iati-organisation/total-budget/period-start/>`__
 
 **What happens if we do not do this?**
 
@@ -1101,7 +1101,7 @@ information in 2.01
 
 A detailed guide to what has changed and what you need to do can be
 found here:
-http://dev.iatistandard.org/201/upgrades/decimal-upgrade-to-1-04/location-summary/
+http://iatistandard.org/201/upgrades/decimal-upgrade-to-1-04/location-summary/
 
 In version 2.01, these elements are no longer available:
 
