@@ -12,9 +12,9 @@ The IATI Standard is fundamental to the publishing process because the it provid
 
 The IATI Standard has three main components:
 
-Organisation Standard - which provides the definition for what data can be included and how it must be formatted for the Organisation file
-Activity Standard - which provides the definition for what data can be included and how it must be formatted for an Activity file
-Codelists - provide the definitive list of allowed values for specific data elements or attributes
+ * :doc:`/organisation-standard`- which provides the definition for what data can be included and how it must be formatted for the Organisation file
+ * :doc:`/activity-standard/` - which provides the definition for what data can be included and how it must be formatted for an Activity file
+ * :doc:`/codelists/` - provide the definitive list of allowed values for specific data elements or attributes
 
 The IATI Standard is managed by the IATI Secretariat and anyone can request amendments or changes to the IATI Standard via the IATI Standard Upgrade process - see http://iatistandard.org/upgrades .
 
