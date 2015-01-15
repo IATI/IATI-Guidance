@@ -149,7 +149,7 @@ To solve this, a previous reporting-org identifier can be reported in the
 -  OR a previous reporting-org identifier reported in :doc:`other-identifier </activity-standard/iati-activities/iati-activity/other-identifier/>`
 
 For more information see:
-`http://support.iatistandard.org/entries/52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers&sa=D&sntz=1&usg=AFQjCNEOXRcN9LWCZwcYQPAAxmUD2wPZ5A>`__
+`http://support.iatistandard.org/entries/52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers <http://support.iatistandard.org/entries/52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers>`__
 
 To make this element work, a new OtherIdentifierType codelist has been 
 constructed, and the entire element has been re-constructed.
@@ -210,9 +210,9 @@ Element order can be found by inspecting the schema directly:
 
 Or via our GitHub repository:
 
--   `https://github.com/IATI/IATI-Schemas/blob/version-2.01/iati-activities-schema.xsd <https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FIATI%2FIATI-Schemas%2Fblob%2Fversion-2.01%2Fiati-activities-schema.xsd&sa=D&sntz=1&usg=AFQjCNE3rHdVso9S5qUMO-yTp7wjhr3TiQ>`__
--  `https://github.com/IATI/IATI-Schemas/blob/version-2.01/iati-organisations-schema.xsd <https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FIATI%2FIATI-Schemas%2Fblob%2Fversion-2.01%2Fiati-organisations-schema.xsd&sa=D&sntz=1&usg=AFQjCNGigrFVa143eFq5Cf5YjE67YpCz_g>`__
--  `https://github.com/IATI/IATI-Schemas/blob/version-2.01/iati-common.xsd <https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FIATI%2FIATI-Schemas%2Fblob%2Fversion-2.01%2Fiati-common.xsd&sa=D&sntz=1&usg=AFQjCNE0Gfer849Qfbf47E-BqbQmhRQplA>`__
+-   `https://github.com/IATI/IATI-Schemas/blob/version-2.01/iati-activities-schema.xsd <https://github.com/IATI/IATI-Schemas/blob/version-2.01/iati-activities-schema.xsd>`__
+-  `https://github.com/IATI/IATI-Schemas/blob/version-2.01/iati-organisations-schema.xsd <https://github.com/IATI/IATI-Schemas/blob/version-2.01/iati-organisations-schema.xsd>`__
+-  `https://github.com/IATI/IATI-Schemas/blob/version-2.01/iati-common.xsd <https://github.com/IATI/IATI-Schemas/blob/version-2.01/iati-common.xsd>`__
 
 The order is also reflected in the left hand navigation of the website:
 
@@ -269,7 +269,7 @@ Each Activity record MUST contain:
    schema
 
 for discussion go to
-`http://support.iatistandard.org/entries/41047217-Modify-participating-org-Validation-and-guidance <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F41047217-Modify-participating-org-Validation-and-guidance&sa=D&sntz=1&usg=AFQjCNFxiOgh30J6a6cVu8mqSUijcLIS0g>`__
+`http://support.iatistandard.org/entries/41047217-Modify-participating-org-Validation-and-guidance <http://support.iatistandard.org/entries/41047217-Modify-participating-org-Validation-and-guidance>`__
 
 **Title**
 
@@ -278,7 +278,7 @@ for discussion go to
    activity - not enforceable by the schema
 
 for discussion go to
-`http://support.iatistandard.org/entries/41584666-Modify-title-validation-and-guidance <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F41584666-Modify-title-validation-and-guidance&sa=D&sntz=1&usg=AFQjCNEwrNwzD2PbpeK5uVk3cE3PzqW9-Q>`__
+`http://support.iatistandard.org/entries/41584666-Modify-title-validation-and-guidance <http://support.iatistandard.org/entries/41584666-Modify-title-validation-and-guidance>`__
 
 **Description**
 
@@ -287,7 +287,7 @@ for discussion go to
    description of the activity -not enforceable by the schema
 
 for discussion go to
-`http://support.iatistandard.org/entries/41584706-Modify-description-validation-and-guidance <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F41584706-Modify-description-validation-and-guidance&sa=D&sntz=1&usg=AFQjCNFd0zKLV5mXPeuoqZYLscVLEcFjkQ>`__
+`http://support.iatistandard.org/entries/41584706-Modify-description-validation-and-guidance <http://support.iatistandard.org/entries/41584706-Modify-description-validation-and-guidance>`__
 
 **Activity Date**
 
@@ -297,13 +297,13 @@ for discussion go to
    not enforceable
 
 for discussion go to
-`http://support.iatistandard.org/entries/41089758-Modify-activity-date-validation-and-guidance <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F41089758-Modify-activity-date-validation-and-guidance&sa=D&sntz=1&usg=AFQjCNEeNc4gPTnRxtWZxe7RGb3ej9CeBg>`__
+`http://support.iatistandard.org/entries/41089758-Modify-activity-date-validation-and-guidance <http://support.iatistandard.org/entries/41089758-Modify-activity-date-validation-and-guidance>`__
 
 **Sector / Transaction Sector**
 
 -  Sector may now be reported at transaction level instead of activity
    level. For details `see
-   here <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F52106549-Version-2-01-Iteration-2-3-7-Replicate-more-activity-level-elements-at-transaction-level&sa=D&sntz=1&usg=AFQjCNE-c34Px_RjQKda_H58c6bmPIIg6A>`__
+   here <http://support.iatistandard.org/entries/52106549-Version-2-01-Iteration-2-3-7-Replicate-more-activity-level-elements-at-transaction-level>`__
 -  At least one occurrence of sector OR transaction/sector is MANDATORY
    - not enforceable
 -  sector/\@code OR transaction/sector/\@code is MANDATORY  - enforced by
@@ -313,7 +313,7 @@ for discussion go to
 -  Use of DAC codes (either 5-digit or 3-digit) is recommended
 
 for discussion go to
-`http://support.iatistandard.org/entries/22993317-Modify-sector-validation-and-guidance <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F22993317-Modify-sector-validation-and-guidance&sa=D&sntz=1&usg=AFQjCNG8UMyxTCOmgxbS7BRfkyB7r59d7g>`__
+`http://support.iatistandard.org/entries/22993317-Modify-sector-validation-and-guidance <http://support.iatistandard.org/entries/22993317-Modify-sector-validation-and-guidance>`__
 
 **budgets / planned-disbursement**
 
@@ -332,7 +332,7 @@ used.
   * Each budget should cover a period no longer than 1 year (not enforceable by the schema)
 
 for discussion go to
-`http://support.iatistandard.org/entries/22900321-Modify-budget-period-start-and-budget-period-end-make-mandatory <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F22900321-Modify-budget-period-start-and-budget-period-end-make-mandatory%3Fpage%3D1%23post_25441557&sa=D&sntz=1&usg=AFQjCNE9udxHYgDMzfDgbLZEH-PrplBHUg>`__
+`http://support.iatistandard.org/entries/22900321-Modify-budget-period-start-and-budget-period-end-make-mandatory <http://support.iatistandard.org/entries/22900321-Modify-budget-period-start-and-budget-period-end-make-mandatory>`__
 
 In addition, when other non-mandatory elements are used, the schema may
 dictate whether or not child elements must be present, the number of
@@ -464,11 +464,11 @@ This applies to any use of namespaces
 
 For an iati-activity example see:
 
--  `https://github.com/IATI/IATI-Schemas/blob/version-2.01/tests/activity-tests/should-pass/03-top-level-extensibility.xml <https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FIATI%2FIATI-Schemas%2Fblob%2Fversion-2.01%2Ftests%2Factivity-tests%2Fshould-pass%2F03-top-level-extensibility.xml&sa=D&sntz=1&usg=AFQjCNH-84sBrPmxg2jmcrffZi3rDc4Xhw>`__
+-  `https://github.com/IATI/IATI-Schemas/blob/version-2.01/tests/activity-tests/should-pass/03-top-level-extensibility.xml <https://github.com/IATI/IATI-Schemas/blob/version-2.01/tests/activity-tests/should-pass/03-top-level-extensibility.xml>`__
 
 For an iati-organisation example see:
 
--  `https://github.com/IATI/IATI-Schemas/blob/version-2.01/tests/organisation-tests/should-pass/02-top-level-extensibility.xml <https://www.google.com/url?q=https%3A%2F%2Fgithub.com%2FIATI%2FIATI-Schemas%2Fblob%2Fversion-2.01%2Ftests%2Forganisation-tests%2Fshould-pass%2F02-top-level-extensibility.xml&sa=D&sntz=1&usg=AFQjCNH8UTAMlcEA775ffv9_9mIC1HERTA>`__
+-  `https://github.com/IATI/IATI-Schemas/blob/version-2.01/tests/organisation-tests/should-pass/02-top-level-extensibility.xml <https://github.com/IATI/IATI-Schemas/blob/version-2.01/tests/organisation-tests/should-pass/02-top-level-extensibility.xml>`__
 
 **What happens if we do not do this?**
 
@@ -594,7 +594,7 @@ nested, multi-lingual text elements for all elements containing free
 text
 
 in this post:
-`http://support.iatistandard.org/entries/52106219-Version-2-01-Iteration-3-4-Multi-lingual-text-fields <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F52106219-Version-2-01-Iteration-3-4-Multi-lingual-text-fields&sa=D&sntz=1&usg=AFQjCNE0LxVECS1gjN2wi1WRdeCxBV8r1w>`__
+`http://support.iatistandard.org/entries/52106219-Version-2-01-Iteration-3-4-Multi-lingual-text-fields <http://support.iatistandard.org/entries/52106219-Version-2-01-Iteration-3-4-Multi-lingual-text-fields>`__
 
 **Example**
 
@@ -635,7 +635,7 @@ been removed from a number of elements.
 For a list of elements where this applies see:
 
 Scrapping text of purely code elements -
-`http://support.iatistandard.org/entries/52106219-Version-2-01-Iteration-3-4-Multi-lingual-text-fields <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F52106219-Version-2-01-Iteration-3-4-Multi-lingual-text-fields&sa=D&sntz=1&usg=AFQjCNE0LxVECS1gjN2wi1WRdeCxBV8r1w>`__
+`http://support.iatistandard.org/entries/52106219-Version-2-01-Iteration-3-4-Multi-lingual-text-fields <http://support.iatistandard.org/entries/52106219-Version-2-01-Iteration-3-4-Multi-lingual-text-fields>`__
 
 **Example**
 
@@ -937,7 +937,7 @@ to do this, you should break the transaction up into more transactions,
 each of which reports more specific information.
 
 For more information see:
-`http://support.iatistandard.org/entries/52106549-Version-2-01-Iteration-3-7-Replicate-more-activity-level-elements-at-transaction-level <http://www.google.com/url?q=http%3A%2F%2Fsupport.iatistandard.org%2Fentries%2F52106549-Version-2-01-Iteration-3-7-Replicate-more-activity-level-elements-at-transaction-level&sa=D&sntz=1&usg=AFQjCNEIMk5Jq18l2FON-R1NHRbmk8GL1A>`__
+`http://support.iatistandard.org/entries/52106549-Version-2-01-Iteration-3-7-Replicate-more-activity-level-elements-at-transaction-level <http://support.iatistandard.org/entries/52106549-Version-2-01-Iteration-3-7-Replicate-more-activity-level-elements-at-transaction-level>`__
 
 **What happens if we do not do this?**
 
