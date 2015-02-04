@@ -359,7 +359,7 @@ In both the Organisation and Activity standards
 
 For examples see:
 
--  `iati-activity example<http://iatistandard.org/201/activity-standard/iati-activities/>`__
+-  `iati-activity example <http://iatistandard.org/201/activity-standard/iati-activities/>`__
 -  `iati-organisation example <http://iatistandard.org/201/organisation-standard/iati-organisations/>`__
 
 **What happens if we do not do this?**
