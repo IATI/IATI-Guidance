@@ -505,7 +505,7 @@ For a full list of elements where this now applies, see: Including nested, multi
 Examples of how this change works can be seen on (for example):
 
 -  :doc:`activity title </activity-standard/iati-activities/iati-activity/title/>`
--  :doc:`organisation name >/organisation-standard/iati-organisations/iati-organisation/name/>`
+-  :doc:`organisation name </organisation-standard/iati-organisations/iati-organisation/name/>`
 
 **What happens if we do not do this?**
 
@@ -946,7 +946,7 @@ in effect, been removed)
 If you currently report location information BUT have NOT switched to the supported way of doing so in line with version 1.04 of the IATI Standard, you will need to adjust the way you report location information in 2.01
 
 A detailed guide to what has changed and what you need to do can be
-found in the :doc:`location summary guide `/upgrades/decimal-upgrade-to-1-04/location-summary/>`
+found in the :doc:`location summary guide </upgrades/decimal-upgrade-to-1-04/location-summary/>`
 
 In version 2.01, these elements are no longer available:
 
