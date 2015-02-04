@@ -149,7 +149,7 @@ To solve this, a previous reporting-org identifier can be reported in the
 -  OR a previous reporting-org identifier reported in :doc:`other-identifier </activity-standard/iati-activities/iati-activity/other-identifier/>`
 
 For more information see:
-`http://support.iatistandard.org/entries/52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers <http://support.iatistandard.org/entries/52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers>`__
+`Organisation and Activity Identifiers <http://support.iatistandard.org/entries/52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers>`__ proposal on the support forum.
 
 To make this element work, a new OtherIdentifierType codelist has been 
 constructed, and the entire element has been re-constructed.
@@ -204,24 +204,22 @@ In both the Organisation and Activity Standards
 
 **Example**
 
-Element order can be found by inspecting the schema directly:
+Element order can be found by:
 
--  `http://iatistandard.org/201/schema/ <http://iatistandard.org/201/schema/>`__
+-  :doc:`inspecting the schema directly </schema/>`
 
 Or via our GitHub repository:
 
--   `https://github.com/IATI/IATI-Schemas/blob/version-2.01/iati-activities-schema.xsd <https://github.com/IATI/IATI-Schemas/blob/version-2.01/iati-activities-schema.xsd>`__
--  `https://github.com/IATI/IATI-Schemas/blob/version-2.01/iati-organisations-schema.xsd <https://github.com/IATI/IATI-Schemas/blob/version-2.01/iati-organisations-schema.xsd>`__
--  `https://github.com/IATI/IATI-Schemas/blob/version-2.01/iati-common.xsd <https://github.com/IATI/IATI-Schemas/blob/version-2.01/iati-common.xsd>`__
+-   `Activity schema <https://raw.githubusercontent.com/IATI/IATI-Schemas/version-2.01/iati-activities-schema.xsd>`__
+-  `Organisation schema <https://raw.githubusercontent.com/IATI/IATI-Schemas/version-2.01/iati-organisations-schema.xsd>`__
+-  `Common schema <https://raw.githubusercontent.com/IATI/IATI-Schemas/version-2.01/iati-common.xsd>`__
 
-The order is also reflected in the left hand navigation of the website:
-
--  http://iatistandard.org/201/
+The order is also reflected in the left hand `navigation of the 2.01 website <http://iatistandard.org/201/>`__
 
 Tables generated from the schema can be found at:
 
--  `http://iatistandard.org/201/activity-standard/summary-table/ <http://iatistandard.org/201/activity-standard/summary-table/>`__
--  `http://iatistandard.org/201/organisation-standard/summary-table/ <http://iatistandard.org/201/organisation-standard/summary-table/>`__
+-  `Activity summary table <http://iatistandard.org/201/activity-standard/summary-table/>`__
+-  `Organisation summary table <http://iatistandard.org/201/organisation-standard/summary-table/>`__
 
 **What happens if we do not do this?**
 
@@ -252,8 +250,7 @@ Each Activity record MUST contain:
    description/narrative) presence tested by schema)
 -  a start date; (element (activity-date) and attribute (iso-date)
    presence tested by schema, type="1" could be tested by software ) an
-   activity status;  (element (activity-status) presence tested by
-   schema)
+   activity status;  (element (activity-status) presence tested by schema)
 -  a sector; (presence could be tested by software)
 -  a recipient-country or recipient-region (presence could be tested by
    software)
@@ -269,7 +266,7 @@ Each Activity record MUST contain:
    schema
 
 for discussion go to
-`http://support.iatistandard.org/entries/41047217-Modify-participating-org-Validation-and-guidance <http://support.iatistandard.org/entries/41047217-Modify-participating-org-Validation-and-guidance>`__
+`Validation and guidance <http://support.iatistandard.org/entries/41047217-Modify-participating-org-Validation-and-guidance>`__ on the support forum.
 
 **Title**
 
@@ -278,7 +275,7 @@ for discussion go to
    activity - not enforceable by the schema
 
 for discussion go to
-`http://support.iatistandard.org/entries/41584666-Modify-title-validation-and-guidance <http://support.iatistandard.org/entries/41584666-Modify-title-validation-and-guidance>`__
+`Modify title : validation and guidance <http://support.iatistandard.org/entries/41584666-Modify-title-validation-and-guidance>`__ on the support forum.
 
 **Description**
 
@@ -287,7 +284,7 @@ for discussion go to
    description of the activity -not enforceable by the schema
 
 for discussion go to
-`http://support.iatistandard.org/entries/41584706-Modify-description-validation-and-guidance <http://support.iatistandard.org/entries/41584706-Modify-description-validation-and-guidance>`__
+`Modify description : validation and guidance <http://support.iatistandard.org/entries/41584706-Modify-description-validation-and-guidance>`__ on the support forum.
 
 **Activity Date**
 
@@ -297,13 +294,12 @@ for discussion go to
    not enforceable
 
 for discussion go to
-`http://support.iatistandard.org/entries/41089758-Modify-activity-date-validation-and-guidance <http://support.iatistandard.org/entries/41089758-Modify-activity-date-validation-and-guidance>`__
+`Modify activity-date : validation and guidance <http://support.iatistandard.org/entries/41089758-Modify-activity-date-validation-and-guidance>`__ on the support forum.
 
 **Sector / Transaction Sector**
 
 -  Sector may now be reported at transaction level instead of activity
-   level. For details `see
-   here <http://support.iatistandard.org/entries/52106549-Version-2-01-Iteration-2-3-7-Replicate-more-activity-level-elements-at-transaction-level>`__
+   level. For details see `Replicate more activity-level elements at transaction level <http://support.iatistandard.org/entries/52106549-Version-2-01-Iteration-2-3-7-Replicate-more-activity-level-elements-at-transaction-level>`__ on the support forum.
 -  At least one occurrence of sector OR transaction/sector is MANDATORY
    - not enforceable
 -  sector/\@code OR transaction/sector/\@code is MANDATORY  - enforced by
@@ -313,7 +309,7 @@ for discussion go to
 -  Use of DAC codes (either 5-digit or 3-digit) is recommended
 
 for discussion go to
-`http://support.iatistandard.org/entries/22993317-Modify-sector-validation-and-guidance <http://support.iatistandard.org/entries/22993317-Modify-sector-validation-and-guidance>`__
+`Modify sector : validation and guidance <http://support.iatistandard.org/entries/22993317-Modify-sector-validation-and-guidance>`__ on the support forum.
 
 **budgets / planned-disbursement**
 
@@ -332,7 +328,7 @@ used.
   * Each budget should cover a period no longer than 1 year (not enforceable by the schema)
 
 for discussion go to
-`http://support.iatistandard.org/entries/22900321-Modify-budget-period-start-and-budget-period-end-make-mandatory <http://support.iatistandard.org/entries/22900321-Modify-budget-period-start-and-budget-period-end-make-mandatory>`__
+`Modify budget/period-start and budget/period-end : make mandatory <http://support.iatistandard.org/entries/22900321-Modify-budget-period-start-and-budget-period-end-make-mandatory>`__ on the support forum.
 
 In addition, when other non-mandatory elements are used, the schema may
 dictate whether or not child elements must be present, the number of
@@ -594,7 +590,7 @@ nested, multi-lingual text elements for all elements containing free
 text
 
 in this post:
-`http://support.iatistandard.org/entries/52106219-Version-2-01-Iteration-3-4-Multi-lingual-text-fields <http://support.iatistandard.org/entries/52106219-Version-2-01-Iteration-3-4-Multi-lingual-text-fields>`__
+`Multi-lingual text fields <http://support.iatistandard.org/entries/52106219-Version-2-01-Iteration-3-4-Multi-lingual-text-fields>`__ on the support forum.
 
 **Example**
 
@@ -635,7 +631,7 @@ been removed from a number of elements.
 For a list of elements where this applies see:
 
 Scrapping text of purely code elements -
-`http://support.iatistandard.org/entries/52106219-Version-2-01-Iteration-3-4-Multi-lingual-text-fields <http://support.iatistandard.org/entries/52106219-Version-2-01-Iteration-3-4-Multi-lingual-text-fields>`__
+`Multi-lingual text fields <http://support.iatistandard.org/entries/52106219-Version-2-01-Iteration-3-4-Multi-lingual-text-fields>`__ on the support forum.
 
 **Example**
 
@@ -937,7 +933,7 @@ to do this, you should break the transaction up into more transactions,
 each of which reports more specific information.
 
 For more information see:
-`http://support.iatistandard.org/entries/52106549-Version-2-01-Iteration-3-7-Replicate-more-activity-level-elements-at-transaction-level <http://support.iatistandard.org/entries/52106549-Version-2-01-Iteration-3-7-Replicate-more-activity-level-elements-at-transaction-level>`__
+`Replicate more activity-level elements at transaction level <http://support.iatistandard.org/entries/52106549-Version-2-01-Iteration-3-7-Replicate-more-activity-level-elements-at-transaction-level>`__ on the support forum.
 
 **What happens if we do not do this?**
 
@@ -1160,8 +1156,7 @@ added.
 
 Making the start date mandatory (if the element is used) will improve
 data quality and enable publishers and data users to better check that
-their data is complete. See:
-http://support.iatistandard.org/entries/22915067-Modify-planned-disbursement-period-start-Alter-guidance-AND-make-start-date-mandatory
+their data is complete. See: `Modify planned-disbursement/period-start : Alter guidance AND make start-date mandatory <http://support.iatistandard.org/entries/22915067-Modify-planned-disbursement-period-start-Alter-guidance-AND-make-start-date-mandatory>`__ on the support forum.
 
 Making the planned-disbursement/period-end element optional allows
 publishers more scope to report planned disbursements that do not have a
@@ -1313,8 +1308,7 @@ In some cases, description text has been added, where it was previously
 missing.
 
 Descriptive text no longer contains URLs (in effect they have been
-removed). See:
-http://support.iatistandard.org/entries/47188607-Removing-urls-from-schema-descriptions
+removed). See: `Removing urls from schema descriptions <http://support.iatistandard.org/entries/47188607-Removing-urls-from-schema-descriptions>`__ on the support forum.
 
 **Where is this applicable?**
 
@@ -1328,19 +1322,18 @@ clear.  This has been an opportunity to update these.
 
 URLs are no longer maintained in schema text in order to maintain those
 links more appropriately. As part of that decision, a machine readable
-way of mapping attributes to codelists hgas been created to help
-developers. See:
-http://support.iatistandard.org/entries/27805388-Mapping-between-codelists-and-schemas
+way of mapping attributes to codelists has been created to help
+developers. See:`Mapping between codelists and schemas 
+<http://support.iatistandard.org/entries/27805388-Mapping-between-codelists-and-schemas>`__ on the support forum.
 
 
 Tied and partially tied values
 ==============================
 New guidance has been added
 
-See:
-http://support.iatistandard.org/entries/55170393-Tied-and-partially-tied-values
+See: `Tied and partially tied values <http://support.iatistandard.org/entries/55170393-Tied-and-partially-tied-values>`__ on the support forum.
 
 
 Modify guidance on participating-org/\@role : Definition of funding organisation
 =========================================================================================================
-See: http://support.iatistandard.org/entries/41583626-Modify-guidance-on-participating-org-role-Definition-of-funding-organisation
+See: `Modify guidance on participating-org/@role : Definition of funding organisation <http://support.iatistandard.org/entries/41583626-Modify-guidance-on-participating-org-role-Definition-of-funding-organisation>`__ on the support forum.
