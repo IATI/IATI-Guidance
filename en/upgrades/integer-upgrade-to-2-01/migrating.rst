@@ -474,7 +474,7 @@ in 2.01
 Examples of how this change works can be seen on (for example):
 
 -  :doc:`activity title </activity-standard/iati-activities/iati-activity/title/>`
--  :doc:`organisation name >/organisation-standard/iati-organisations/iati-organisation/name/>`
+-  :doc:`organisation name </organisation-standard/iati-organisations/iati-organisation/name/>`
 
 **What happens if we do not do this?**
 
