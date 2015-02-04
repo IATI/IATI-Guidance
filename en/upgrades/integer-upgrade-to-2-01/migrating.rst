@@ -290,7 +290,7 @@ used.
 for discussion go to
 `Modify budget/period-start and budget/period-end : make mandatory <http://support.iatistandard.org/entries/22900321-Modify-budget-period-start-and-budget-period-end-make-mandatory>`__ on the support forum.
 
-In addition, when other non-mandatory elements are used, the schema may dictate whether or not child elements must be present, the number of times they may occur, and the presence of attributes. You can find the detail in the :doc:`relevant schema documents </schema/>'
+In addition, when other non-mandatory elements are used, the schema may dictate whether or not child elements must be present, the number of times they may occur, and the presence of attributes. You can find the detail in the :doc:`relevant schema documents </schema/>`
 
 The 'occurs' column of the `standard overview table <http://iatistandard.org/201/activity-standard/summary-table/>`__ also indicates where both elements and attributes are required, and how often they may occur.
 
