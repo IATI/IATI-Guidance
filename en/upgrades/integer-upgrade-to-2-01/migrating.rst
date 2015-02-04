@@ -160,10 +160,10 @@ See: :doc:`other-identifier </activity-standard/iati-activities/iati-activity/ot
 
 **What happens if we do not do this?**
 
- - Anyone reporting other-identifier in versions 1.x of the IATI Standard will need to reconstruct the way they report the data. They can continue to report the same data, but just need to reformat it. 
- - Data users should be aware that parsing :doc:`other-identifier </activity-standard/iati-activities/iati-activity/other-identifier/>` is different in 2.01.
- - Data publishers may take advantage of the opportunities to report other types of identifier that were not previously available to them.
- - Data may fail validation against the relevant 2.01 schema if the changes are not taken into consideration.
+- Anyone reporting other-identifier in versions 1.x of the IATI Standard will need to reconstruct the way they report the data. They can continue to report the same data, but just need to reformat it. 
+- Data users should be aware that parsing :doc:`other-identifier </activity-standard/iati-activities/iati-activity/other-identifier/>` is different in 2.01.
+- Data publishers may take advantage of the opportunities to report other types of identifier that were not previously available to them.
+- Data may fail validation against the relevant 2.01 schema if the changes are not taken into consideration.
 
 
 Changes introduced between versions 1.04 and 1.05 have also been included in 2.01
