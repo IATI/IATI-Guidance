@@ -127,7 +127,7 @@ definition and examples)
 
     -
 
-  * - `location-type <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/location-type/>`__
+  * - `location-type <http://iatistandard.org/105/activity-standard/iati-activities/iati-activity/location/location-type/>`__
 
     -
 
@@ -338,7 +338,7 @@ definition and examples)
 
     -
 
-  * - `coordinates <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/coordinates/>`__
+  * - `coordinates <http://iatistandard.org/105/activity-standard/iati-activities/iati-activity/location/coordinates/>`__
 
     -
 
@@ -391,7 +391,7 @@ definition and examples)
 
     -
 
-  * - `gazetteer <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/gazetteer-entry/>`__\ `- <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/gazetteer-entry/>`__\ `entry <http://iatistandard.org/activity-standard/iati-activities/iati-activity/location/gazetteer-entry/>`__
+  * - `gazetteer-entry <http://iatistandard.org/105/activity-standard/iati-activities/iati-activity/location/gazetteer-entry/>`__
 
     -
 

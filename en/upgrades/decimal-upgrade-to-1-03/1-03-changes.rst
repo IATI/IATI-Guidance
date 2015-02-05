@@ -99,7 +99,7 @@ New Codelists
    `http://iatistandard.org/codelists/activity\_scope/ <http://iatistandard.org/codelists/activity_scope/>`__
 
 -  Aid Type Flag
-   `http://iatistandard.org/codelists/aid-type-flag/ <http://iatistandard.org/codelists/aid-type-flag/>`__
+   `http://iatistandard.org/codelists/aid-type-flag/ <http://iatistandard.org/105/codelists/aid-type-flag/>`__
 
 -  Budget Identifier
    `http://iatistandard.org/codelists/budget\_identifier/ <http://iatistandard.org/codelists/budget_identifier/>`__
