@@ -14,12 +14,16 @@ To ensure this, organisations are expected to consider that their IATI data is:
 
 The **Key Considerations** section provides further guidance on each of these, and provides links to information, tools and materials, where appropriate.
 
-Further Information
--------------------
+Contents
+--------------
 
-   * :doc:`../key-considerations/timely`
-   * :doc:`../key-considerations/comprehensive`
-   * :doc:`../key-considerations/forward-looking`
-   * :doc:`../key-considerations/structured`
-   * :doc:`../key-considerations/comparable`
-   * :doc:`../key-considerations/open`
+.. toctree::
+  :glob:
+  :titlesonly:
+
+-   key-considerations/timely
+-   key-considerations/comprehensive
+-   key-considerations/forward-looking
+-   key-considerations/structured
+-   key-considerations/comparable
+-   key-considerations/open
