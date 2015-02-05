@@ -21,9 +21,9 @@ Contents
   :glob:
   :titlesonly:
 
--   key-considerations/timely
--   key-considerations/comprehensive
--   key-considerations/forward-looking
--   key-considerations/structured
--   key-considerations/comparable
--   key-considerations/open
+  key-considerations/timely
+  key-considerations/comprehensive
+  key-considerations/forward-looking
+  key-considerations/structured
+  key-considerations/comparable
+  key-considerations/open
