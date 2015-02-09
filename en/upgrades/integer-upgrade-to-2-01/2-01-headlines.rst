@@ -3,7 +3,7 @@
 
 The changes / additions to IATI Standard for version 2.01 represent a number of actions for those publishing and using IATI data.  
 
-This page provides a headline checklist of the core "breaking" changes, linking to further guidance and information.  Alongside these, there are :doc:`several changes to elements and codelists </upgrades/integer-upgrade-to-2-01/2-01-changes/>` - this document serves to provide a starter point.
+This page provides a headline checklist of the core "breaking" changes, linking to further guidance and information.  Alongside these, there are `several changes to elements and codelists <http://iatistandard.org//upgrades/integer-upgrade-to-2-01/2-01-changes/>` - this document serves to provide a starter point.
 
 .. contents::
 
