@@ -30,7 +30,7 @@ The following changes are "breaking" changes from 1.0x and 2.01, in both the **I
    * - **Mandatory Fields**
      - There were a limited number of mandatory elements.
      - There are more mandatory elements in both the `Activity <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#mandatory-fields-in-activity-standard>`__  and `Organisation <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#mandatory-fields-in-organisation-standard>`__  standard.     
-   * - **Using ree text**
+   * - **Using free text**
      - Free text could be added to any element.
      - The way in which free text is reported has been changed to standardise multilingual reporting. `This requires formatting changes to all text fields <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#free-text-fields>`__.  In addition, this impacts on the ways in which multilingual `translations are handled across the standard <http://iatistandard.org/upgrades/integer-upgrade-to-2-01/migrating/#handling-translations>`__..       
    * - **Descriptive text for codes**
