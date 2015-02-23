@@ -721,13 +721,13 @@ would do so using a document-link element, and it's child 'category' (usually co
 
 .. code-block:: xml
 
-	  <document-link format="text/html" url="http:www.example.org/activity/1234">
-            <title>
-            <narrative>Activity website</narrative>
-            </title>
-            <category code="A12" />
-             <language code="en" />
-         </document-link>
+   <document-link format="text/html" url="http:www.example.org/activity/1234">
+     <title>
+       <narrative>Activity website</narrative>
+     </title>
+     <category code="A12" />
+     <language code="en" />
+   </document-link>
 
 
 
