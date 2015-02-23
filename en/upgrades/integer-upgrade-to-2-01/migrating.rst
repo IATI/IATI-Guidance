@@ -717,8 +717,20 @@ iati-activities/iati-activity/activity-website element is it's own
 element.
 
 In version 2.01 of the IATI Standard, to report an activity website you
-would do so using a document-link element, and it's child 'category' to
-specify the document is a web site.
+would do so using a document-link element, and it's child 'category' (usually code *A12*) to specify the document is a web site.  Additionally, the FileFormat code *text/html* should be used:
+
+.. code-block:: xml
+
+	  <document-link format="text/html" url="http:www.example.org/activity/1234">
+            <title>
+            <narrative>Activity website</narrative>
+            </title>
+            <category code="A12" />
+             <language code="en" />
+         </document-link>
+
+
+
 
 **What happens if we do not do this?**
 
