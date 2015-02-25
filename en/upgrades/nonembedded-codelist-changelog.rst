@@ -39,6 +39,11 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
      - Change description
      - Notes
      - Discussion
+   * - 25th February 2015
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *IN-MCA* (India - Ministry of Corporate Affairs)
+     - This was added via a request made by the community.  
+     - See `Add Indian Ministry of Corporate Affairs  <http://support.iatistandard.org/entries/76840029-Add-Indian-Ministry-of-Corporate-Affairs>`__ on the support forum.     
    * - 13th January 2015
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
      - Add *UA-EDR* (Ukraine - United State Register)
