@@ -85,7 +85,7 @@ Updates to the IATI Organisation Identifier codelist
 Occassionally, new entries are added to the IATIOrganisationIdentifier.
 
 .. list-table:: New codes added IATIOrganisationIdentifier codelist (most recent first)
-   :widths: 10 20 20 30 20
+   :widths: 10 20 20 30
    :header-rows: 1
 
    * - Date of change
