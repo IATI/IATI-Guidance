@@ -71,5 +71,4 @@ it is recommended that  non-Unicode character encodings such as “BIG5” or �
 DFID Minimum Requirements (UK NGOs and their Partners)
 ======================================================
 
-If you are a DFID grantee then you need to make sure that you include all the fields that have been designated as mandatory by DFID. The list of these fields is at https://drive.google.com/file/d/0B32cSl_hOcDjalJqWWlCeDRVMW8/edit?usp=sharing
-
+If you are a DFID grantee then you need to make sure that you include all the fields that have been designated as mandatory by DFID. The list of these fields can be found at `the DFID web site <https://www.gov.uk/government/policies/making-uk-aid-more-open-and-transparent/supporting-pages/international-aid-transparency-initiative-publishing-requirements-for-partners-of-dfid>`__
