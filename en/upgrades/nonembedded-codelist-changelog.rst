@@ -39,6 +39,11 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
      - Change description
      - Notes
      - Discussion
+   * - 25th February 2015
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *IN-MCA* (Government of India, Minstry of Corporate Affairs)
+     - This was added via a request made by the community.  
+     - See `Add Indian Ministry of Corporate Affairs  <http://support.iatistandard.org/entries/76840029-Add-Indian-Ministry-of-Corporate-Affairs>`__ on the support forum.     
    * - 13th January 2015
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
      - Add *UA-EDR* (Ukraine - United State Register)
@@ -74,7 +79,23 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
      - Update Descriptions To Remove 'Updated By'
      - This was added as part of a clean up of the codelist 
      - See `Registration Agencies - Update Descriptions To Remove 'Updated By' <http://support.iatistandard.org/entries/53429445-Registration-Agencies-Update-Descriptions-To-Remove-Updated-By->`__ on the support forum.
-     
+
+Updates to the IATI Organisation Identifier codelist
+--------------------------
+Occassionally, new entries are added to the IATIOrganisationIdentifier.
+
+.. list-table:: New codes added IATIOrganisationIdentifier codelist (most recent first)
+   :widths: 10 20 20 30
+   :header-rows: 1
+
+   * - Date of change
+     - Code
+     - Organisation
+     - Discussion
+   * - 25th February 2015
+     - 1001
+     - The Coca-Cola Export Corporation 
+     - See `Add Coca-Cola To The IATI Organisation Identifier Codelist <http://support.iatistandard.org/entries/79006865-Add-Coca-Cola-To-The-IATI-Organisation-Identifier-Codelist>`__ on the support forum.      
      
 New codes added to other non-embedded codelists
 ------------------------------------------

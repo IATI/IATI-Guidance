@@ -10,7 +10,7 @@ Aidstream
 
 Aidstream (http://www.aidstream.org) is an online data entry and management tool which you use by manually entering all of the relevant activity information through the use of drop-down menus and text boxes. Aidstream converts the data entered into XML and outputs both organisation and activity datafiles for publishing . The data stored in Aidstream can be added to or amended at any point. Aidstream is usually the tool of choice if you only have a small number of activities (approx < 15 - 20) to publish.
 
-Specific guidance on the use of Aidstream can be found at http://support.iatistandard.org/entries/27374208-AidStream-Guidance
+There is a whole series of instructional videos on using Aidstream. These can be found at `Aidstream On Youtube <https://www.youtube.com/channel/UCAVH1gcgJXElsj8ENC-bDQQ>`__
 
 
 
