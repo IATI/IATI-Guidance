@@ -87,10 +87,10 @@ the \ `knowledge base <http://support.iatistandard.org/>`__.
 | 2.02 completed | the final      |                |                |
 | at the due     | proposals, and |                |                |
 | date, ready    | feed back on   |                |                |
-| approval by    | errors,        |                |                |
-| Steering       | omissions,     |                |                |
-| committee.     | problems,      |                |                |
-|                | solutions.     |                |                |
+| for approval   | errors,        |                |                |
+| by the         | omissions,     |                |                |
+| Steering       | problems,      |                |                |
+| committee.     | solutions.     |                |                |
 +----------------+----------------+----------------+----------------+
 | Version 2.02   |                |                | 7 December     |
 | goes live.     |                |                |                |
