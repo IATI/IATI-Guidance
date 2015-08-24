@@ -7,9 +7,8 @@ Decimal Upgrade to 2.02
 
    decimal-upgrade-to-2-02/*
 
-The third decimal upgrade grade of the standard was proposed to occur
-during the autumn/winter of 2015, but faced delays that meant the timetable had
-to be revised. The process for doing so is outlined below.
+The third decimal upgrade grade of the standard is proposed to occur
+during the autumn/winter of 2015. The process for doing so is outlined below.
 
 Details about the specific changes are listed on the \ `knowledge
 base <http://support.iatistandard.org/>`__ in the \ `2.02 Decimal
