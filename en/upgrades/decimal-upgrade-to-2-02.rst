@@ -31,8 +31,8 @@ the \ `knowledge base <http://support.iatistandard.org/>`__.
 | No more        | Community      | 2 weeks        | 14 September   |
 | submissions    | submits and    |                |                |
 | accepted after | discusses      |                |                |
-| due date       | proposals/idea |                |                |
-|                | s              |                |                |
+| due date       | proposals/     |                |                |
+|                | idea           |                |                |
 |                | before the cut |                |                |
 |                | off date       |                |                |
 +----------------+----------------+----------------+----------------+
@@ -45,8 +45,8 @@ the \ `knowledge base <http://support.iatistandard.org/>`__.
 | should go      | may be         |                |                |
 | forward to the | contacted and  |                |                |
 | next upgrade,  | asked for      |                |                |
-| and            | opinion/clarit |                |                |
-| communicated   | y              |                |                |
+| and            | opinion/       |                |                |
+| communicated   | clarity        |                |                |
 | this with the  |                |                |                |
 | community.     |                |                |                |
 +----------------+----------------+----------------+----------------+
