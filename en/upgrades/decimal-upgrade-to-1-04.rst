@@ -7,8 +7,8 @@ Decimal Upgrade to 1.04
 
    decimal-upgrade-to-1-04/*
 
-The third decimal upgrade grade of the standard was proposed to occur
-during the winnter of 2013, but faced delays that meant the timetable had
+The third decimal upgrade of the standard was proposed to occur
+during the winter of 2013, but faced delays that meant the timetable had
 to be revised. The process for doing so is outlined below.
 
 Details about the specific changes are listed on the \ `knowledge
@@ -30,7 +30,7 @@ the \ `knowledge base <http://support.iatistandard.org/>`__.
 | advertised.    | before the cut |                |                |                |
 |                | off date       |                |                |                |
 +----------------+----------------+----------------+----------------+----------------+
-| The TAG        | These are      | usually within | 4th Nov        |                |
+| The TAG        | These are      | Usually within | 4th Nov        |                |
 | technical team | flagged on the | 1 week         |                |                |
 | should have    | knowledge base |                |                |                |
 | agreed as to   | as under       |                |                |                |
@@ -98,7 +98,7 @@ the \ `knowledge base <http://support.iatistandard.org/>`__.
 |                | problems,      |                |                |                |
 |                | solutions.     |                |                |                |
 +----------------+----------------+----------------+----------------+----------------+
-| Proposals are  |                |                | 6 Jan 1014     | 17 Mar         |
+| Proposals are  |                |                | 6 Jan 2014     | 17 Mar         |
 | accepted, and  |                |                |                |                |
 | implementation |                |                |                |                |
 | process        |                |                |                |                |
