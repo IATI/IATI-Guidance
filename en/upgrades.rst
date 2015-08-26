@@ -6,6 +6,7 @@ Upgrades
 
 	 upgrades/all-versions
 	 upgrades/nonembedded-codelist-changelog
+	 upgrades/decimal-upgrade-to-2-02
 	 upgrades/integer-upgrade-to-2-01
 	 upgrades/decimal-upgrade-to-1-05
 	 upgrades/decimal-upgrade-to-1-04
