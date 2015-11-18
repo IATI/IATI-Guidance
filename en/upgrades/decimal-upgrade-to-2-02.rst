@@ -89,8 +89,8 @@ You can contribute issues to be considered in future upgrades \ `here <http://s
 |              | date, ready    | feed back on   |                |                |
 |              | for approval   | errors,        |                |                |
 |              | by the IATI    | omissions and  |                |                |
-|              | Steering       | problems, or   |                |                |
-|              | Committee.     | suggest        |                |                |
+|              | Secretariat.   | problems, or   |                |                |
+|              |                | suggest        |                |                |
 |              |                | solutions.     |                |                |
 +--------------+----------------+----------------+----------------+----------------+
 | Approval     | Version 2.02   |                |                | 7 December     |
