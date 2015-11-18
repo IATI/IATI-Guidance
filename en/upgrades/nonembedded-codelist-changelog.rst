@@ -127,7 +127,7 @@ New codes added to other non-embedded codelists
    * - 26th June 2014
      - :doc:`Country </codelists/Country>`
      - Add *XK* (Kosovo)
-     - This was added as a `proposal to the support forum <http://support.iatistandard.org/entries/49470037-Extending-Country-Codelist-To-Include-Kosovo>`__ and `announced on the technical googlegroup <https://groups.google.com/forum/#!searchin/iati-technical/nonembedded/iati-technical/XaPyCAawzi8/UdCNnjtfzIMJ>`__.
+     - This was added as a `proposal to the support forum <http://support.iatistandard.org/entries/49470037-Extending-Country-Codelist-To-Include-Kosovo>`__ and `announced on the technical googlegroup <https://groups.google.com/forum/#!searchin/iati-technical/nonembedded/iati-technical/XaPyCAawzi8/UdCNnjtfzIMJ>`__. [Please note that forum discussions have now moved to `discuss.iatistandard.org <https://discuss.iatistandard.org/>`__] 
      - 
 
 Updates to names/descriptions of other non-embedded codelists
