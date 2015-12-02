@@ -17,7 +17,7 @@ The current live versions are:
 Future versions
 ---------------
 
-A new version is `currently under consultation <http://support.iatistandard.org/forums/21251175-2-02-Decimal-Upgrade-Proposals>`__:
+A new version is `currently under consultation <http://iatistandard.org/201/upgrades/decimal-upgrade-to-2-02/>`__:
 
 - 2.02: http://dev.iatistandard.org/202/
 
