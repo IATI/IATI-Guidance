@@ -7,11 +7,20 @@ includes versions of the documentation, schemas and codelists:
 Current live versions
 ---------------------
 
-The current live version are:
+The current live versions are:
 
 - 2.01: http://iatistandard.org/201/
 
 - 1.05: http://iatistandard.org/105/
+
+
+Future versions
+---------------
+
+A new version is `currently under consultation <http://support.iatistandard.org/forums/21251175-2-02-Decimal-Upgrade-Proposals>`__.:
+
+- 2.02: http://dev.iatistandard.org/202/
+
 
 Previous Versions
 -----------------

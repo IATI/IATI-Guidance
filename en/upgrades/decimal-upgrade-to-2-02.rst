@@ -14,6 +14,8 @@ Details about the specific changes are listed in the \ `2.02 Decimal
 Upgrade
 Forum <http://support.iatistandard.org/forums/21251175-2-02-Decimal-Upgrade-Proposals>`__.
 
+A development version of the `2.02 reference and documentation website is also available <http://dev.iatistandard.org/202>`__.
+
 You can contribute issues to be considered in future upgrades \ `here <http://support.iatistandard.org/>`__.
 
 +--------------+----------------+----------------+----------------+----------------+
