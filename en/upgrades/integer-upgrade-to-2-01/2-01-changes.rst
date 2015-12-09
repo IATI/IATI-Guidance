@@ -3,7 +3,7 @@
 
 Changes / additions to IATI Standard for version 2.01
 
-Note: Version 2.01 of the standard is now available for testing, with a go live date set for 6th January 2015.
+Note: Version 2.01 was released on Tuesday 6 January 2015.
 
 .. contents::
 
