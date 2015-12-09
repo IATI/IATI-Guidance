@@ -91,6 +91,7 @@ New overview pages
 ------------------
 
 The following overview pages have been added:
+
 - :doc:`/activity-standard/overview/humanitarian-reporting`
 - :doc:`/activity-standard/overview/self-defined-vocabularies`
 
@@ -111,22 +112,22 @@ A full diff of all **embedded** codelist changes in 2.02 can be found in the `IA
 Codelist schema
 ---------------
 
-Within the raw codelist XML defintions, each ``codelist-item`` now supports the addition of ``status``, ``activation-date`` and ``withdrawal-date`` attributes. `Discussion <http://support.iatistandard.org/entries/106345386-Add-a-withdrawn-flag-to-code-names-to-indicate-deprecation>`__)
+Within the raw codelist XML defintions, each ``codelist-item`` now supports the addition of ``status``, ``activation-date`` and ``withdrawal-date`` attributes. (`Discussion <http://support.iatistandard.org/entries/106345386-Add-a-withdrawn-flag-to-code-names-to-indicate-deprecation>`__)
 
 New Codelists
 -------------
 
 Embedded:
 
-- :doc:`/codelists/BudgetStatus` `Discussion <http://support.iatistandard.org/entries/21150501-Budgets-and-tentativeness>`__)
+- :doc:`/codelists/BudgetStatus` (`Discussion <http://support.iatistandard.org/entries/21150501-Budgets-and-tentativeness>`__)
 
 
 Non-Embedded:
 
-- :doc:`/codelists/HumanitarianScopeType` `Discussion <http://support.iatistandard.org/entries/105778163-Humanitarian-Emergencies-and-Appeals>`__)
-- :doc:`/codelists/HumanitatianScopeVocabulary` `Discussion <http://support.iatistandard.org/entries/105778163-Humanitarian-Emergencies-and-Appeals>`__)
-- :doc:`/codelists/IndicatorVocabulary` `Discussion <http://support.iatistandard.org/entries/79784435-Results-Require-unambiguous-indicator-reference>`__)
-- :doc:`/codelists/CRSChannelCode` `Discussion <http://support.iatistandard.org/entries/83678719-DAC-Channel-of-Delivery>`__)
+- :doc:`/codelists/HumanitarianScopeType` (`Discussion <http://support.iatistandard.org/entries/105778163-Humanitarian-Emergencies-and-Appeals>`__)
+- :doc:`/codelists/HumanitatianScopeVocabulary` (`Discussion <http://support.iatistandard.org/entries/105778163-Humanitarian-Emergencies-and-Appeals>`__)
+- :doc:`/codelists/IndicatorVocabulary` (`Discussion <http://support.iatistandard.org/entries/79784435-Results-Require-unambiguous-indicator-reference>`__)
+- :doc:`/codelists/CRSChannelCode` (`Discussion <http://support.iatistandard.org/entries/83678719-DAC-Channel-of-Delivery>`__)
 
 
 Updated Codelists
