@@ -7,16 +7,17 @@ Decimal Upgrade to 2.02
 
    decimal-upgrade-to-2-02/*
 
-The third decimal upgrade of the IATI standard will take place
-during the autumn/winter of 2015. The process is outlined below.
 
-Details about the specific changes are listed in the \ `2.02 Decimal
-Upgrade
+The third decimal upgrade of the IATI standard toke place
+during the autumn/winter of 2015.
+
+Version 2.02 was released on Monday 7 December 2015.
+
+Details about the specific proposals and public consultations which formed part of the for 2.02 upgrade are listed on the `knowledge
+base <http://support.iatistandard.org/>`__ in the `2.02 Decimal Upgrade
 Forum <http://support.iatistandard.org/forums/21251175-2-02-Decimal-Upgrade-Proposals>`__.
 
-A development version of the `2.02 reference and documentation website is also available <http://dev.iatistandard.org/202>`__.
-
-You can contribute issues to be considered in future upgrades \ `here <http://support.iatistandard.org/>`__.
+The full process and timetable followed for the 2.02 Decimal Upgrade is outlined below.
 
 +--------------+----------------+----------------+----------------+----------------+
 | Phase        | IATI           | Community      | Timescale      | Due Date       |
