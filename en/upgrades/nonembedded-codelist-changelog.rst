@@ -9,7 +9,7 @@ This page details any additions of changes to Non-embedded codelists.  Further i
 
 New non-embedded codelists
 --------------------------
-Occassionally, new non-embedded codelists are created.
+Occasionally, new non-embedded codelists are created.
 
 .. list-table:: New codes added to non-embedded codelists (most recent first)
    :widths: 10 20 20 30 20
@@ -27,7 +27,7 @@ Occassionally, new non-embedded codelists are created.
      - See `IATIOrganisationIdentifier codelist <http://support.iatistandard.org/entries/60789269-IATIOrganisationIdentifier-codelist>`__ on the support forum.          
 
 Updates to the Organisation Registration Agency codelist
----------------------------------------------------------
+--------------------------------------------------------
 The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>` is subject to the most volume of updates and additions.
 
 .. list-table:: New codes added to non-embedded codelists (most recent first)
@@ -41,7 +41,7 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
      - Discussion
    * - 25th February 2015
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
-     - Add *IN-MCA* (Government of India, Minstry of Corporate Affairs)
+     - Add *IN-MCA* (Government of India, Ministry of Corporate Affairs)
      - This was added via a request made by the community.  
      - See `Add Indian Ministry of Corporate Affairs  <http://support.iatistandard.org/entries/76840029-Add-Indian-Ministry-of-Corporate-Affairs>`__ on the support forum.     
    * - 13th January 2015
@@ -81,8 +81,8 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
      - See `Registration Agencies - Update Descriptions To Remove 'Updated By' <http://support.iatistandard.org/entries/53429445-Registration-Agencies-Update-Descriptions-To-Remove-Updated-By->`__ on the support forum.
 
 Updates to the IATI Organisation Identifier codelist
---------------------------
-Occassionally, new entries are added to the IATIOrganisationIdentifier.
+----------------------------------------------------
+Occasionally, new entries are added to the IATIOrganisationIdentifier.
 
 .. list-table:: New codes added IATIOrganisationIdentifier codelist (most recent first)
    :widths: 10 20 20 30
@@ -98,7 +98,7 @@ Occassionally, new entries are added to the IATIOrganisationIdentifier.
      - See `Add Coca-Cola To The IATI Organisation Identifier Codelist <http://support.iatistandard.org/entries/79006865-Add-Coca-Cola-To-The-IATI-Organisation-Identifier-Codelist>`__ on the support forum.      
      
 New codes added to other non-embedded codelists
-------------------------------------------
+-----------------------------------------------
 
 .. list-table:: New codes added to non-embedded codelists (most recent first)
    :widths: 10 20 20 30 20
@@ -117,12 +117,12 @@ New codes added to other non-embedded codelists
    * - 7th October 2014
      - :doc:`CollaborationType </codelists/CollaborationType>`
      - Add *7* (Bilateral, ex-post reporting on NGOs’ activities funded through core contributions)
-     - This was added as part of the 2.01 upgrade to accomodate an additional Collaboration Type code published by the OECD DAC.  
+     - This was added as part of the 2.01 upgrade to accommodate an additional Collaboration Type code published by the OECD DAC.
      - See `Collaboration Type - addition of code 7 <http://support.iatistandard.org/entries/96520726-Collaboration-Type-addition-of-code-7>`__ on the support forum.
    * - 8th September 2014
      - :doc:`PolicySignificance </codelists/PolicySignificance>`
      - Add *4* (Explicit primary objective)
-     - This was added as part of the 1.05 upgrade to accomodate the new Policy Markers published by the OECD DAC.  
+     - This was added as part of the 1.05 upgrade to accommodate the new Policy Markers published by the OECD DAC.
      - See `New Policy Markers Significance Codes <http://support.iatistandard.org/entries/52320903-New-Policy-Markers-Significance-Codes>`__ on the support forum.
    * - 26th June 2014
      - :doc:`Country </codelists/Country>`
@@ -131,7 +131,7 @@ New codes added to other non-embedded codelists
      - 
 
 Updates to names/descriptions of other non-embedded codelists
--------------------------------------------------------
+-------------------------------------------------------------
 
 .. list-table:: Names/description updates (most recent first)
    :widths: 10 20 20 30 20
