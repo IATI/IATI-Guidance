@@ -160,6 +160,16 @@ New codes added to other non-embedded codelists
      - Change description
      - Notes
      - Discussion
+   * - 20th November 2015
+     - :doc:`Region </codelists/Sector>`
+     - Add *15114* (Tax policy and tax administration support)
+     - Results from an addition to the `OECD DAC codelists <http://www.oecd.org/dac/stats/dacandcrscodelists.htm>`__.
+     - See `Add missing DAC 5-Digit Sector Code 15114 <http://support.iatistandard.org/entries/83920995-Add-missing-DAC-5-Digit-Sector-Code-15114>`__ on the support forum.
+   * - 18th June 2015
+     - :doc:`Region </codelists/Currency>`
+     - Add *XBT* (Bitcoin)
+     - This was added via a request made by the community.
+     - See `Add Bitcoin (code XBT) to currency list <http://support.iatistandard.org/entries/82460089-Add-Bitcoin-code-XBT-to-currency-list>`__ on the support forum.
    * - 7th October 2014
      - :doc:`Region </codelists/Region>`
      - Add *88* (Ex-Yugoslavia unspecified)
