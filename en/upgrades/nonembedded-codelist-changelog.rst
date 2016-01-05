@@ -69,6 +69,11 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
      - Add *MZ-MOJ* (Mozambique Ministry of Justice)
      - This was added via a request made by the community.
      - See `Registration Agencies for Mozambique’s NGOs for IATI ID  <http://support.iatistandard.org/entries/81468739-Registration-Agencies-for-Mozambique-s-NGOs-for-IATI-ID>`__ on the support forum.
+   * - 27th May 2015
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *PK-PCP* (Government of Pakistan, provincial Ministry of Social Work departments)
+     - This was added via a request made by the community.
+     - See `Registration Agencies for Pakistan NGOs for IATI ID <http://support.iatistandard.org/entries/77070149-Registration-Agencies-for-Pakistan-NGOs-for-IATI-ID>`__ on the support forum.
    * - 8th May 2015
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
      - Add *GB-UKPRN* (UK Provider Reference Number)
@@ -135,6 +140,14 @@ Occasionally, new entries are added to the IATIOrganisationIdentifier.
      - XI-IATI-EBRD
      - European Bank for Reconstruction and Development
      - See `Add An Entry For EBRD To The IATI Organisation Identifier Codelist <http://support.iatistandard.org/entries/81933269-Add-An-Entry-For-EBRD-To-The-IATI-Organisation-Identifier-Codelist>`__ on the support forum.
+   * - 27th May 2015
+     - XI-IATI-EC_ECHO
+     - European Commission - Humanitarian Aid & Civil Protection
+     - See `Add An Entry For EC DG ECHO To The IATI Organisation Identifier Codelist <http://support.iatistandard.org/entries/81425389-Add-An-Entry-For-EC-DG-ECHO-To-The-IATI-Organisation-Identifier-Codelist>`__ on the support forum.
+   * - 27th May 2015
+     - XI-IATI-EC_DEVCO
+     - European Commission – Development and Cooperation
+     - See `Add An Entry For EC DG DEVCO To The IATI Organisation Identifier Codelist <http://support.iatistandard.org/entries/81467979-Add-An-Entry-For-EC-DG-DEVCO-To-The-IATI-Organisation-Identifier-Codelist>`__ on the support forum.
    * - 8th May 2015
      - XI-IATI-EC_FPI
      - European Commission – Service for Foreign Policy Instruments
@@ -170,6 +183,11 @@ New codes added to other non-embedded codelists
      - Add *XBT* (Bitcoin)
      - This was added via a request made by the community.
      - See `Add Bitcoin (code XBT) to currency list <http://support.iatistandard.org/entries/82460089-Add-Bitcoin-code-XBT-to-currency-list>`__ on the support forum.
+   * - 27th May 2015
+     - :doc:`Region </codelists/Currency>`
+     - Add *XDR* (International Monetary Fund (IMF) Special Drawing Right (SDR))
+     - This was added due in accordance with ISO 4217.
+     - See `Add Currency Code 'XDR' To The Currency Code List <http://support.iatistandard.org/entries/81929379-Add-Currency-Code-XDR-To-The-Currency-Code-List>`__ on the support forum.
    * - 7th October 2014
      - :doc:`Region </codelists/Region>`
      - Add *88* (Ex-Yugoslavia unspecified)
