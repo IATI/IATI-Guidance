@@ -178,6 +178,11 @@ New codes added to other non-embedded codelists
      - Add *15114* (Tax policy and tax administration support)
      - Results from an addition to the `OECD DAC codelists <http://www.oecd.org/dac/stats/dacandcrscodelists.htm>`__.
      - See `Add missing DAC 5-Digit Sector Code 15114 <http://support.iatistandard.org/entries/83920995-Add-missing-DAC-5-Digit-Sector-Code-15114>`__ on the support forum.
+   * - 17th November 2015
+     - :doc:`Region </codelists/Version>`
+     - Add *2.02* (Version 2.02 of the IATI Standard)
+     - The result of a decimal upgrade.
+     - See `Amend codelist: Version <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/88>`__ on GitHub.
    * - 18th June 2015
      - :doc:`Region </codelists/Currency>`
      - Add *XBT* (Bitcoin)
@@ -221,6 +226,26 @@ Updates to names/descriptions of other non-embedded codelists
      - Change description
      - Notes
      - Discussion     
+   * - 29th October 2015
+     - :doc:`Country </codelists/FlowType>`
+     - Multiple edits made to synchronise IATI Non-Embedded code names and descriptions with the OECD DAC definition.
+     - Changes made after an audit of OECD DAC codes.
+     - See `Update Names and Descriptions of DAC-Based Codelists <http://support.iatistandard.org/entries/106346876-Update-Names-and-Descriptions-of-DAC-Based-Codelists>`__ on the support forum.
+   * - 29th October 2015
+     - :doc:`Country </codelists/FinanceType>`
+     - Multiple edits made to synchronise IATI Non-Embedded code names and descriptions with the OECD DAC definition.
+     - Changes made after an audit of OECD DAC codes.
+     - See `Update Names and Descriptions of DAC-Based Codelists <http://support.iatistandard.org/entries/106346876-Update-Names-and-Descriptions-of-DAC-Based-Codelists>`__ on the support forum.
+   * - 29th October 2015
+     - :doc:`Country </codelists/AidType>`
+     - Multiple edits made to synchronise IATI Non-Embedded code names and descriptions with the OECD DAC definition.
+     - Changes made after an audit of OECD DAC codes.
+     - See `Update Names and Descriptions of DAC-Based Codelists <http://support.iatistandard.org/entries/106346876-Update-Names-and-Descriptions-of-DAC-Based-Codelists>`__ on the support forum.
+   * - 29th October 2015
+     - :doc:`Country </codelists/Sector>`
+     - Multiple edits made to synchronise IATI Non-Embedded code names and descriptions with the OECD DAC definition.
+     - Changes made after an audit of OECD DAC codes.
+     - See `Update Names and Descriptions of DAC-Based Codelists <http://support.iatistandard.org/entries/106346876-Update-Names-and-Descriptions-of-DAC-Based-Codelists>`__ on the support forum.
    * - 7th October 2014
      - :doc:`Region </codelists/Region>`
      - Change name for *998* (Bilateral, ex-post reporting on NGOs’ activities funded through core contributions)
