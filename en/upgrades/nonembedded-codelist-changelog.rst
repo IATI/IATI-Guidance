@@ -39,6 +39,41 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
      - Change description
      - Notes
      - Discussion
+   * - 11th December 2015
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *TZ-BRLA* (Tanzania Business Registrations and Licensing Agency)
+     - This was added via a request made by the community.
+     - See `Added Code: TZ-BRLA - Tanzania Business Registrations and Licensing Agency  <http://support.iatistandard.org/entries/107920136-Added-Code-TZ-BRLA-Tanzania-Business-Registrations-and-Licensing-Agency>`__ for full details.
+   * - 11th December 2015
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *DK-CVR* (Danish Central Business Register)
+     - This was added via a request made by the community.
+     - See `Inclusion of Denmark’s Registration Agency in the ‘Organisation Registration Agency’ codelist  <http://support.iatistandard.org/entries/108281706-Inclusion-of-Denmark-s-Registration-Agency-in-the-Organisation-Registration-Agency-codelist>`__ for full details.
+   * - 11th December 2015
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *JE-CR, JE-OAC, GG-RCE* (Various offshore registration agencies)
+     - This was added via a request made by the community.
+     - See `Add various offshore registration agencies  <http://support.iatistandard.org/entries/83649359-Add-various-offshore-registration-agencies>`__ for full details.
+   * - 28th October 2015
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *GB-GOV* (UK Government Departments Reference Numbers)
+     - This was added via a request made by the community.
+     - See `Add An Entry For GB-GOV prefix To The Organisation Registration Agency Codelist  <http://support.iatistandard.org/entries/82202615-Add-An-Entry-For-GB-GOV-prefix-To-The-Organisation-Registration-Agency-Codelist>`__ for full details.
+   * - 28th October 2015
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *BD-NAB* (Bangladesh NGO Affairs Bureau)
+     - This was added via a request made by the community.
+     - See `Add Registration Agency For Bangladesh  <http://support.iatistandard.org/entries/82440685-Add-Registration-Agency-For-Bangladesh>`__ for full details.
+   * - 28th October 2015
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *MZ-MOJ* (Mozambique Ministry of Justice)
+     - This was added via a request made by the community.
+     - See `Registration Agencies for Mozambique’s NGOs for IATI ID  <http://support.iatistandard.org/entries/81468739-Registration-Agencies-for-Mozambique-s-NGOs-for-IATI-ID>`__ for full details.
+   * - 8th May 2015
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *GB-UKPRN* (UK Provider Reference Number)
+     - This was added via a request made by the community.
+     - See `Uk Universities, Colleges and learning providers - add GB-UKPRN as RegistrationAgency  <http://support.iatistandard.org/entries/80561095-Uk-Universities-Colleges-and-learning-providers-add-GB-UKPRN-as-RegistrationAgency>`__ for full details.
    * - 25th February 2015
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
      - Add *IN-MCA* (Government of India, Ministry of Corporate Affairs)
