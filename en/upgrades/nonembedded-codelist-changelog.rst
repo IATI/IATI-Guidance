@@ -174,22 +174,22 @@ New codes added to other non-embedded codelists
      - Notes
      - Discussion
    * - 20th November 2015
-     - :doc:`Region </codelists/Sector>`
+     - :doc:`Sector </codelists/Sector>`
      - Add *15114* (Tax policy and tax administration support)
      - Results from an addition to the `OECD DAC codelists <http://www.oecd.org/dac/stats/dacandcrscodelists.htm>`__.
      - See `Add missing DAC 5-Digit Sector Code 15114 <http://support.iatistandard.org/entries/83920995-Add-missing-DAC-5-Digit-Sector-Code-15114>`__ on the support forum.
    * - 17th November 2015
-     - :doc:`Region </codelists/Version>`
+     - :doc:`Version </codelists/Version>`
      - Add *2.02* (Version 2.02 of the IATI Standard)
      - The result of a decimal upgrade.
      - See `Amend codelist: Version <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/88>`__ on GitHub.
    * - 18th June 2015
-     - :doc:`Region </codelists/Currency>`
+     - :doc:`Currency </codelists/Currency>`
      - Add *XBT* (Bitcoin)
      - This was added via a request made by the community.
      - See `Add Bitcoin (code XBT) to currency list <http://support.iatistandard.org/entries/82460089-Add-Bitcoin-code-XBT-to-currency-list>`__ on the support forum.
    * - 27th May 2015
-     - :doc:`Region </codelists/Currency>`
+     - :doc:`Currency </codelists/Currency>`
      - Add *XDR* (International Monetary Fund (IMF) Special Drawing Right (SDR))
      - This was added due in accordance with ISO 4217.
      - See `Add Currency Code 'XDR' To The Currency Code List <http://support.iatistandard.org/entries/81929379-Add-Currency-Code-XDR-To-The-Currency-Code-List>`__ on the support forum.
@@ -227,22 +227,22 @@ Updates to names/descriptions of other non-embedded codelists
      - Notes
      - Discussion     
    * - 29th October 2015
-     - :doc:`Country </codelists/FlowType>`
+     - :doc:`FlowType </codelists/FlowType>`
      - Multiple edits made to synchronise IATI Non-Embedded code names and descriptions with the OECD DAC definition.
      - Changes made after an audit of OECD DAC codes.
      - See `Update Names and Descriptions of DAC-Based Codelists <http://support.iatistandard.org/entries/106346876-Update-Names-and-Descriptions-of-DAC-Based-Codelists>`__ on the support forum.
    * - 29th October 2015
-     - :doc:`Country </codelists/FinanceType>`
+     - :doc:`FinanceType </codelists/FinanceType>`
      - Multiple edits made to synchronise IATI Non-Embedded code names and descriptions with the OECD DAC definition.
      - Changes made after an audit of OECD DAC codes.
      - See `Update Names and Descriptions of DAC-Based Codelists <http://support.iatistandard.org/entries/106346876-Update-Names-and-Descriptions-of-DAC-Based-Codelists>`__ on the support forum.
    * - 29th October 2015
-     - :doc:`Country </codelists/AidType>`
+     - :doc:`AidType </codelists/AidType>`
      - Multiple edits made to synchronise IATI Non-Embedded code names and descriptions with the OECD DAC definition.
      - Changes made after an audit of OECD DAC codes.
      - See `Update Names and Descriptions of DAC-Based Codelists <http://support.iatistandard.org/entries/106346876-Update-Names-and-Descriptions-of-DAC-Based-Codelists>`__ on the support forum.
    * - 29th October 2015
-     - :doc:`Country </codelists/Sector>`
+     - :doc:`Sector </codelists/Sector>`
      - Multiple edits made to synchronise IATI Non-Embedded code names and descriptions with the OECD DAC definition.
      - Changes made after an audit of OECD DAC codes.
      - See `Update Names and Descriptions of DAC-Based Codelists <http://support.iatistandard.org/entries/106346876-Update-Names-and-Descriptions-of-DAC-Based-Codelists>`__ on the support forum.
