@@ -33,7 +33,7 @@ data publishers or data users. These are known as Minor Changes
 Minor changes can be made without changing the version of the standard. 
 They cover:
 
--  bug-fixes
+-  bug-fixes, including resolution of spelling and grammar errors (:underline:`where there are no implications` for usage and/or meaning)
 
 -  modifications to non-embedded codelists
 
@@ -50,7 +50,7 @@ Decimal Upgrades
 
 ****Decimal**** Upgrades (e.g. from 1.01 to 1.02) will cover:
 
--  bug-fixes
+-  bug-fixes, including resolution of spelling and grammar errors (:underline:`where edits have implications` for usage and/or meaning)
 
 -  modifications to embedded codelists
 
