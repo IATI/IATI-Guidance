@@ -39,6 +39,11 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
      - Change description
      - Notes
      - Discussion
+   * - 19th January 2016
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *NG-CAC* (Nigerian Corporate Affairs Commission)
+     - This was added via a request made by the community.
+     - See `Add Registration Agency For Nigeria  <http://support.iatistandard.org/entries/107566973-Add-Registration-Agency-For-Nigeria>`__ on the support forum.
    * - 11th December 2015
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
      - Add *TZ-BRLA* (Tanzania Business Registrations and Licensing Agency)
