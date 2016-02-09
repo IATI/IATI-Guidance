@@ -39,6 +39,16 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
      - Change description
      - Notes
      - Discussion
+   * - 9th February 2016
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *XI-PB* (Public Bodies)
+     - This was added via a request made by the community.
+     - See `Add Organisation Registration Agency for publicbodies.org  <http://support.iatistandard.org/entries/107809263-Add-Organisation-Registration-Agency-for-publicbodies-org>`__ on the support forum.
+   * - 9th February 2016
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *CO-CCB* (Bogota Chamber of Commerce)
+     - This was added via a request made by the community.
+     - See `Add Organisation Registration Agency For Colombia  <http://support.iatistandard.org/entries/107802483-Add-Organisation-Registration-Agency-For-Colombia>`__ on the support forum.
    * - 19th January 2016
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
      - Add *NG-CAC* (Nigerian Corporate Affairs Commission)
