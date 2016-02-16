@@ -54,6 +54,6 @@ If an organisation has simply rebranded or has not changed their legal status th
 2) As part of the Registry account review in 1) the publisher should decide if they want to change their Registry Publisher ID to something that more closely matches their new name. If the publisher does decide to change their Publisher ID then they should carry out the remaining steps otherwise no further action is required.
 3) The publisher should contact the IATI Technical Support Team to let them know that the organisation has changed its name and is intending to update its Publisher ID and by when?
 4) The publisher should delete all existing datafiles from the existing publisher account
-5) The publisher should update the Registry Publisher ID (NB if publishing via Aidstream then the publisher id in 'Setting's should also be updated to the new Registry ID as wll as updaing the organisation Aidstream profile details)
+5) The publisher should update the Registry Publisher ID (NB if publishing via Aidstream then the publisher id in 'Setting's should also be updated to the new Registry ID as wll as updating the organisation Aidstream profile details)
 6) The publisher should re-publish their datafiles to the updated Registry account
 7) The IATI Technical Support Team will arrange for redirects from the old datasets to be set up so that any third party users of the organisation's datafiles will be able to find the new files.

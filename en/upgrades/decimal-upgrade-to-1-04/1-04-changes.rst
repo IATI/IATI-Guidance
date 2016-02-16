@@ -68,7 +68,7 @@ Embedded:
 - Added ``9`` (Other) to :doc:`/codelists/ResultType` (`discussion <http://support.iatistandard.org/entries/24090113-Suggestion-Add-other-or-undefined-to-Result-type-codelist>`__)
 - Added ``NACE`` to :doc:`/codelists/Vocabulary` (`discussion <http://support.iatistandard.org/entries/29678047-Add-NACE-Codes-as-a-Vocabulary-for-Sector?page=1#post_25391443>`__)
 - The categories of :doc:`/codelists/BudgetIdentifierSector` have been described differently. No codes have changed.
-- The "Agency Level" (``B``) category of :doc:`/codelists/DocumentCategory` has been renamed to "Organisation Level" for consitency. (`issue <https://github.com/IATI/IATI-Codelists/issues/28>`__)
+- The "Agency Level" (``B``) category of :doc:`/codelists/DocumentCategory` has been renamed to "Organisation Level" for consistency. (`issue <https://github.com/IATI/IATI-Codelists/issues/28>`__)
 
 Non-Embedded:
 

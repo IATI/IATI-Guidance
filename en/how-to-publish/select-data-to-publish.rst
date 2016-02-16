@@ -41,7 +41,7 @@ Segmenting Files & File Size
 
 It is recommended that publishers segment their files to ensure that no file is larger than 40MB in size. Whilst there is no definitive rule as to when a file is too large, we recommend a maximum file size in order to minimise any issues of file processing by both IATI and third parties data users.
 
-With regard to segmentation, there is no definitive best practice for how files should be segmented. By country was historically the preferred option but this is no longer a requirement because published data can now be queried more easily via the IATI Datastore. The publisher should therefore carry out segmenetation on whatever makes most sense to their publishing process. Examples might be by country, by region, by grant or loan type etc. As data volumes have increased some publisher are now segmenting by open and closed activities. This has the benefit that once created, there is no further requirement to reproduce or update a file of closed projects each time the Publisher updates their data. 
+With regard to segmentation, there is no definitive best practice for how files should be segmented. By country was historically the preferred option but this is no longer a requirement because published data can now be queried more easily via the IATI Datastore. The publisher should therefore carry out segmentation on whatever makes most sense to their publishing process. Examples might be by country, by region, by grant or loan type etc. As data volumes have increased some publisher are now segmenting by open and closed activities. This has the benefit that once created, there is no further requirement to reproduce or update a file of closed projects each time the Publisher updates their data.
 
 
 

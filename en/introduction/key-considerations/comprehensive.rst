@@ -7,7 +7,7 @@ When publishing IATI data, organisations should consider how to achieve the foll
 
 * Coverage - IATI data should represent a significant proportion of the development cooperation activities undertaken by the organisation.
 * Scope - IATI data should cover as many of the relevant fields outlined in the standard as possible.
-* Sense - IATI data should be represented in units that are manageable for the publisher and meaningful for the user - particularly when focussing on aggregation of transaction data.
+* Sense - IATI data should be represented in units that are manageable for the publisher and meaningful for the user - particularly when focusing on aggregation of transaction data.
 
 
 Considerations

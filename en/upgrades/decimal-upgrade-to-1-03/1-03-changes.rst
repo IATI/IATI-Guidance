@@ -34,7 +34,7 @@ Updated elements:
    mailing-address
 
 -  added
-   optional \ `recipient-regio <http://iatistandard.org/activity-standard/recipient-region/>`__\ n/@vocabulary
+   optional \ `recipient-region <http://iatistandard.org/activity-standard/recipient-region/>`__\ n/@vocabulary
    attribute
 
 -  globally changed the @percentage attribute to allow decimals (e.g.
