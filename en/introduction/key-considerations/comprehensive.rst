@@ -19,7 +19,7 @@ When providing *comprehensive* IATI data, publishers should also consider:
 * Expenditure data in a lot of detail- such as an individual train journey or cup of coffee - may be best avoided in IATI transactions.  Many publishers aggregate expenditure items around certain cost areas, and by monthly/quarterly timeframes.
 
 Benefits
--------
+--------
 It’s useful to access *comprehensive* IATI data because:
 
 * When IATI data is comprehensive, users of information can gain a fuller picture of the extent of development cooperation happening in different locations around the world.

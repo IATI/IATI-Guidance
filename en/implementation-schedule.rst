@@ -22,7 +22,7 @@ If your organisation endorsed the `outcome document <http://effectivecooperation
 * `Open Document Format (.ods) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template_commonstandard/CommonStandard-ImplementationSchedule.ods>`__
 
 DFIs (Development Finance Institutions) and IFIs (International Financial Institutions) Implementation Schedule
--------------------------------
+-----------------------------------
 This version can be downloaded in:
 
 * `Excel format (.xls) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template_DFIs/DFI-IFI_ImplementationSchedule.xls>`__
@@ -30,7 +30,7 @@ This version can be downloaded in:
 * `Open Document Format (.ods) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template_DFIs/DFI-IFI_ImplementationSchedule.ods>`__
 
 All Other Publishers Implementation Schedule
----------------------------------------
+--------------------------------------------
 This version can be downloaded in:
 
 * `Excel format (.xlsx) <https://github.com/IATI/IATI-Implementation-Schedule/raw/master/files/template_AllOther/ImplementationSchedule-AllOtherPublishers.xlsx>`__

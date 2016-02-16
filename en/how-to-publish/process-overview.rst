@@ -22,7 +22,7 @@ The publishing process involves the following steps:
 
 
 Key process inputs
-===================
+==================
 
 The IATI publishing process is entirely dependent on:
 

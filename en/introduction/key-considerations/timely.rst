@@ -20,7 +20,7 @@ When providing *timely* IATI data, publishers should also consider:
 * IATI data does not serve as a snapshot, but as an historic record of activities.
 
 Benefits
----------
+--------
 It’s useful to access *timely* IATI data because:
 
 * When IATI data is timely, it is up to date, and more useful for users, particularly for partner country governments using it to inform forward planning. 

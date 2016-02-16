@@ -24,7 +24,7 @@ It is also important to differentiate what data will appear at the different lev
  
 
 Publishing Frequency
-=====================
+====================
 
 Organisations typically publish updates annually, every 6 months, quarterly, monthly and even daily. Ideally it would be a requirement for every publisher to publish as frequently as their information changes. However, it is recognised that this is not always possible so it encourages publishers to select the most frequent publishing frequently that their organisation is able to support.
 
@@ -51,7 +51,7 @@ Publishers should also outline the quality assurance processes or any details of
 
 
 Data Coverage
-==============
+=============
 
 It is very important that an organisation considers which of its activities it will publish information to IATI about. Ideally it would be a requirement that a publisher provides information of all of its activities. However, this sometimes not always possible and initially a Publisher might decide to only publish information in relation to those activities for which they are contractually bound to publish to IATI. However, it is hoped that over time a Publisher will move to publishing to IATI for all of its work.
 
@@ -103,7 +103,7 @@ Consideration should also be given to which specific aid activities are reported
 
 
 Where Will You Publish Your IATI Datafiles? 
-===============================================
+===========================================
 
 When you publish your information you do not give your information to IATI to look after. You will instead create an account on the IATI Registry that will hold (along with other information) the URL of where your IATI files are located. IATI therefore asks its publishers to host the datafiles that contain their IATI information on their own web servers. This is because data that is located within a publisher's own web space has greater integrity due to it being located at source. Therefore you will probably need to work with your IT or web team in order to identify a location where your IATI information can be hosted. If you have decided to create an IATI specific web page it is a good idea to include links to your published IATI files?
 

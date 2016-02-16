@@ -1,5 +1,5 @@
 ﻿Open Aid Information Licensing Standard
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 This Open Aid Information (OAI) Licensing Standard helps encourage the use and reuse of aid information to help provide better, and more effective, aid to those who receive it. The OAI Licensing Standard is the result of work by the IATI Secretariat in collaboration with governments, NGOs, international organisations, lawyers, and open knowledge experts from around the world. This OAI Licensing Standard is deliberately worded in sufficiently general terms that it could be used for any type of aid-related information, not just for information published to the IATI Standard.
 

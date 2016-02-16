@@ -1,5 +1,5 @@
 ﻿Data considerations
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^
 
 
 Deciding what data to publish can be aided by filling out the Organisation and Activity tabs of the Implementation Schedule.
@@ -37,7 +37,7 @@ The availability of data will also depend on how information is currently captur
 
 
 Segmenting Files & File Size
-=============================
+============================
 
 It is recommended that publishers segment their files to ensure that no file is larger than 40MB in size. Whilst there is no definitive rule as to when a file is too large, we recommend a maximum file size in order to minimise any issues of file processing by both IATI and third parties data users.
 

@@ -1109,7 +1109,7 @@ It was recognised that various description texts were out-of-date or not clear. 
 
 
 Non-Embedded Codelists 
-==============================
+======================
 **What is the change?**
 
 As part of the 2.01 IATI Standard upgrade, the following non-embedded codelists were created.
