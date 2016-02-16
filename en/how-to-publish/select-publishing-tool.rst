@@ -1,7 +1,7 @@
 ﻿Select a publishing tool
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^
 
-There are currently three different mechanisms recommended by the IATI Secritariat to convert data into IATI- XML data files. Aidstream and the CSV Convertor are recommended because they are both currently actively maintained with the involvement of the IATI Technical Support Team. 
+There are currently three different mechanisms recommended by the IATI Secretariat to convert data into IATI- XML data files. Aidstream and the CSV Converter are recommended because they are both currently actively maintained with the involvement of the IATI Technical Support Team.
 
 
 
@@ -18,11 +18,11 @@ There is a whole series of instructional videos on using Aidstream. These can be
 CSV Converter 
 =============
 
-The CSV Convertor tool (http://csv2iati.iatistandard.org/) enables relevant activity information to be pulled from across the organisation into a single CSV file. Data for each activity is stored in a single row in the CSV file with column headings mapping to IATI fields .
+The CSV Converter tool (http://csv2iati.iatistandard.org/) enables relevant activity information to be pulled from across the organisation into a single CSV file. Data for each activity is stored in a single row in the CSV file with column headings mapping to IATI fields .
 
 Once the CSV file is completed, it is uploaded to the conversion tool and a mapping model is created. Column titles from the CSV file are mapped to IATI fields so that information is picked up from the correct place. Default values for some fields can also be set. Once the mapping exercise is completed, you simply click to convert the data and the tool creates an Activity file (no organisation file) for publishing..
 
-Specific guidance on the use of the CSV Convertor can be found at http://csv2iati.iatistandard.org/docs/user_guide.html. Examples of an input CSV file are also available as part of the online guidance. 
+Specific guidance on the use of the CSV Converter can be found at http://csv2iati.iatistandard.org/docs/user_guide.html. Examples of an input CSV file are also available as part of the online guidance.
 
 It is also recommended that Publishers creating their Activity files via the CSV Converter should also use Aidstream in order to create their organisation files
 
@@ -39,7 +39,7 @@ This is normally an option often chosen by large organisations reporting a large
 
 
 Other Tools
-============
+===========
 
 There are other IATI publishing tools available that have been developed by Third Parties. They are:
 
@@ -51,7 +51,7 @@ The Open Aid Register (see http://www.openaidregister.org/) is a New York Law Sc
 
 
 SQL-To-IATI
->>>>>>>>>>>>
+>>>>>>>>>>>
 
 The SQL-to-IATI tool generates IATI XML data from activity data stored in a SQL database. DFID use this to publish their full set of 13000 activities each month, so it supports enterprise-grade IATI. 
 

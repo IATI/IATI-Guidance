@@ -43,7 +43,7 @@ The last-modified header will help applications checking that they have the most
 
 If you have created and published your files via Aidstream then you will need to login to your Aidstream account, click on 'List Published Files' and then for each file right click on the filename and select 'Save Link As ...' to download the file.
 
-If you have created and published your files via the CSV Convertor then you will need to login to your CSV Convertor account and click on the model was used to generate your published files. Click on 'Convert' and then click on 'View Conversion History'. Put you cursor over the file that you want to download, right click on the filename and select 'Save Link As ...' to download the file.
+If you have created and published your files via the CSV Converter then you will need to login to your CSV Converter account and click on the model was used to generate your published files. Click on 'Convert' and then click on 'View Conversion History'. Put you cursor over the file that you want to download, right click on the filename and select 'Save Link As ...' to download the file.
 
 
  
