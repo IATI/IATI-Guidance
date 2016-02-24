@@ -125,7 +125,7 @@ Embedded:
 Non-Embedded:
 
 - :doc:`/codelists/HumanitarianScopeType` (`Discussion <http://support.iatistandard.org/entries/105778163-Humanitarian-Emergencies-and-Appeals>`__)
-- :doc:`/codelists/HumanitatianScopeVocabulary` (`Discussion <http://support.iatistandard.org/entries/105778163-Humanitarian-Emergencies-and-Appeals>`__)
+- :doc:`/codelists/HumanitarianScopeVocabulary` (`Discussion <http://support.iatistandard.org/entries/105778163-Humanitarian-Emergencies-and-Appeals>`__)
 - :doc:`/codelists/IndicatorVocabulary` (`Discussion <http://support.iatistandard.org/entries/79784435-Results-Require-unambiguous-indicator-reference>`__)
 - :doc:`/codelists/CRSChannelCode` (`Discussion <http://support.iatistandard.org/entries/83678719-DAC-Channel-of-Delivery>`__)
 
