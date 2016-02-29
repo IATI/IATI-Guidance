@@ -1,5 +1,5 @@
 ﻿Updating your data
-^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^
 
 Once you have initially published your first data sets you need to ensure that they are updated regularly. In addition, things may change over time and this section therefore includes instructions for the most common changes that a publisher might need to make.
 
@@ -27,14 +27,14 @@ As people frequently change job it is quite common that the nominated point of c
 In addition, the name of the IATI point of contact should be updated in the following accounts (where appropriate):
  
 1) Aidstream 
-2) CSV Convertor 
+2) CSV Converter
 3) IATI Registry (check your user account, publisher account and datafiles for contacts details)
 
 
 
 
 Changing A Publisher Name
-==========================
+=========================
 
 If an organisation has essentially become a new organisation eg. it has merged with another organisations and/or has re-registered with its regulating body then the following steps should be followed. 
 
@@ -54,6 +54,6 @@ If an organisation has simply rebranded or has not changed their legal status th
 2) As part of the Registry account review in 1) the publisher should decide if they want to change their Registry Publisher ID to something that more closely matches their new name. If the publisher does decide to change their Publisher ID then they should carry out the remaining steps otherwise no further action is required.
 3) The publisher should contact the IATI Technical Support Team to let them know that the organisation has changed its name and is intending to update its Publisher ID and by when?
 4) The publisher should delete all existing datafiles from the existing publisher account
-5) The publisher should update the Registry Publisher ID (NB if publishing via Aidstream then the publisher id in 'Setting's should also be updated to the new Registry ID as wll as updaing the organisation Aidstream profile details)
+5) The publisher should update the Registry Publisher ID (NB if publishing via Aidstream then the publisher id in 'Setting's should also be updated to the new Registry ID as wll as updating the organisation Aidstream profile details)
 6) The publisher should re-publish their datafiles to the updated Registry account
 7) The IATI Technical Support Team will arrange for redirects from the old datasets to be set up so that any third party users of the organisation's datafiles will be able to find the new files.

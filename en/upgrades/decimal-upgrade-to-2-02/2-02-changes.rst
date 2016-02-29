@@ -30,7 +30,7 @@ The element `humanitarian-scope <http://iatistandard.org/202/activity-standard/i
 
 Addition of @vocabulary-uri attribute within the `policy-marker <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/policy-marker/>`__ element. (`Discussion <http://support.iatistandard.org/entries/105713163-Add-URI-attribute-to-elements-where-Reporting-organisation-vocabularies-are-used>`__)
 
-The occurence rule for the @significance attribute within the `policy-marker <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/policy-marker/>`__ element was amended. (`Discussion <http://support.iatistandard.org/entries/105777943-Humanitarian-Policy-Markers>`__)
+The occurrence rule for the @significance attribute within the `policy-marker <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/policy-marker/>`__ element was amended. (`Discussion <http://support.iatistandard.org/entries/105777943-Humanitarian-Policy-Markers>`__)
 
 Addition of @status attribute within the `budget <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/budget/>`__ element. (`Discussion <http://support.iatistandard.org/entries/21150501-Budgets-and-tentativeness>`__)
 
@@ -112,7 +112,7 @@ A full diff of all **embedded** codelist changes in 2.02 can be found in the `IA
 Codelist schema
 ---------------
 
-Within the raw codelist XML defintions, each ``codelist-item`` now supports the addition of ``status``, ``activation-date`` and ``withdrawal-date`` attributes. (`Discussion <http://support.iatistandard.org/entries/106345386-Add-a-withdrawn-flag-to-code-names-to-indicate-deprecation>`__)
+Within the raw codelist XML definitions, each ``codelist-item`` now supports the addition of ``status``, ``activation-date`` and ``withdrawal-date`` attributes. (`Discussion <http://support.iatistandard.org/entries/106345386-Add-a-withdrawn-flag-to-code-names-to-indicate-deprecation>`__)
 
 New Codelists
 -------------
@@ -125,7 +125,7 @@ Embedded:
 Non-Embedded:
 
 - :doc:`/codelists/HumanitarianScopeType` (`Discussion <http://support.iatistandard.org/entries/105778163-Humanitarian-Emergencies-and-Appeals>`__)
-- :doc:`/codelists/HumanitatianScopeVocabulary` (`Discussion <http://support.iatistandard.org/entries/105778163-Humanitarian-Emergencies-and-Appeals>`__)
+- :doc:`/codelists/HumanitarianScopeVocabulary` (`Discussion <http://support.iatistandard.org/entries/105778163-Humanitarian-Emergencies-and-Appeals>`__)
 - :doc:`/codelists/IndicatorVocabulary` (`Discussion <http://support.iatistandard.org/entries/79784435-Results-Require-unambiguous-indicator-reference>`__)
 - :doc:`/codelists/CRSChannelCode` (`Discussion <http://support.iatistandard.org/entries/83678719-DAC-Channel-of-Delivery>`__)
 

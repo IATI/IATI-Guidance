@@ -83,7 +83,7 @@ This is fundamental to the creation and use of IATI data and applies throughout 
 
 **What happens if we do not do this?**
 
-While the schema will not be able to test for valid Organistion and Activity identifiers, it is possible to machine write tests to check for some compliance. However if your data does not meet these standards then it becomes difficult for others to use.
+While the schema will not be able to test for valid Organisation and Activity identifiers, it is possible to machine write tests to check for some compliance. However if your data does not meet these standards then it becomes difficult for others to use.
 
 
 Update to other-identifier element
@@ -101,7 +101,7 @@ In version 2.01 of the IATI Standard the element has been re-constructed
  - New attributes other-identifier/\@type and other-identifier/\@ref are added
  - The \@type attribute is used to specify the type of identifier being given.
  - The \@ref attribute is used for the identifier itself.
- - There is a child element :doc:`other-identifier/owner-org </activity-standard/iati-activities/iati-activity/other-identifier/owner-org/>` where information about the organiation that crafted the identifier can be given. This field is set up so that multilingual text can be supplied,
+ - There is a child element :doc:`other-identifier/owner-org </activity-standard/iati-activities/iati-activity/other-identifier/owner-org/>` where information about the organisation that crafted the identifier can be given. This field is set up so that multilingual text can be supplied,
 
 In version 2.01 of the IATI Standard a new :doc:`OtherIdentifierType </codelists/OtherIdentifierType/>` codelist is introduced.
 
@@ -111,7 +111,7 @@ In the Activity schema
 
 **Why has this been done?**
 
-This change is in part to be able to deal with organisations changing their organsiation identifiers. Because an iati-identifier needs to be unique and (once reported to IATI) will never change, and because it is constructed using an organisation identifier, when organisation identifiers change, data users still need to be able to relate activities to organisations. 
+This change is in part to be able to deal with organisations changing their organisation identifiers. Because an iati-identifier needs to be unique and (once reported to IATI) will never change, and because it is constructed using an organisation identifier, when organisation identifiers change, data users still need to be able to relate activities to organisations.
 
 To solve this, a previous reporting-org identifier can be reported in the
 :doc:`other-identifier </activity-standard/iati-activities/iati-activity/other-identifier/>` element. This then allows us to require that an iati-identifier must be prefixed with:
@@ -367,7 +367,7 @@ For examples see:
 If you omit iati-activities/\@version or iati-organisations/\@versions the
 data will fail validation against the relevant 2.01 schema.
 
-If you include iati-activity/\@verison or iati-organisation\@version the
+If you include iati-activity/\@version or iati-organisation\@version the
 data will fail validation against the relevant 2.01 schema.
 
 If you do not use a value for \@version from the `version codelist <http://iatistandard.org/201/codelists/Version/>`__. data
@@ -1109,7 +1109,7 @@ It was recognised that various description texts were out-of-date or not clear. 
 
 
 Non-Embedded Codelists 
-==============================
+======================
 **What is the change?**
 
 As part of the 2.01 IATI Standard upgrade, the following non-embedded codelists were created.
@@ -1119,7 +1119,7 @@ New Non-Embedded Codelists
 * Version
 * IATIOrganisationIdentifier
 
-and the following Non-Embdedded Codelists were removed:
+and the following Non-Embedded Codelists were removed:
 * OrganisationIdentifier
 
 **See also**

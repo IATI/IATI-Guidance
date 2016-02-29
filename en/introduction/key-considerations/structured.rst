@@ -1,5 +1,5 @@
 Structured
-===========
+==========
 
 Definition
 ----------

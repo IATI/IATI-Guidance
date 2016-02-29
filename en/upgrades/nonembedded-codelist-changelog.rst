@@ -39,6 +39,11 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
      - Change description
      - Notes
      - Discussion
+   * - 24th February 2016
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *PL-REGON, PL-NIP, PL-KRS* (Polish Registration Agencies)
+     - This was added via a request made by the community.
+     - See `Organization registration agencies for Poland  <http://support.iatistandard.org/entries/107901873-Organization-registration-agencies-for-Poland>`__ on the support forum.
    * - 9th February 2016
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
      - Add *XI-PB* (Public Bodies)

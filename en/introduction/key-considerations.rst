@@ -15,7 +15,7 @@ To ensure this, organisations are expected to consider that their IATI data is:
 The **Key Considerations** section provides further guidance on each of these, and provides links to information, tools and materials, where appropriate.
 
 Contents
---------------
+--------
 
 .. toctree::
   :glob:

@@ -39,8 +39,8 @@ the \ `knowledge base <http://support.iatistandard.org/>`__.
 | should go      | may be         |                |                |                |
 | forward to the | contacted and  |                |                |                |
 | next upgrade,  | asked for      |                |                |                |
-| and            | opinoin/clarit |                |                |                |
-| communicated   | y              |                |                |                |
+| and            | opinion /      |                |                |                |
+| communicated   | clarity        |                |                |                |
 | this with the  |                |                |                |                |
 | community.     |                |                |                |                |
 +----------------+----------------+----------------+----------------+----------------+

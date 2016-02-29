@@ -1,5 +1,5 @@
 ﻿Produce your datafiles
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^
 
 Having selected your publishing tool and identified from where your information to be published is derived, you will need to establish your processes for how your IATI data files are created. These should address not just the initial creation of files but also how the files will be regularly updated as per the publishing frequency that you have selected.
  
@@ -36,6 +36,6 @@ EDIT -> COMPLETED -> VERIFIED -> PUBLISHED
 Once a dataset is marked as 'completed' it is intended that another person should manually check the data that has been entered. The verifier should correct any errors that are found and then mark the data as 'Verified'
 
 
-CSV Convertor and bespoke system users
+CSV Converter and bespoke system users
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 You will need to build quality control into your procedures as a separate step. Ideally, you might want to identify the most appropriate point in your processes where the data to be published can be checked by the most appropriate and qualified person.

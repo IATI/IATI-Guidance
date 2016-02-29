@@ -1,5 +1,5 @@
 ﻿Getting publishing help
-^^^^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
 
 There are a number of places where you can get help with IATI publishing 
 

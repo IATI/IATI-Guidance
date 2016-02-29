@@ -1,5 +1,5 @@
 2.01 Headlines
-^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^
 
 The changes / additions to IATI Standard for version 2.01 represent a number of actions for those publishing and using IATI data.  
 
@@ -59,7 +59,7 @@ The following "breaking" changes apply specifically to the **IATI Activity Stand
 
 
 Organisation standard
------------------
+---------------------
 The following "breaking" changes apply specifically to the **IATI Organisation Standard**
 
 .. list-table::
