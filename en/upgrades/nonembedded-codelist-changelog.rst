@@ -39,6 +39,56 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
      - Change description
      - Notes
      - Discussion
+   * - 17th June 2016
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *BE-GTCF* (Au Greffe du Tribunal de Commerce Francophone de Bruxelles)
+     - This was added via a request made by the community.
+     - See `Add Brussels Comercial Court as Registration Agency  <http://support.iatistandard.org/entries/108744443-Add-Brussels-Comercial-Court-as-Registration-Agency>`__ on the support forum.
+   * - 17th June 2016
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *PK-VSWA* (Pakistan  Voluntary Social Welfare Agency)
+     - This was added via a request made by the community.
+     - See `Registration Agencies for Pakistan NGOs for IATI ID  <http://support.iatistandard.org/entries/77070149-Registration-Agencies-for-Pakistan-NGOs-for-IATI-ID>`__ on the support forum.
+   * - 17th June 2016
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *CN-SAIC* (State Administration for Industry and Commerce (SAIC))
+     - This was added via a request made by the community.
+     - See `Various Additions and amendments to the OrganisationRegistrationAgency codelist  <http://support.iatistandard.org/entries/108663163-Additions-and-amendments-to-the-OrganisationRegistrationAgency-codelist>`__ on the support forum.
+   * - 17th June 2016
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *CZ-ICO* (Access to Registers of Economic Subjects / Entities (ARES))
+     - This was added via a request made by the community.
+     - See `Various Additions and amendments to the OrganisationRegistrationAgency codelist  <http://support.iatistandard.org/entries/108663163-Additions-and-amendments-to-the-OrganisationRegistrationAgency-codelist>`__ on the support forum.
+   * - 17th June 2016
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *EE-RIK* (Centre of Registers and Information Systems (RIK))
+     - This was added via a request made by the community.
+     - See `Various Additions and amendments to the OrganisationRegistrationAgency codelist  <http://support.iatistandard.org/entries/108663163-Additions-and-amendments-to-the-OrganisationRegistrationAgency-codelist>`__ on the support forum.
+   * - 17th June 2016
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *LV-RE* (Register of Enterprises of the Republic of Latvia)
+     - This was added via a request made by the community.
+     - See `Various Additions and amendments to the OrganisationRegistrationAgency codelist  <http://support.iatistandard.org/entries/108663163-Additions-and-amendments-to-the-OrganisationRegistrationAgency-codelist>`__ on the support forum.
+   * - 17th June 2016
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *RS-APR* (Serbian Business Registrations Agency (APR))
+     - This was added via a request made by the community.
+     - See `Various Additions and amendments to the OrganisationRegistrationAgency codelist  <http://support.iatistandard.org/entries/108663163-Additions-and-amendments-to-the-OrganisationRegistrationAgency-codelist>`__ on the support forum.
+   * - 17th June 2016
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *SG-ACRA* (Accounting and Corporate Regulatory Authority (ACRA))
+     - This was added via a request made by the community.
+     - See `Registration Agency Added For Singapore  <http://support.iatistandard.org/entries/108713363-Add-Registration-Agency-For-Singapore>`__ on the support forum.
+   * - 17th June 2016
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *FR-INSEE* (The National Institute of Statistics and Economic Studies / Institute National de la Statistique et des etudes economiques)
+     - This was added via a request made by the community.
+     - See `Registration Organisation Added For France  <http://support.iatistandard.org/entries/108665183-Add-Registration-Organisation-For-France>`__ on the support forum.
+   * - 17th June 2016
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *GB-EDU* (Edubase, by the Department of Education)
+     - This was added via a request made by the community.
+     - See `Edubase Added as Registration Agency for England and Wales  <http://support.iatistandard.org/entries/108744483-Add-Edubase-as-Registration-Agency-for-England-and-Wales>`__ on the support forum.
    * - 24th February 2016
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
      - Add *PL-REGON, PL-NIP, PL-KRS* (Polish Registration Agencies)
