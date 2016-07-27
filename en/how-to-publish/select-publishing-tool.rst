@@ -14,7 +14,6 @@ There is a whole series of instructional videos on using Aidstream. These can be
 
 
 
-
 CSV Converter 
 =============
 
@@ -43,10 +42,21 @@ Other Tools
 
 There are other IATI publishing tools available that have been developed by Third Parties. They are:
 
-Open Aid Register
->>>>>>>>>>>>>>>>>
+Akvo RSR
+>>>>>>>>
 
-The Open Aid Register (see http://www.openaidregister.org/) is a New York Law School open source project funded by the Fulbright Commission and the Government of Spain. Similarly to Aidstream it is a free to use online tool that allows users to input their data which is then converted to IATI format. 
+`Akvo Really Simple Reporting <http://akvo.org/products/rsr/#overview>`__ (RSR) is an online platform for reporting, monitoring, and publicly communicating international development programs. Features include management, tracking, and updating of projects from the desk or remotely, and RSR enables users to automatically push or pull data to or from the IATI registry.
+
+More information about pricing can be found `here <http://akvo.org/products/rsr/#pricing>`__. For general enquiries, `contact Akvo <http://akvo.org/get-in-touch/>`__.
+
+
+
+IATI Studio Publisher
+>>>>>>>>>>>>>>>>>>>>>
+
+Due for release in the 3rd quarter of 2016, `IATI Studio Publisher <https://www.iatistudio.com/>`__ allows for validated IATI publication, both on activity level and organisation level. Drafted data will be available before the user chooses to export the data to a valid XML file and the service is integrated with the IATI Studio Chart Builder and Micro-site Builder, more details of which can be `found here <https://www.iatistudio.com/features/>`__.
+
+Core functionality is free; more information about pricing in premium packages can be found `here <https://www.iatistudio.com/membership/>`__. For general enquiries, `contact the IATI Studio team <https://www.iatistudio.com/support/>`__.
 
 
 
@@ -55,7 +65,7 @@ SQL-To-IATI
 
 The SQL-to-IATI tool generates IATI XML data from activity data stored in a SQL database. DFID use this to publish their full set of 13000 activities each month, so it supports enterprise-grade IATI. 
 
-The core of the database is the SchemaData schema which contains a set of tables that mirror the IATI 1.03 standard in a relational database. The data held in these tables can be output as valid IATI XML files directly from a SQL function.  
+The core of the database is the SchemaData schema which contains a set of tables that mirror the IATI 1.03 standard in a relational database. The data held in these tables can be output as valid IATI XML files directly from a SQL function.
 
 A stored procedure populates the SchemaData tables through a series of transformations from source data (for example a corporate ERP). Although the stored procedure is written to deal with DFID’s specific source data, it would be a good starting point. During transformation the PublicationControl schema is used to control the data to be published to IATI, for example it contains a table to allow the exclusion of activities from publication to the IATI registry. The CodeList schema holds all of the IATI standing data (i.e. lists of valid countries, currencies and Aid Type categories), taken from the IATI codelists. 
 
@@ -71,7 +81,7 @@ The table below provides a summary of the three main tool options that can be us
 =================================================== =============================== ====================================================== ================================================================
 Factor                                              Aidstream                       CSV Converter                                          Bespoke
 =================================================== =============================== ====================================================== ================================================================
-Typical users:	                                    Small organisations reporting   Medium organisations without technical                 Large organisations with numerous activities
+Typical users:                                        Small organisations reporting   Medium organisations without technical                 Large organisations with numerous activities
                                                     on small number of activities   capacity to develop own conversion systems             to report who want to invest in own systems
                                                                                     but too many activities to use web entry platforms
 Number of activities for publication: (rough guide) Up to 20	                    Up to 200                                              Over 200
