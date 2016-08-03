@@ -202,6 +202,14 @@ Occasionally, new entries are added to the IATIOrganisationIdentifier.
      - Code
      - Organisation
      - Discussion
+   * - 3rd August 2016
+     - XI-IATI-IKI
+     - International Climate Initiative (IKI)
+     - See `Add An Entry For IKI To IATI Organisation Identifier Codelist <http://support.iatistandard.org/entries/110428746-Add-An-Entry-For-IKI-To-IATI-Organisation-Identifier-Codelist>`__ on the support forum.
+   * - 3rd August 2016
+     - XI-IATI-CABI
+     - CABI
+     - See `Add CABI to XI-IATI... Codelist <http://support.iatistandard.org/entries/109429383-Add-CABI-to-XI-IATI-Codelist>`__ on the support forum.
    * - 20th November 2015
      - XI-IATI-IFDC
      - International Fertilizer Development Center
@@ -243,6 +251,11 @@ New codes added to other non-embedded codelists
      - Change description
      - Notes
      - Discussion
+   * - 3rd August 2016
+     - :doc:`Sector </codelists/Sector>`
+     - Add multiple recently included 'Voluntary' purpose codes included. Too numerous to list here.
+     - New codes added by the OECD.
+     - See `DAC CRS Codelist: recently added voluntary purpose codes <http://support.iatistandard.org/entries/108948043-DAC-CRS-Codelist-recently-added-voluntary-purpose-codes>`__
    * - 20th November 2015
      - :doc:`Sector </codelists/Sector>`
      - Add *15114* (Tax policy and tax administration support)
