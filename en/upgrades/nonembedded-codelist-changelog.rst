@@ -202,6 +202,10 @@ Occasionally, new entries are added to the IATIOrganisationIdentifier.
      - Code
      - Organisation
      - Discussion
+   * - 15th December 2016
+     - XI-IATI-WAI
+     - WASH Alliance International
+     - See `Create Org. Identifier XI-IATI-WAI For The Dutch Wash Alliance International <http://discuss.iatistandard.org/t/planned-create-org-identifier-xi-iati-wai-for-the-dutch-wash-alliance-international/637>`__ on IATI Discuss (Standard Management section).
    * - 3rd August 2016
      - XI-IATI-IKI
      - International Climate Initiative (IKI)
