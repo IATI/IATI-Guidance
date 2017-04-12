@@ -271,7 +271,7 @@ Occasionally, new entries are added to the IATIOrganisationIdentifier.
      - The Coca-Cola Export Corporation
      - See `Add Coca-Cola To The IATI Organisation Identifier Codelist <http://support.iatistandard.org/entries/79006865-Add-Coca-Cola-To-The-IATI-Organisation-Identifier-Codelist>`__ on the support forum.
 
-New codes added to other non-embedded codelists
+Updates to other non-embedded codelists
 -----------------------------------------------
 
 .. list-table:: New codes added to non-embedded codelists (most recent first)
@@ -283,6 +283,11 @@ New codes added to other non-embedded codelists
      - Change description
      - Notes
      - Discussion
+   * - 23rd February 2017
+     - :doc:`HumanitarianScopeVocabulary </codelists/HumanitarianScopeVocabulary>`
+     - Remove code 1-1, UN OCHA FTS.
+     - It was anticipated that the list would be created, though it was not.
+     - See `Remove Entry 1-1 From Humanitarian Scope Vocabulary <https://discuss.iatistandard.org/t/resolved-remove-entry-1-1-from-humanitarian-scope-vocabulary/674>`__
    * - 3rd August 2016
      - :doc:`Sector </codelists/Sector>`
      - Add multiple recently included 'Voluntary' purpose codes included. Too numerous to list here.
