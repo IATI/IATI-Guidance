@@ -9,7 +9,6 @@ This page details any additions of changes to Non-embedded codelists.  Further i
 
 New non-embedded codelists
 --------------------------
-Occasionally, new non-embedded codelists are created.
 
 .. list-table:: New codes added to non-embedded codelists (most recent first)
    :widths: 10 20 20 30 20
@@ -232,7 +231,6 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
 
 Updates to the IATI Organisation Identifier codelist
 ----------------------------------------------------
-Occasionally, new entries are added to the IATIOrganisationIdentifier.
 
 .. list-table:: New codes added IATIOrganisationIdentifier codelist (most recent first)
    :widths: 10 20 20 30
