@@ -41,6 +41,11 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
      - Discussion
    * - 23rd February 2017
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *IN-MHA* (Ministry of Home Affairs, Government of India)
+     - This was added via a request made by the community.
+     - See `Two proposed additions to Organisation Registration Agency Codelist <https://discuss.iatistandard.org/t/added-two-proposed-additions-to-organisation-registration-agency-codelist/689>`__ on IATI Discuss (Standard Management section).
+   * - 23rd February 2017
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
      - Add *BW-CIPA* (The Companies and Intellectual Property Authority (CIPA))
      - This was added via a request made by the community.
      - See `Add CIPA (Botswana) to the Organisation Registration Agency Codelist <https://discuss.iatistandard.org/t/added-add-cipa-botswana-to-the-organisation-registration-agency-codelist/714>`__ on IATI Discuss (Standard Management section).
