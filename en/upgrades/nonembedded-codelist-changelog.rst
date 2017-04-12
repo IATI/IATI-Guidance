@@ -9,7 +9,6 @@ This page details any additions of changes to Non-embedded codelists.  Further i
 
 New non-embedded codelists
 --------------------------
-Occasionally, new non-embedded codelists are created.
 
 .. list-table:: New codes added to non-embedded codelists (most recent first)
    :widths: 10 20 20 30 20
@@ -39,6 +38,41 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
      - Change description
      - Notes
      - Discussion
+   * - 7th April 2017
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *GB-GOR* (UK Government Organisation Register)
+     - This was added via a request made by the community.
+     - See `Add UK Government Organisation Register to OrganisationRegistrationAgency codelist <https://discuss.iatistandard.org/t/added-add-uk-government-organisation-register-to-organisationregistrationagency-codelist/774>`__ on IATI Discuss (Standard Management section).
+   * - 7th April 2017
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *ML-CCIM* (Chambre de Commerce et d'Industrie du Mali (CCIM))
+     - This was added via a request made by the community.
+     - See `Proposed addition to the Organisation Registration Agency Codelist (Mali) <https://discuss.iatistandard.org/t/added-proposed-addition-to-the-organisation-registration-agency-codelist-mali/772>`__ on IATI Discuss (Standard Management section).
+   * - 23rd March 2017
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *SS-RRC* (South Sudan Relief and Rehabilitation Commission)
+     - This was added via a request made by the community.
+     - See `Proposed additions to the Organisation Registration Agency Codelist (Switzerland and South Sudan) <https://discuss.iatistandard.org/t/added-proposed-additions-to-the-organisation-registration-agency-codelist-switzerland-and-south-sudan/726>`__ on IATI Discuss (Standard Management section).
+   * - 23rd March 2017
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *CH-FDJP* (Commercial Registry, Federal Office of Justice, Switzerland)
+     - This was added via a request made by the community.
+     - See `Proposed additions to the Organisation Registration Agency Codelist (Switzerland and South Sudan) <https://discuss.iatistandard.org/t/added-proposed-additions-to-the-organisation-registration-agency-codelist-switzerland-and-south-sudan/726>`__ on IATI Discuss (Standard Management section).
+   * - 23rd February 2017
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *IN-MHA* (Ministry of Home Affairs, Government of India)
+     - This was added via a request made by the community.
+     - See `Two proposed additions to Organisation Registration Agency Codelist <https://discuss.iatistandard.org/t/added-two-proposed-additions-to-organisation-registration-agency-codelist/689>`__ on IATI Discuss (Standard Management section).
+   * - 23rd February 2017
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *BW-CIPA* (The Companies and Intellectual Property Authority (CIPA))
+     - This was added via a request made by the community.
+     - See `Add CIPA (Botswana) to the Organisation Registration Agency Codelist <https://discuss.iatistandard.org/t/added-add-cipa-botswana-to-the-organisation-registration-agency-codelist/714>`__ on IATI Discuss (Standard Management section).
+   * - 23rd February 2017
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *HK-CR* (Hong Kong Companies Registry)
+     - This was added via a request made by the community.
+     - See `Two proposed additions to Organisation Registration Agency Codelist <https://discuss.iatistandard.org/t/added-two-proposed-additions-to-organisation-registration-agency-codelist/689>`__ on IATI Discuss (Standard Management section).
    * - 2nd December 2016
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
      - Add *SE-KK* (Legal, Financial and Administrative Services Agency (Kammarkollegiet))
@@ -197,7 +231,6 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
 
 Updates to the IATI Organisation Identifier codelist
 ----------------------------------------------------
-Occasionally, new entries are added to the IATIOrganisationIdentifier.
 
 .. list-table:: New codes added IATIOrganisationIdentifier codelist (most recent first)
    :widths: 10 20 20 30
@@ -207,6 +240,10 @@ Occasionally, new entries are added to the IATIOrganisationIdentifier.
      - Code
      - Organisation
      - Discussion
+   * - 7th April 2017
+     - XI-IATI-UNPF
+     - UN Pooled Funds
+     - See `New IATI Organisation identifier for UN Pooled Funds <https://discuss.iatistandard.org/t/added-new-iati-organisation-identifier-for-un-pooled-funds/769>`__ on IATI Discuss (Standard Management section).
    * - 15th December 2016
      - XI-IATI-WAI
      - WASH Alliance International
@@ -256,7 +293,7 @@ Occasionally, new entries are added to the IATIOrganisationIdentifier.
      - The Coca-Cola Export Corporation
      - See `Add Coca-Cola To The IATI Organisation Identifier Codelist <http://support.iatistandard.org/entries/79006865-Add-Coca-Cola-To-The-IATI-Organisation-Identifier-Codelist>`__ on the support forum.
 
-New codes added to other non-embedded codelists
+Updates to other non-embedded codelists
 -----------------------------------------------
 
 .. list-table:: New codes added to non-embedded codelists (most recent first)
@@ -268,6 +305,11 @@ New codes added to other non-embedded codelists
      - Change description
      - Notes
      - Discussion
+   * - 23rd February 2017
+     - :doc:`HumanitarianScopeVocabulary </codelists/HumanitarianScopeVocabulary>`
+     - Remove code 1-1, UN OCHA FTS.
+     - It was anticipated that the list would be created, though it was not.
+     - See `Remove Entry 1-1 From Humanitarian Scope Vocabulary <https://discuss.iatistandard.org/t/resolved-remove-entry-1-1-from-humanitarian-scope-vocabulary/674>`__
    * - 3rd August 2016
      - :doc:`Sector </codelists/Sector>`
      - Add multiple recently included 'Voluntary' purpose codes included. Too numerous to list here.
