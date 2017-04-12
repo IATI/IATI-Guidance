@@ -39,6 +39,16 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
      - Change description
      - Notes
      - Discussion
+   * - 7th April 2017
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *GB-GOR* (UK Government Organisation Register)
+     - This was added via a request made by the community.
+     - See `Add UK Government Organisation Register to OrganisationRegistrationAgency codelist <https://discuss.iatistandard.org/t/added-add-uk-government-organisation-register-to-organisationregistrationagency-codelist/774>`__ on IATI Discuss (Standard Management section).
+   * - 7th April 2017
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *ML-CCIM* (Chambre de Commerce et d'Industrie du Mali (CCIM))
+     - This was added via a request made by the community.
+     - See `Proposed addition to the Organisation Registration Agency Codelist (Mali) <https://discuss.iatistandard.org/t/added-proposed-addition-to-the-organisation-registration-agency-codelist-mali/772>`__ on IATI Discuss (Standard Management section).
    * - 23rd March 2017
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
      - Add *SS-RRC* (South Sudan Relief and Rehabilitation Commission)
@@ -232,6 +242,10 @@ Occasionally, new entries are added to the IATIOrganisationIdentifier.
      - Code
      - Organisation
      - Discussion
+   * - 7th April 2017
+     - XI-IATI-UNPF
+     - UN Pooled Funds
+     - See `New IATI Organisation identifier for UN Pooled Funds <https://discuss.iatistandard.org/t/added-new-iati-organisation-identifier-for-un-pooled-funds/769>`__ on IATI Discuss (Standard Management section).
    * - 15th December 2016
      - XI-IATI-WAI
      - WASH Alliance International
