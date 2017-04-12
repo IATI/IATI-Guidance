@@ -39,6 +39,16 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
      - Change description
      - Notes
      - Discussion
+   * - 23rd March 2017
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *SS-RRC* (South Sudan Relief and Rehabilitation Commission)
+     - This was added via a request made by the community.
+     - See `Proposed additions to the Organisation Registration Agency Codelist (Switzerland and South Sudan) <https://discuss.iatistandard.org/t/added-proposed-additions-to-the-organisation-registration-agency-codelist-switzerland-and-south-sudan/726>`__ on IATI Discuss (Standard Management section).
+   * - 23rd March 2017
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *CH-FDJP* (Commercial Registry, Federal Office of Justice, Switzerland)
+     - This was added via a request made by the community.
+     - See `Proposed additions to the Organisation Registration Agency Codelist (Switzerland and South Sudan) <https://discuss.iatistandard.org/t/added-proposed-additions-to-the-organisation-registration-agency-codelist-switzerland-and-south-sudan/726>`__ on IATI Discuss (Standard Management section).
    * - 23rd February 2017
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
      - Add *IN-MHA* (Ministry of Home Affairs, Government of India)
