@@ -305,6 +305,16 @@ Updates to other non-embedded codelists
      - Change description
      - Notes
      - Discussion
+   * - 20th April 2017
+     - :doc:`HumanitarianScopeVocabulary </codelists/HumanitarianScopeVocabulary>`
+     - Update URL of code 2-1.
+     - OCHA have recently updated their web site and the required file has moved.
+     - See `Update Humanitarian Scope Vocabulary 2-1 Humanitarian Plan URL <https://discuss.iatistandard.org/t/approved-update-humanitarian-scope-vocabulary-2-1-humanitarian-plan-url/803>`__
+   * - 20th April 2017
+     - :doc:`AidType </codelists/AidType>`
+     - Update description of code A01.
+     - There was previously an inconsistency with the DAC CRS description.
+     - See `Amendment of description for aid type code "A01-General budget support" <https://discuss.iatistandard.org/t/approved-amendment-of-description-for-aid-type-code-a01-general-budget-support/716>`__
    * - 23rd February 2017
      - :doc:`HumanitarianScopeVocabulary </codelists/HumanitarianScopeVocabulary>`
      - Remove code 1-1, UN OCHA FTS.
