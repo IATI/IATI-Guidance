@@ -305,6 +305,16 @@ Updates to other non-embedded codelists
      - Change description
      - Notes
      - Discussion
+   * - 8th May 2017
+     - :doc:`AidType </codelists/AidType>`
+     - Small amendments to descriptions.
+     - Bring the list up-to-date with those published by the OECD DAC.
+     - See `Updates to the AidType and AidTypeCategory codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-aidtype-and-aidtypecategory-codelists/798>`__
+   * - 8th May 2017
+     - :doc:`AidTypeCategory </codelists/AidTypeCategory>`
+     - Small amendments to descriptions.
+     - Bring the list up-to-date with those published by the OECD DAC.
+     - See `Updates to the AidType and AidTypeCategory codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-aidtype-and-aidtypecategory-codelists/798>`__
    * - 20th April 2017
      - :doc:`HumanitarianScopeVocabulary </codelists/HumanitarianScopeVocabulary>`
      - Update URL of code 2-1.
