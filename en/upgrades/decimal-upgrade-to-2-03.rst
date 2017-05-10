@@ -9,6 +9,7 @@ Specific proposals and public consultations in the upgrade process will be avail
 ----------------------
 
 .. list-table::
+   :widths: 16 16 26 26 16
    :header-rows: 1
 
    * - Phase
