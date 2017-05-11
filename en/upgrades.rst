@@ -6,6 +6,7 @@ Upgrades
 
 	 upgrades/all-versions
 	 upgrades/nonembedded-codelist-changelog
+	 upgrades/decimal-upgrade-to-2-03
 	 upgrades/decimal-upgrade-to-2-02
 	 upgrades/integer-upgrade-to-2-01
 	 upgrades/decimal-upgrade-to-1-05
@@ -14,23 +15,23 @@ Upgrades
 	 upgrades/decimal-upgrade-to-1-02
 
 The IATI standard is a living entity that will require improvement over
-time. 
+time.
 
-The standard is a collection of XML schema, embedded codelists, 
+The standard is a collection of XML schema, embedded codelists,
 non-embedded codelists, documentation and rules.
 
-Changes to some or all of those parts of the standard will be driven by 
-the suggestions and experiences of the publishers and users of IATI 
+Changes to some or all of those parts of the standard will be driven by
+the suggestions and experiences of the publishers and users of IATI
 data, and managed by the IATI Steering Committee through its Secretariat
 and Technical Advisory Group.
 
 Minor Changes
 ~~~~~~~~~~~~~
 
-Some changes can be made at any time without having a major effect on 
+Some changes can be made at any time without having a major effect on
 data publishers or data users. These are known as Minor Changes
 
-Minor changes can be made without changing the version of the standard. 
+Minor changes can be made without changing the version of the standard.
 They cover:
 
 -  bug-fixes, including resolution of spelling and grammar errors (:underline:`where there are no implications` for usage and/or meaning)
@@ -42,7 +43,7 @@ They cover:
 Minor changes can be tracked through the `IATI GitHub <https://github.com/IATI>`__ account
 
 
-More significant changes to the standard are handled via upgrades. 
+More significant changes to the standard are handled via upgrades.
 There are two types of upgrades - Decimal Upgrades and Integer Upgrades.
 
 Decimal Upgrades
@@ -102,12 +103,12 @@ The IATI Technical Team will select those proposals meeting
 the above mentioned guidelines and prepare a proposed decimal upgrade on behalf of the IATI Secretariat.
 The contents of this proposed upgrade will be published on the Knowledge
 Base and all members and publishers of IATI data will be informed of
-its contents by email. 
+its contents by email.
 
-A timetable governing a process of consultation and implementation of 
-the changes will be published. 
+A timetable governing a process of consultation and implementation of
+the changes will be published.
 
-Objections, improvements, observations etc. will be addressed throughout 
+Objections, improvements, observations etc. will be addressed throughout
 the upgrade process.
 
 Integer Upgrade Procedures
@@ -115,7 +116,7 @@ Integer Upgrade Procedures
 
 The timing and planning for an Integer Upgrade will be approved by the
 Steering Committee. All proposed changes will be fully documented and
-circulated to all members. A timetable for the upgrade process will 
+circulated to all members. A timetable for the upgrade process will
 be available on the `Upgrades section of the IATI Standard website <http://iatistandard.org/upgrades>`__
 
 Consultation, and progress on the upgrade will be available in public via
