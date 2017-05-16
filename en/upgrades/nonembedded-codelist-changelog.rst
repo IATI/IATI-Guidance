@@ -7,24 +7,6 @@ This page details any additions of changes to Non-embedded codelists.  Further i
 
 .. contents::
 
-New non-embedded codelists
---------------------------
-
-.. list-table:: New codes added to non-embedded codelists (most recent first)
-   :widths: 10 20 20 30 20
-   :header-rows: 1
-
-   * - Date of change
-     - Codelist
-     - Change description
-     - Notes
-     - Discussion
-   * - 7th October 2014
-     - :doc:`IATIOrganisationIdentifier </codelists/IATIOrganisationIdentifier>`
-     - Created
-     - This was added as part of the 2.01 upgrade in order to enable organisations to maintain certain codes previously used.  The list will be added to during the migration to 2.01.
-     - See `IATIOrganisationIdentifier codelist <http://support.iatistandard.org/entries/60789269-IATIOrganisationIdentifier-codelist>`__ on the support forum.
-
 Updates to the Organisation Registration Agency codelist
 --------------------------------------------------------
 The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>` is subject to the most volume of updates and additions.
