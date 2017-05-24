@@ -26,14 +26,14 @@ Specific proposals and public consultations in the upgrade process will be avail
      - (afternoon of) Friday 12 May
      - -
      - The Community submits new and/or discusses existing proposals and ideas.
-     - Friday 26 May
+     - Friday 2 June
    * - Suggestions
-     - Saturday 27 May
+     - Saturday 3 June
      - The technical team review and agree which proposals should be considered for the upgrade. These are shared with the Community.
      - Proposals going forward are flagged as being ‘under consideration’. The Community are invited to comment on these and may be contacted for more information on their views.
-     - Friday 9 June
+     - Friday 16 June
    * - Consultation
-     - Saturday 10 June
+     - Saturday 17 June
      - The technical team undergoes consultation with the Community.
      - The Community can help refine the proposals and discuss in detail what has been included or left out.
      - Friday 7 July
