@@ -287,6 +287,26 @@ Updates to other non-embedded codelists
      - Change description
      - Notes
      - Discussion
+   * - 6th June 2017
+     - :doc:`FlowType </codelists/FlowType>`
+     - Add new codes and modify some descriptions.
+     - Bring the list up-to-date with those published by the OECD DAC.
+     - See `Updates to the FlowType codelist <https://discuss.iatistandard.org/t/approved-updates-to-the-flowtype-codelist/833>`__
+   * - 6th June 2017
+     - :doc:`SectorCategory </codelists/SectorCategory>`
+     - Add new codes and modify some descriptions.
+     - Bring the list up-to-date with those published by the OECD DAC.
+     - See `Updates to the SectorCategory codelist <https://discuss.iatistandard.org/t/added-updates-to-the-sectorcategory-codelist/796>`__
+   * - 6th June 2017
+     - :doc:`Sector </codelists/Sector>`
+     - Add new codes and modify some descriptions.
+     - Bring the list up-to-date with those published by the OECD DAC.
+     - See `Align Sector codelist with the latest version published the DAC <https://discuss.iatistandard.org/t/align-sector-codelist-with-the-latest-version-published-the-dac/771>`__
+   * - 6th June 2017
+     - :doc:`CRSChannelCode </codelists/CRSChannelCode>`
+     - Add new codes and modify some descriptions.
+     - Bring the list up-to-date with those published by the OECD DAC.
+     - See `Updates to the CRSChannelCode codelist <https://discuss.iatistandard.org/t/updates-to-the-crschannelcode-codelist/797>`__
    * - 8th May 2017
      - :doc:`AidType </codelists/AidType>`
      - Small amendments to descriptions.
