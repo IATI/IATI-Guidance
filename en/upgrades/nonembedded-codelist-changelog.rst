@@ -293,10 +293,10 @@ Updates to other non-embedded codelists
      - Bring the list up-to-date with those published by the OECD DAC.
      - See `Updates to the FlowType codelist <https://discuss.iatistandard.org/t/approved-updates-to-the-flowtype-codelist/833>`__
    * - 6th June 2017
-     - :doc:`Sector </codelists/Sector>`
+     - :doc:`SectorCategory </codelists/SectorCategory>`
      - Add new codes and modify some descriptions.
      - Bring the list up-to-date with those published by the OECD DAC.
-     - See `Align Sector codelist with the latest version published the DAC <https://discuss.iatistandard.org/t/align-sector-codelist-with-the-latest-version-published-the-dac/771>`__
+     - See `Updates to the SectorCategory codelist <https://discuss.iatistandard.org/t/added-updates-to-the-sectorcategory-codelist/796>`__
    * - 6th June 2017
      - :doc:`Sector </codelists/Sector>`
      - Add new codes and modify some descriptions.
