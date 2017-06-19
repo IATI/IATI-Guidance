@@ -20,6 +20,21 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
      - Change description
      - Notes
      - Discussion
+   * - 12th June 2017
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *ML-NIF*
+     - This was added via a request made by the community.
+     - See `Proposed Addition to the Organisation Registration Agency Codelist (Mali) <https://discuss.iatistandard.org/t/approved-proposed-addition-to-the-organisation-registration-agency-codelist-mali/896>`__ on IATI Discuss (Standard Management section).
+   * - 12th June 2017
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *EG-MOSS*
+     - This was added via a request made by the community.
+     - See `Proposed addition to the Organisation Registration Agency Codelist (Egypt)<https://discuss.iatistandard.org/t/approved-proposed-addition-to-the-organisation-registration-agency-codelist-egypt/818>`__ on IATI Discuss (Standard Management section).
+   * - 12th June 2017
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *LB-MOI*
+     - This was added via a request made by the community.
+     - See `Proposed addition to the Organisation Registration Agency Codelist (Lebanon) <https://discuss.iatistandard.org/t/approved-proposed-addition-to-the-organisation-registration-agency-codelist-lebanon/815>`__ on IATI Discuss (Standard Management section).
    * - 7th April 2017
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
      - Add *GB-GOR* (UK Government Organisation Register)
