@@ -66,7 +66,7 @@ The table below provides a summary of the three main tool options that can be us
 Factor                                              Aidstream                       Bespoke
 =================================================== =============================== ================================================================
 Typical users:                                        Small organisations reporting   Large organisations with numerous activities
-                                                    on small number of activities   to report who want to invest in own systems
+                                                      on small number of activities   to report who want to invest in own systems
 
 Number of activities for publication: (rough guide) Up to 20	                      Over 200
 Internal technical capacity required:               No                              Yes
@@ -84,6 +84,6 @@ Preparation required:                               Activity data available	    
 Resources required (set-up):                        Minimal – data entry            High – internal technical capacity or consultants required to
                                                                                     develop system
 Resources required (ongoing management):            Minimal – ongoing data entry    Minimal – system able to run automatically
-Updating activities:                                Manual	                        Automatic
+Updating activities:                                Manual	                         Automatic
 User guidance / support available:                  Yes                             No
 =================================================== =============================== ================================================================
