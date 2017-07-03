@@ -20,6 +20,16 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
      - Change description
      - Notes
      - Discussion
+   * - 3rd July 2017
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *PS-MOI*
+     - This was added via a request made by the community.
+     - See `Proposed Addition to the Organisation Registration Agency Codelist (Palestine)   <https://discuss.iatistandard.org/t/approved-proposed-addition-to-the-organisation-registration-agency-codelist-palestine/931>`__ on IATI Discuss (Standard Management section).
+   * - 3rd July 2017
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *PH-SEC*
+     - This was added via a request made by the community.
+     - See `Proposed addition to the Organisation Registration Agency Codelist (Philippines)  <https://discuss.iatistandard.org/t/approved-proposed-addition-to-the-organisation-registration-agency-codelist-philippines/888>`__ on IATI Discuss (Standard Management section).
    * - 12th June 2017
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
      - Add *ML-NIF*
@@ -302,6 +312,51 @@ Updates to other non-embedded codelists
      - Change description
      - Notes
      - Discussion
+   * - 3rd July 2017
+     - :doc:`AidType-category </codelists/AidType-category>`
+     - Add French descriptions and add a URL.
+     - Bring the list up-to-date with those published by the OECD DAC.
+     - See `Updates to various DAC CRS non-embedded codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
+   * - 3rd July 2017
+     - :doc:`AidType </codelists/AidType>`
+     - Add French descriptions.
+     - Bring the list up-to-date with those published by the OECD DAC.
+     - See `Updates to various DAC CRS non-embedded codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
+   * - 3rd July 2017
+     - :doc:`CRSChannelCode </codelists/CRSChannelCode>`
+     - Mark a code as withdrawn.
+     - Bring the list up-to-date with those published by the OECD DAC.
+     - See `Updates to various DAC CRS non-embedded codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
+   * - 3rd July 2017
+     - :doc:`CollaborationType </codelists/CollaborationType>`
+     - Add new codes and modify some descriptions.
+     - Bring the list up-to-date with those published by the OECD DAC.
+     - See `Updates to various DAC CRS non-embedded codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
+    * - 3rd July 2017
+     - :doc:`FinanceType-category </codelists/FinanceType-category>`
+     - Add new codes, modify some descriptions, add some French descriptions and mark some codes as withdrawn.
+     - Bring the list up-to-date with those published by the OECD DAC.
+     - See `Updates to various DAC CRS non-embedded codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
+   * - 3rd July 2017
+     - :doc:`FinanceType </codelists/FinanceType>`
+     - Add new codes, modify some descriptions, add some French descriptions and mark some codes as withdrawn.
+     - Bring the list up-to-date with those published by the OECD DAC.
+     - See `Updates to various DAC CRS non-embedded codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
+   * - 3rd July 2017
+     - :doc:`Sector </codelists/Sector>`
+     - Add French descriptions.
+     - Bring the list up-to-date with those published by the OECD DAC.
+     - See `Updates to various DAC CRS non-embedded codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
+   * - 3rd July 2017
+     - :doc:`SectorCategory </codelists/SectorCategory>`
+     - Add French descriptions.
+     - Bring the list up-to-date with those published by the OECD DAC.
+     - See `Updates to various DAC CRS non-embedded codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
+   * - 3rd July 2017
+     - :doc:`FileFormat </codelists/FileFormat>`
+     - Add new codes and modify some descriptions.
+     - Bring the list up-to-date with those published by IANA.
+     - See `Updates to the FileFormat codelist <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/904>`__
    * - 6th June 2017
      - :doc:`FlowType </codelists/FlowType>`
      - Add new codes and modify some descriptions.

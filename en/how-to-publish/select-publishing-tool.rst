@@ -5,18 +5,18 @@ There are currently three different mechanisms recommended by the IATI Secretari
 
 
 
-Aidstream 
+Aidstream
 =========
 
 Aidstream (http://www.aidstream.org) is an online data entry and management tool which you use by manually entering all of the relevant activity information through the use of drop-down menus and text boxes. Aidstream converts the data entered into XML and outputs both organisation and activity datafiles for publishing . The data stored in Aidstream can be added to or amended at any point. Aidstream is usually the tool of choice if you only have a small number of activities (approx < 15 - 20) to publish.
 
 There is a whole series of instructional videos on using Aidstream. These can be found at `Aidstream On Youtube <https://www.youtube.com/channel/UCAVH1gcgJXElsj8ENC-bDQQ>`__
 
- 
+
 Bespoke (In House Applications)
 ===============================
 
-Organisations with internal technical expertise and capacity may decide to generate their own mechanisms for converting their data into IATI data. This can be done by developing internal systems and processes so that data is pulled together from internal management and finance systems to create XML data. This requires technical knowledge of both XML and the organisation's internal systems in order to create a programme to achieve this. This can be done with either internal technical expertise or by bringing in consultants to develop a bespoke package. 
+Organisations with internal technical expertise and capacity may decide to generate their own mechanisms for converting their data into IATI data. This can be done by developing internal systems and processes so that data is pulled together from internal management and finance systems to create XML data. This requires technical knowledge of both XML and the organisation's internal systems in order to create a programme to achieve this. This can be done with either internal technical expertise or by bringing in consultants to develop a bespoke package.
 
 This is normally an option often chosen by large organisations reporting a large number of activities, as in the long-run this proves to be a more cost effective means of reporting to IATI.
 
@@ -62,29 +62,28 @@ Comparison of Tools
 
 The table below provides a summary of the three main tool options that can be used to convert data for IATI purposes:
 
-=================================================== =============================== ====================================================== ================================================================
-Factor                                              Aidstream                       CSV Converter                                          Bespoke
-=================================================== =============================== ====================================================== ================================================================
-Typical users:                                        Small organisations reporting   Medium organisations without technical                 Large organisations with numerous activities
-                                                    on small number of activities   capacity to develop own conversion systems             to report who want to invest in own systems
-                                                                                    but too many activities to use web entry platforms
-Number of activities for publication: (rough guide) Up to 20	                    Up to 200                                              Over 200
-Internal technical capacity required:               No                              Yes                                                    Yes
-Data entry type:                                    Manual	                    Manual CSV (spreadsheet) template                      Automatic / built-in feed from internal systems
-Input type:                                         Drop down menus and text boxes  Manual mapping to spreadsheet columns or fixed values  Pulled from internal systems automatically
-Availability of conversion type:                    Online and free	            Online and free                                        Needs internal capacity / consultants to develop bespoke system
-Knowledge of XML required:                          No	                            No	                                                   Yes
-XML formats required:                               No                              Yes                                                    No
-                                                    (selected automatically through (data has to be stored in the                          (converts this from internal systems)
-                                                    drop down menus)                correct format in the spreadsheet)
-Automatic publication: to IATI Registry?            Yes                             No (possibly in the future)	                           Yes (if using Registry API)
-Can files be segmented:                             Yes                             No (possibly in the future)	                           Yes
-Organisation file ability:                          Yes                             Not yet	                                           Yes
-Preparation required:                               Activity data available	    Storage of data in correct format in spreadsheet	   System development to ensure activity relevant data is pulled in
-Resources required (set-up):                        Minimal – data entry            Medium – set up and feeding into spreadsheet and then  High – internal technical capacity or consultants required to
-                                                                                    mapping	                                           develop system
-Resources required (ongoing management):            Minimal – ongoing data entry    Minimal – ongoing feed into spreadsheet	           Minimal – system able to run automatically
-Updating activities:                                Manual	                    Manual	                                           Automatic
-User guidance / support available:                  Yes                             Yes                                                    No
-=================================================== =============================== ====================================================== ================================================================
+=================================================== =============================== ================================================================
+Factor                                              Aidstream                       Bespoke
+=================================================== =============================== ================================================================
+Typical users:                                        Small organisations reporting   Large organisations with numerous activities
+                                                      on small number of activities   to report who want to invest in own systems
 
+Number of activities for publication: (rough guide) Up to 20	                      Over 200
+Internal technical capacity required:               No                              Yes
+Data entry type:                                    Manual	                        Automatic / built-in feed from internal systems
+Input type:                                         Drop down menus and text boxes  Pulled from internal systems automatically
+Availability of conversion type:                    Online and free	                Needs internal capacity / consultants to develop bespoke system
+Knowledge of XML required:                          No	                            Yes
+XML formats required:                               No                              No
+                                                    (selected automatically through (converts this from internal systems)
+                                                    drop down menus)
+Automatic publication: to IATI Registry?            Yes                             Yes (if using Registry API)
+Can files be segmented:                             Yes                             Yes
+Organisation file ability:                          Yes                             Yes
+Preparation required:                               Activity data available	        System development to ensure activity relevant data is pulled in
+Resources required (set-up):                        Minimal – data entry            High – internal technical capacity or consultants required to
+                                                                                    develop system
+Resources required (ongoing management):            Minimal – ongoing data entry    Minimal – system able to run automatically
+Updating activities:                                Manual	                         Automatic
+User guidance / support available:                  Yes                             No
+=================================================== =============================== ================================================================
