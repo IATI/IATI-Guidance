@@ -20,6 +20,16 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
      - Change description
      - Notes
      - Discussion
+   * - 3rd July 2017
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *PS-MOI*
+     - This was added via a request made by the community.
+     - See `Proposed Addition to the Organisation Registration Agency Codelist (Palestine)   <https://discuss.iatistandard.org/t/approved-proposed-addition-to-the-organisation-registration-agency-codelist-palestine/931>`__ on IATI Discuss (Standard Management section).
+   * - 3rd July 2017
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *PH-SEC*
+     - This was added via a request made by the community.
+     - See `Proposed addition to the Organisation Registration Agency Codelist (Philippines)  <https://discuss.iatistandard.org/t/approved-proposed-addition-to-the-organisation-registration-agency-codelist-philippines/888>`__ on IATI Discuss (Standard Management section).
    * - 12th June 2017
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
      - Add *ML-NIF*
