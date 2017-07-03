@@ -312,6 +312,11 @@ Updates to other non-embedded codelists
      - Change description
      - Notes
      - Discussion
+   * - 3rd July 2017
+     - :doc:`FileFormat </codelists/FileFormat>`
+     - Add new codes and modify some descriptions.
+     - Bring the list up-to-date with those published by IANA.
+     - See `Updates to the FileFormat codelist <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/904>`__
    * - 6th June 2017
      - :doc:`FlowType </codelists/FlowType>`
      - Add new codes and modify some descriptions.
