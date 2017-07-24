@@ -22,6 +22,11 @@ The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAge
      - Discussion
    * - 24th July 2017
      - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
+     - Add *ET-MOT*
+     - This was added via a request made by the community.
+     - See `Proposed Addition to the Organisation Registration Agency Codelist (Ethiopia)   <https://discuss.iatistandard.org/t/approved-proposed-addition-to-the-organisation-registration-agency-codelist-ethiopia/941>`__ on IATI Discuss (Standard Management section).
+   * - 24th July 2017
+     - :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>`
      - Add *AR-CENOC*
      - This was added via a request made by the community.
      - See `Proposed Addition to the Organisation Registration Agency Codelist (Argentina)   <https://discuss.iatistandard.org/t/approved-proposed-addition-to-the-organisation-registration-agency-codelist-argentina/944>`__ on IATI Discuss (Standard Management section).
