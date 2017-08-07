@@ -8,11 +8,11 @@ Integer Upgrade to 2.01
    integer-upgrade-to-2-01/migrating
    integer-upgrade-to-2-01/2-01-changes
 
- 
-Version 2.01 was released on Tuesday 6 January 2015. This followed agreement from the the IATI Steering Committee to accept version 2.01 of the **IATI Standard** on the 16th October 2014. 
+
+Version 2.01 was released on Tuesday 6 January 2015. This followed agreement from the the IATI Steering Committee to accept version 2.01 of the **IATI Standard** on the 16th October 2014.
 
 Details about the specific proposals and public consultations which formed part of the for 2.01 upgrade are listed on the `knowledge
-base <http://support.iatistandard.org/>`__ in the `2.01 Integer Upgrade section
+base <https://support.iatistandard.org/hc/en-us/categories/201849026-Upgrading-the-IATI-Standards>`__ in the `2.01 Integer Upgrade section
 Forum <http://support.iatistandard.org/forums/21200855-2-01-Integer-Upgrade>`__.
 
 The full process and timetable followed for the 2.01 Integer Upgrade is outlined below.

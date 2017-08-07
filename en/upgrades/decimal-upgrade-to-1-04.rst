@@ -12,12 +12,9 @@ during the winter of 2013, but faced delays that meant the timetable had
 to be revised. The process for doing so is outlined below.
 
 Details about the specific changes are listed on the \ `knowledge
-base <http://support.iatistandard.org/>`__ in the \ `1.04 Decimal
+base <https://support.iatistandard.org/hc/en-us/categories/201849026-Upgrading-the-IATI-Standards>`__ in the \ `1.04 Decimal
 Upgrade
 Forum <http://support.iatistandard.org/forums/22743317-1-04-Decimal-Upgrade>`__.
-
-You can contribute issues to be considered in future upgrades in
-the \ `knowledge base <http://support.iatistandard.org/>`__.
 
 +----------------+----------------+----------------+----------------+----------------+
 | IATI           | Community      | Timescale      | Due Date       | Now Due        |
