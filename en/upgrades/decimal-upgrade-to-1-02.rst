@@ -11,7 +11,7 @@ The first decimal upgrade of the standard happened in December 2012. The
 process for achieving that is outlined below.
 
 Details about the specific changes are listed on the \ `knowledge
-base <http://support.iatistandard.org/>`__ in the \ `First Decimal
+base <https://support.iatistandard.org/hc/en-us/categories/201849026-Upgrading-the-IATI-Standards>`__ in the \ `First Decimal
 Upgrade
 Forum <http://support.iatistandard.org/forums/21131653-first-decimal-upgrade>`__.
 

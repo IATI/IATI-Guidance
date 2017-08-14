@@ -80,8 +80,7 @@ Open Consultation on all proposed changes
 ~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 All proposed changes, for Integer and Decimal Upgrades, will be published on the
-IATI Knowledge Base
-(`http://support.iatistandard.org/forums <http://support.iatistandard.org/forums>`__) in the `IATI Standards forums <http://support.iatistandard.org/categories/20001338-The-IATI-Standards>`_.
+IATI Knowledge Base in the `IATI Standards forums <http://support.iatistandard.org/categories/20001338-The-IATI-Standards>`_.
 
 The entire process should be open to public scrutiny at all times.
 
