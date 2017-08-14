@@ -15,8 +15,6 @@ Full proposals were worked up on the \ `Changes
 Specification <http://wiki.iatistandard.org/standard/revision/1.03/changes_specification>`__ page
 on the \ `wiki <http://wiki.iatistandard.org/>`__.
 
-You can contribute issues to be considered in future upgrades in
-the \ `knowledge base <http://support.iatistandard.org/>`__.
 
 +----------------+----------------+----------------+----------------+----------------+
 | IATI           | Community      | Timescale      | Due Date       | Revised Date   |
