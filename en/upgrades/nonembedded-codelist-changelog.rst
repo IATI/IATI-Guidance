@@ -257,6 +257,14 @@ Updates to the IATI Organisation Identifier codelist
      - Code
      - Organisation
      - Discussion
+   * - 11th September 2017
+     - XI-IATI-AIAS
+     - Administração de Infra-Estruturas de Águas e Saneamento
+     - See `Create Org. Identifier XI-IATI-AIAS for the Administração de Infra-Estruturas de Águas e Saneamento <https://discuss.iatistandard.org/t/approved-create-org-identifier-xi-iati-aias-for-the-administracao-de-infra-estruturas-de-aguas-e-saneamento-mozambique/976>`__ on IATI Discuss (Standard Management section).
+   * - 11th September 2017
+     - XI-IATI-ADVZ
+     - Agência de Desenvolvimento do Vale do Zambeze
+     - See `Create Org. Identifier XI-IATI-ADVZ for the Agência do Zambeze <https://discuss.iatistandard.org/t/approved-create-org-identifier-xi-iati-advz-for-the-agencia-do-zambeze-mozambique/975>`__ on IATI Discuss (Standard Management section).
    * - 7th April 2017
      - XI-IATI-UNPF
      - UN Pooled Funds
