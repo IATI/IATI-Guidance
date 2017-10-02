@@ -87,7 +87,7 @@ The entire process should be open to public scrutiny at all times.
 Anyone can make a proposal (via the `Modifications, Additions, Improvements section <http://support.iatistandard.org/forums/20020808-modifications-additions-improvements>`_), and each upgrade process receives it's own forum where proposals can be assigned. The forums allow for a public exchange on the merits of the proposals to take place. The IATI Technical Team will
 contribute to these exchanges and will draft proposals for the formal formats required for the standard.
 
-Minor Changes may take place with our without wider consultation. You can
+Minor Changes may take place with or without wider consultation. You can
 suggest a minor change directly to support@iatistandard.org
 
 If you wish to discuss an idea before submitting a proposal you may wish to consult the `IATI Technical Mailing List <http://wiki.iatistandard.org/community/mailing_list>`_ first.
