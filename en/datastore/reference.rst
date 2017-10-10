@@ -1,6 +1,8 @@
 Reference
 =========
 
+In-depth documentation on everything the Datastore can do.
+
 .. toctree::
     :titlesonly:
 

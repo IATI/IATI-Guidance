@@ -1,5 +1,7 @@
 Datastore
-=========
+===========
+
+The Datastore stores all activity data available on the IATI Registry, allowing you to query it all in one place. This data can be accessed in spreadsheet format, or in more technical formats through a standard interface (API).
 
 .. toctree::
     :titlesonly:
@@ -7,10 +9,45 @@ Datastore
     datastore/guidance
     datastore/reference
 
-The `IATI Datastore <http://datastore.iatistandard.org/docs/>`__ is an online service that gathers all data published to the IATI standard into a single queryable source.
+IATI Datastore CSV Query Builder
+--------------------------------
 
-This can deliver selections of IATI data in JSON or XML formats, or CSV (spreadsheet) for less-technical users.
+You can perform many common queries using the `IATI Datastore CSV Query Builder <http://datastore.iatistandard.org/query/>`__. This tool generates a Datastore query in spreadsheet (CSV) format based on the fields that you select.
 
-You can access the datastore at:
+Overview
+--------
 
-http://datastore.iatistandard.org/docs/
+The Datastore has three APIs:
+
+* :doc:`Data API </datastore/reference/data-api>`: Allows you to make queries which can output IATI data in your chosen format (CSV, XML or JSON).
+* :doc:`Metadata API </datastore/reference/metadata-api>`: Allows you to find information about datasets that are contained within the Datastore.
+* :doc:`Error API </datastore/reference/error-api>`: Allows you to see information about datasets that could not be successfully imported into the Datastore.
+
+Anyone can access the Datastore – just build a query and data will be returned.
+
+Quick Start
+-----------
+
+The Data API is the most commonly used API. The following examples will get you started.
+
+**Example 1: A simple query to return data for a given country**
+
+This URL returns all available IATI activities in Somalia using the `recipient-country` filter:
+
+`http://datastore.iatistandard.org/api/1/access/activity.xml?recipient-country=SO <http://datastore.iatistandard.org/api/1/access/activity.xml?recipient-country=SO>`__
+
+Values for filters come from the relevant IATI codelist. In this case, `SO` is the value for Somalia on the Country codelist.
+
+**Example 2: A more complex query**
+
+This URL returns all available IATI activities in multiple countries using the `recipient-country` filter – in this case, Ethopia, Somalia and Kenya – reported by multiple reporting organisation types using the `reporting-org.type` filter – in this case, international, national and regional NGOs:
+
+`http://datastore.iatistandard.org/api/1/access/activity.xml?recipient-country=ET|SO|KE&reporting-org.type=21|22|23 <http://datastore.iatistandard.org/api/1/access/activity.xml?recipient-country=ET|SO|KE&reporting-org.type=21|22|23>`__
+
+Next Steps
+----------
+
+The Datastore can do much more than is shown here.
+
+* See the :doc:`Guidance </datastore/guidance/forming-queries>` for a more detailed guide on querying the Datastore.
+* For in-depth documentation, see the :doc:`Reference </datastore/reference>`.
