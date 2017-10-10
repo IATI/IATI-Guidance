@@ -4,9 +4,9 @@ Datastore
 .. toctree::
     :titlesonly:
 
-    datastore/api
-    datastore/error-api
-    datastore/user-guide
+    datastore/tutorial
+    datastore/guidance
+    datastore/reference
 
 The `IATI Datastore <http://datastore.iatistandard.org/docs/>`__ is an online service that gathers all data published to the IATI standard into a single queryable source.
 
