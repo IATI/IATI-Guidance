@@ -4,7 +4,6 @@ Datastore
 .. toctree::
     :titlesonly:
 
-    datastore/tutorial
     datastore/guidance
     datastore/reference
 
