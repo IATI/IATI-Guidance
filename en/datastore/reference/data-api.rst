@@ -33,10 +33,10 @@ Example API call:
 recipient-region
 ````````````````
 
-Returns activities where the `recipient-region <http://iatistandard.org/activity-standard/iati-activities/iati-activity/recipient-region/>`__ element has a @code attribute value that matches your specified DAC region code.
+Returns activities where the `recipient-region <http://iatistandard.org/activity-standard/iati-activities/iati-activity/recipient-region/>`__ element has a @code attribute value that matches your specified region code.
 
 Parameters:
-    recipient-region: 3-digit DAC region code that appears on the `region codelist <http://iatistandard.org/codelists/Region/>`__
+    recipient-region: A region code that appears in a recipient region `@code attribute <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/recipient-region/#attributes>`__
 
 Example API call:
     `recipient-region=298 <http://datastore.iatistandard.org/api/1/access/activity.xml?recipient-region=298>`__
@@ -69,10 +69,10 @@ Example API call:
 sector
 ``````
 
-Returns activities where the `sector <http://iatistandard.org/codelists/Sector/>`__ element has a @code attribute value that matches your specified DAC sector code.
+Returns activities where the `sector <http://iatistandard.org/codelists/Sector/>`__ element has a @code attribute value that matches your specified sector code.
 
 Parameters:
-    sector: 5-digit DAC sector code that appears on the `sector codelist <http://iatistandard.org/codelists/Sector/>`__
+    sector: A sector code that appears on a sector's `@code attribute <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/sector/#attributes>`__
 
 Example API call:
     `sector=11110 <http://datastore.iatistandard.org/api/1/access/activity.xml?sector=11110>`__
