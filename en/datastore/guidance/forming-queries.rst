@@ -1,7 +1,7 @@
 Forming Queries
 ===============
 
-You can query the Datastore by building queries from filters. The identified data can then be output in an `XML </http://iatistandard.org/202/guidance/datastore/guidance/data-formats/#xml>`__, `JSON <http://iatistandard.org/202/guidance/datastore/guidance/data-formats/#json>`__ or `CSV <http://iatistandard.org/202/guidance/datastore/guidance/data-formats/#csv>`__ format depending on your needs.
+You can query the Datastore by building queries from filters. The identified data can then be output in an `XML </http://iatistandard.org/guidance/datastore/guidance/data-formats/#xml>`__, `JSON <http://iatistandard.org/guidance/datastore/guidance/data-formats/#json>`__ or `CSV <http://iatistandard.org/guidance/datastore/guidance/data-formats/#csv>`__ format depending on your needs.
 
 Basic Query
 -----------
@@ -71,4 +71,4 @@ You can return all activities, no matter how many there are, by adding `&stream=
 More Information
 ----------------
 
-For in-depth detail of all the available filters, see the `Reference <http://iatistandard.org/202/guidance/datastore/reference/data-api/>`__.
+For in-depth detail of all the available filters, see the `Reference <http://iatistandard.org/guidance/datastore/reference/data-api/>`__.
