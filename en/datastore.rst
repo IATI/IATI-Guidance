@@ -1,7 +1,7 @@
-Datastore
-===========
+Datastore (Alpha)
+=================
 
-The Datastore stores all activity data available on the IATI Registry, allowing you to query it all in one place. This data can be accessed in spreadsheet format, or in more technical formats through a standard interface (API).
+The Datastore stores all activity data available on the IATI Registry, allowing you to query it all in one place. This data can be accessed in spreadsheet format, or in more technical formats through a standard interface (API). Please be aware that this product is considered to be in alpha (`see below <http://iatistandard.org/guidance/datastore/#alpha>`__).
 
 .. toctree::
     :titlesonly:
@@ -24,6 +24,17 @@ The Datastore has three APIs:
 * :doc:`Error API </datastore/reference/error-api>`: Allows you to see information about datasets that could not be successfully imported into the Datastore.
 
 Anyone can access the Datastore – just build a query and data will be returned.
+
+Alpha Status
+------------
+
+Please be aware that the Datastore is in alpha. This means that it may exhibit unexpected behaviour or return unexpected results. This product is intended for user testing and feedback only and should not be considered a stable product. The Datastore is not feature complete.
+
+Current known issues include:
+* Invalid publisher data causing problems with data import
+* Registry failure causing problems with data import
+
+In the meantime, we welcome code contributions from our open source community via `GitHub <https://github.com/IATI/IATI-Datastore>`__.
 
 Quick Start
 -----------
