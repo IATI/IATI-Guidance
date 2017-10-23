@@ -28,7 +28,7 @@ Anyone can access the Datastore – just build a query and data will be returned
 Alpha Status
 ------------
 
-Please be aware that the Datastore is in alpha stages. This means that it may exhibit unexpected behaviour or return unexpected results. This product is intended for user testing and feedback only and therefore should not be considered a stable product. The Datastore is therefore not feature complete, and further work on this product will resume in the future.
+Please be aware that the Datastore is in alpha. This means that it may exhibit unexpected behaviour or return unexpected results. This product is intended for user testing and feedback only and should not be considered a stable product. The Datastore is not feature complete, and further work on this product will resume in the future.
 
 Current known issues include:
 * Invalid publisher data causing problems with data import
