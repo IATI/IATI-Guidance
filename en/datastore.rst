@@ -31,6 +31,7 @@ Alpha Status
 Please be aware that the Datastore is in alpha. This means that it may exhibit unexpected behaviour or return unexpected results. This product is intended for user testing and feedback only and should not be considered a stable product. The Datastore is not feature complete.
 
 Current known issues include:
+
 * Invalid publisher data causing problems with data import
 * Registry failure causing problems with data import
 
