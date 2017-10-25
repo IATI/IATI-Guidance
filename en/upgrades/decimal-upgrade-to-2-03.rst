@@ -48,7 +48,7 @@ Specific proposals and public consultations in the upgrade process are available
      - The Community inspects and comments on the 2.03 changes on GitHub as they are being developed.
      - Friday 24 November 2017
    * - Release candidate
-     - Saturday 24 November 2017
+     - Friday 24 November 2017
      - Final version of 2.03 completed. We will work to ensure core IATI secretariat tools are compatible with the new version.
      - -
      - Monday 8 January 2018
