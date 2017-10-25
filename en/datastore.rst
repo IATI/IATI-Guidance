@@ -19,9 +19,9 @@ Overview
 
 The Datastore has three APIs:
 
-* `Data API <http://iatistandard.org/guidance/datastore/reference/data-api/>__`: Allows you to make queries which can output IATI data in your chosen format (CSV, XML or JSON).
-* `Metadata API <http://iatistandard.org/guidance/datastore/reference/metadata-api/>__`: Allows you to find information about datasets that are contained within the Datastore.
-* `Error API <http://iatistandard.org/guidance/datastore/reference/error-api/>__`: Allows you to see information about datasets that could not be successfully imported into the Datastore.
+* `Data API <http://iatistandard.org/guidance/datastore/reference/data-api/>`__: Allows you to make queries which can output IATI data in your chosen format (CSV, XML or JSON).
+* `Metadata API <http://iatistandard.org/guidance/datastore/reference/metadata-api/>`__: Allows you to find information about datasets that are contained within the Datastore.
+* `Error API <http://iatistandard.org/guidance/datastore/reference/error-api/>`__: Allows you to see information about datasets that could not be successfully imported into the Datastore.
 
 Anyone can access the Datastore – just build a query and data will be returned.
 
@@ -61,5 +61,5 @@ Next Steps
 
 The Datastore can do much more than is shown here.
 
-* See the `Guidance <http://iatistandard.org/guidance/datastore/guidance/>__` for a more detailed guide on querying the Datastore.
-* For in-depth documentation, see the `Reference <http://iatistandard.org/guidance/datastore/reference/>__`.
+* See the `Guidance <http://iatistandard.org/guidance/datastore/guidance/>`__ for a more detailed guide on querying the Datastore.
+* For in-depth documentation, see the `Reference <http://iatistandard.org/guidance/datastore/reference/>`__.
