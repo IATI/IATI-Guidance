@@ -1,0 +1,38 @@
+Full list of top-level elements in IATI
+=========
+
+| Topic  | Element | Mandatory | Recommended (minimum) |
+| --- | --- | :---: | :---: |
+| Identification  | IATI Identifier  | Yes |
+|  | Reporting Org | Yes |
+|  | Other Identifier |
+| Basic Activity Information | Title | Yes |
+|  | Description | Yes |
+|  | Activity Status | Yes | 
+|  | Activity Date | Yes |
+|  | Contact Info |
+|  | Activity Scope |
+| Participating Organisations | Participating Org | Yes |
+| Geopolitical Information | Recipient Country |  | Yes |
+|  | Or, Recipient Region |  | Yes |
+|  | Location |
+| Classifications | Sector | Yes |
+|  | Policy Marker |
+|  | Collaboration Type |
+|  | Default Flow Type |
+|  | Default Finance Type |
+|  | Default Aid Type |
+|  | Default Tied Status |
+|  | Country Budget Items |
+| Humanitarian | Humanitarian Scope |
+| Financial | Budget |  | Yes |
+|  | Transactions |  | Yes |
+|  | Planned Disbursement |
+|  | Capital Spend |
+| Related Documents | Document Link |
+| Relations | Related Activity |
+|  | Legacy Data |
+| Performance | Conditions |
+|  | Results |
+| OECD Reporting | CRS-add |
+|  | FSS |
