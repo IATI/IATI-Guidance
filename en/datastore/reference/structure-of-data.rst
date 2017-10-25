@@ -8,8 +8,8 @@ The following information is given in the metadata for your query:
 * **generated-datetime**: This shows the time the query was run.
 * **ok**: This returns True when a query is successful.
 * **total-count**: This shows the number of activities that match your query.
-* **limit**: This shows the maximum number of activities you will see per page (see :doc:`Pagination </datastore/guidance/forming-queries#pagination>`).
-* **start**: This refers to the offset value (see :doc:`Pagination </datastore/guidance/forming-queries#pagination>`).
+* **limit**: This shows the maximum number of activities you will see per page (see `Pagination <http://iatistandard.org/guidance/datastore/guidance/forming-queries/#pagination>`__).
+* **start**: This refers to the offset value (see `Pagination <http://iatistandard.org/guidance/datastore/guidance/forming-queries/#pagination>`__).
 * **iati-extra: [version]**: This shows the version of the IATI standard for each returned activity. Activities returned will not necessarily be at the same version.
 
 XML
