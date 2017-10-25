@@ -1,9 +1,9 @@
 Decimal Upgrade to 2.03
 =======================
 
-The process for the next decimal upgrade of the IATI Standard (to version 2.03) will start on Friday 12 May 2017. The full timetable below outlines each phase of the upgrade process and includes information on when input is invited from the IATI Community. We anticipate the end of this process and the release of version 2.03 on **Tuesday 3 October 2017**.
+The process for the next decimal upgrade of the IATI Standard (to version 2.03) will start on Friday 12 May 2017. The full timetable below outlines each phase of the upgrade process and includes information on when input is invited from the IATI Community. We anticipate the end of this upgrade process and the release of version 2.03 on **Monday 8 January 2017**.
 
-Specific proposals and public consultations in the upgrade process will be available in the `2.03 section on IATI’s online forum <https://discuss.iatistandard.org/c/standard-management/2-03-decimal-upgrade-proposals>`__ from the afternoon of Friday 12 May – you can read, comment or add a new proposal there.
+Specific proposals and public consultations in the upgrade process are available in the `2.03 section on IATI’s online forum <https://discuss.iatistandard.org/c/standard-management/2-03-decimal-upgrade-proposals>`__ .
 
 2.03 Upgrade Timetable
 ----------------------
@@ -18,42 +18,42 @@ Specific proposals and public consultations in the upgrade process will be avail
      - Actions by the Community
      - Stage End Date
    * - Suggestions
-     - Friday 12 May
+     - Friday 12 May 2017
      - Announcement of 2.03 upgrade process, and request for any more new proposals is advertised to the Community.
      - -
-     - Friday 12 May
+     - Friday 12 May 2017
    * - Suggestions
-     - (afternoon of) Friday 12 May
+     - (afternoon of) Friday 12 May 2017
      - -
      - The Community submits new and/or discusses existing proposals and ideas.
-     - Friday 2 June
+     - Friday 2 June 2017
    * - Suggestions
-     - Saturday 3 June
+     - Saturday 3 June 2017
      - The technical team review and agree which proposals should be considered for the upgrade. These are shared with the Community.
      - Proposals going forward are flagged as being ‘under consideration’. The Community are invited to comment on these and may be contacted for more information on their views.
-     - Friday 16 June
+     - Friday 16 June 2017
    * - Consultation
-     - Saturday 17 June
+     - Saturday 17 June 2017
      - The technical team undergoes consultation with the Community.
      - The Community can help refine the proposals and discuss in detail what has been included or left out.
-     - Friday 7 July
+     - Friday 7 July 2017
    * - Consultation
-     - Saturday 8 July
+     - Saturday 8 July 2017
      - Proposals are refined and worked up into finished examples.
      - The Community are still able to submit minor suggestions/changes, although this phase is mainly for the tech team to work up proposals into examples.
-     - Friday 28 July
+     - Friday 28 July 2017
    * - Development and Inspection
-     - Saturday 29 July
+     - Monday 30 October 2017
      - The technical team will develop proposals and add them to a dedicated development branch of the schema (on GitHub).
      - The Community inspects and comments on the 2.03 changes on GitHub as they are being developed.
-     - Friday 15 September
-   * - Approval and Go Live
-     - Saturday 16 September
+     - Friday 24 November 2017
+   * - Release candidate
+     - Friday 24 November 2017
      - Final version of 2.03 completed. We will work to ensure core IATI secretariat tools are compatible with the new version.
      - -
-     - Monday 2 October
+     - Monday 8 January 2018
    * - Approval and Go Live
-     - Tuesday 3 October
+     - Monday 8 January 2018
      - Version 2.03 goes live.
      - -
-     - Tuesday 3 October
+     - 
