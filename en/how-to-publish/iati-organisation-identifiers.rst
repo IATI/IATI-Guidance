@@ -11,7 +11,9 @@ If you cannot find the agency your organisation is registered with then please s
 Example:
 
   Companies House is a registration agency in the UK. It’s code is: 
+ 
   GB-COH
+
   http://org-id.guide/list/GB-COH
  
 **2) Your registration number**
@@ -22,10 +24,12 @@ This should be added to your registration agency’s code with a dash (-). The r
 
 Example:
 
-  Companies House has given Development Initiatives the registration number: 06368740 https://beta.companieshouse.gov.uk/company/06368740
-
+  Companies House has given Development Initiatives the registration number: 06368740   
+  
+  https://beta.companieshouse.gov.uk/company/06368740
+  
   This is added to the Companies House code to form the IATI org ID:
-
+ 
   GB-COH-06368740
 
 **3) Verify your IATI org ID**
@@ -33,3 +37,5 @@ Example:
 The IATI support team needs to approve every IATI org ID. For this we need to see your registration number and who you are registered with. If your registration agency does not have a public list of all registered organisations, then please send a document containing your registration number to: support@iatistandard.org. Examples of these documents include your registration certificate or a contract*.
 
 If you have any questions on this process. Please contact the IATI support team at support@iatistandard.org.
+
+For a more technical overview please go to [IATI Organisation Identifiers](http://iatistandard.org/202/organisation-identifiers/).
