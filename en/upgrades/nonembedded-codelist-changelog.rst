@@ -355,7 +355,7 @@ Updates to other non-embedded codelists
      - Add new codes and modify some descriptions.
      - Bring the list up-to-date with those published by the OECD DAC.
      - See `Updates to various DAC CRS non-embedded codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
-    * - 3rd July 2017
+   * - 3rd July 2017
      - :doc:`FinanceType-category </codelists/FinanceType-category>`
      - Add new codes, modify some descriptions, add some French descriptions and mark some codes as withdrawn.
      - Bring the list up-to-date with those published by the OECD DAC.
