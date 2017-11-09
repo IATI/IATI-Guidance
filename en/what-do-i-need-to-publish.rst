@@ -24,8 +24,8 @@ A full table of elements that can be reported in IATI is available here:
 
 If you receive funding from DFID, the Dutch or Belgian government you will have additional reporting requirements, for information on these please go to the following pages:
 
-* [Dutch Requirements]<https://www.government.nl/documents/publications/2015/12/01/open-data-and-development-cooperation>
+* 'Dutch Requirements <https://www.government.nl/documents/publications/2015/12/01/open-data-and-development-cooperation>'_
 
-* DFID Requirements (coming soon)
+* 'DFID Requirements <https://www.bond.org.uk/strengthen/iati-ngos>'_
 
 * Belgian Requirements (coming soon)
