@@ -1,10 +1,10 @@
 IATI Organisation Identifiers
 -----------------------------
-In IATI publishers are identified by their IATI org ID. You can form your IATI org ID by following the steps below. These steps should ensure that your ID unique and will be approved by the IATI tech team.
+In IATI, publishers are identified by their IATI org ID. You can form your IATI org ID by following the steps below. These steps should ensure that your ID unique and will be approved by the IATI tech team.
 
 **1) Identify your registration agency**
 
-A list of registration agencies can be found [here](http://org-id.guide/). Check whether your organisation is registered with one of the agencies on this list. If yes, please use the code provided as the first part of your IATI organisation identifier.
+A list of registration agencies can be found at: http://org-id.guide/ Check whether your organisation is registered with one of the agencies on this list. If yes, please use the code provided as the first part of your IATI organisation identifier.
 
 If you cannot find the agency your organisation is registered with then please send the name and website of the agency to: contact@org-id.guide. The org-ID team will then start the process of setting up a code for your registration agency.
 
@@ -38,4 +38,4 @@ The IATI support team needs to approve every IATI org ID. For this we need to se
 
 If you have any questions on this process. Please contact the IATI support team at support@iatistandard.org.
 
-For a more technical overview please go to [IATI Organisation Identifiers](http://iatistandard.org/202/organisation-identifiers/).
+For a more technical overview please go to 'IATI Organisation Identifiers <http://iatistandard.org/202/organisation-identifiers/>'_.
