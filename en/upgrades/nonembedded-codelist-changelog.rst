@@ -332,7 +332,7 @@ Updates to other non-embedded codelists
      - Discussion
    * - 6th November 2017
      - :doc:`Country </codelists/Country>`
-     - Mark a code as withdrawn
+     - Mark a code as withdrawn.
      - Bring the list up to date with those published by ISO.
      - See `Mark Netherland Antilles (AN) as withdrawn in Country codelist <https://discuss.iatistandard.org/t/approved-mark-netherland-antilles-an-as-withdrawn-in-country-codelist/1057>`__
    * - 3rd July 2017
