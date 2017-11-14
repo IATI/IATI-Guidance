@@ -20,12 +20,12 @@ Publishing to IATI means you are telling a story about the work your organisatio
 
 A full table of elements that can be reported in IATI is available here:
 
-* All elements in IATI (webpage link)
+* `All elements in IATI <http://iatistandard.org/202/guidance/what-do-i-need-to-publish/list-of-all-elements>`__
 
 If you receive funding from DFID, the Dutch or Belgian government you will have additional reporting requirements, for information on these please go to the following pages:
 
-* 'Dutch Requirements <https://www.government.nl/documents/publications/2015/12/01/open-data-and-development-cooperation>'_
+* `Dutch Requirements <https://www.government.nl/documents/publications/2015/12/01/open-data-and-development-cooperation>`__
 
-* 'DFID Requirements <https://www.bond.org.uk/strengthen/iati-ngos>'_
+* `DFID Requirements <https://www.bond.org.uk/strengthen/iati-ngos>`__
 
 * Belgian Requirements (coming soon)
