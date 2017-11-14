@@ -22,7 +22,7 @@ Example 2:
   
   KE-NCB
   
-  http://org-id.guide/list/KE-RCO
+  http://org-id.guide/list/KE-NCB
  
 **2) Your registration number**
 
