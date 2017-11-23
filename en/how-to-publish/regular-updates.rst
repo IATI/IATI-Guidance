@@ -1,7 +1,9 @@
 ﻿Updating your data
 ^^^^^^^^^^^^^^^^^^
 
-Once you have initially published your first data sets you need to ensure that they are updated regularly. In addition, things may change over time and this section therefore includes instructions for the most common changes that a publisher might need to make.
+Once you have initially published your first data sets you need to ensure that they are updated regularly. The IATI Technical Team recommends that as a minimum each organisation should be updating their data quarterly. 
+
+The IATI Standard recognises that organisaiton details do change over time. The sections below cover the key changes that publishers might need to make.
 
 
 
@@ -10,11 +12,13 @@ Regularly Updating Your Datafiles
 
 Once an organisation has committed to publish to IATI, it is most important that their data files are updated regularly and in line with the frequency as specified in a publisher's IATI Registry account. 
 
-Publishers should NOT create additional new files that only contain the most recent information each time they publish. Ideally all the information that relates to a specific activity should be kept together as much as is possible as this makes the ultimate use of the data by any third party much more efficient. Data should be cumulative (e.g. if publishing every quarter, the new files will include the quarter being reported on, and the previous quarter reported last time, and so on). It will also enable amendments to be made to existing data.
+When updating your data, the additions should be added to existing activities. Publishers should NOT create additional new files that only contain the most recent information. Ideally all the information that relates to a specific activity should be kept together as this makes the use and analysis of the data third parties much more efficient. Data should be cumulative (e.g. if publishing every quarter, the new files will include the quarter being reported on, and the previous quarter reported last time, and so on). It will also enable amendments to be made to existing data.
 
-No data should ever be removed or deleted from published files. It is intended that one published data remains permanently available.
+No data should ever be removed or deleted from published files. It is intended that once published, data remains permanently available. However, it is recognised that at certain points data will need to be moved or merged into other activities. If two activities are merging, organisations need to ensure that all the information is transferred across and nothing is lost.
 
-You will need to refer to the specific guidance of the tool that you are using to publish in order to find out how to update pre-existing datasets
+If an activity ID needs to change this should be recorded within the activity by the use of the element `<other-identifier> <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/other-identifier/>`__.
+
+You will need to refer to the specific guidance of the tool that you are using to publish in order to find out how to update pre-existing datasets.
 
 
 
@@ -24,11 +28,7 @@ Change Of Organisation IATI Contact
 
 As people frequently change job it is quite common that the nominated point of contact for IATI within an organisation will change over time. When this occurs please contact the IATI Technical Support Team by emailing us at support@iatistandard.org to let us know the name of the new contact so that we can update our records accordingly.
 
-In addition, the name of the IATI point of contact should be updated in the following accounts (where appropriate):
- 
-1) Aidstream 
-2) CSV Converter
-3) IATI Registry (check your user account, publisher account and datafiles for contacts details)
+In addition, the name of the IATI point of contact should be updated in the IATI Registry (check your user account, publisher account and datafiles for contacts details).
 
 
 
