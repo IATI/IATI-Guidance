@@ -1,7 +1,7 @@
 Updating Your Data and Organisation Details
 ^^^^^^^^^^^^^^^^^^
 
-Once you have initially published your first data sets you need to ensure that they are updated regularly. The IATI Technical Team recommends that as a minimum each organisation should be updating their data quarterly. 
+Once an organisation has initially published their first data sets they need to ensure that their data is updated regularly. The IATI Technical Team recommends that as a minimum each organisation should be updating their data quarterly. 
 
 The IATI Standard recognises that organisation details do change over time. The sections below cover the key changes that publishers might need to make.
 
@@ -12,7 +12,7 @@ Regularly Updating Your Datafiles
 
 Once an organisation has committed to publish to IATI, it is most important that their data files are updated regularly and in line with the frequency as specified in a publisher's IATI Registry account. 
 
-When updating your data, the additions should be added to existing activities. Publishers should NOT create additional new files that only contain the most recent information. Ideally all the information that relates to a specific activity should be kept together as this makes the use and analysis of the data third parties much more efficient. Data should be cumulative (e.g. if publishing every quarter, the new files will include the quarter being reported on, and the previous quarter reported last time, and so on). It will also enable amendments to be made to existing data.
+When updating activity data, the additions should be added to existing activities. Publishers should NOT create additional new files that only contain the most recent information. Ideally all the information that relates to a specific activity should be kept together as this makes the use and analysis of the data by third parties much more efficient. Data should be cumulative (e.g. if publishing every quarter, the new files will include the quarter being reported on, and the previous quarter reported last time, and so on). It will also enable amendments to be made to existing data.
 
 No data should ever be removed or deleted from published files. It is intended that once published, data remains permanently available. However, it is recognised that at certain points data will need to be moved or merged into other activities. If two activities are merging, organisations need to ensure that all the information is transferred across and nothing is lost.
 
