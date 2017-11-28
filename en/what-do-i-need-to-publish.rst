@@ -1,5 +1,5 @@
 What do I need to publish?
-=========
+==========================
 
 Publishing to IATI means you are telling a story about the work your organisation does. For this you break your work down into activities, these could be your programmes or projects. For each activity you detail what the work is, where and when it is happening, who is involved and how it is being financed etc. Further detail can then be added e.g. geographic co-ordinates, results information, document links and policy markers. The IATI technical team recommends that you start by adding the details (in the form of elements) below:
 
