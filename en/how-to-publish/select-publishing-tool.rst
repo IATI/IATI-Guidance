@@ -50,7 +50,7 @@ More information can be found `here <http://cove.opendataservices.coop>`__. For 
 IATI Studio Publisher
 ====================
 
-Due for release in the 3rd quarter of 2016, `IATI Studio Publisher <https://www.iatistudio.com/>`__ allows for validated IATI publication, both on activity level and organisation level. Drafted data will be available before the user chooses to export the data to a valid XML file and the service is integrated with the IATI Studio Chart Builder and Micro-site Builder, more details of which can be `found here <https://www.iatistudio.com/features/>`__.
+`IATI Studio Publisher <https://www.iatistudio.com/>`__ allows for validated IATI publication, both on activity level and organisation level. Drafted data will be available before the user chooses to export the data to a valid XML file and the service is integrated with the IATI Studio Chart Builder and Micro-site Builder, more details of which can be `found here <https://www.iatistudio.com/features/>`__.
 
 Core functionality is free; more information about pricing in premium packages can be found `here <https://www.iatistudio.com/membership/>`__. For general enquiries, `contact the IATI Studio team <https://www.iatistudio.com/support/>`__.
 
