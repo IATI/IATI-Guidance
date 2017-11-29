@@ -1,7 +1,7 @@
 Updating Your Data and Organisation Details
 ^^^^^^^^^^^^^^^^^^
 
-Once an organisation has initially published their first data sets they need to ensure that their data is updated regularly. The IATI Technical Team recommends that as a minimum each organisation should be updating their data quarterly. 
+Once an organisation has initially published their first data sets they need to ensure that their data is updated regularly. The IATI Technical Team recommends that organisations update their data monthly, or more frequently. At a minimum  data should be updated quarterly. 
 
 The IATI Standard recognises that organisation details do change over time. The sections below cover the key changes that publishers might need to make.
 
@@ -15,8 +15,8 @@ Once an organisation has committed to publish to IATI, it is most important that
 When updating activity data, the additions should be added to existing activities. Publishers should NOT create additional new files that only contain the most recent information. Ideally all the information that relates to a specific activity should be kept together as this makes the use and analysis of the data by third parties much more efficient. Data should be cumulative (e.g. if publishing every quarter, the new files will include the quarter being reported on, and the previous quarter reported last time, and so on). It will also enable amendments to be made to existing data.
 
 No data should ever be removed or deleted from published files. It is intended that once published, data remains permanently available. However, it is recognised that at certain points data will need to be moved or merged into other activities. If two activities are merging, organisations need to ensure that all the information is transferred across and nothing is lost.
-
-If an activity ID needs to change this should be recorded within the activity by the use of the element `<other-identifier> <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/other-identifier/>`__.
+ 
+IATI identifiers are the unique codes given to each activity. Once published, these must never change. The one exception is if an organisation's IATI Org ID changes as this impacts how IATI identifiers are formed. In this case both the new and previous IATI identifiers must be recorded via the use of the element `<other-identifier> <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/other-identifier/>`__.
 
 You will need to refer to the specific guidance of the tool that you are using to publish in order to find out how to update pre-existing datasets.
 
@@ -56,9 +56,9 @@ A number of steps need to be followed to ensure that data users can continue to 
 
 2) On the IATI Registry the publisher needs to update their IATI Org ID. This is done by logging in to the IATI Registry and going to the organisation's Publisher Page. There is a 'manage' button on the top right side of the page, and will allow the information about the organisation to be updated.
 
-3) The publisher should update any of their new or existing published IATI files. In every occasion where the organisation's IATI Org ID is mentioned e.g. in the `<reporting-org> <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/reporting-org/>`__ element this should be updated. As Activity ID's also use the organisation's IATI Org ID these need to be updated too.
+3) The publisher should update any of their new or existing published IATI files. In every occasion where the organisation's IATI Org ID is mentioned e.g. in the `<reporting-org> <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/reporting-org/>`__ element this should be updated. As IATI identifiers for activities also use the organisation's IATI Org ID these need to be updated too.
 
-4) When all the Activity IDs are updated the element `<other-identifier> <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/other-identifier/>`__ should be added with the attributes @ref and @type. The @ref attribute should contain the previous Activity ID and the  `@type <http://iatistandard.org/202/codelists/OtherIdentifierType/>`__ code should be 'A3', which is 'Previous Activity Identifier'.
+4) When all the IATI identifiers for activities are updated the element `<other-identifier> <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/other-identifier/>`__ should be added with the attributes @ref and @type. The @ref attribute should contain the previous Activity ID and the `@type <http://iatistandard.org/202/codelists/OtherIdentifierType/>`__ code should be 'A3', which is 'Previous Activity Identifier'.
 
 
 
