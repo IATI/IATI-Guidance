@@ -74,6 +74,8 @@ Make sure that you are still logged into the user account created in 1. and navi
 
 Please fill in all the fields on the form following the advice associated with each field. There is a lot of data to provide but much of it can be found in your Implementation Schedule if you have created one.
 
+Guidance on how to form your IATI Org ID can be found here:doc:`iati-organisation-identifiers`
+
 
 3. Wait for the Publisher Account To Be Authorised
 >>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
