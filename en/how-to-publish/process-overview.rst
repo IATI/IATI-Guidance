@@ -16,6 +16,7 @@ The publishing process involves the following steps:
 - :doc:`select-publishing-tool` - How to decide what publishing tool is the best choice to use for publishing.
 - :doc:`create-datafiles` - Making sure appropriate change and quality control procedures are in place.
 - :doc:`publish-files` - Updating the IATI Registry and hosting of the data files.
+- :doc:`iati-organisation-identifiers` - Guidance on how to create your unique IATI Org ID.
 - :doc:`regular-updates` - Regular update of data - Once published, how information should be regularly updated.
 
 

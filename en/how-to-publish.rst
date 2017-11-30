@@ -13,6 +13,7 @@ This is an introductory guide to organisations who want to understand the differ
    how-to-publish/select-publishing-tool.rst
    how-to-publish/create-datafiles.rst
    how-to-publish/publish-files.rst
+   how-to-publish/iati-organisation-identifiers.rst
    how-to-publish/regular-updates.rst
    how-to-publish/publishing-help.rst
    
