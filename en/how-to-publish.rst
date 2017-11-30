@@ -7,6 +7,7 @@ This is an introductory guide to organisations who want to understand the differ
    :titlesonly:
 
    how-to-publish/process-overview.rst
+   how-to-publish/iati-organisation-identifiers.rst
    how-to-publish/prepare-your-org.rst
    how-to-publish/establish-publishing-policies.rst
    how-to-publish/select-data-to-publish.rst
