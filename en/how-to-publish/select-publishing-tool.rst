@@ -3,7 +3,7 @@ Select a publishing tool or service
 
 There are a number of different tools and services available to help organisations create their IATI xml files. The tools and services options offer different levels of support, automation and pricing. Do have a look through the summaries below when deciding what publishing option is best for your organisation.
 
-Available publishing tools
+Available publishing tools:
 >>>>>>>>>>>>>>>>>>>>>>
 >>>>>>>>>>>>>>>>>>>>>
 
@@ -28,13 +28,11 @@ Spreadsheet2IATI Service
 
 The Spreadsheet2IATI service is a tool that makes producing valid IATI data easy and accessible, streamlining the reporting process. 
 
-The service has been running successfully since May 2017. It offers standardized spreadsheets templates you can use and update with your information. The converter reads the spreadsheets, checks if they are valid, and produces the XML files. You receive feedback on the data quality and insight in what is included, to check for completeness. Think of it as your accountant or payroll service: for each quarterly or monthly update, you provide the raw information, and we compile the IATI file with additional advice for data quality improvement.
-
-You remain in control of the process, choosing to publish directly via the tool or to upload the information yourself. 
+The service has been running successfully since May 2017. It offers standardized spreadsheets templates you can use and update with your information. The converter reads the spreadsheets, checks if they are valid, and produces the XML files. You receive feedback on the data quality and insight in what is included, to check for completeness. Think of it as your accountant or payroll service: for each quarterly or monthly update, you provide the raw information, and we compile the IATI file with additional advice for data quality improvement. You remain in control of the process, choosing to publish directly via the tool or to upload the information yourself. 
 
 More information about the service and pricing can be found `here <https://data4development.nl/wp-content/uploads/2017/09/Product-page-Spreadsheet2IATI-Converter-1.pdf>`__. For general enquiries, contact: info@data4development.nl.
 
-Upcoming publishing tools and services
+Upcoming publishing tools and services:
 >>>>>>>>>>>>>>>>>>>>>>
 >>>>>>>>>>>>>>>>>>>>>>>
 
@@ -54,7 +52,7 @@ IATI Studio Publisher
 
 Core functionality is free; more information about pricing in premium packages can be found `here <https://www.iatistudio.com/membership/>`__. For general enquiries, `contact the IATI Studio team <https://www.iatistudio.com/support/>`__.
 
-Bespoke (In House Applications)
+Bespoke (In House Applications):
 >>>>>>>>>>>>>>>>>>>>>>
 >>>>>>>>>>>>>>>>>>>>>
 
@@ -71,10 +69,6 @@ The `SQL-to-IATI tool <https://github.com/DFID/SQL-to-IATI-Database>`__ generate
 
 The core of the database is the IATI schema which contains a set of tables that mirror the IATI 2.01 standard XML schema in a relational database. The data held in these tables can be output as valid IATI XML files directly from a SQL function.
 
-A stored procedure populates the IATISchema tables through a series of transformations from source data (for example a corporate ERP). Although the stored procedure is written to deal with DFID’s specific source data, it would be a good starting point. During transformation the PublicationControl schema is used to control the data to be published to IATI, for example it contains a table to allow the exclusion of activities from publication to the IATI registry. The Codelist schema holds all of the IATI standing data (i.e. lists of valid countries, currencies and Aid Type categories), taken from the IATI codelists.
-
 DFID are willing to share the codebase with organisations as they seek to publish more data to the IATI standard, and the code is freely available on GitHub. They would like to partner with others interested in developing this further as an open source tool for the IATI community. Contact DFID’s Technical Transparency Team: devtracker-feedback@dfid.gov.uk if you are interested.
 
->>>>>>>>>>>>>>>>>>>>>
->>>>>>>>>>>>>>>>>>>>>
-If you are a provider of a tool or service and would like to add or update information on this page. Please create a pull request on `Github <https://github.com/IATI/IATI-Guidance/edit/master/en/how-to-publish/select-publishing-tool.rst>`__. Alternatively please contact the IATI Technical Support Team at: support@iatistandard.org.
+**Note:**"*If you are a provider of an IATI tool or service and would like to add or update information on this page. Please create a pull request on `Github <https://github.com/IATI/IATI-Guidance/edit/master/en/how-to-publish/select-publishing-tool.rst>`__. Alternatively please contact the IATI Technical Support Team at: support@iatistandard.org.*"
