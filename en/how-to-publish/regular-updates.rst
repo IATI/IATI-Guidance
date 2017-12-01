@@ -1,4 +1,4 @@
-Updating Your Data and Organisation Details
+Updating Your Data and Making Changes to Your Organisation Details
 ^^^^^^^^^^^^^^^^^^
 
 Once an organisation has initially published their first data sets they need to ensure that their data is updated regularly. The IATI Technical Team recommends that organisations update their data monthly, or more frequently. At a minimum  data should be updated quarterly. 
@@ -6,21 +6,20 @@ Once an organisation has initially published their first data sets they need to 
 The IATI Standard recognises that organisation details do change over time. The sections below cover the key changes that publishers might need to make.
 
 
-
-Regularly Updating Your Datafiles
+Updating Your Datafiles
 =================================
 
-Once an organisation has committed to publish to IATI, it is most important that their data files are updated regularly and in line with the frequency as specified in a publisher's IATI Registry account. 
+**Publish once and update your files regularly**
 
-When updating activity data, the additions should be added to existing activities. Publishers should NOT create additional new files that only contain the most recent information. Ideally all the information that relates to a specific activity should be kept together as this makes the use and analysis of the data by third parties much more efficient. Data should be cumulative (e.g. if publishing every quarter, the new files will include the quarter being reported on, and the previous quarter reported last time, and so on). It will also enable amendments to be made to existing data.
+Once organisations publish to IATI, no data should ever be removed or deleted from published files. It is intended that once published, data remains permanently available. However, it is important that data files are updated regularly and in line with the frequency as specified in a publisher's IATI Registry account. What we mean by 'updating regularly' is providing an up-to-date information about the movement of resources at a current point in time (whether that will be at activity or organisation level),  providing more comprehensive data and improving the quality of the data provided.
 
-No data should ever be removed or deleted from published files. It is intended that once published, data remains permanently available. However, it is recognised that at certain points data will need to be moved or merged into other activities. If two activities are merging, organisations need to ensure that all the information is transferred across and nothing is lost.
- 
-IATI identifiers are the unique codes given to each activity. Once published, these must never change. The one exception is if an organisation's IATI Org ID changes as this impacts how IATI identifiers are formed. In this case both the new and previous IATI identifiers must be recorded via the use of the element `<other-identifier> <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/other-identifier/>`__.
+Publishers should NOT create additional new files that only contain the most recent information- data should be updated within the exisiting activity or organisation file. Data should be cumulative (e.g. if publishing every quarter, your existing activity file will include the quarter being reported on, and the previous quarter reported last time, and so on). It will also enable amendments to be made to existing data. 
+
+**Changes to IATI activity identifier**
+
+IATI activity identifiers are the unique codes given to each activity. Once published, these **must never change**. The one exception is if an organisation's IATI Organisation ID changes as this impacts how IATI activity identifiers are formed. In this case both the new and previous IATI identifiers must be recorded via the use of the element `<other-identifier> <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/other-identifier/>`__.
 
 You will need to refer to the specific guidance of the tool that you are using to publish in order to find out how to update pre-existing datasets.
-
-
 
 
 Change of Organisation IATI Contact
@@ -29,7 +28,6 @@ Change of Organisation IATI Contact
 As people frequently change job it is quite common that the nominated point of contact for IATI within an organisation will change over time. When this occurs please contact the IATI Technical Support Team by emailing us at support@iatistandard.org to let us know the name of the new contact so that we can update our records accordingly.
 
 In addition, the name of the IATI point of contact should be updated in the IATI Registry (check your user account, publisher account and datafiles for contacts details).
-
 
 
 
