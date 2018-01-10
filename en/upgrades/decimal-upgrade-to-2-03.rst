@@ -49,11 +49,11 @@ Specific proposals and public consultations in the upgrade process are available
      - Friday 24 November 2017
    * - Release candidate
      - Friday 24 November 2017
-     - Final version of 2.03 completed. We will work to ensure core IATI secretariat tools are compatible with the new version.
+     - Final version of 2.03 completed. 
      - -
      - Monday 8 January 2018
    * - Approval and Go Live
      - Monday 8 January 2018
-     - Version 2.03 goes live.
+     - We will work to ensure core IATI secretariat tools are compatible with the new version. Version 2.03 goes live.
      - -
      - 
