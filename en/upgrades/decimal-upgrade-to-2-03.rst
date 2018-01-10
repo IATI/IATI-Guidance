@@ -54,6 +54,6 @@ Specific proposals and public consultations in the upgrade process are available
      - Monday 8 January 2018
    * - Approval and Go Live
      - Monday 8 January 2018
-     - We will work to ensure core IATI secretariat tools are compatible with the new version. Version 2.03 goes live.
+     - Version 2.03 website released. We will also work to ensure core IATI secretariat tools are compatible with the new version.
      - -
-     - 
+     - By Monday 19 February 2018
