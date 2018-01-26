@@ -1,7 +1,7 @@
 Updating Your Data and Making Changes to Your Organisation Details
 ^^^^^^^^^^^^^^^^^^
 
-Once an organisation has initially published their first data sets they need to ensure that their data is updated regularly. The IATI Technical Team recommends that organisations update their data monthly, or more frequently. At a minimum  data should be updated quarterly. 
+Once an organisation has initially published their first data sets they need to ensure that their data is updated regularly. The IATI Technical Team recommends that organisations update their data monthly, or more frequently. At a minimum data should be updated quarterly. 
 
 The IATI Standard recognises that organisation details do change over time. The sections below cover the key changes that publishers might need to make.
 
@@ -13,13 +13,13 @@ Updating Your Datafiles
 
 Once organisations publish to IATI, no data should ever be removed or deleted from published files. It is intended that once published, data remains permanently available. However, it is important that data files are updated regularly and in line with the frequency as specified in a publisher's IATI Registry account. What we mean by 'updating regularly' is providing an up-to-date information about the movement of resources at a current point in time (whether that will be at activity or organisation level),  providing more comprehensive data and improving the quality of the data provided.
 
-Publishers should NOT create additional new files that only contain the most recent information- data should be updated within the exisiting activity or organisation file. Data should be cumulative (e.g. if publishing every quarter, your existing activity file will include the quarter being reported on, and the previous quarter reported last time, and so on). It will also enable amendments to be made to existing data. 
+Publishers should NOT create additional new files that only contain the most recent information- data should be updated within the existing activity or organisation file. Data should be cumulative (e.g. if publishing every quarter, your existing activity file will include the quarter being reported on, and the previous quarter reported last time, and so on). It will also enable amendments to be made to existing data. 
 
 **Changes to IATI activity identifier**
 
-IATI activity identifiers are the unique codes given to each activity. Once published, these **must never change**. The one exception is if an organisation's IATI Organisation ID changes as this impacts how IATI activity identifiers are formed. In this case both the new and previous IATI identifiers must be recorded via the use of the element `<other-identifier> <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/other-identifier/>`__.
+IATI activity identifiers are the unique codes given to each activity. Once published, these **must never change**. IATI Activity IDs and IATI Identifiers are linked to their reporting organisation's IATI Org ID. If the IATI Org ID is changed, this needs to be tracked for each activity. Both the new and previous IATI identifiers must be recorded via the use of the element `<other-identifier> <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/other-identifier/>`__. Please see step 4 of **Changing an Organisation's IATI Org ID** below.
 
-You will need to refer to the specific guidance of the tool that you are using to publish in order to find out how to update pre-existing datasets.
+You will need to refer to the specific guidance of the tool that you are using to publish in order to find out how to update pre-existing datafiles.
 
 
 Change of Organisation IATI Contact
@@ -54,9 +54,9 @@ A number of steps need to be followed to ensure that data users can continue to 
 
 2) On the IATI Registry the publisher needs to update their IATI Org ID. This is done by logging in to the IATI Registry and going to the organisation's Publisher Page. There is a 'manage' button on the top right side of the page, and will allow the information about the organisation to be updated.
 
-3) The publisher should update any of their new or existing published IATI files. In every occasion where the organisation's IATI Org ID is mentioned e.g. in the `<reporting-org> <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/reporting-org/>`__ element this should be updated. As IATI identifiers for activities also use the organisation's IATI Org ID these need to be updated too.
+3) The publisher should update any of their new or existing published IATI files. In every occasion where the organisation's IATI Org ID is mentioned e.g. in the `<reporting-org> <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/reporting-org/>`__ element this should be updated. However, IATI Activity IDs and IATI identifiers **must not** be updated.
 
-4) When all the IATI identifiers for activities are updated the element `<other-identifier> <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/other-identifier/>`__ should be added with the attributes @ref and @type. The @ref attribute should contain the previous Activity ID and the `@type <http://iatistandard.org/202/codelists/OtherIdentifierType/>`__ code should be 'A3', which is 'Previous Activity Identifier'.
+4) If publishing at v2.x of the IATI Standard, the element `<other-identifier> <http://iatistandard.org/202/activity-standard/iati-activities/iati-activity/other-identifier/>`__ should be added to each activity, with the attributes @ref and @type. The @ref attribute should contain the previous IATI Org ID and the `@type <http://iatistandard.org/202/codelists/OtherIdentifierType/>`__ code should be 'B1', which is 'Previous Reporting Organisation Identifier'.
 
 
 
@@ -69,10 +69,10 @@ The steps to follow are:
 
 1) The publisher should contact the IATI Technical Support Team to let them know that the organisation is planning its Publisher ID.
 
-2) The publisher should update the Registry Publisher ID. This can be done by logging into the IATI Registry, going to the publisher page and clicking on 'manage' on the top side of the page. If using a publishing tool, the organisation should check if they need to update their publisher ID on this tool too e.g. this is the case when using Aidstream.
+2) The publisher should update the Registry Publisher ID. This can be done by logging into the IATI Registry, going to the publisher page and clicking on 'manage' on the top side of the page. If using a publishing tool, the organisation should check if they need to update their publisher ID on this tool too e.g. this is the case when using AidStream.
 
 3) The publisher should delete all existing datafiles from their publisher account. This removes the connection between the IATI Registry and their IATI xml files but does not delete the place where the actual files are hosted. This can be done by clicking on the 'Datasets' tab once the Publisher ID has been updated.
 
 4) The publisher should then re-publish their datafiles to their updated Registry Publisher Account.
 
-5) The IATI Technical Support Team will then arrange for redirects from the old datasets to be set up so that any third party users of the organisation's datafiles will be able to find the new files.
+5) The IATI Technical Support Team will then arrange for redirects from the old datafiles to be set up so that any third party users of the organisation's datafiles will be able to find the new files.
