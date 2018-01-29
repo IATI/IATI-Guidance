@@ -76,10 +76,10 @@ __________________
 ProjectConnect
 ==============
 
-`ProjectConnect https://projectconnect.info/`__ is a web based Program and Project Management platform that allows you to manage your projects from start to finish in close cooperation with your partners. IATI reporting is one of the main features of ProjectConnect, which is fully integrated with its Project Management functionality. The IATI Reporting Connector enables a controlled and user friendly upload of project data. You can configure per project, partner and country what information will be included in IATI Reports, including anonymization of data. You will not need any knowledge of XML or extensive external support to publish your quarterly IATI reports.
+`ProjectConnect <https://projectconnect.info>`__ is a web based Program and Project Management platform that allows you to manage your projects from start to finish in close cooperation with your partners. IATI reporting is one of the main features of ProjectConnect, which is fully integrated with its Project Management functionality. The IATI Reporting Connector enables a controlled and user friendly upload of project data. You can configure per project, partner and country what information will be included in IATI Reports, including anonymization of data. You will not need any knowledge of XML or extensive external support to publish your quarterly IATI reports.
 
 Our focus is on serving Internationally oriented organizations and NGOs that are working on different projects with multiple partners worldwide. ProjectConnect is a joint initiative of Matthat Software and several NGO’s, such as Simavi, Red een Kind, SOMO and Liliane Fonds.
-For general enquiries please send us an e-mail: contact@projectconnect.info or visit `the ProjectConnect website https://projectconnect.info/`__.
+For general enquiries please send us an e-mail: contact@projectconnect.info or visit `the ProjectConnect website <https://projectconnect.info/>`__.
 
 __________________
 
