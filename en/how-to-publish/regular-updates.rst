@@ -65,7 +65,7 @@ A number of steps need to be followed to ensure that the change is implemented c
 Changing an Organisation's Publisher ID
 =======================
 
-Each publisher account on the IATI Registry has a unique Publisher ID. This is usually an abbreviation of the publisher's name and is used as part of the URL for their publisher page on the internet. We do not advise that the Publisher ID changes, however, if for whatever reason an organisation decide to change it, they need to follow the steps below to ensure that tools which use IATI data can still import the organisation's published IATI xml files correctly.
+Each publisher account on the IATI Registry has a unique Publisher ID. This is usually an abbreviation of the publisher's name and is used as part of the URL for their publisher page on the internet. We do not advise that the Publisher ID changes, however, if an organisation decides to change it, they need to follow the steps below to ensure that tools which use IATI data can still import the organisation's published IATI xml files correctly.
 
 The steps to follow are:
 
