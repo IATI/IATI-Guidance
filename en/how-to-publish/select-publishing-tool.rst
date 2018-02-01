@@ -32,6 +32,14 @@ The service has been running successfully since May 2017. It offers standardized
 
 More information about the service and pricing can be found `here <https://data4development.nl/wp-content/uploads/2017/09/Product-page-Spreadsheet2IATI-Converter-1.pdf>`__. For general enquiries, contact: info@data4development.nl.
 
+ProjectConnect
+==============
+
+`ProjectConnect <https://projectconnect.info>`__ is a web based Program and Project Management platform that allows you to manage your projects from start to finish in close cooperation with your partners. IATI reporting is one of the main features of ProjectConnect, which is fully integrated with its Project Management functionality. The IATI Reporting Connector enables a controlled and user friendly upload of project data. You can configure per project, partner and country what information will be included in IATI Reports, including anonymization of data. You will not need any knowledge of XML or extensive external support to publish your quarterly IATI reports.
+
+Our focus is on serving Internationally oriented organizations and NGOs that are working on different projects with multiple partners worldwide. ProjectConnect is a joint initiative of Matthat Software and several NGO’s, such as Simavi, Red een Kind, SOMO and Liliane Fonds.
+For general enquiries please send us an e-mail: contact@projectconnect.info or visit `the ProjectConnect website <https://projectconnect.info/>`__.
+
 Upcoming publishing tools and services:
 >>>>>>>>>>>>>>>>>>>>>>
 >>>>>>>>>>>>>>>>>>>>>>>
@@ -72,17 +80,6 @@ The core of the database is the IATI schema which contains a set of tables that 
 DFID are willing to share the codebase with organisations as they seek to publish more data to the IATI standard, and the code is freely available on GitHub. They would like to partner with others interested in developing this further as an open source tool for the IATI community. Contact DFID’s Technical Transparency Team: devtracker-feedback@dfid.gov.uk if you are interested.
 
 __________________
-
-ProjectConnect
-==============
-
-`ProjectConnect <https://projectconnect.info>`__ is a web based Program and Project Management platform that allows you to manage your projects from start to finish in close cooperation with your partners. IATI reporting is one of the main features of ProjectConnect, which is fully integrated with its Project Management functionality. The IATI Reporting Connector enables a controlled and user friendly upload of project data. You can configure per project, partner and country what information will be included in IATI Reports, including anonymization of data. You will not need any knowledge of XML or extensive external support to publish your quarterly IATI reports.
-
-Our focus is on serving Internationally oriented organizations and NGOs that are working on different projects with multiple partners worldwide. ProjectConnect is a joint initiative of Matthat Software and several NGO’s, such as Simavi, Red een Kind, SOMO and Liliane Fonds.
-For general enquiries please send us an e-mail: contact@projectconnect.info or visit `the ProjectConnect website <https://projectconnect.info/>`__.
-
-__________________
-
 
 **Note:** *If you are a provider of an IATI tool or service and would like to add or update information on this page. Please create a pull request on* `Github <https://github.com/IATI/IATI-Guidance/edit/master/en/how-to-publish/select-publishing-tool.rst>`__. *Alternatively please contact the IATI Technical Support Team at: support@iatistandard.org.*
 
