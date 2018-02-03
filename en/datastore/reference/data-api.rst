@@ -244,8 +244,8 @@ last-updated-datetime
 
 Returns activities where the @last-updated-datetime attribute of an activity is chronologically before or after your specified query value.
 
-To return activities less than your specified date use ‘last-updated-datetime__lt’
-To return activities less than your specified date use ‘last-updated-datetime__gt’
+To return activities before your specified date use ‘last-updated-datetime__lt’
+To return activities after your specified date use ‘last-updated-datetime__gt’
 
 Parameters:
     last-updated-datetime: ISO format date (YYYY-MM-DD).
