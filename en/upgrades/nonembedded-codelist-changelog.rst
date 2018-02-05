@@ -257,6 +257,10 @@ Updates to the IATI Organisation Identifier codelist
      - Code
      - Organisation
      - Discussion
+   * - 5th February 2018
+     - XI-IATI-DGF
+     - Democratic Governance Facility
+     - See `Create Org. Identifier XI-IATI-DGF for the Democratic Governance Facility <https://discuss.iatistandard.org/t/added-create-org-identifier-xi-iati-dgf/1174>`__ on IATI Discuss (Standard Management section).
    * - 11th September 2017
      - XI-IATI-AIAS
      - Administração de Infra-Estruturas de Águas e Saneamento
