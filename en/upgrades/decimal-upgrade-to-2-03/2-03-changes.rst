@@ -89,8 +89,8 @@ Activities and Organisations Schemas
 - Updated definition: [reporting/participating/receiver/provider]-org @ref attribute (`#339 <https://github.com/IATI/IATI-Schemas/issues/339>`__) (`discussion link <https://discuss.iatistandard.org/t/migration-of-organisationregistrationagency-codelist-to-org-id-guide-included-2-03/851>`__)
 
 - Updated definition: reporting-org @secondary-reporter attribute (`#340 <https://github.com/IATI/IATI-Schemas/issues/340>`__) (`discussion link <https://discuss.iatistandard.org/t/modify-definition-of-secondary-publisher-included-2-03/846>`__)
- 
-- Updated definition: [recipient-region/recipient-region-budget/sector] @vocabulary-uri attribute (`#341 <https://github.com/IATI/IATI-Schemas/issues/341>`__) (`discussion link <https://discuss.iatistandard.org/t/guidance-on-u-r-i-usage-for-publisher-s-own-vocabularies-included-2-03/850>`__)
+
+- Updated definition: [.//recipient-region/recipient-region-budget/sector] @vocabulary-uri attribute (`#341 <https://github.com/IATI/IATI-Schemas/issues/341>`__) (`discussion link <https://discuss.iatistandard.org/t/guidance-on-u-r-i-usage-for-publisher-s-own-vocabularies-included-2-03/850>`__)
 
 - Added new description element (as a child of all document-link elements) (`#357 <https://github.com/IATI/IATI-Schemas/issues/357>`__) (`discussion link <https://discuss.iatistandard.org/t/document-link-description-included-2-03/841>`__)
 
