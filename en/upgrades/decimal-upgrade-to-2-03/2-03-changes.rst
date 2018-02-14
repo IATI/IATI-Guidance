@@ -161,6 +161,8 @@ Updated Codelists
 - IndicatorMeasure codelist (`#179 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/179>`__) (`Discussion link <https://discuss.iatistandard.org/t/results-represent-more-than-quantitative-data-included-2-03/872>`__)
  Includes the added codes: Code 3 'Nominal', Code 4 'Ordinal' and Code 5 'Qualitative'.
 
+- Added Code '2.03' to :doc:`/codelists/Version` (`#238 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/238>`__)
+
  .. _2_03_ruleset_changes:
 
 Ruleset Changes
