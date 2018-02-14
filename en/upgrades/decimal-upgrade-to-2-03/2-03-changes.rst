@@ -22,11 +22,11 @@ Activities Schema
 
 - Added new tag element (as a child of the iati-activity element) (`#342 <https://github.com/IATI/IATI-Schemas/issues/324>`__) (`discussion link <https://discuss.iatistandard.org/t/non-statistical-secondary-sectors-excluded-2-03/849>`__)
 
-- Updated definition: recipient-[country|region] / sector @percentage attribute (`#343 <https://github.com/IATI/IATI-Schemas/issues/343>`__) (`discussion link <https://discuss.iatistandard.org/t/boundary-values-for-percentages-included-2-03/843>`__)
+- Updated definition: [recipient-country, recipient-region, sector] @percentage attribute (`#343 <https://github.com/IATI/IATI-Schemas/issues/343>`__) (`discussion link <https://discuss.iatistandard.org/t/boundary-values-for-percentages-included-2-03/843>`__)
 
 - Updated definition: sector @vocabulary attribute (`#344 <https://github.com/IATI/IATI-Schemas/issues/344>`__). The % sign was removed.
 
-- Updated definition: [transaction aid-type/default-aid-type] @code attribute (`#345 <https://github.com/IATI/IATI-Schemas/issues/345>`__) (`discussion link <https://discuss.iatistandard.org/t/add-vocabularies-to-aid-type-included-2-03/847>`__)
+- Updated definition: [transaction aid-type, default-aid-type] @code attribute (`#345 <https://github.com/IATI/IATI-Schemas/issues/345>`__) (`discussion link <https://discuss.iatistandard.org/t/add-vocabularies-to-aid-type-included-2-03/847>`__)
 
 - Added new @vocabulary attributes for elements relating to aid-type (`#346 <https://github.com/IATI/IATI-Schemas/issues/346>`__) (`discussion link <https://discuss.iatistandard.org/t/add-vocabularies-to-aid-type-included-2-03/847>`__)
 
@@ -40,19 +40,19 @@ Activities Schema
 
 Changes and Additions to the **Result** element:
 
-- Updated definition: result indicator reference @indicator-uri attribute (`#347 <https://github.com/IATI/IATI-Schemas/issues/347>`__) (`discussion link <https://discuss.iatistandard.org/t/guidance-on-u-r-i-usage-for-publisher-s-own-vocabularies-included-2-03/850>`__)
+- Updated definition: result/indicator/reference @indicator-uri attribute (`#347 <https://github.com/IATI/IATI-Schemas/issues/347>`__) (`discussion link <https://discuss.iatistandard.org/t/guidance-on-u-r-i-usage-for-publisher-s-own-vocabularies-included-2-03/850>`__)
 
-- Updated occurrence: result indicator baseline element  (`#352 <https://github.com/IATI/IATI-Schemas/issues/352>`__) (`discussion link <https://discuss.iatistandard.org/t/results-improve-consistency-of-results-standard-included-2-03/874>`__)
+- Updated occurrence: result/indicator/baseline element  (`#352 <https://github.com/IATI/IATI-Schemas/issues/352>`__) (`discussion link <https://discuss.iatistandard.org/t/results-improve-consistency-of-results-standard-included-2-03/874>`__)
 
-- Updated occurrence: result indicator @value attributes (`#353 <https://github.com/IATI/IATI-Schemas/issues/353>`__) (`discussion link <https://discuss.iatistandard.org/t/results-represent-more-than-quantitative-data-included-2-03/872>`__)
+- Updated occurrence: result/indicator @value attributes (`#353 <https://github.com/IATI/IATI-Schemas/issues/353>`__) (`discussion link <https://discuss.iatistandard.org/t/results-represent-more-than-quantitative-data-included-2-03/872>`__)
 
-- Updated occurrence: result indicator period [target|actual] elements (`#354 <https://github.com/IATI/IATI-Schemas/issues/354>`__) (`discussion link <https://discuss.iatistandard.org/t/results-allow-disaggregations-of-results-data-included-2-03/871>`__)
+- Updated occurrence: [result/indicator/period/target, result/indicator/period/target/actual] elements (`#354 <https://github.com/IATI/IATI-Schemas/issues/354>`__) (`discussion link <https://discuss.iatistandard.org/t/results-allow-disaggregations-of-results-data-included-2-03/871>`__)
 
-- Updated occurrence: result indicator period target @value attribute (`#355 <https://github.com/IATI/IATI-Schemas/issues/355>`__) (`discussion link <https://discuss.iatistandard.org/t/results-represent-more-than-quantitative-data-included-2-03/872>`__)
+- Updated occurrence: result/indicator/period/target @value attribute (`#355 <https://github.com/IATI/IATI-Schemas/issues/355>`__) (`discussion link <https://discuss.iatistandard.org/t/results-represent-more-than-quantitative-data-included-2-03/872>`__)
 
-- Updated occurrence: result indicator period actual element (`#356 <https://github.com/IATI/IATI-Schemas/issues/356>`__) (`discussion link <https://discuss.iatistandard.org/t/results-allow-disaggregations-of-results-data-included-2-03/871>`__)
+- Updated occurrence: result/indicator/period/actual element (`#356 <https://github.com/IATI/IATI-Schemas/issues/356>`__) (`discussion link <https://discuss.iatistandard.org/t/results-allow-disaggregations-of-results-data-included-2-03/871>`__)
 
-- Updated occurrence: result indicator period actual @value attribute (`#358 <https://github.com/IATI/IATI-Schemas/issues/358>`__) (`discussion link <https://discuss.iatistandard.org/t/results-represent-more-than-quantitative-data-included-2-03/872>`__)
+- Updated occurrence: result/indicator/period/actual @value attribute (`#358 <https://github.com/IATI/IATI-Schemas/issues/358>`__) (`discussion link <https://discuss.iatistandard.org/t/results-represent-more-than-quantitative-data-included-2-03/872>`__)
 
 - Added new document-link element (as a child of various result elements)(`#359 <https://github.com/IATI/IATI-Schemas/issues/359>`__) (`discussion link <https://discuss.iatistandard.org/t/add-document-link-to-results-indicator-included-2-03/895>`__)
 
@@ -74,11 +74,11 @@ Activities and Organisations Schemas
 
 - Updated definition: all @xml:lang attributes (`#336 <https://github.com/IATI/IATI-Schemas/issues/336>`__) (`discussion link <https://discuss.iatistandard.org/t/language-recommend-use-of-iso-639-1-included-2-03/842>`__)
 
-- Updated definition: [reporting/participating/receiver/provider]-org @ref attribute (`#339 <https://github.com/IATI/IATI-Schemas/issues/339>`__) (`discussion link <https://discuss.iatistandard.org/t/migration-of-organisationregistrationagency-codelist-to-org-id-guide-included-2-03/851>`__)
+- Updated definition: [reporting-org, participating-org, receiver-org, provider-org] @ref attribute (`#339 <https://github.com/IATI/IATI-Schemas/issues/339>`__) (`discussion link <https://discuss.iatistandard.org/t/migration-of-organisationregistrationagency-codelist-to-org-id-guide-included-2-03/851>`__)
 
 - Updated definition: reporting-org @secondary-reporter attribute (`#340 <https://github.com/IATI/IATI-Schemas/issues/340>`__) (`discussion link <https://discuss.iatistandard.org/t/modify-definition-of-secondary-publisher-included-2-03/846>`__)
 
-- Updated definition: [recipient-region/recipient-region-budget/sector AND transaction/recipient-region] @vocabulary-uri attribute (`#341 <https://github.com/IATI/IATI-Schemas/issues/341>`__) (`discussion link <https://discuss.iatistandard.org/t/guidance-on-u-r-i-usage-for-publisher-s-own-vocabularies-included-2-03/850>`__)
+- Updated definition: [recipient-region, recipient-region-budget, sector] @vocabulary-uri attribute (`#341 <https://github.com/IATI/IATI-Schemas/issues/341>`__) (`discussion link <https://discuss.iatistandard.org/t/guidance-on-u-r-i-usage-for-publisher-s-own-vocabularies-included-2-03/850>`__)
 
 - Added new description element (as a child of all document-link elements) (`#357 <https://github.com/IATI/IATI-Schemas/issues/357>`__) (`discussion link <https://discuss.iatistandard.org/t/document-link-description-included-2-03/841>`__)
 
