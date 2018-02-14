@@ -92,7 +92,7 @@ A full diff of all **embedded** codelist changes in 2.03 can be found in the `IA
 Embedded to Non-Embedded:
 ------------------------
 
-The following codelists have moved from Embedded to Non-Embedded (`#114 <https://github.com/IATI/IATI-Codelists/issues/114>`__) (`Discussion link <https://discuss.iatistandard.org/t/redefine-selected-codelists-as-non-embedded-included-2-03/854>`__):
+Alongside 2.03, the following codelists have moved from Embedded to Non-Embedded (`#114 <https://github.com/IATI/IATI-Codelists/issues/114>`__) (`Discussion link <https://discuss.iatistandard.org/t/redefine-selected-codelists-as-non-embedded-included-2-03/854>`__):
 
 .. list-table::
    :widths: 16 16 16
