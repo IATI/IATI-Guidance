@@ -3,7 +3,7 @@
 
 Changes / additions to IATI Standard for version 2.03
 
-Note: Version 2.03 was released on XXX February 2018.
+Note: Version 2.03 was released on Monday 19th February 2018.
 
 .. contents::
 
