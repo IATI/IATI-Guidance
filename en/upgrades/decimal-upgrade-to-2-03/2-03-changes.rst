@@ -151,7 +151,7 @@ Updated Codelists
 **Embedded:**
 
 - TransactionType Codelist (`#112 <https://github.com/IATI/IATI-Codelists/issues/112>`__) (`Discussion link <https://discuss.iatistandard.org/t/transactiontype-codes-included-2-03/852>`__)
- Inlcudes the added codes: Code 12 'Outgoing Pledge' and Code 13 'Incoming Pledge'.
+ Includes the added codes: Code 12 'Outgoing Pledge' and Code 13 'Incoming Pledge'.
 
 **Non-Embedded:**
 
