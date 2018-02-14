@@ -177,8 +177,6 @@ Ruleset Changes
 ================
  
 - Added rule: reference element (`#48 <https://github.com/IATI/IATI-Rulesets/issues/48>`__) (`Discussion link <https://discuss.iatistandard.org/t/results-vocabulary-attribute-option-included-2-03/879>`__) 
-  
-- Added rules (regex matches): ref attributes (`#50 <https://github.com/IATI/IATI-Rulesets/issues/50>`__) (`Discussion link <https://discuss.iatistandard.org/t/migration-of-organisationregistrationagency-codelist-to-org-id-guide-included-2-03/851>`__) 
 
 - Added rules: result @value presence - quantitative (`#51 <https://github.com/IATI/IATI-Rulesets/issues/51>`__) (`Discussion link <https://discuss.iatistandard.org/t/results-represent-more-than-quantitative-data-included-2-03/872>`__) 
 
