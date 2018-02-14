@@ -150,18 +150,15 @@ Updated Codelists
 
 **Embedded:**
 
-- TransactionType Codelist (`#112 <https://github.com/IATI/IATI-Codelists/issues/112>`__) (`Discussion link <https://discuss.iatistandard.org/t/transactiontype-codes-included-2-03/852>`__)
- Includes the added codes: Code 12 'Outgoing Pledge' and Code 13 'Incoming Pledge'.
+- Added codes: 12 'Outgoing Pledge' and 13 'Incoming Pledge' to :doc:`/codelists/TransactionType` Codelist (`#112 <https://github.com/IATI/IATI-Codelists/issues/112>`__) (`Discussion link <https://discuss.iatistandard.org/t/transactiontype-codes-included-2-03/852>`__).
 
 **Non-Embedded:**
 
-- OrganisationType Codelist (`#113 <https://github.com/IATI/IATI-Codelists/issues/113>`__) (`Discussion link <https://discuss.iatistandard.org/t/organisation-type-codes-additions-included-2-03/858>`__)
- Includes the added codes: Code 11 'Local Government', Code 24 'Partner Country based NGO', Code 71 'Private Sector in Provider Country', Code 71 'Private Sector in Aid Recipient Country', Code 73 'Private Sector in Third Country' and Code 90 'Other'.
+- Added codes: 11 'Local Government', 24 'Partner Country based NGO', 71 'Private Sector in Provider Country', 71 'Private Sector in Aid Recipient Country', 73 'Private Sector in Third Country' and 90 'Other' to :doc:`/codelists/OrganisationType` Codelist (`#113 <https://github.com/IATI/IATI-Codelists/issues/113>`__) (`Discussion link <https://discuss.iatistandard.org/t/organisation-type-codes-additions-included-2-03/858>`__)
 
-- IndicatorMeasure codelist (`#179 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/179>`__) (`Discussion link <https://discuss.iatistandard.org/t/results-represent-more-than-quantitative-data-included-2-03/872>`__)
- Includes the added codes: Code 3 'Nominal', Code 4 'Ordinal' and Code 5 'Qualitative'.
+- Added codes: 3 'Nominal', 4 'Ordinal' and 5 'Qualitative' to :doc:`/codelists/IndicatorMeasure` Codelist (`#179 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/179>`__) (`Discussion link <https://discuss.iatistandard.org/t/results-represent-more-than-quantitative-data-included-2-03/872>`__)
 
-- Added Code '2.03' to :doc:`/codelists/Version` (`#238 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/238>`__)
+- Added Code 2.03 to :doc:`/codelists/Version` (`#238 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/238>`__)
 
  .. _2_03_ruleset_changes:
 
