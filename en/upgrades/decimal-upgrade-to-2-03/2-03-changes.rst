@@ -94,46 +94,41 @@ Embedded to Non-Embedded:
 
 Alongside 2.03, the following codelists have moved from Embedded to Non-Embedded (`#114 <https://github.com/IATI/IATI-Codelists/issues/114>`__) (`Discussion link <https://discuss.iatistandard.org/t/redefine-selected-codelists-as-non-embedded-included-2-03/854>`__):
 
-.. list-table::
-   :widths: 16 16 16
-   :header-rows: 0
-
-   * -	ActivityScope
-	    -	BudgetIdentifier
-	    -	BudgetIdentifierSector-Category
-   * -	BudgetIdentifierSector
-   	  -	BudgetIdentifierVocabulary
-	    -	CRSAddOtherFlags
-   * -	ConditionType
-	    -	ContactType
-	    -	DescriptionType
-   * -	DisbursementChannel
-   	  -	DocumentCategory-Category
-	   	-	GeographicExactness
-   *	-	GeographicLocationClass
-	   	-	GeographicLocationReach
-	   	-	GeographicVocabulary
-   *	-	GeographicalPrecision
-	   	-	IndicatorMeasure
-	   	-	LoanRepaymentPeriod
-   *	-	LoanRepaymentType
-	   	-	OrganisationType
-	   	-	OtherIdentifierType
-   *	-	PolicyMarker
-	   	-	PolicyMarkerVocabulary
-	   	-	PublisherType
-   *	-	RegionVocabulary
-	   	-	ResultType
-	   	-	SectorVocabulary
-   *	-	TiedStatus
-	   	-	ResultType
-	   	-	VerificationStatus
-   *	-	PublisherType
-	   	-	PolicyMarkerVocabulary
-	   	-	PolicyMarker
-   *	-	RegionVocabulary
-	   	-	TiedStatus
-     	- -
+-	ActivityScope
+-	BudgetIdentifier
+-	BudgetIdentifierSector-Category
+-	BudgetIdentifierSector
+-	BudgetIdentifierVocabulary
+-	CRSAddOtherFlags
+-	ConditionType
+-	ContactType
+-	DescriptionType
+-	DisbursementChannel
+-	DocumentCategory-Category
+-	GeographicExactness
+-	GeographicLocationClass
+-	GeographicLocationReach
+-	GeographicVocabulary
+-	GeographicalPrecision
+-	IndicatorMeasure
+-	LoanRepaymentPeriod
+-	LoanRepaymentType
+-	OrganisationType
+-	OtherIdentifierType
+-	PolicyMarker
+-	PolicyMarkerVocabulary
+-	PublisherType
+-	RegionVocabulary
+-	ResultType
+-	SectorVocabulary
+-	TiedStatus
+-	ResultType
+-	VerificationStatus
+-	PublisherType
+-	PolicyMarkerVocabulary
+-	PolicyMarker
+-	RegionVocabulary
+-	TiedStatus
 
 New Codelists
 -------------
