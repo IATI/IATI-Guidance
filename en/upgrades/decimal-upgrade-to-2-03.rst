@@ -1,6 +1,12 @@
 Decimal Upgrade to 2.03
 =======================
 
+.. toctree::
+   :hidden:
+   :glob:
+
+   decimal-upgrade-to-2-03/*
+
 The process for the next decimal upgrade of the IATI Standard (to version 2.03) will start on Friday 12 May 2017. The full timetable below outlines each phase of the upgrade process and includes information on when input is invited from the IATI Community. We anticipate the end of this upgrade process and the release of version 2.03 on **Monday 8 January 2017**.
 
 Specific proposals and public consultations in the upgrade process are available in the `2.03 section on IATI’s online forum <https://discuss.iatistandard.org/c/standard-management/2-03-decimal-upgrade-proposals>`__ .
