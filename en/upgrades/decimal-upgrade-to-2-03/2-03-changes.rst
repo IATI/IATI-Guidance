@@ -94,51 +94,45 @@ Embedded to Non-Embedded:
 
 Alongside 2.03, the following codelists have moved from Embedded to Non-Embedded (`#114 <https://github.com/IATI/IATI-Codelists/issues/114>`__) (`Discussion link <https://discuss.iatistandard.org/t/redefine-selected-codelists-as-non-embedded-included-2-03/854>`__):
 
--	ActivityScope
--	BudgetIdentifier
--	BudgetIdentifierSector-Category
--	BudgetIdentifierSector
--	BudgetIdentifierVocabulary
--	CRSAddOtherFlags
--	ConditionType
--	ContactType
--	DescriptionType
--	DisbursementChannel
--	DocumentCategory-Category
--	GeographicExactness
--	GeographicLocationClass
--	GeographicLocationReach
--	GeographicVocabulary
--	GeographicalPrecision
--	IndicatorMeasure
--	LoanRepaymentPeriod
--	LoanRepaymentType
--	OrganisationType
--	OtherIdentifierType
--	PolicyMarker
--	PolicyMarkerVocabulary
--	PublisherType
--	RegionVocabulary
--	ResultType
--	SectorVocabulary
--	TiedStatus
--	ResultType
--	VerificationStatus
--	PublisherType
--	PolicyMarkerVocabulary
--	PolicyMarker
--	RegionVocabulary
--	TiedStatus
+-	:doc:`/codelists/ActivityScope`
+-	:doc:`/codelists/BudgetIdentifier`
+-	:doc:`/codelists/BudgetIdentifierSector-Category`
+-	:doc:`/codelists/BudgetIdentifierSector`
+-	:doc:`/codelists/BudgetIdentifierVocabulary`
+-	:doc:`/codelists/CRSAddOtherFlags`
+-	:doc:`/codelists/ConditionType`
+-	:doc:`/codelists/ContactType`
+-	:doc:`/codelists/DescriptionType`
+-	:doc:`/codelists/DisbursementChannel`
+-	:doc:`/codelists/DocumentCategory-Category`
+-	:doc:`/codelists/GeographicExactness`
+-	:doc:`/codelists/GeographicLocationClass`
+-	:doc:`/codelists/GeographicLocationReach`
+-	:doc:`/codelists/GeographicVocabulary`
+-	:doc:`/codelists/GeographicalPrecision`
+-	:doc:`/codelists/IndicatorMeasure`
+-	:doc:`/codelists/LoanRepaymentPeriod`
+-	:doc:`/codelists/LoanRepaymentType`
+-	:doc:`/codelists/OrganisationType`
+-	:doc:`/codelists/OtherIdentifierType`
+-	:doc:`/codelists/PolicyMarker`
+-	:doc:`/codelists/PolicyMarkerVocabulary`
+-	:doc:`/codelists/PublisherType`
+-	:doc:`/codelists/RegionVocabulary`
+-	:doc:`/codelists/ResultType`
+-	:doc:`/codelists/SectorVocabulary`
+-	:doc:`/codelists/TiedStatus`
+-	:doc:`/codelists/VerificationStatus`
 
 New Codelists
 -------------
 
 **Non-Embedded:**
 
-- Added AidTypeVocabulary codelist (`#185 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/185>`__) (`Discussion link <https://discuss.iatistandard.org/t/add-vocabularies-to-aid-type-included-2-03/847>`__)
-- Added BudgetNotProvided codelist (`#184 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/184>`__) (`Discussion link <https://discuss.iatistandard.org/t/add-budget-exempt-attribute-and-codelist-included-2-03/845>`__)
-- Added ResultVocabulary codelist (`#181 <https://github.com/IATI/IATI-Codelists/issues/181>`__) (`Discussion link <https://discuss.iatistandard.org/t/results-vocabulary-attribute-option-included-2-03/879>`__)
-- Added TagVocabulary codelist (`#178 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/178>`__) (`Discussion link <https://discuss.iatistandard.org/t/non-statistical-secondary-sectors-excluded-2-03/849>`__)
+- Added :doc:`/codelists/AidTypeVocabulary` Codelist (`#185 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/185>`__) (`Discussion link <https://discuss.iatistandard.org/t/add-vocabularies-to-aid-type-included-2-03/847>`__)
+- Added :doc:`/codelists/BudgetNotProvided` Codelist (`#184 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/184>`__) (`Discussion link <https://discuss.iatistandard.org/t/add-budget-exempt-attribute-and-codelist-included-2-03/845>`__)
+- Added :doc:`/codelists/ResultVocabulary` Codelist (`#181 <https://github.com/IATI/IATI-Codelists/issues/181>`__) (`Discussion link <https://discuss.iatistandard.org/t/results-vocabulary-attribute-option-included-2-03/879>`__)
+- Added :doc:`/codelists/TagVocabulary` Codelist (`#178 <https://github.com/IATI/IATI-Codelists-NonEmbedded/issues/178>`__) (`Discussion link <https://discuss.iatistandard.org/t/non-statistical-secondary-sectors-excluded-2-03/849>`__)
 
 Updated Codelists
 -----------------
