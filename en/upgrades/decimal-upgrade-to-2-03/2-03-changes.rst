@@ -26,7 +26,7 @@ Activities Schema
 
 - Updated definition: `sector <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/sector/>`__ @vocabulary attribute (`#344 <https://github.com/IATI/IATI-Schemas/issues/344>`__). The % sign was removed.
 
-- Updated definition: [transaction `aid-type <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/transaction/aid-type/>`__, `default-aid-type <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/default-aid-type/>`__] @code attribute (`#345 <https://github.com/IATI/IATI-Schemas/issues/345>`__) (`discussion link <https://discuss.iatistandard.org/t/add-vocabularies-to-aid-type-included-2-03/847>`__)
+- Updated definition: [`transaction/aid-type <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/transaction/aid-type/>`__, `default-aid-type <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/default-aid-type/>`__] @code attribute (`#345 <https://github.com/IATI/IATI-Schemas/issues/345>`__) (`discussion link <https://discuss.iatistandard.org/t/add-vocabularies-to-aid-type-included-2-03/847>`__)
 
 - Added new @vocabulary attributes for elements relating to `aid-type <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/transaction/aid-type/>`__ (`#346 <https://github.com/IATI/IATI-Schemas/issues/346>`__) (`discussion link <https://discuss.iatistandard.org/t/add-vocabularies-to-aid-type-included-2-03/847>`__)
 
@@ -36,7 +36,7 @@ Activities Schema
 
 - Updated occurrence: `default-aid-type <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/default-aid-type/>`__ element (`#350 <https://github.com/IATI/IATI-Schemas/issues/350>`__) (`discussion link <https://discuss.iatistandard.org/t/add-vocabularies-to-aid-type-included-2-03/847>`__)
 
-- Updated occurrence: transaction  `aid-type <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/transaction/aid-type/>`__ element (`#351 <https://github.com/IATI/IATI-Schemas/issues/351>`__) (`discussion link <https://discuss.iatistandard.org/t/add-vocabularies-to-aid-type-included-2-03/847>`__)
+- Updated occurrence: `transaction/aid-type <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/transaction/aid-type/>`__ element (`#351 <https://github.com/IATI/IATI-Schemas/issues/351>`__) (`discussion link <https://discuss.iatistandard.org/t/add-vocabularies-to-aid-type-included-2-03/847>`__)
 
 Changes and Additions to the **Result** element:
 
@@ -58,11 +58,11 @@ Changes and Additions to the **Result** element:
 
 - Added new `reference <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/result/reference/>`__ element (as a child of the `result <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/result/>`__ element) (`#362 <https://github.com/IATI/IATI-Schemas/issues/362>`__) (`discussion link <https://discuss.iatistandard.org/t/results-vocabulary-attribute-option-included-2-03/879>`__)
 
-- Added new @aggregation-status attribute for the `indicator <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/result/indicator/>`__ element (`#363 <https://github.com/IATI/IATI-Schemas/issues/363>`__) (`discussion link <https://discuss.iatistandard.org/t/results-improve-consistency-of-results-standard-included-2-03/874>`__)
+- Added new @aggregation-status attribute for the `result/indicator <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/result/indicator/>`__ element (`#363 <https://github.com/IATI/IATI-Schemas/issues/363>`__) (`discussion link <https://discuss.iatistandard.org/t/results-improve-consistency-of-results-standard-included-2-03/874>`__)
 
-- Added new `location <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/result/indicator/baseline/location/>`__ element (as a child of the `baseline <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/result/indicator/baseline/>`__ element) (`#365 <https://github.com/IATI/IATI-Schemas/issues/365>`__) (`discussion link <https://discuss.iatistandard.org/t/results-improve-consistency-of-results-standard-included-2-03/874>`__)
+- Added new `location <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/result/indicator/baseline/location/>`__ element (as a child of the `result/indicator/baseline <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/result/indicator/baseline/>`__ element) (`#365 <https://github.com/IATI/IATI-Schemas/issues/365>`__) (`discussion link <https://discuss.iatistandard.org/t/results-improve-consistency-of-results-standard-included-2-03/874>`__)
 
-- Added new `dimension <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/result/indicator/baseline/dimension/>`__ element (as a child of the `baseline <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/result/indicator/baseline/>`__ element) (`#366 <https://github.com/IATI/IATI-Schemas/issues/366>`__) (`discussion link <https://discuss.iatistandard.org/t/results-allow-disaggregations-of-results-data-included-2-03/871>`__)
+- Added new `dimension <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/result/indicator/baseline/dimension/>`__ element (as a child of the `result/indicator/baseline <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/result/indicator/baseline/>`__ element) (`#366 <https://github.com/IATI/IATI-Schemas/issues/366>`__) (`discussion link <https://discuss.iatistandard.org/t/results-allow-disaggregations-of-results-data-included-2-03/871>`__)
 
 Organisations Schema
 -------------------
