@@ -122,13 +122,7 @@ Alongside 2.03, the following codelists have moved from Embedded to Non-Embedded
 -	:doc:`/codelists/ResultType`
 -	:doc:`/codelists/SectorVocabulary`
 -	:doc:`/codelists/TiedStatus`
--	:doc:`/codelists/ResultType`
 -	:doc:`/codelists/VerificationStatus`
--	:doc:`/codelists/PublisherType`
--	:doc:`/codelists/PolicyMarkerVocabulary`
--	:doc:`/codelists/PolicyMarker`
--	:doc:`/codelists/RegionVocabulary`
--	:doc:`/codelists/TiedStatus`
 
 New Codelists
 -------------
