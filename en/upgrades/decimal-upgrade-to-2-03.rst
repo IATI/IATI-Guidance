@@ -7,7 +7,9 @@ Decimal Upgrade to 2.03
 
    decimal-upgrade-to-2-03/*
 
-The process for the next decimal upgrade of the IATI Standard (to version 2.03) will start on Friday 12 May 2017. The full timetable below outlines each phase of the upgrade process and includes information on when input is invited from the IATI Community. We anticipate the end of this upgrade process and the release of version 2.03 on **Monday 8 January 2017**.
+The process for the decimal upgrade of the IATI Standard (to version 2.03) started on Friday 12 May 2017. The full timetable below outlines each phase of the upgrade process and includes information on when input was invited from the IATI Community.
+
+Version 2.03 was released on **Monday 19 February 2018**.
 
 Specific proposals and public consultations in the upgrade process are available in the `2.03 section on IATI’s online forum <https://discuss.iatistandard.org/c/standard-management/2-03-decimal-upgrade-proposals>`__ .
 
@@ -60,6 +62,6 @@ Specific proposals and public consultations in the upgrade process are available
      - Monday 8 January 2018
    * - Approval and Go Live
      - Monday 8 January 2018
-     - We will work to ensure core IATI secretariat tools are compatible with the new version. Version 2.03 goes live.
+     - Version 2.03 website released. We will also work to ensure core IATI secretariat tools are compatible with the new version.
      - -
-     - 
+     - Monday 19 February 2018
