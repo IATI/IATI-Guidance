@@ -96,7 +96,7 @@ Alongside 2.03, the following codelists have moved from Embedded to Non-Embedded
 
 -	:doc:`/codelists/ActivityScope`
 -	:doc:`/codelists/BudgetIdentifier`
--	:doc:`/codelists/BudgetIdentifierSector-Category`
+-	:doc:`/codelists/BudgetIdentifierSector-category`
 -	:doc:`/codelists/BudgetIdentifierSector`
 -	:doc:`/codelists/BudgetIdentifierVocabulary`
 -	:doc:`/codelists/CRSAddOtherFlags`
@@ -104,7 +104,7 @@ Alongside 2.03, the following codelists have moved from Embedded to Non-Embedded
 -	:doc:`/codelists/ContactType`
 -	:doc:`/codelists/DescriptionType`
 -	:doc:`/codelists/DisbursementChannel`
--	:doc:`/codelists/DocumentCategory-Category`
+-	:doc:`/codelists/DocumentCategory-category`
 -	:doc:`/codelists/GeographicExactness`
 -	:doc:`/codelists/GeographicLocationClass`
 -	:doc:`/codelists/GeographicLocationReach`
