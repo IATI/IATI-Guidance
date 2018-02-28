@@ -301,6 +301,10 @@ Updates to the IATI Organisation Identifier codelist
      - XI-IATI-EBRD
      - European Bank for Reconstruction and Development
      - See `Add An Entry For EBRD To The IATI Organisation Identifier Codelist <http://support.iatistandard.org/entries/81933269-Add-An-Entry-For-EBRD-To-The-IATI-Organisation-Identifier-Codelist>`__ on the support forum.
+   * - 20th August 2015
+     - XI-IATI-1002
+     - United Mission to Nepal
+     - See `Add United Mission to Nepal to IATI Organisation Identifier Codelist <https://support.iatistandard.org/hc/en-us/articles/214389806-Add-United-Mission-to-Nepal-to-IATI-Organisation-Identifier-Codelist>`__ on the support forum.
    * - 13th August 2015
      - XI-IATI-IADB
      - Inter-American Development Bank
