@@ -318,7 +318,7 @@ Updates to the IATI Organisation Identifier codelist
      - European Commission - Neighbourhood and Enlargement Negotiations
      - See `Add An Entry For EC DG NEAR To The IATI Organisation Identifier Codelist <http://support.iatistandard.org/entries/81488265-Add-An-Entry-For-EC-DG-NEAR-To-The-IATI-Organisation-Identifier-Codelist>`__ on the support forum.
    * - 25th February 2015
-     - 1001
+     - XI-IATI-1001
      - The Coca-Cola Export Corporation
      - See `Add Coca-Cola To The IATI Organisation Identifier Codelist <http://support.iatistandard.org/entries/79006865-Add-Coca-Cola-To-The-IATI-Organisation-Identifier-Codelist>`__ on the support forum.
 
