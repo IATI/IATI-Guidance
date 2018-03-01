@@ -1,5 +1,5 @@
 Structure of data
-=====
+=================
 
 Raw data results of XML and JSON queries to the Datastore API have added metadata. This lets you see information about your query.
 
