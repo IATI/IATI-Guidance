@@ -65,12 +65,12 @@ Changes and Additions to the **Result** element:
 - Added new `dimension <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/result/indicator/baseline/dimension/>`__ element (as a child of the `result/indicator/baseline <http://iatistandard.org/203/activity-standard/iati-activities/iati-activity/result/indicator/baseline/>`__ element) (`#366 <https://github.com/IATI/IATI-Schemas/issues/366>`__) (`discussion link <https://discuss.iatistandard.org/t/results-allow-disaggregations-of-results-data-included-2-03/871>`__)
 
 Organisations Schema
--------------------
+--------------------
 
 - Updated definition: `organisation-identifier <http://iatistandard.org/203/organisation-standard/iati-organisations/iati-organisation/organisation-identifier/>`__ element (`#361 <https://github.com/IATI/IATI-Schemas/issues/361>`__) (`discussion link <https://discuss.iatistandard.org/t/migration-of-organisationregistrationagency-codelist-to-org-id-guide-included-2-03/851>`__)
 
 Activities and Organisations Schemas
--------------------
+------------------------------------
 
 - Updated definition: all @xml:lang attributes (`#336 <https://github.com/IATI/IATI-Schemas/issues/336>`__) (`discussion link <https://discuss.iatistandard.org/t/language-recommend-use-of-iso-639-1-included-2-03/842>`__)
 
@@ -92,7 +92,7 @@ Codelist Changes
 A full diff of all **embedded** codelist changes in 2.03 can be found in the `IATI GitHub <https://github.com/IATI/IATI-Codelists/compare/version-2.02...version-2.03#files_bucket>`__
 
 Embedded to Non-Embedded:
-------------------------
+-------------------------
 
 Alongside 2.03, the following codelists have moved from Embedded to Non-Embedded (`#114 <https://github.com/IATI/IATI-Codelists/issues/114>`__) (`Discussion link <https://discuss.iatistandard.org/t/redefine-selected-codelists-as-non-embedded-included-2-03/854>`__):
 
@@ -154,7 +154,7 @@ Updated Codelists
  .. _2_03_ruleset_changes:
 
 Ruleset Changes
-================
+===============
 
 A full diff of all Ruleset changes in 2.03 can be found in the `IATI GitHub <https://github.com/IATI/IATI-Codelists/compare/version-2.02...version-2.03#files_bucket>`__
 

@@ -1,11 +1,10 @@
 Select a publishing tool or service
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 There are a number of different tools and services available to help organisations create their IATI xml files. The tools and services options offer different levels of support, automation and pricing. Do have a look through the summaries below when deciding what publishing option is best for your organisation.
 
 Available publishing tools:
->>>>>>>>>>>>>>>>>>>>>>
->>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 The following tools and services are currently available to organisations to start using:
 
@@ -17,14 +16,14 @@ Aidstream (http://www.aidstream.org) is a free online data entry and management 
 More information about the tool can be found `here <https://github.com/younginnovations/aidstream/wiki/User-Guide>`__. For general enquiries please contact: support@aidstream.org.
 
 Akvo RSR
-=========================
+========
 
 `Akvo Really Simple Reporting <http://akvo.org/products/rsr/#overview>`__ (RSR) is an online platform for reporting, monitoring, and publicly communicating international development programs. Features include management, tracking, and updating of projects from the desk or remotely, and RSR enables users to automatically push or pull data to or from the IATI registry.
 
 More information about pricing can be found `here <http://akvo.org/products/rsr/#pricing>`__. For general enquiries, `contact Akvo <http://akvo.org/get-in-touch/>`__.
 
 Spreadsheet2IATI Service
-=========================
+========================
 
 The Spreadsheet2IATI service is a tool that makes producing valid IATI data easy and accessible, streamlining the reporting process. 
 
@@ -41,28 +40,26 @@ Our focus is on serving Internationally oriented organizations and NGOs that are
 For general enquiries please send us an e-mail: contact@projectconnect.info or visit `the ProjectConnect website <https://projectconnect.info/>`__.
 
 Upcoming publishing tools and services:
->>>>>>>>>>>>>>>>>>>>>>
->>>>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 These are tools and services that are currently in development and testing phase. They will soon be available to organisations.
 
 CoVE
-====================
+====
 
 CoVE is an web application to Convert, Validate and Explore data following certain open data standards - currently 360Giving and the Open Contracting Data standard. The Open Data Services Team are updating it to work with the IATI Data Standard. The tool will allow organisations to transform CSV files into IATI XML.
 
 More information can be found `here <http://cove.opendataservices.coop>`__. For general enquiries, `contact Open Data Services <http://www.opendataservices.coop/>`__.
 
 IATI Studio Publisher
-====================
+=====================
 
 `IATI Studio Publisher <https://www.iatistudio.com/>`__ allows for validated IATI publication, both on activity level and organisation level. Drafted data will be available before the user chooses to export the data to a valid XML file and the service is integrated with the IATI Studio Chart Builder and Micro-site Builder, more details of which can be `found here <https://www.iatistudio.com/features/>`__.
 
 Core functionality is free; more information about pricing in premium packages can be found `here <https://www.iatistudio.com/membership/>`__. For general enquiries, `contact the IATI Studio team <https://www.iatistudio.com/support/>`__.
 
 Bespoke (In House Applications):
->>>>>>>>>>>>>>>>>>>>>>
->>>>>>>>>>>>>>>>>>>>>
+>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>>
 
 Organisations with internal technical expertise and capacity may decide to generate their own mechanisms for converting their data into IATI data. This can be done by developing internal systems and processes so that data is pulled together from internal management and finance systems to create XML data. This requires technical knowledge of both XML and the organisation's internal systems in order to create a programme to achieve this. This can be done with either internal technical expertise or by bringing in consultants to develop a bespoke package.
 
@@ -71,7 +68,7 @@ This is normally an option often chosen by large organisations reporting a large
 One example of how an organisation has created a bespoke publishing system is DFID's SQL-To-IATI: 
 
 SQL-To-IATI
-==============
+===========
 
 The `SQL-to-IATI tool <https://github.com/DFID/SQL-to-IATI-Database>`__ generates IATI XML data from activity data stored in a SQL database. DFID use this to publish their full set of 13000 activities each month, so it supports enterprise-grade IATI.
 
