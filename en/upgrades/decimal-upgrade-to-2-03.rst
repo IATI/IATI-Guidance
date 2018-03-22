@@ -64,4 +64,4 @@ Specific proposals and public consultations in the upgrade process are available
      - Monday 8 January 2018
      - Version 2.03 website released. We will also work to ensure core IATI secretariat tools are compatible with the new version.
      - -
-     - Monday 19 February 2018
+     - By Monday 19 February 2018
