@@ -301,6 +301,14 @@ Updates to the IATI Organisation Identifier codelist
      - XI-IATI-EBRD
      - European Bank for Reconstruction and Development
      - See `Add An Entry For EBRD To The IATI Organisation Identifier Codelist <http://support.iatistandard.org/entries/81933269-Add-An-Entry-For-EBRD-To-The-IATI-Organisation-Identifier-Codelist>`__ on the support forum.
+   * - 20th August 2015
+     - XI-IATI-1002
+     - United Mission to Nepal
+     - See `Add United Mission to Nepal to IATI Organisation Identifier Codelist <https://support.iatistandard.org/hc/en-us/articles/214389806-Add-United-Mission-to-Nepal-to-IATI-Organisation-Identifier-Codelist>`__ on the support forum.
+   * - 13th August 2015
+     - XI-IATI-IADB
+     - Inter-American Development Bank
+     - See `Add An Entry For IADB to the IATI Organisation Identifier Codelist <https://support.iatistandard.org/hc/en-us/articles/214389786>`__ on the support forum.
    * - 27th May 2015
      - XI-IATI-EC_ECHO
      - European Commission - Humanitarian Aid & Civil Protection
@@ -318,7 +326,7 @@ Updates to the IATI Organisation Identifier codelist
      - European Commission - Neighbourhood and Enlargement Negotiations
      - See `Add An Entry For EC DG NEAR To The IATI Organisation Identifier Codelist <http://support.iatistandard.org/entries/81488265-Add-An-Entry-For-EC-DG-NEAR-To-The-IATI-Organisation-Identifier-Codelist>`__ on the support forum.
    * - 25th February 2015
-     - 1001
+     - XI-IATI-1001
      - The Coca-Cola Export Corporation
      - See `Add Coca-Cola To The IATI Organisation Identifier Codelist <http://support.iatistandard.org/entries/79006865-Add-Coca-Cola-To-The-IATI-Organisation-Identifier-Codelist>`__ on the support forum.
 
