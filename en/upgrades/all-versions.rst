@@ -9,11 +9,13 @@ Current live versions
 
 The current live versions are:
 
+- 2.03: http://iatistandard.org/203/
+
 - 2.02: http://iatistandard.org/202/
 
 - 2.01: http://iatistandard.org/201/
 
-- 1.05: http://iatistandard.org/105/
+- 1.05: http://iatistandard.org/105/
 
 
 Previous Versions
@@ -32,6 +34,10 @@ Previous versions of the IATI Standard are available.  Publishers are able to re
 Changelogs
 ----------
 Changelogs are available for all versions of the IATI Standard
+
+- 2.03: http://iatistandard.org/upgrades/decimal-upgrade-to-2-03/2-03-changes/
+
+- 2.02: http://iatistandard.org/upgrades/decimal-upgrade-to-2-02/2-02-changes/
 
 - 2.01: http://iatistandard.org/upgrades/integer-upgrade-to-2-01/2-01-changes/
 

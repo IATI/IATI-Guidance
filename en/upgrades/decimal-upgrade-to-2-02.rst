@@ -8,8 +8,7 @@ Decimal Upgrade to 2.02
    decimal-upgrade-to-2-02/*
 
 
-The third decimal upgrade of the IATI standard took place
-during the autumn/winter of 2015.
+The 2.02 decimal upgrade of the IATI standard took place during the autumn/winter of 2015.
 
 Version 2.02 was released on Monday 7 December 2015.
 
