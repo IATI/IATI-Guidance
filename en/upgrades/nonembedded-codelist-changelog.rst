@@ -342,6 +342,11 @@ Updates to other non-embedded codelists
      - Change description
      - Notes
      - Discussion
+   * - 21st March 2018
+     - :doc:`FlowType </codelists/FlowType>`
+     - Mark a code as withdrawn.
+     - Bring the list up-to-date with those published by the OECD DAC.
+     - See `December 2017 DAC codelist updates <https://discuss.iatistandard.org/t/december-2017-dac-codelist-updates/1169/11>`__
    * - 6th November 2017
      - :doc:`Country </codelists/Country>`
      - Mark a code as withdrawn.
