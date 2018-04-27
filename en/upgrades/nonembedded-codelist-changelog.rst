@@ -9,7 +9,7 @@ This page details any additions of changes to Non-embedded codelists.  Further i
 
 Updates to the Organisation Registration Agency codelist
 --------------------------------------------------------
-The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>` is subject to the most volume of updates and additions.
+The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>` is subject to the most volume of updates and additions. Since 17 July 2017, this list is administered by the `org-id.guide project <http://org-id.guide/>`_.  IATI no long provides a changelog for this list. Please consult the `org-id.guide project <http://org-id.guide/>`_ for a full list of changes.
 
 .. list-table:: New codes added to non-embedded codelists (most recent first)
    :widths: 10 20 20 30 20
