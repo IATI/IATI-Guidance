@@ -37,7 +37,7 @@ Bond has its own set of FAQS aimed at NGOS - see http://www.bond.org.uk/transpar
 
 Bond IATI Training Sessions 
 >>>>>>>>>>>>>>>>>>>>>>>>>>>
-Bond run regular IATI training sessions - see https://www.eventbrite.co.uk/e/introduction-to-iati-publishing-for-uk-ngos-tickets-9436068535. To qualify for a free place, your organisation must be a member of Bond, NIDOS, CADA or Welsh Hub, or be in receipt of a DFID grant. If you don't qualify for a free place then contact Bond at transparency@bond.org.uk
+Bond run regular IATI publishing essentials workshops, which provide workshop participants with an opportunity to engage with the practical elements of the IATI data standard. To find out more or to attend, please see: https://www.bond.org.uk/events/iati-publishing-essentials
 
 
 
