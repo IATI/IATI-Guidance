@@ -495,6 +495,16 @@ Updates to names/descriptions of other non-embedded codelists
      - Change description
      - Notes
      - Discussion
+   * - 19th July 2018
+     - :doc:`Country </codelists/Country>`
+     - Change of description for code SZ. Now eSwatini
+     - Changes made after confirmation that the ISO country codelist has been updated.
+     - See the relevant `Discuss <https://discuss.iatistandard.org/t/update-to-the-iso-country-codelist-sz-eswatini/13976>`__ post
+   * - 19th July 2018
+     - :doc:`HumanitarianScopeVocabulary </codelists/HumanitarianScopeVocabulary>`
+     - Change of URL for Code: 2-1, Name: Humanitarian Plan
+     - Changes made after confirmation from OCHA FTS that the codelist is alligned and up to date with the orginial source
+     - See the relevant `Discuss <https://discuss.iatistandard.org/t/updated-url-for-the-humanitarian-plan-codelist/1396>`__ post
    * - 29th October 2015
      - :doc:`FlowType </codelists/FlowType>`
      - Multiple edits made to synchronise IATI Non-Embedded code names and descriptions with the OECD DAC definition.
