@@ -495,6 +495,11 @@ Updates to names/descriptions of other non-embedded codelists
      - Change description
      - Notes
      - Discussion
+   * - 24th July 2018
+     - :doc:`Country </codelists/Country>`
+     - Update the names in the Country Codelist to reflect the ISO Country codelist
+     - Significant changes are LIBYAN ARAB JAMAHIRIYA to LIBYA and PALESTINIAN TERRITORY, OCCUPIED to PALESTINE, STATE OF
+     - `ISO Country Codelist <https://www.iso.org/obp/ui/#search>`__
    * - 19th July 2018
      - :doc:`Country </codelists/Country>`
      - Change of description for code SZ. Now eSwatini
