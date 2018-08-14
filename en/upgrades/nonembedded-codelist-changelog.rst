@@ -342,6 +342,11 @@ Updates to other non-embedded codelists
      - Change description
      - Notes
      - Discussion
+   * - 8th August 2018
+     - :doc:`Currency </codelists/Currency>`
+     - Updated the Currency codelist to reflect changes to the ISO Currency codelist as of 1st January 2018.
+     - Noteable changes are the new codes for the Belarussian Ruble, Ouguiya, Dobra and Zambian Kwacha. New codes have been added for these four, and previous codes have been withdrawn.
+     - See the discussion `here <https://discuss.iatistandard.org/t/updates-to-the-iso-currency-codelist/1424>`__
    * - 6th November 2017
      - :doc:`Country </codelists/Country>`
      - Mark a code as withdrawn.
