@@ -53,6 +53,5 @@ A technical changelog is also available alongside the IATI schema: http://iatist
 
 Upgrade Processes
 ----------
-Version 2.03 followed the current `upgrade process <http://iatistandard.org/upgrades>`__
-Version 2.02 and prior upgrades followed the `previous upgrade process <http://iatistandard.org/upgrades/all-versions/previous-process>`__
+Version 2.03 and prior upgrades followed the `previous upgrade process <http://iatistandard.org/upgrades/all-versions/previous-process>`__
 
