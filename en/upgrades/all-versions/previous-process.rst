@@ -1,10 +1,10 @@
 Previous Upgrade Process
 ========
 
-Over time the IATI Standard is upgraded, the changes to some or all of those parts of the standard are driven by the suggestions and experiences of the publishers and users of IATI data. Up to, and including, the version 2.02 upgrade the process was managed by the IATI Steering Committee through its Secretariat and Technical Advisory Group.
-The upgrade process that was followed is detailed below.
+Over time the IATI Standard is upgraded, the changes to some or all of those parts of the standard are driven by the suggestions and experiences of the publishers and users of IATI data. The upgrade process below was used up to, and including, version 2.03 of the IATI standard.
 
-Changes to the upgrade process were made at the version 2.03 upgrade and will become fully implemented at the next major (previously integer) upgrade. The current process can be found on the `Upgrades section of the IATI Standard website <http://iatistandard.org/upgrades>`__ 
+**Note**: For information about the current upgrade process agreed at the IATI Members' Assembly in 2017, please go to `Upgrades section of the IATI Standard website <http://iatistandard.org/upgrades>`__ .
+
 
 Minor Changes
 ~~~~~~~~~~~~~
@@ -103,3 +103,4 @@ Consultation, and progress on the upgrade will be available in public via
 IATI websites.
 
 Integer upgrades will require the formal consent of members.
+
