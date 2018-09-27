@@ -342,6 +342,11 @@ Updates to other non-embedded codelists
      - Change description
      - Notes
      - Discussion
+   * - 20th August 2018
+     - :doc:`Currency </codelists/Currency>`
+     - Added status 'withdrawn' to the USS - US Dollar (Same Day) currency, as per the ISO currency codelist.
+     - Change was put on hold whilst discussing which codes should be marked as 'withdrawn'.
+     - See the discussion `here <https://discuss.iatistandard.org/t/updates-to-the-iso-currency-codelist/1424>`__
    * - 8th August 2018
      - :doc:`Currency </codelists/Currency>`
      - Updated the Currency codelist to reflect changes to the ISO Currency codelist as of 1st January 2018.
