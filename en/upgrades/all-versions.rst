@@ -1,6 +1,12 @@
 All Versions
 ============
 
+.. toctree::
+   :hidden:
+   :glob:
+
+   all-versions/*
+
 Links to all versions IATI Standard documentation are available below. This
 includes versions of the documentation, schemas and codelists.
 

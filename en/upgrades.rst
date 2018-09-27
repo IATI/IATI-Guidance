@@ -5,7 +5,6 @@ Upgrades
 	 :hidden:
 
 	 upgrades/all-versions
-	 upgrades/all/versions/previous-process
 	 upgrades/nonembedded-codelist-changelog
 	 upgrades/decimal-upgrade-to-2-03
 	 upgrades/decimal-upgrade-to-2-02
