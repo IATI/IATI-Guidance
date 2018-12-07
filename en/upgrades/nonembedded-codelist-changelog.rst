@@ -346,7 +346,7 @@ Updates to other non-embedded codelists
      - :doc:`Currency </codelists/Currency>`
      - Updated the Currency codelist to reflect changes to the ISO Currency codelist as of 6th December 2018.
      - Added status 'withdrawn' to the VEF - Bolivar currency and added new code VES - Bolivar Soberano, as per the ISO currency codelist.
-     - See the discussion `here <https://discuss.iatistandard.org/t/update-currency-codelist-to-show-ves-bolivar-soberano/1591>`__      
+     - See the discussion `here <https://discuss.iatistandard.org/t/update-currency-codelist-to-show-ves-bolivar-soberano/1591>`__
   * - 20th August 2018
      - :doc:`Currency </codelists/Currency>`
      - Added status 'withdrawn' to the USS - US Dollar (Same Day) currency, as per the ISO currency codelist.
