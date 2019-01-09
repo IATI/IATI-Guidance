@@ -13,7 +13,9 @@ Note: Version 2.03 was released on Monday 19th February 2018.
 Schema Changes
 ==============
 
-A full diff of all schema changes in 2.03 can be found in the `IATI GitHub <https://github.com/IATI/IATI-Schemas/compare/version-2.02...version-2.03#files_bucket>`__
+A full diff of all schema changes in 2.03 can be found in the `IATI GitHub <https://github.com/IATI/IATI-Schemas/compare/version-2.02...version-2.03#files_bucket>`__.
+
+These changes are also shown in the `Final Technical Summary (spreadsheet) <https://docs.google.com/spreadsheets/d/1XWnzesMvLebIVLk47OIXATfhcjESVcaGnw8SJpOuCCk/edit#gid=708614106>`__. 
 
 Activities Schema
 -----------------
