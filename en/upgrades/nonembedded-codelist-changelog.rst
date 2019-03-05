@@ -342,6 +342,16 @@ Updates to other non-embedded codelists
      - Change description
      - Notes
      - Discussion
+   * - January 2019
+     - :doc:`AidType </codelists/AidType>`
+     - Bring the list up-to-date with those published by the OECD DAC.
+     - Added H03 and H04
+     - See the discussion `here <https://discuss.iatistandard.org/t/added-january-2019-dac-codelist-updates/1622>`__
+   * - January 2019
+     - :doc:`FinanceType-category </codelists/FinanceType-category>`
+     - Bring the list up-to-date with those published by the OECD DAC.
+     - Added Code 0
+     - See the discussion `here <https://discuss.iatistandard.org/t/added-january-2019-dac-codelist-updates/1622>`__
    * - 6th December 2018
      - :doc:`Currency </codelists/Currency>`
      - Updated the Currency codelist to reflect changes to the ISO Currency codelist as of 6th December 2018.
