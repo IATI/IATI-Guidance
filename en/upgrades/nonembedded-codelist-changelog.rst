@@ -343,6 +343,16 @@ Updates to other non-embedded codelists
      - Notes
      - Discussion
    * - January 2019
+     - :doc:`Sector </codelists/Sector>`
+     - Added several new codes
+     - Bring the list up-to-date with those published by the OECD DAC.
+     - See the discussion `here <https://discuss.iatistandard.org/t/added-january-2019-dac-codelist-updates/1622>`__
+   * - January 2019
+     - :doc:`FinanceType </codelists/FinanceType>`
+     - Added Codes 1, 2 & 4
+     - Bring the list up-to-date with those published by the OECD DAC.
+     - See the discussion `here <https://discuss.iatistandard.org/t/added-january-2019-dac-codelist-updates/1622>`__
+   * - January 2019
      - :doc:`AidType </codelists/AidType>`
      - Added H03 and H04
      - Bring the list up-to-date with those published by the OECD DAC.
