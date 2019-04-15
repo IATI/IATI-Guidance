@@ -1,9 +1,11 @@
-Non-Embedded Codelist Changelog
+Non-Core Codelist Changelog
 ===============================
 
-Non-embedded codelists are ‘non-functional’ codelists, that usually provide lookup information on e.g. currencies, languages in use, countries, etc. Often they are derived from third party lists and an addition or modification has a minor impact on the sense and use of the data.
+Non-core codelists are ‘non-functional’ codelists, that usually provide lookup information on e.g. currencies, languages in use, countries, etc. Often they are derived from third party lists and an addition or modification has a minor impact on the sense and use of the data.
 
-This page details any additions of changes to Non-embedded codelists.  Further information on `how IATI codelists are  managed <http://iatistandard.org/codelists/codelist-management/>`__.
+This page details any additions of changes to Non-core codelists. Further information on `how IATI codelists are  managed <http://iatistandard.org/codelists/codelist-management/>`__.
+
+Non-core codelists were previously called non-embedded.
 
 .. contents::
 
@@ -11,7 +13,7 @@ Updates to the Organisation Registration Agency codelist
 --------------------------------------------------------
 The :doc:`OrganisationRegistrationAgency </codelists/OrganisationRegistrationAgency>` is subject to the most volume of updates and additions. Since 17 July 2017, this list is administered by the `org-id.guide project <http://org-id.guide/>`_.  IATI no long provides a changelog for this list. Please consult the `org-id.guide project <http://org-id.guide/>`_ for a full list of changes.
 
-.. list-table:: New codes added to non-embedded codelists (most recent first)
+.. list-table:: New codes added to non-core codelists (most recent first)
    :widths: 10 20 20 30 20
    :header-rows: 1
 
@@ -296,7 +298,7 @@ Updates to the IATI Organisation Identifier codelist
    * - 20th November 2015
      - XI-IATI-IFDC
      - International Fertilizer Development Center
-     - See `Add Entry for International Fertilizer Development Center in Non Embedded Codelist <http://support.iatistandard.org/entries/83734349-Add-Entry-for-International-Fertilizer-Development-Center-in-Non-Embedded-Codelist>`__ on the support forum.
+     - See `Add Entry for International Fertilizer Development Center in Non-core Codelist <http://support.iatistandard.org/entries/83734349-Add-Entry-for-International-Fertilizer-Development-Center-in-Non-Embedded-Codelist>`__ on the support forum.
    * - 28th October 2015
      - XI-IATI-EBRD
      - European Bank for Reconstruction and Development
@@ -330,10 +332,10 @@ Updates to the IATI Organisation Identifier codelist
      - The Coca-Cola Export Corporation
      - See `Add Coca-Cola To The IATI Organisation Identifier Codelist <http://support.iatistandard.org/entries/79006865-Add-Coca-Cola-To-The-IATI-Organisation-Identifier-Codelist>`__ on the support forum.
 
-Updates to other non-embedded codelists
+Updates to other non-core codelists
 -----------------------------------------------
 
-.. list-table:: New codes added to non-embedded codelists (most recent first)
+.. list-table:: New codes added to non-core codelists (most recent first)
    :widths: 10 20 20 30 20
    :header-rows: 1
 
@@ -386,42 +388,42 @@ Updates to other non-embedded codelists
      - :doc:`AidType-category </codelists/AidType-category>`
      - Add French descriptions and add a URL.
      - Bring the list up-to-date with those published by the OECD DAC.
-     - See `Updates to various DAC CRS non-embedded codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
+     - See `Updates to various DAC CRS non-core codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
    * - 3rd July 2017
      - :doc:`AidType </codelists/AidType>`
      - Add French descriptions.
      - Bring the list up-to-date with those published by the OECD DAC.
-     - See `Updates to various DAC CRS non-embedded codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
+     - See `Updates to various DAC CRS non-core codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
    * - 3rd July 2017
      - :doc:`CRSChannelCode </codelists/CRSChannelCode>`
      - Mark a code as withdrawn.
      - Bring the list up-to-date with those published by the OECD DAC.
-     - See `Updates to various DAC CRS non-embedded codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
+     - See `Updates to various DAC CRS non-core codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
    * - 3rd July 2017
      - :doc:`CollaborationType </codelists/CollaborationType>`
      - Add new codes and modify some descriptions.
      - Bring the list up-to-date with those published by the OECD DAC.
-     - See `Updates to various DAC CRS non-embedded codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
+     - See `Updates to various DAC CRS non-core codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
    * - 3rd July 2017
      - :doc:`FinanceType-category </codelists/FinanceType-category>`
      - Add new codes, modify some descriptions, add some French descriptions and mark some codes as withdrawn.
      - Bring the list up-to-date with those published by the OECD DAC.
-     - See `Updates to various DAC CRS non-embedded codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
+     - See `Updates to various DAC CRS non-core codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
    * - 3rd July 2017
      - :doc:`FinanceType </codelists/FinanceType>`
      - Add new codes, modify some descriptions, add some French descriptions and mark some codes as withdrawn.
      - Bring the list up-to-date with those published by the OECD DAC.
-     - See `Updates to various DAC CRS non-embedded codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
+     - See `Updates to various DAC CRS non-core codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
    * - 3rd July 2017
      - :doc:`Sector </codelists/Sector>`
      - Add French descriptions.
      - Bring the list up-to-date with those published by the OECD DAC.
-     - See `Updates to various DAC CRS non-embedded codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
+     - See `Updates to various DAC CRS non-core codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
    * - 3rd July 2017
      - :doc:`SectorCategory </codelists/SectorCategory>`
      - Add French descriptions.
      - Bring the list up-to-date with those published by the OECD DAC.
-     - See `Updates to various DAC CRS non-embedded codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
+     - See `Updates to various DAC CRS non-core codelists <https://discuss.iatistandard.org/t/approved-updates-to-the-fileformat-codelist/903>`__
    * - 3rd July 2017
      - :doc:`FileFormat </codelists/FileFormat>`
      - Add new codes and modify some descriptions.
@@ -547,22 +549,22 @@ Updates to names/descriptions of other non-embedded codelists
      - See the relevant `Discuss <https://discuss.iatistandard.org/t/updated-url-for-the-humanitarian-plan-codelist/1396>`__ post
    * - 29th October 2015
      - :doc:`FlowType </codelists/FlowType>`
-     - Multiple edits made to synchronise IATI Non-Embedded code names and descriptions with the OECD DAC definition.
+     - Multiple edits made to synchronise IATI Non-core code names and descriptions with the OECD DAC definition.
      - Changes made after an audit of OECD DAC codes.
      - See `Update Names and Descriptions of DAC-Based Codelists <http://support.iatistandard.org/entries/106346876-Update-Names-and-Descriptions-of-DAC-Based-Codelists>`__ on the support forum.
    * - 29th October 2015
      - :doc:`FinanceType </codelists/FinanceType>`
-     - Multiple edits made to synchronise IATI Non-Embedded code names and descriptions with the OECD DAC definition.
+     - Multiple edits made to synchronise IATI Non-core code names and descriptions with the OECD DAC definition.
      - Changes made after an audit of OECD DAC codes.
      - See `Update Names and Descriptions of DAC-Based Codelists <http://support.iatistandard.org/entries/106346876-Update-Names-and-Descriptions-of-DAC-Based-Codelists>`__ on the support forum.
    * - 29th October 2015
      - :doc:`AidType </codelists/AidType>`
-     - Multiple edits made to synchronise IATI Non-Embedded code names and descriptions with the OECD DAC definition.
+     - Multiple edits made to synchronise IATI Non-core code names and descriptions with the OECD DAC definition.
      - Changes made after an audit of OECD DAC codes.
      - See `Update Names and Descriptions of DAC-Based Codelists <http://support.iatistandard.org/entries/106346876-Update-Names-and-Descriptions-of-DAC-Based-Codelists>`__ on the support forum.
    * - 29th October 2015
      - :doc:`Sector </codelists/Sector>`
-     - Multiple edits made to synchronise IATI Non-Embedded code names and descriptions with the OECD DAC definition.
+     - Multiple edits made to synchronise IATI Non-core code names and descriptions with the OECD DAC definition.
      - Changes made after an audit of OECD DAC codes.
      - See `Update Names and Descriptions of DAC-Based Codelists <http://support.iatistandard.org/entries/106346876-Update-Names-and-Descriptions-of-DAC-Based-Codelists>`__ on the support forum.
    * - 7th October 2014
