@@ -5,7 +5,7 @@ Upgrades
 	 :hidden:
 
 	 upgrades/all-versions
-	 upgrades/nonembedded-codelist-changelog
+	 upgrades/noncore-codelist-changelog
 	 upgrades/decimal-upgrade-to-2-03
 	 upgrades/decimal-upgrade-to-2-02
 	 upgrades/integer-upgrade-to-2-01
@@ -16,7 +16,7 @@ Upgrades
 
 The IATI standard is a living entity that will require improvement over time.
 
-The standard is a collection of XML schema, embedded codelists, non-embedded codelists, documentation and rules.
+The standard is a collection of XML schema, core codelists, non-core codelists, documentation and rules.
 
 Changes to some or all of those parts of the standard will be driven by the suggestions and experiences of the publishers and users of IATI data. Minor (previously decimal) upgrades can be initiated by the `Governing Board <https://iatistandard.org/en/about/governance/who-runs-iati/>`__, following advice from the TAG Chair and the Technical Lead. Major upgrades can be initiated by the `Members’ Assembly <https://iatistandard.org/en/about/join-iati/members-assembly/>`__, following the advice from the Governing Board.
 
@@ -46,7 +46,7 @@ Minor (previously decimal) upgrades can cover changes that are optional and back
 
 -  Bug-fixes, including resolution of spelling and grammar errors (where edits have implications for usage and/or meaning)
 
--  Modifications to embedded codelists
+-  Modifications to core codelists
 
 -  Minor additions to the standard which improve the functionality without introducing substantial new content
 
