@@ -3,7 +3,7 @@ Activity budgets
 
 It is recommended that each activity with planned spending that is published to IATI includes one or more budgets. These budgets form the total funding expected to be spent as part of the activity. This allows data users to track the activity budget against the declared spend, to understand the stage of the activity.
 
-*If an activity **does not** expect to have any spend (disbursements or expenditure), **and** spend is being published in a sub-activity, then a budget figure should not be provided.*
+  *If an activity **does not** expect to have any spend (disbursements or expenditure), **and** spend is being published in a sub-activity, then a budget figure should not be provided.*
 
 Activity budgets should be added as soon as possible. They can then be updated over time as more or less funding comes in, or the scope of the activity changes.
 
@@ -126,42 +126,62 @@ Technical guidance summary
 
 All activities should include the elements below, when publishing an activity budget.
 
-.. list-table::
-   :widths: 16 28 28 28
-   :header-rows: 1
 
-
-   * - Element
-     - Use
-     - Rules
-     - Guidance
-
-   * - `budget <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/budget/>`__
-     - This provides the financial budget for the activity, broken down by time periods of a year or less.
-     -
-     - The attribute type (original or revised) and status (indicative or committed) should be declared.
-
-       If not declared, the budget is presumed to be original and indicative.
-
-   * - `period-start <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/budget/period-start/>`__
-     - An iso-code for the start date of the budget.
-     - The elements period-start and period-end must appear only once within each budget element.
-
-       The period-start date must be before or the same as the period-end date.
-
-       The period published must be no longer than one year
-     - Publishing budgets for each quarter is helpful for data users.
-
-   * - `period-end <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/budget/period-end/>`__
-     - An iso-code for the end date of the budget.
-     -
-     -
-
-   * - `value <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/budget/value/>`__
-     - The financial value of the budget for the declared period.
-
-       The `currency <http://reference.iatistandard.org/codelists/Currency/>`__ and value-date can also be declared for the value.
-     - This element must appear only once within each budget element.
-
-       The value-date must be declared for the value.
-     - The currency attribute is required, unless a default currency has been provided for the activity.
++----------------+----------------+----------------+----------------+
+| Element        | Use            | Rules          | Guidance       |
++----------------+----------------+----------------+----------------+
+| `budget        | This provides  |                | The attributes |
+| <http://refere | the financial  |                | type (original |
+| nce.iatistanda | budget for the |                | or revised)    |
+| rd.org/activit | activity,      |                | and status     |
+| y-standard/iat | broken down by |                | (indicative or |
+| i-activities/i | time periods   |                | committed)     |
+| ati-activity/b | of a year or   |                | should be      |
+| udget/>`__     | less.          |                | declared.      |
+|                |                |                |                |
+|                |                |                | If not         |
+|                |                |                | declared, the  |
+|                |                |                | budget is      |
+|                |                |                | presumed to be |
+|                |                |                | original and   |
+|                |                |                | indicative.    |
++----------------+----------------+----------------+----------------+
+| `period-s      | An iso-code    | The elements   | Publishing     |
+| tart <http://r | for the start  | period-start   | budgets for    |
+| eference.iatis | date of the    | and period-end | each quarter   |
+| tandard.org/ac | budget.        | must appear    | is helpful for |
+| tivity-standar |                | only once      | data users.    |
+| d/iati-activit |                | within each    |                |
+| ies/iati-activ |                | budget         |                |
+| ity/budget/per |                | element.       |                |
+| iod-start/>`__ |                |                |                |
++----------------+----------------+ The            |                |
+| `period-end    | An iso-code    | period-start   |                |
+| <http://refere | for the end    | date must be   |                |
+| ne.iatistandar | date of the    | before or the  |                |
+| d.org/activity | budget.        | same as the    |                |
+| -standard/iati |                | period-end     |                |
+| -activities/ia |                | date.          |                |
+| ti-activity/bu |                |                |                |
+| dget/period-en |                | The period     |                |
+| d/>`__         |                | reported must  |                |
+|                |                | be no longer   |                |
+|                |                | than one year  |                |
++----------------+----------------+----------------+----------------+
+| `value <h      | The financial  | This element   | The currency   |
+| ttp://referenc | value of the   | must appear    | attribute is   |
+| e.iatistandard | budget for the | only once      | required,      |
+| .org/activity- | declared       | within each    | unless a       |
+| standard/iati- | period.        | budget         | default        |
+| activities/iat |                | element.       | currency has   |
+| i-activity/bud | The            |                | been provided  |
+| get/value/>`__ | `currency <h   | The value-date | for the        |
+|                | ttp://referenc | must be        | activity.      |
+|                | e.iatistandard | declared for   |                |
+|                | .org/codelists | the value.     |                |
+|                | /Currency/>`__ |                |                |
+|                | and value-date |                |                |
+|                | can also be    |                |                |
+|                | declared for   |                |                |
+|                | the value.     |                |                |
++----------------+----------------+----------------+----------------+
