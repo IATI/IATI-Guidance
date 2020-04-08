@@ -10,10 +10,12 @@ Publishing relevant countries and regions allows data users to analyse the resou
 
 Location data provides more context about an activity, such as the names of specific sub-national regions benefiting from the activity. Many partner-country governments and civil society organisations find this particularly useful for assessing which communities are benefiting from activities. It also gives them the opportunity to contact an organisation active in a certain location. Geo-coordinates allow activities to be plotted onto maps, which can then show the breadth and locations of activities published to IATI.
 
-`*IATI countries and regions* <https://drive.google.com/open?id=18P3vSUKK2iWCnXCrORDVAHR8K_EIg8Pp>`__
+`IATI countries and regions <https://drive.google.com/open?id=18P3vSUKK2iWCnXCrORDVAHR8K_EIg8Pp>`__
+---------------------------------------------------------------------------------------------------
 
 Find out what country and region information can be added to activity files. This covers details of what can be published at activity level, and what can be published at transaction level.
 
-`*IATI sub-national locations* <https://drive.google.com/file/d/1GYRE3FBhf2W4wkpTzbgKFtAWYSLG4Jw8>`__
+`IATI sub-national locations <https://drive.google.com/file/d/1GYRE3FBhf2W4wkpTzbgKFtAWYSLG4Jw8>`__
+---------------------------------------------------------------------------------------------------
 
 Find out what sub-national location information can be added to activities. This includes specifying beneficiaries, and detailed information about where they are based.
