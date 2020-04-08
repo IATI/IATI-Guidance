@@ -146,15 +146,15 @@ All activities should include the elements below, when publishing an activity bu
 |                |                |                | original and   |
 |                |                |                | indicative.    |
 +----------------+----------------+----------------+----------------+
-| `period-s      | An iso-code    | The elements   | Publishing     |
-| tart <http://r | for the start  | period-start   | budgets for    |
-| eference.iatis | date of the    | and period-end | each quarter   |
-| tandard.org/ac | budget.        | must appear    | is helpful for |
-| tivity-standar |                | only once      | data users.    |
-| d/iati-activit |                | within each    |                |
-| ies/iati-activ |                | budget         |                |
-| ity/budget/per |                | element.       |                |
-| iod-start/>`__ |                |                |                |
+| `period-start  | An iso-code    | The elements   | Publishing     |
+| <http://refere | for the start  | period-start   | budgets for    |
+| nce.iatistanda | date of the    | and period-end | each quarter   |
+| rd.org/activit | budget.        | must appear    | is helpful for |
+| y-standard/iat |                | only once      | data users.    |
+| i-activities/i |                | within each    |                |
+| ati-activity/b |                | budget         |                |
+| udget/period-s |                | element.       |                |
+| tart/>`__      |                |                |                |
 +----------------+----------------+ The            |                |
 | `period-end    | An iso-code    | period-start   |                |
 | <http://refere | for the end    | date must be   |                |
