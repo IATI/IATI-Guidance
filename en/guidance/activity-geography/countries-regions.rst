@@ -66,23 +66,23 @@ Please note:
 
 For data published at activity level:
 
- -  Multiple recipient countries and regions can be declared. Each recipient must have a percentage.
+- Multiple recipient countries and regions can be declared. Each recipient must have a percentage.
 
- -  The percentage of all recipient countries plus regions (within a specific region vocabulary) must add up to 100%.
+- The percentage of all recipient countries plus regions (within a specific region vocabulary) must add up to 100%.
 
- -  Multiple region vocabularies can be used. Each region vocabulary must have the same percentage share e.g. one activity can have:
+- Multiple region vocabularies can be used. Each region vocabulary must have the same percentage share e.g. one activity can have:
 
-    -  Country: Uganda (UG) 80%
+  -  Country: Uganda (UG) 80%
 
-    -  DAC Region: Africa (298) 20%
+  - DAC Region: Africa (298) 20%
 
-    -  UN Region: Africa (002) 20%
+  - UN Region: Africa (002) 20%
 
 For data published at transaction level:
 
-   -  Every transaction must have a recipient country or region.
+- Every transaction must have a recipient country or region.
 
-   -  A transaction must not have more than one recipient country or region.
+- A transaction must not have more than one recipient country or region.
 
 Technical guidance summary
 --------------------------
