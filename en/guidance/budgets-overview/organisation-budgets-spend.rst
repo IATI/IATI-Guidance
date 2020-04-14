@@ -131,50 +131,84 @@ Technical guidance summary
 
 All organisations should include the elements below to publish their annual planned budgets:
 
-.. list-table::
-   :widths: 16 28 28 28
-   :header-rows: 1
-
-
-   * - Element
-     - Use
-     - Rules
-     - Guidance
-
-   * - `total-budget <http://reference.iatistandard.org/organisation-standard/iati-organisations/iati-organisation/total-budget/>`__
-     - This provides the organisation’s own budget for humanitarian and development work for the following period.
-
-       The `status <http://reference.iatistandard.org/codelists/BudgetStatus/>`__ attribute can be declared to say if the budget is indicative or formally committed.
-     -
-     - The organisation’s total annual planned budget for the next three years should be provided.
-
-       If the `status <http://reference.iatistandard.org/codelists/BudgetStatus/>`__ attribute is not declared, the budget is assumed to be indicative.
-
-   * - `period-start <http://reference.iatistandard.org/organisation-standard/iati-organisations/iati-organisation/total-budget/period-start/>`__
-     - An iso-code for the start date of the budget.
-     - The elements period-start and period-end must appear once and only once within each budget element.
-
-       The period-start date must be before or the same as the period-end date.
-
-       The period published must be no longer than one year.
-     - The periods should align with the fiscal year of the reporting organisation.
-
-   * - `period-end <http://reference.iatistandard.org/organisation-standard/iati-organisations/iati-organisation/total-budget/period-end/>`__
-     - An iso-code for the end date of the budget.
-     -
-     -
-
-   * - `value <http://reference.iatistandard.org/organisation-standard/iati-organisations/iati-organisation/total-budget/value/>`__
-     - The financial value of the budget for the declared period.
-
-       The `currency <http://reference.iatistandard.org/codelists/Currency/>`__ and value-date can also be declared for the value.
-     - This element must appear once and only once within each budget element.
-
-       The value declared must be an integer.
-
-       The value-date must be declared for the value.
-     - The currency attribute is required, unless a default currency has been provided for the organisation.
-
++----------------+----------------+----------------+----------------+
+| Element        | Use            | Rules          | Guidance       |
++----------------+----------------+----------------+----------------+
+| `total-budget  | This provides  |                | The            |
+| <http://refere | the            |                | organisation’s |
+| nce.iatistanda | organisation’s |                | total annual   |
+| rd.org/organis | own budget for |                | planned budget |
+| ation-standard | humanitarian   |                | for the next   |
+| /iati-organisa | and            |                | three years    |
+| tions/iati-org | development    |                | should be      |
+| anisation/tota | work for the   |                | provided.      |
+| l-budget/>`__  | following      |                |                |
+|                | period.        |                | If the         |
+|                |                |                | `status <http: |
+|                | The            |                | //reference.ia |
+|                | `status <http: |                | tistandard.org |
+|                | //reference.ia |                | /codelists/Bud |
+|                | tistandard.org |                | getStatus/>`__ |
+|                | /codelists/Bud |                | attribute is   |
+|                | getStatus/>`__ |                | not declared,  |
+|                | attribute can  |                | the budget is  |
+|                | be declared to |                | assumed to be  |
+|                | say if the     |                | indicative.    |
+|                | budget is      |                |                |
+|                | indicative or  |                |                |
+|                | formally       |                |                |
+|                | committed.     |                |                |
++----------------+----------------+----------------+----------------+
+| `period-start  | An iso-code    | The elements   | The periods    |
+| <http://refere | for the start  | period-start   | should align   |
+| nce.iatistanda | date of the    | and period-end | with the       |
+| rd.org/organis | budget.        | must appear    | fiscal year of |
+| ation-standard |                | only once      | the reporting  |
+| /iati-organisa |                | within each    | organisation.  |
+| tions/iati-org |                | budget         |                |
+| anisation/tota |                | element.       |                |
+| l-budget/perio |                |                |                |
+| d-start/>`__   |                | The            |                |
+|                |                | period-start   |                |
+|                |                | date must be   |                |
+|                |                | before or the  |                |
+|                |                | same as the    |                |
+|                |                | period-end     |                |
+|                |                | date.          |                |
+|                |                |                |                |
+|                |                | The period     |                |
+|                |                | reported must  |                |
+|                |                | be no longer   |                |
+|                |                | than one year. |                |
++----------------+----------------+                +----------------+
+| `period-end    | An iso-code    |                |                |
+| <http://refere | for the end    |                |                |
+| nce.iatistanda | date of the    |                |                |
+| rd.org/organis | budget.        |                |                |
+| ation-standard |                |                |                |
+| /iati-organisa |                |                |                |
+| tions/iati-org |                |                |                |
+| anisation/tota |                |                |                |
+| l-budget/perio |                |                |                |
+| d-end/>`__     |                |                |                |
++----------------+----------------+----------------+----------------+
+| `value <http   | The financial  | This element   | The currency   |
+| ://reference.i | value of the   | must appear    | attribute is   |
+| atistandard.or | budget for the | only once      | required,      |
+| g/organisation | declared       | within each    | unless a       |
+| -standard/iati | period.        | budget         | default        |
+| -organisations |                | element.       | currency has   |
+| /iati-organisa | The            |                | been provided  |
+| tion/total-bud | `currency <h   | The value      | for the        |
+| get/value/>`__ | ttp://referenc | declared must  | organisation.  |
+|                | e.iatistandard | be an integer. |                |
+|                | .org/codelists |                |                |
+|                | /Currency/>`__ | The value-date |                |
+|                | and value-date | must be        |                |
+|                | can also be    | declared for   |                |
+|                | declared for   | the value.     |                |
+|                | the value.     |                |                |
++----------------+----------------+----------------+----------------+
 
 **Budget lines**
 
@@ -234,65 +268,113 @@ Total expenditure is defined as the total amount of humanitarian and development
 
 Like budget-lines, the total expenditure can be broken down into expense-lines.
 
-.. list-table::
-   :widths: 16 28 28 28
-   :header-rows: 1
-
-
-   * - Element
-     - Use
-     - Rules
-     - Guidance
-
-   * - `total-expenditure <http://reference.iatistandard.org//organisation-standard/iati-organisations/iati-organisation/total-expenditure/>`__
-     - This provides the organisation’s own humanitarian and development spend for the following period.
-     -
-     - The organisation’s total expenditure for the previous three years should be provided.
-
-   * - `period-start <http://reference.iatistandard.org/organisation-standard/iati-organisations/iati-organisation/total-expenditure/period-start/>`__
-     - An iso-code for the start date of the period.
-     - The elements period-start and period-end must appear once and only once within each total-expenditure element.
-
-       The period-start date must be before or the same as the period-end date.
-
-       The period published must be no longer than one year.
-     - The periods should align with the periods published in the `total-budget <http://reference.iatistandard.org/organisation-standard/iati-organisations/iati-organisation/total-budget/>`__ element.
-
-   * - `period-end <http://reference.iatistandard.org/organisation-standard/iati-organisations/iati-organisation/total-expenditure/period-end/>`__
-     - An iso-code for the end date of the period.
-     -
-     -
-
-   * - `value <http://reference.iatistandard.org/organisation-standard/iati-organisations/iati-organisation/total-expenditure/value/>`__
-     - The financial value of the expenditure for the declared period.
-
-       The `currency <http://reference.iatistandard.org/codelists/Currency/>`__ and value-date can also be declared for the value.
-     - This element must appear once and only once within each `total-expenditure <http://reference.iatistandard.org//organisation-standard/iati-organisations/iati-organisation/total-expenditure/>`__ element.
-
-       The value-date must be declared for the value.
-     - The currency attribute is required, unless a default currency has been provided for the organisation.
-
-   * - `expense-line <http://reference.iatistandard.org/organisation-standard/iati-organisations/iati-organisation/total-expenditure/expense-line/>`__
-     - This provides a breakdown of the total-expenditure.
-
-       The period covered is the same as that of the parent total-expenditure.
-
-       Multiple expense-lines can be published.
-     -
-     - The sum of the expense-line values does not have to equal the value of the parent total-expenditure element.
-
-       An @ref attribute can be provided linking the expense-line to an internal reference taken from the reporting organisation’s system.
-
-   * - `value <http://reference.iatistandard.org/organisation-standard/iati-organisations/iati-organisation/total-expenditure/expense-line/value/>`__
-     - The value of the expense-line breakdown.
-     - This element must appear once and only once within each expense-line element.
-
-       The value-date must be declared for the value.
-     -
-
-   * - `narrative <http://reference.iatistandard.org/organisation-standard/iati-organisations/iati-organisation/total-expenditure/expense-line/narrative/>`__
-     - A description of the expense-line breakdown.
-     - A narrative must be provided.
-     - The description text is contained within the child narrative element.
-
-       This can be repeated in multiple languages.
++----------------+----------------+----------------+----------------+
+| Element        | Use            | Rules          | Guidance       |
++----------------+----------------+----------------+----------------+
+| `total-expendi | This provides  |                | The            |
+| ture <http://r | the            |                | organisation’s |
+| eference.iatis | organisation’s |                | total          |
+| tandard.org//o | own            |                | expenditure    |
+| rganisation-st | humanitarian   |                | for the        |
+| andard/iati-or | and            |                | previous three |
+| ganisations/ia | development    |                | years should   |
+| ti-organisatio | spend for the  |                | be provided.   |
+| n/total-expend | following      |                |                |
+| iture/>`__     | period.        |                |                |
++----------------+----------------+----------------+----------------+
+| `period-start  | An iso-code    | The elements   | The periods    |
+| <http://refere | for the start  | period-start   | should align   |
+| nce.iatistanda | date of the    | and period-end | with the       |
+| rd.org/organis | period.        | must appear    | periods        |
+| ation-standard |                | only once      | reported in    |
+| /iati-organisa |                | within each    | the            |
+| tions/iati-org |                | total-expendit | `total-budget  |
+| anisation/tota |                | ure element.   |  <http://refer |
+| l-expenditure/ |                |                | ence.iatistand |
+| period-start/> |                | The            | ard.org/organi |
+| `__            |                | period-start   | sation-standar |
+|                |                | date must be   | d/iati-organis |
+|                |                | before or the  | ations/iati-or |
+|                |                | same as the    | ganisation/tot |
+|                |                | period-end     | al-budget/>`__ |
+|                |                | date.          | element.       |
++----------------+----------------+                +----------------+
+| `period-end <h | An iso-code    | The period     |                |
+| ttp://referenc | for the end    | published must |                |
+| e.iatistandard | date of the    | be no longer   |                |
+| .org/organisat | period.        | than one year. |                |          
+| ion-standard/i |                |                |                |
+| ati-organisati |                |                |                |
+| ons/iati-organ |                |                |                |
+| isation/total- |                |                |                |
+| expenditure/pe |                |                |                |
+| riod-end/>`__  |                |                |                |
++----------------+----------------+----------------+----------------+
+| `value <http:/ | The financial  | This element   | The currency   |
+| /reference.iat | value of the   | must appear    | attribute is   |
+| istandard.org/ | expenditure    | only once      | required,      |
+| organisation-s | for the        | within each    | unless a       |
+| tandard/iati-o | declared       | `total-exp     | default        |
+| rganisations/i | period.        | enditure <http | currency has   |
+| ati-organisati |                | ://reference.i | been provided  |
+| on/total-expen | The `currency  | atistandard.or | for the        |
+| diture/value/> | <http://refere | g//organisatio | organisation.  |
+| `__            | nce.iatistanda | n-standard/iat |                |
+|                | rd.org/codelis | i-organisation |                |
+|                | ts/Currency/>` | s/iati-organis |                |
+|                | __ and         | ation/total-ex |                |
+|                | value-date can | penditure/>`__ |                |
+|                | also be        | element.       |                |
+|                | declared for   |                |                |
+|                | the value.     | The value-date |                |
+|                |                | must be        |                |
+|                |                | declared for   |                |
+|                |                | the value.     |                |
++----------------+----------------+----------------+----------------+
+| `expense-line  | This provides  |                | The sum of the |
+| <http://refere | a breakdown of |                | expense-line   |
+| nce.iatistanda | the            |                | values does    |
+| rd.org/organis | total-expendit |                | not have to    |
+| ation-standard | ure.           |                | equal the      |
+| /iati-organisa |                |                | value of the   |
+| tions/iati-org | The period     |                | parent         |
+| anisation/tota | covered is the |                | total-expendit |
+| l-expenditure/ | same as that   |                | ure element.   |
+| expense-line/> | of the parent  |                |                |
+| `__            | total-expendit |                | A @ref         |
+|                | ure.           |                | attribute can  |
+|                |                |                | be provided    |
+|                | Multiple       |                | linking the    |
+|                | expense-lines  |                | expense-line   |
+|                | can be         |                | to an internal |
+|                | published.     |                | reference      |
+|                |                |                | taken from the |
+|                |                |                | reporting      |
+|                |                |                | organisation’s |
+|                |                |                | system.        |
++----------------+----------------+----------------+----------------+
+| `value <http:/ | The value of   | This element   |                |
+| /reference.iat | the            | must appear    |                |
+| istandard.org/ | expense-line   | only once      |                |
+| organisation-s | breakdown.     | within each    |                |
+| tandard/iati-o |                | expense-line   |                |
+| rganisations/i |                | element.       |                |
+| ati-organisati |                |                |                |
+| on/total-expen |                | The value-date |                |
+| diture/expense |                | must be        |                |
+| -line/value/>` |                | declared for   |                |
+| __             |                | the value.     |                |
++----------------+----------------+----------------+----------------+
+| `narrative <ht | A description  | A narrative    | The            |
+| tp://reference | of the         | must be        | description    |
+| .iatistandard. | expense-line   | provided.      | text is        |
+| org/organisati | breakdown.     |                | contained      |
+| on-standard/ia |                |                | within the     |
+| ti-organisatio |                |                | child          |
+| ns/iati-organi |                |                | narrative      |
+| sation/total-e |                |                | element. This  |
+| xpenditure/exp |                |                | can be         |
+| ense-line/narr |                |                | repeated in    |
+| ative/>`__     |                |                | multiple       |
+|                |                |                | languages.     |
++----------------+----------------+----------------+----------------+
