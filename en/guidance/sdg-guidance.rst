@@ -14,7 +14,7 @@ Table of Contents
   2.1 Different areas where SDG data can be found
   2.2 Combining Goals, Targets and Indicators
   2.3 Data use tips
-
+  
 
 **1. How to publish SDG data**
 -------------------------------
