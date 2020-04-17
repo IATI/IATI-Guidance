@@ -14,7 +14,7 @@ Table of Contents
   2.1 Different areas where SDG data can be found
   2.2 Combining Goals, Targets and Indicators
   2.3 Data use tips
-  
+
 
 **1. How to publish SDG data**
 -------------------------------
@@ -65,7 +65,7 @@ Tag element with no narrative:
 
 .. code-block:: xml
 
-<tag vocabulary="3" code="8.8" />
+  <tag vocabulary="3" code="8.8" />
 
 *Example 2:*
 
@@ -73,10 +73,10 @@ Tag element with narratives in English and French:
 
 .. code-block:: xml
 
-<tag vocabulary="3" code="8.8">
-  <narrative xml:lang="en">Protect labour rights</narrative>
-  <narrative xml:lang="fr">Défendre les droits des travailleurs</narrative>
-</tag>
+  <tag vocabulary="3" code="8.8">
+    <narrative xml:lang="en">Protect labour rights</narrative>
+    <narrative xml:lang="fr">Défendre les droits des travailleurs</narrative>
+  </tag>
 
 1.2 Publishing SDGs at result level using ``reference``
 --------------------------------------------------------
@@ -105,7 +105,7 @@ In the example below an organisation’s reported indicator is linked to SDG Ind
 
 .. code-block:: xml
 
-<result>
+  <result>
 
 **...**
 
@@ -122,8 +122,8 @@ In the example below an organisation’s reported indicator is linked to SDG Ind
 
 .. code-block:: xml
 
-  </indicator>
-</result>
+    </indicator>
+  </result>
 
 Example 2:
 
@@ -137,32 +137,32 @@ In IATI this looks as follows:
 
 .. code-block:: xml
 
-<result type="2" aggregation-status="0">
-  <title>
-    <narrative>Non-Revenue Water reduction</narrative>
-  </title>
-  <indicator measure="2" ascending="1" aggregation-status="1">
+  <result type="2" aggregation-status="0">
     <title>
-      <narrative>Number of Water and Sanitation Service Providers that have reduced Non-Revenue Water (spilled water) at utility level according to target.</narrative>
+      <narrative>Non-Revenue Water reduction</narrative>
     </title>
-    <reference vocabulary="9" code="6.4.1" />
-    <baseline year="2018" value="0" />
-    <period>
-      <period-start iso-date="2018-01-01" />
-      <period-end iso-date="2022-12-31" />
-      <target value="8">
-        <comment>
-          <narrative>The goal is to decrease NRW levels with at least 8 partners out of 10 involved in this program.</narrative>
-        </comment>
-      </target>
-    </period>
-    <period>
-      <period-start iso-date="2018-01-01" />
-      <period-end iso-date="2018-12-31" />
-      <actual value="1" />
-    </period>
-  </indicator>
-</result>
+    <indicator measure="2" ascending="1" aggregation-status="1">
+      <title>
+        <narrative>Number of Water and Sanitation Service Providers that have reduced Non-Revenue Water (spilled water) at utility level according to target.</narrative>
+      </title>
+      <reference vocabulary="9" code="6.4.1" />
+      <baseline year="2018" value="0" />
+      <period>
+        <period-start iso-date="2018-01-01" />
+        <period-end iso-date="2022-12-31" />
+        <target value="8">
+          <comment>
+            <narrative>The goal is to decrease NRW levels with at least 8 partners out of 10 involved in this program.</narrative>
+          </comment>
+        </target>
+      </period>
+      <period>
+        <period-start iso-date="2018-01-01" />
+        <period-end iso-date="2018-12-31" />
+        <actual value="1" />
+      </period>
+    </indicator>
+  </result>
 
 ----
 

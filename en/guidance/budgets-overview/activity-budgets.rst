@@ -52,37 +52,37 @@ An activity lasts a year. The original budget was $10,000 and was later decrease
 
 .. code-block:: xml
 
-<budget type="1" status="2">
-  <period-start iso-date="2018-01-01" />
-  <period-end iso-date="2018-12-31" />
-  <value currency="EUR" value-date="2018-01-01">10000</value>
-</budget>
+  <budget type="1" status="2">
+    <period-start iso-date="2018-01-01" />
+    <period-end iso-date="2018-12-31" />
+    <value currency="EUR" value-date="2018-01-01">10000</value>
+  </budget>
 
 .. code-block:: xml
 
-<budget type="2" status="2">
-  <period-start iso-date="2018-01-01" />
-  <period-end iso-date="2018-12-31" />
-  <value currency="EUR" value-date="2018-06-01">8000</value>
-</budget>
+  <budget type="2" status="2">
+    <period-start iso-date="2018-01-01" />
+    <period-end iso-date="2018-12-31" />
+    <value currency="EUR" value-date="2018-06-01">8000</value>
+  </budget>
 
 **...**
 
 .. code-block:: xml
 
-<transaction>
-  <transaction-type code="2" />
-  <transaction-date iso-date="2018-01-01" />
-  <value currency="USD" value-date="2018-01-01">10000</value>
-</transaction>
+  <transaction>
+    <transaction-type code="2" />
+    <transaction-date iso-date="2018-01-01" />
+    <value currency="USD" value-date="2018-01-01">10000</value>
+  </transaction>
 
 .. code-block:: xml
 
-<transaction>
-  <transaction-type code="2" />
-  <transaction-date iso-date="2018-06-01" />
-  <value currency="USD" value-date="2018-06-01">-2000</value>
-</transaction>
+  <transaction>
+    <transaction-type code="2" />
+    <transaction-date iso-date="2018-06-01" />
+    <value currency="USD" value-date="2018-06-01">-2000</value>
+  </transaction>
 
 Activity Budgets should include:
 --------------------------------

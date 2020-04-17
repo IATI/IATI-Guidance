@@ -37,11 +37,11 @@ IATI activity identifiers
 * must be prefixed with an organisation identifier
 
 It should be recognised that IATI organisation identifiers can change over time. i.e. they CAN NOT be persistent.
-Therefore when a reporting organisation's identifier changes, the  previous reporting organisation identifier(s) should be reported in addition to the new one. 
+Therefore when a reporting organisation's identifier changes, the  previous reporting organisation identifier(s) should be reported in addition to the new one.
 
 This will allow data users to continue to link activities to the organisation that reported them (because activity identifiers are constructed using the organisation identifier as part of the string, and once reported, an activity should maintain its original identifier).
 
-In version 2.01 of the IATI Standard, therefore, we need a way to record the previous organisation identifier when this changes. We can do this using the :doc:`other-identifier </activity-standard/iati-activities/iati-activity/other-identifier/>` element. 
+In version 2.01 of the IATI Standard, therefore, we need a way to record the previous organisation identifier when this changes. We can do this using the :doc:`other-identifier </activity-standard/iati-activities/iati-activity/other-identifier/>` element.
 
 For information on the changes to that element see: :ref:`Update to other-identifier element <#update-to-other-identifier-element>`
 
@@ -54,17 +54,17 @@ In addition:
   - ALL the following rules must apply to the organisation-identifier in reporting-org/\@ref
   - It is mandatory
   - The identifier MUST be the same as that recorded by the publisher on the IATI Registry
-  
+
 * The iati-identifier is MANDATORY
 
   - It MUST be globally unique among all activities published through the IATI Registry
-  - Once an activity has been reported to IATI its identifier MUST NOT be changed in subsequent updates, 
+  - Once an activity has been reported to IATI its identifier MUST NOT be changed in subsequent updates,
   - It MUST be prefixed with EITHER the organisation-identifier found in reporting-org/\@ref OR a previous reporting-org identifier reported in :doc:`other-identifier </activity-standard/iati-activities/iati-activity/other-identifier/>`
   - The identifier MUST only contain alphanumeric characters and hyphen, underscore, colon or period
 
 **What is the change?**
 
-The biggest change is that all organisations must have an Organisation 
+The biggest change is that all organisations must have an Organisation
 Identifier that is prefixed with a valid code on the :doc:`IATI OrganisationRegistrationAgency codelist </codelists/OrganisationRegistrationAgency/>`
 
 This means that a number of publishers will have to:
@@ -122,7 +122,7 @@ To solve this, a previous reporting-org identifier can be reported in the
 For more information see:
 `Organisation and Activity Identifiers <http://support.iatistandard.org/entries/52824355-Version-2-01-Iteration-3-9-Organisation-and-Activity-Identifiers>`__ proposal on the support forum.
 
-To make this element work, a new OtherIdentifierType codelist has been 
+To make this element work, a new OtherIdentifierType codelist has been
 constructed, and the entire element has been re-constructed.
 
 **Example**
@@ -131,7 +131,7 @@ See: :doc:`other-identifier </activity-standard/iati-activities/iati-activity/ot
 
 **What happens if we do not do this?**
 
-- Anyone reporting other-identifier in versions 1.x of the IATI Standard will need to reconstruct the way they report the data. They can continue to report the same data, but just need to reformat it. 
+- Anyone reporting other-identifier in versions 1.x of the IATI Standard will need to reconstruct the way they report the data. They can continue to report the same data, but just need to reformat it.
 - Data users should be aware that parsing :doc:`other-identifier </activity-standard/iati-activities/iati-activity/other-identifier/>` is different in 2.01.
 - Data publishers may take advantage of the opportunities to report other types of identifier that were not previously available to them.
 - Data may fail validation against the relevant 2.01 schema if the changes are not taken into consideration.
@@ -563,7 +563,7 @@ In version 2.01, all of the above would fail validation against the schema as te
 
 .. code-block:: xml
 
-<activity-status code="2" />
+  <activity-status code="2" />
 
 **Exceptions**
 
@@ -577,7 +577,7 @@ To declare a recipient country of Kosovo, both of these are acceptable:
 
 .. code-block:: xml
 
-<recipient-country code="XK" />
+  <recipient-country code="XK" />
 
 Here, a lookup against the relevant codelist (:doc:`Country </codelists/Country/>`)
    would return a country name of 'Kosovo'
@@ -1108,7 +1108,7 @@ https://github.com/IATI/IATI-Codelists/commit/33b2174f8c2aeb42f277f8ad9d715b3123
 It was recognised that various description texts were out-of-date or not clear.  This has been an opportunity to update these.
 
 
-Non-Embedded Codelists 
+Non-Embedded Codelists
 ======================
 **What is the change?**
 
