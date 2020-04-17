@@ -202,23 +202,26 @@ There are three levels to the Sustainable Development Goals:
 **X) Goals**
 
 There are 17 Goals, these are broad aspirations.
+
 *E.g. 1: End poverty in all its forms everywhere.*
 
 **X.X) Targets**
 
 Each Goal is broken down into multiple aspects called Targets. There is a total of 169 Targets.
+
 *E.g. 1.1 By 2030, eradicate extreme poverty for all people everywhere, currently measured as people living on less than $1.25 a day.*
 
 **X.X.X) Indicators**
 
 Indicators are used to monitor the progress towards the SDG Targets and corresponding Goals. There are over 200 hundred Indicators.
+
 *E.g. 1.1.1 Proportion of population below the international poverty line, by sex, age, employment status and geographical location (urban/rural).*
 
 The SDGs have a numbering system which allows you to work out which Target and Goal an Indicator belongs to. For example:
 
-Indicator 1.1.1,
-Belongs to Target 1.1
-Which belongs to Goal 1.
+&nbsp;&nbsp;&nbsp;&nbsp;Indicator 1.1.1
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Belongs to Target 1.1
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Which belongs to Goal 1.
 
 Organisations can tag their IATI activities and results with a mixture of Goals, Targets and Indicators. This can make it harder to aggregate IATI SDG data.
 
