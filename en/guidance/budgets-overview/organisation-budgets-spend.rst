@@ -29,12 +29,14 @@ Please note that the same budget should not be published in multiple currencies.
     - Recipient Org Budget
 
   * - .. code-block:: xml
+
           <total-budget status\ ="1">
             <period-start iso-date="2020-01-01" />
             <period-end iso-date="2020-12-31" />
             <value value-date="2020-01-01">2000</value>
           </total-budget>
     - .. code-block:: xml
+
           <recipient-org-budget status="2">
             <recipient-org ref="org-1" />
             <period-start iso-date="2020-01-01" />
@@ -50,6 +52,7 @@ Please note that the same budget should not be published in multiple currencies.
     - Recipient Country Budget - Kenya
 
   * - .. code-block:: xml
+
           <recipient-country-budget status="1">
             <recipient-country code="UG" />
             <period-start iso-date="2020-01-01" />
@@ -58,6 +61,7 @@ Please note that the same budget should not be published in multiple currencies.
           </recipient-country-budget>
 
     - .. code-block:: xml
+
           <recipient-country-budget status="1">
             <recipient-country code="KE" />
             <period-start iso-date="2014-01-01" />
