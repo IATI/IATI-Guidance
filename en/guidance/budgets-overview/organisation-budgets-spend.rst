@@ -21,49 +21,49 @@ Please note that the same budget should not be published in multiple currencies.
 - The reporting organisation has committed $500 of the budget to be core funding for organisation 1 to carry out some of the work.
 
 .. list-table::
-   :widths: 50 50
-   :header-rows: 1
+  :widths: 50 50
+  :header-rows: 1
 
 
-   * - Total Budget
-     - Recipient Org Budget
+  * - Total Budget
+    - Recipient Org Budget
 
-   * - .. code-block:: xml
-         <total-budget status\ ="1">
-           <period-start iso-date="2020-01-01" />
-           <period-end iso-date="2020-12-31" />
-           <value value-date="2020-01-01">2000</value>
-         </total-budget>
-     - .. code-block:: xml
-         <recipient-org-budget status="2">
-           <recipient-org ref="org-1" />
-           <period-start iso-date="2020-01-01" />
-           <period-end iso-date="2020-12-31" />
-           <value value-date="2020-01-01">500</value>
-         </recipient-org-budget>
+  * - .. code-block:: xml
+          <total-budget status\ ="1">
+            <period-start iso-date="2020-01-01" />
+            <period-end iso-date="2020-12-31" />
+            <value value-date="2020-01-01">2000</value>
+          </total-budget>
+    - .. code-block:: xml
+          <recipient-org-budget status="2">
+            <recipient-org ref="org-1" />
+            <period-start iso-date="2020-01-01" />
+            <period-end iso-date="2020-12-31" />
+            <value value-date="2020-01-01">500</value>
+          </recipient-org-budget>
 
 .. list-table::
-   :widths: 50 50
-   :header-rows: 1
+  :widths: 50 50
+  :header-rows: 1
 
-   * - Recipient Country Budget - Uganda
-     - Recipient Country Budget - Kenya
+  * - Recipient Country Budget - Uganda
+    - Recipient Country Budget - Kenya
 
-   * - .. code-block:: xml
-         <recipient-country-budget status="1">
-           <recipient-country code="UG" />
-           <period-start iso-date="2020-01-01" />
-           <period-end iso-date="2020-12-31" />
-           <value value-date="2020-01-01">1000</value>
-         </recipient-country-budget>
+  * - .. code-block:: xml
+          <recipient-country-budget status="1">
+            <recipient-country code="UG" />
+            <period-start iso-date="2020-01-01" />
+            <period-end iso-date="2020-12-31" />
+            <value value-date="2020-01-01">1000</value>
+          </recipient-country-budget>
 
-     - .. code-block:: xml
-         <recipient-country-budget status="1">
-           <recipient-country code="KE" />
-           <period-start iso-date="2014-01-01" />
-           <period-end iso-date="2014-12-31" />
-           <value value-date="2020-01-01">1000</value>
-         </recipient-country-budget>
+    - .. code-block:: xml
+          <recipient-country-budget status="1">
+            <recipient-country code="KE" />
+            <period-start iso-date="2014-01-01" />
+            <period-end iso-date="2014-12-31" />
+            <value value-date="2020-01-01">1000</value>
+          </recipient-country-budget>
 
 
 When publishing a budget for a recipient country, the budget periods should match the fiscal year for the specific country. This is in order to help the recipient of the funds with their budgeting. The budgets can also be published in the currency of the recipient country. This is shown by using the `currency <http://reference.iatistandard.org/codelists/Currency/>`__ attribute to override the default publishing currency of the reporting organisation. Please note that the same budget should not be published in multiple currencies.
