@@ -138,8 +138,8 @@ All organisations should include the elements below to publish their annual plan
 +------------------+------------------+------------------+------------------+
 | Element          | Use              | Rules            | Guidance         |
 +------------------+------------------+------------------+------------------+
-| | `total-budget  | | This provides  |                  | | The            |
-|   <http://refere |   the            |                  |   organisation’s |
+| | `total-budget  | | This provides \|                  | | The            |
+|   <http://refere |   the \          |                  |   organisation’s |
 |   nce.iatistanda |   organisation’s |                  |   total annual   |
 |   rd.org/organis |   own budget for |                  |   planned budget |
 |   ation-standard |   humanitarian   |                  |   for the next   |
