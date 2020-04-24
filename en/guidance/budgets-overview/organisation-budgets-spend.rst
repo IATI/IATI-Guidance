@@ -119,84 +119,84 @@ Technical guidance summary
 
 All organisations should include the elements below to publish their annual planned budgets:
 
-+------------------+--------------------+--------------------+--------------------+
-| Element          | Use                | Rules              | Guidance           |
-+------------------+--------------------+--------------------+--------------------+
-| | `total-budget  | | This provides    |                    | | The              |
-|   <http://refere |   \ the            |                    |   \ organisation’s |
-|   nce.iatistanda |   \ organisation’s |                    |   \ total annual   |
-|   rd.org/organis |   \ own budget for |                    |   \ planned budget |
-|   ation-standard |   \ humanitarian   |                    |   \ for the next   |
-|   /iati-organisa |   \ and            |                    |   \ three years    |
-|   tions/iati-org |   \ development    |                    |   \ should be      |
-|   anisation/tota |   \ work for the   |                    |   \ provided.      |
-|   l-budget/>`__  |   \ following      |                    |                    |
-|                  |   \ period.        |                    | | If the           |
-|                  |                    |                    |   \ `status <http: |
-|                  | | The              |                    |   //reference.ia   |
-|                  |   \ `status <http: |                    |   tistandard.org   |
-|                  |   //reference.ia   |                    |   /codelists/Bud   |
-|                  |   tistandard.org   |                    |   getStatus/>`__   |
-|                  |   /codelists/Bud   |                    |   \ attribute is   |
-|                  |   getStatus/>`__   |                    |   \ not declared,  |
-|                  |   \ attribute can  |                    |   \ the budget is  |
-|                  |   \ be declared to |                    |   \ assumed to be  |
-|                  |   \ say if the     |                    |   \ indicative.    |
-|                  |   \ budget is      |                    |                    |
-|                  |   \ indicative or  |                    |                    |
-|                  |   \ formally       |                    |                    |
-|                  |   \ committed.     |                    |                    |
-+------------------+--------------------+--------------------+--------------------+
-| | `period-start  | | An iso-code      | | The elements     | | The periods      |
-|   <http://refere |   \ for the start  |   \ period-start   |   \ should align   |
-|   nce.iatistanda |   \ date of the    |   \ and period-end |   \ with the       |
-|   rd.org/organis |   \ budget.        |   \ must appear    |   \ fiscal year of |
-|   ation-standard |                    |   \ only once      |   \ the reporting  |
-|   /iati-organisa |                    |   \ within each    |   \ organisation.  |
-|   tions/iati-org |                    |   \ budget         |                    |
-|   anisation/tota |                    |   \ element.       |                    |
-|   l-budget/perio |                    |                    |                    |
-|   d-start/>`__   |                    | | The              |                    |
-|                  |                    |   \ period-start   |                    |
-|                  |                    |   \ date must be   |                    |
-|                  |                    |   \ before or the  |                    |
-|                  |                    |   \ same as the    |                    |
-|                  |                    |   \ period-end     |                    |
-|                  |                    |   \ date.          |                    |
-|                  |                    |                    |                    |
-|                  |                    | | The period       |                    |
-|                  |                    |   \ reported must  |                    |
-|                  |                    |   \ be no longer   |                    |
-|                  |                    |   \ than one year. |                    |
-+------------------+--------------------+                    +--------------------+
-| | `period-end    | | An iso-code      |                    |                    |
-|   <http://refere |   \ for the end    |                    |                    |
-|   nce.iatistanda |   \ date of the    |                    |                    |
-|   rd.org/organis |   \ budget.        |                    |                    |
-|   ation-standard |                    |                    |                    |
-|   /iati-organisa |                    |                    |                    |
-|   tions/iati-org |                    |                    |                    |
-|   anisation/tota |                    |                    |                    |
-|   l-budget/perio |                    |                    |                    |
-|   d-end/>`__     |                    |                    |                    |
-+------------------+--------------------+--------------------+--------------------+
-| | `value <http   | | The financial    | | This element     | | The currency     |
-|   ://reference.i |   \ value of the   |   \ must appear    |   \ attribute is   |
-|   atistandard.or |   \ budget for the |   \ only once      |   \ required,      |
-|   g/organisation |   \ declared       |   \ within each    |   \ unless a       |
-|   -standard/iati |   \ period.        |   \ budget         |   \ default        |
-|   -organisations |                    |   \ element.       |   \ currency has   |
-|   /iati-organisa | | The              |                    |   \ been provided  |
-|   tion/total-bud |   \ `currency <h   | | The value        |   \ for the        |
-|   get/value/>`__ |   ttp://referenc   |   \ declared must  |   \ organisation.  |
-|                  |   e.iatistandard   |   \ be an integer. |                    |
-|                  |   .org/codelists   |                    |                    |
-|                  |   /Currency/>`__   | | The value-date   |                    |
-|                  |   \ and value-date |   \ must be        |                    |
-|                  |   \ can also be    |   \ declared for   |                    |
-|                  |   \ declared for   |   \ the value.     |                    |
-|                  |   \ the value.     |                    |                    |
-+------------------+--------------------+--------------------+--------------------+
++----------------+----------------+----------------+----------------+
+| Element        | Use            | Rules          | Guidance       |
++----------------+----------------+----------------+----------------+
+| `total-budget  | This provides  |                | The            |
+| <http://refere | the            |                | organisation’s |
+| nce.iatistanda | organisation’s |                | total annual   |
+| rd.org/organis | own budget for |                | planned budget |
+| ation-standard | humanitarian   |                | for the next   |
+| /iati-organisa | and            |                | three years    |
+| tions/iati-org | development    |                | should be      |
+| anisation/tota | work for the   |                | provided.      |
+| l-budget/>`__  | following      |                |                |
+|                | period.        |                | If the         |
+|                |                |                | `status <http: |
+|                | The            |                | //reference.ia |
+|                | `status <http: |                | tistandard.org |
+|                | //reference.ia |                | /codelists/Bud |
+|                | tistandard.org |                | getStatus/>`__ |
+|                | /codelists/Bud |                | attribute is   |
+|                | getStatus/>`__ |                | not declared,  |
+|                | attribute can  |                | the budget is  |
+|                | be declared to |                | assumed to be  |
+|                | say if the     |                | indicative.    |
+|                | budget is      |                |                |
+|                | indicative or  |                |                |
+|                | formally       |                |                |
+|                | committed.     |                |                |
++----------------+----------------+----------------+----------------+
+| `period-start  | An iso-code    | The elements   | The periods    |
+| <http://refere | for the start  | period-start   | should align   |
+| nce.iatistanda | date of the    | and period-end | with the       |
+| rd.org/organis | budget.        | must appear    | fiscal year of |
+| ation-standard |                | only once      | the reporting  |
+| /iati-organisa |                | within each    | organisation.  |
+| tions/iati-org |                | budget         |                |
+| anisation/tota |                | element.       |                |
+| l-budget/perio |                |                |                |
+| d-start/>`__   |                | The            |                |
+|                |                | period-start   |                |
+|                |                | date must be   |                |
+|                |                | before or the  |                |
+|                |                | same as the    |                |
+|                |                | period-end     |                |
+|                |                | date.          |                |
+|                |                |                |                |
+|                |                | The period     |                |
+|                |                | reported must  |                |
+|                |                | be no longer   |                |
+|                |                | than one year. |                |
++----------------+----------------+                +----------------+
+| `period-end    | An iso-code    |                |                |
+| <http://refere | for the end    |                |                |
+| nce.iatistanda | date of the    |                |                |
+| rd.org/organis | budget.        |                |                |
+| ation-standard |                |                |                |
+| /iati-organisa |                |                |                |
+| tions/iati-org |                |                |                |
+| anisation/tota |                |                |                |
+| l-budget/perio |                |                |                |
+| d-end/>`__     |                |                |                |
++----------------+----------------+----------------+----------------+
+| `value <http   | The financial  | This element   | The currency   |
+| ://reference.i | value of the   | must appear    | attribute is   |
+| atistandard.or | budget for the | only once      | required,      |
+| g/organisation | declared       | within each    | unless a       |
+| -standard/iati | period.        | budget         | default        |
+| -organisations |                | element.       | currency has   |
+| /iati-organisa | The            |                | been provided  |
+| tion/total-bud | `currency <h   | The value      | for the        |
+| get/value/>`__ | ttp://referenc | declared must  | organisation.  |
+|                | e.iatistandard | be an integer. |                |
+|                | .org/codelists |                |                |
+|                | /Currency/>`__ | The value-date |                |
+|                | and value-date | must be        |                |
+|                | can also be    | declared for   |                |
+|                | declared for   | the value.     |                |
+|                | the value.     |                |                |
++----------------+----------------+----------------+----------------+
 
 **Budget lines**
 
