@@ -7,7 +7,7 @@ There are multiple points in Organisation and Activity files that can reference 
 
 It is useful for data users to know who an organisation is working with, as well as being able to trace the flow of funds up and down the delivery chain. This is enabled by publishers including the unique IATI Org IDs for the external organisations they are working with. IATI Org IDs can be added to activity data by use of the `participating-org <http://iatistandard.org/activity-standard/iati-activities/iati-activity/participating-org/>`__ and `transaction <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/transaction/>`__ elements. It is always recommended that the IATI Organisation ID is added (if possible) and the organisation’s name.
 
-The current list of publishers can be found on the `IATI Registry. <https://iatiregistry.org/publisher>`__
+   The current list of publishers can be found on the `IATI Registry. <https://iatiregistry.org/publisher>`__
 
 Where can activity participants can be published?
 ------------------------------------------------

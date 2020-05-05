@@ -9,7 +9,7 @@ IATI recommends choosing a code from the OECD DAC 5-digit sector codelist. Where
 
 The OECD DAC 5-digit codes cover a wide range of humanitarian and development work. This then allows data users to compare and analyse all the data in IATI, as data can be searched and filtered by these sector codes.
 
-More thematic data can be added to activities by attaching references to the Sustainable Development Goals (SDGs). For additional guidance on how to publish data for the SDGs, see `here <https://drive.google.com/open?id=1Xg8OwtFATaD5iMFFCrJyOibw7uQX_Dd8>`__.
+    More thematic data can be added to activities by attaching references to the Sustainable Development Goals (SDGs). For additional guidance on how to publish data for the SDGs, see `here <https://drive.google.com/open?id=1Xg8OwtFATaD5iMFFCrJyOibw7uQX_Dd8>`__.
 
 Using multiple sector codes
 ---------------------------
@@ -60,29 +60,29 @@ Sector codes must only be used at either activity or transaction level.
 
 **At activity level**:
 
-   -  Multiple sectors can be specified from the same `vocabulary <http://reference.iatistandard.org/codelists/SectorVocabulary/>`__.
+- Multiple sectors can be specified from the same `vocabulary <http://reference.iatistandard.org/codelists/SectorVocabulary/>`__.
 
-   -  When multiple sectors from the same vocabulary are described, a percentage must be declared for each. All published sectors from the same vocabulary must add up to 100%.
+- When multiple sectors from the same vocabulary are described, a percentage must be declared for each. All published sectors from the same vocabulary must add up to 100%.
 
-   -  If no `vocabulary <http://reference.iatistandard.org/codelists/SectorVocabulary/>`__ is declared, then the `OECD DAC 5-digit <http://reference.iatistandard.org/codelists/Sector/>`__ codelist is assumed.
+- If no `vocabulary <http://reference.iatistandard.org/codelists/SectorVocabulary/>`__ is declared, then the `OECD DAC 5-digit <http://reference.iatistandard.org/codelists/Sector/>`__ codelist is assumed.
 
-   -  A publisher can declare their own `vocabulary <http://reference.iatistandard.org/codelists/SectorVocabulary/>`__ by using the 98 or 99 (Reporting Org) vocabulary code.
+- A publisher can declare their own `vocabulary <http://reference.iatistandard.org/codelists/SectorVocabulary/>`__ by using the 98 or 99 (Reporting Org) vocabulary code.
 
-   -  When using vocabulary codes 98 or 99, a narrative must be added to describe the sector code being used. The narrative should **not** be included for any other vocabulary codes.
+- When using vocabulary codes 98 or 99, a narrative must be added to describe the sector code being used. The narrative should **not** be included for any other vocabulary codes.
 
 **At transaction level:**
 
-   -  Every transaction must have a sector code.
+- Every transaction must have a sector code.
 
-   -  Only one sector code from each vocabulary must be used.
+- Only one sector code from each vocabulary must be used.
 
-   -  If no `vocabulary <http://reference.iatistandard.org/codelists/SectorVocabulary/>`__ is declared, then the `OECD DAC 5-digit <http://reference.iatistandard.org/codelists/Sector/>`__ codelist is assumed.
+-  f no `vocabulary <http://reference.iatistandard.org/codelists/SectorVocabulary/>`__ is declared, then the `OECD DAC 5-digit <http://reference.iatistandard.org/codelists/Sector/>`__ codelist is assumed.
 
-   -  A publisher can declare their own vocabulary by using the 98 or 99 (Reporting Org) vocabulary code.
+- A publisher can declare their own vocabulary by using the 98 or 99 (Reporting Org) vocabulary code.
 
-   -  When using vocabulary codes 98 or 99, a narrative must be added to describe the sector code being used.
+- When using vocabulary codes 98 or 99, a narrative must be added to describe the sector code being used.
 
-   -  It is recommended that the same narrative is used for the same self-defined sector codes within a dataset.
+- It is recommended that the same narrative is used for the same self-defined sector codes within a dataset.
 
 Technical guidance summary: activity level
 ------------------------------------------

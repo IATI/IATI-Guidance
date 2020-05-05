@@ -9,10 +9,12 @@ A budget for an individual activity published to IATI could be, for example, the
 
 Both types of budget can be updated and adjusted at any point. All budgets should be provided from the point of view of the reporting organisation. The organisation and activity budget data allows users to find and analyse the data they need in the right format. They can also track if a publisher’s total budget towards a country or an organisation has been fulfilled, or check what percentage of their total spend for development and humanitarian work is reflected in their published activities. IATI recommends providing budget data for the next three years or more, where possible.
 
-`*Organisation budgets and spend* <https://drive.google.com/file/d/1mv2Q666tKBOAoiy5JayslmZNetxDM1uu/>`__
+`Organisation budgets and spend <https://drive.google.com/file/d/1mv2Q666tKBOAoiy5JayslmZNetxDM1uu/>`__
+-------------------------------------------------------------------------------------------------------
 
 Find out what budget information goes into an `organisation <https://iatistandard.org/en/guidance/preparing-data/organisation-infromation/>`__ file. This includes high-level figures of the total budget for the publisher, and funding going to recipient countries, regions and external organisations.
 
-`*Activity budgets* <https://drive.google.com/file/d/1vB3vk7gbnADwG1S8A1bRDd8mK-nOfwCh/>`__
+`Activity budgets <https://drive.google.com/file/d/1vB3vk7gbnADwG1S8A1bRDd8mK-nOfwCh/>`__
+-----------------------------------------------------------------------------------------
 
 Find out what budget information goes into an `activity <https://iatistandard.org/en/guidance/preparing-data/activity-information/>`__ file. These budgets are more specific and changes to them can be captured in individual activities.

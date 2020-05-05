@@ -9,15 +9,15 @@ For example, if 100% of the expected funding is going to Uganda, the activity sh
 
 .. code-block:: xml
 
-<recipient-country code=”UG” percentage=”100” />
+  <recipient-country code=”UG” percentage=”100” />
 
 However, if the publisher knows that at least 80% of the expected funding is going to Uganda, then the activity can specify that the unknown 20% is going to the region of Africa. Please note that an activity can specify the region from multiple region codelists:
 
 .. code-block:: xml
 
-<recipient-country code=”UG” percentage=”80”/>
-<recipient-region code=”298” vocabulary=”1” percentage=”20”/>
-<recipient-region code=”002” vocabulary=”2” percentage=”20”/>
+  <recipient-country code=”UG” percentage=”80”/>
+  <recipient-region code=”298” vocabulary=”1” percentage=”20”/>
+  <recipient-region code=”002” vocabulary=”2” percentage=”20”/>
 
 The above example shows country and region information being published at activity level. This information could instead be published at transaction level, with each transaction containing either one recipient country or one recipient region. Please note that countries and regions must not be specified at both activity and transaction levels.
 
@@ -66,23 +66,23 @@ Please note:
 
 For data published at activity level:
 
- -  Multiple recipient countries and regions can be declared. Each recipient must have a percentage.
+- Multiple recipient countries and regions can be declared. Each recipient must have a percentage.
 
- -  The percentage of all recipient countries plus regions (within a specific region vocabulary) must add up to 100%.
+- The percentage of all recipient countries plus regions (within a specific region vocabulary) must add up to 100%.
 
- -  Multiple region vocabularies can be used. Each region vocabulary must have the same percentage share e.g. one activity can have:
+- Multiple region vocabularies can be used. Each region vocabulary must have the same percentage share e.g. one activity can have:
 
-    -  Country: Uganda (UG) 80%
+  -  Country: Uganda (UG) 80%
 
-    -  DAC Region: Africa (298) 20%
+  - DAC Region: Africa (298) 20%
 
-    -  UN Region: Africa (002) 20%
+  - UN Region: Africa (002) 20%
 
 For data published at transaction level:
 
-   -  Every transaction must have a recipient country or region.
+- Every transaction must have a recipient country or region.
 
-   -  A transaction must not have more than one recipient country or region.
+- A transaction must not have more than one recipient country or region.
 
 Technical guidance summary
 --------------------------

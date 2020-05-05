@@ -84,7 +84,7 @@ Classifications that cover the whole activity:
    * - `default-aid-type <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/default-aid-type/>`__
      - The type of aid being supplied (e.g. project-type intervention, budget support or debt relief).
      -
-     - It is recommended that the OECD `aid type <http://reference.iatistandard.org/codelists/AidType/>`__ codes, codes from additional vocabularies can also be added.
+     - It is recommended that the OECD `aid type <http://reference.iatistandard.org/codelists/AidType/>`__ codes are used, codes from additional vocabularies can also be added.
 
        If no vocabulary is declared, OECD aid type is presumed.
 
@@ -121,7 +121,7 @@ Classifications can also be added to individual `transactions <https://drive.goo
    * - `aid-type <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/transaction/aid-type/>`__
      - Optional element to override the top-level default-aid-type elements on a transaction-by-transaction basis, if needed.
      -
-     - It is recommended that the OECD `aid type <http://reference.iatistandard.org/codelists/AidType/>`__ codes, codes from additional vocabularies can also be added.
+     - It is recommended that the OECD `aid type <http://reference.iatistandard.org/codelists/AidType/>`__ codes are used, codes from additional vocabularies can also be added.
 
        If no vocabulary is declared, OECD aid type is presumed.
 

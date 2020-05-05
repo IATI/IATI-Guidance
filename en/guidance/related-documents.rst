@@ -56,7 +56,10 @@ Technical guidance summary
 .. list-table::
    :widths: 14 43 43
    :header-rows: 1
-
+   
+   * - Location
+     - Use
+     - Guidance
 
    * - `result <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/result/document-link/>`__
      - A link to an online, publicly accessible webpage or document expanding on the result.
