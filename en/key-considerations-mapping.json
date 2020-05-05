@@ -1,8 +1,0 @@
-{
-    "timely": [ "guidance/how-to-publish", "guidance/how-to-publish/regular-updates" ],
-    "comprehensive": [ "guidance/how-to-publish" ],
-    "forward-looking": [ "reporting-org", "participating-org", "transaction/provider-org", "transaction/receiver-org" ],
-    "structured": [ "activity-standard/overview/activity-file", "organisation-standard/overview/organisation-file", "activity-scope", "location" ],
-    "comparable": [ "codelists", "rulesets", "schema" ],
-    "open": [ "guidance/how-to-publish/licensing", "guidance/how-to-publish/publish-files" ],
-}
