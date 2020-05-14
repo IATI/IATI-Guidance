@@ -152,3 +152,7 @@ The disbursement channel can only be added to transactions, it cannot be defined
 
        This element must only be published once for each transaction.
      -
+.. meta::
+  :title: Additional activity classifications
+  :description: Using the IATI Standard, publishers can assign different classifications to their data. These help users to understand what type of financing it is and how it can be used.
+  :guidance_type: activity
