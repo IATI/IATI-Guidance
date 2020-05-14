@@ -1,7 +1,7 @@
 Activity budgets
 ================
 
-It is recommended that each activity with planned spending that is published to IATI includes one or more budgets. These budgets form the total funding expected to be spent as part of the activity. This allows data users to track the activity budget against the declared spend, to understand the stage of the activity.
+Activity budgets hold the total funding expected to be spent as part of an activity. It is recommended that each activity with planned spending that is published to IATI includes one or more budgets. This allows data users to track the activity budget against the declared spend, to understand the stage of the activity.
 
   *If an activity* **does not** *expect to have any spend (disbursements or expenditure),* **and** *spend is being published in a sub-activity, then a budget figure should not be provided.*
 

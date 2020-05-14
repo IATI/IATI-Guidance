@@ -1,4 +1,4 @@
-Humanitarian Reporting
+Humanitarian reporting
 ======================
 
 Please also see the `Humanitarian Reporting Guidelines <http://discuss.iatistandard.org/t/help-develop-iati-s-humanitarian-reporting-guidance/530>`_   which are currently out for community review on the IATI Community Discuss Forum

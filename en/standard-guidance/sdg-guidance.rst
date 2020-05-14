@@ -1,20 +1,7 @@
-How to use the IATI Standard for publishing and using data on the Sustainable Development Goals (SDGs)
-=======================================================================================================
+Sustainable Development Goals (SDGs)
+====================================
 
-**Guidance for publishing and using SDG data in the IATI Standard**
-
-Table of Contents
-------------------
-
-**1. How to publish SDG data**
-  1.1 Publishing SDGs at activity level using <tag>
-  1.2 Publishing SDGs at result level using <reference>
-
-**2. Using SDG data in IATI**
-  2.1 Different areas where SDG data can be found
-  2.2 Combining Goals, Targets and Indicators
-  2.3 Data use tips
-
+Guidance on how to use the IATI Standard for publishing and using data on the Sustainable Development Goals (SDGs)
 
 **1. How to publish SDG data**
 -------------------------------

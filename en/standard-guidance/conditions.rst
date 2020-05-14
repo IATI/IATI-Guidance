@@ -1,6 +1,8 @@
 Conditions
 ==========
 
+IATI asks publishers to declare any conditions or specific terms that are attached to their activities. For example, these could be the requirements issued by a funder or a six month review to assess whether or not the activity is worth continuing.
+
 Definition
 ----------
 Within the **IATI activity standard** conditions that relate to an ``iati-activity`` can be described:

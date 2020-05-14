@@ -1,6 +1,8 @@
 Country Budget Alignment
 ========================
 
+This guidance outlines how IATI activities can be structured to enable country budget and aid alignment.
+
 Guidance on implementing budget and aid alignment
 -------------------------------------------------
 During the 2.03 upgrade process, decision was made to deprecate BudgetIdentifier codelist. As a result, further guidance was required to provide to publishers on implementing aid and budget alignment.

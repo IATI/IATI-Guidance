@@ -1,7 +1,7 @@
 Activity Participants
 ======================
 
-In IATI data, each organisation publishes from its own perspective. Each publisher should be publishing the money coming into their organisation and what they are doing with it. The work they do may involve other organisations. These could be organisations from which they are receiving money from, organisations to which they are giving money, or partner organisations.
+In IATI data, each organisation publishes from its own perspective and includes details of organisations it is working with. Each publisher should be publishing the money coming into their organisation and what they are doing with it. The work they do may involve other organisations. These could be organisations from which they are receiving money from, organisations to which they are giving money, or partner organisations.
 
 There are multiple points in Organisation and Activity files that can reference the organisations a publisher is working with. They should be identified by their name, unique IATI organisation ID (referred to as an IATI Org ID) and activity IDs (also referred to as IATI Identifiers). Their role and what type of organisation they are must also be added. For guidance on how to formulate an IATI Org ID see `here <https://iatistandard.org/en/guidance/preparing-organisation/organisation-account/how-to-create-your-iati-organisation-identifier/>`__.
 

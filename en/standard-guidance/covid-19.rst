@@ -1,10 +1,6 @@
 Guidance: Publishing data on COVID-19 using the IATI Standard
 -------------------------------------------------------------
 
-**Version 2 - Monday 27 April 2020**
-
-**Recent updates to guidance**\  [1]_
-
 Following a `consultation with IATI’s community <https://discuss.iatistandard.org/t/covid-19-iati-publishing-guidance-consultation/1925>`__, this guidance has been updated to provide **additional recommendations** on how to publish data on COVID-19 using the IATI Standard.
 
 **Who is this guidance for?**
