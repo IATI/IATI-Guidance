@@ -9,7 +9,7 @@ IATI recommends choosing a code from the OECD DAC 5-digit sector codelist. Where
 
 The OECD DAC 5-digit codes cover a wide range of humanitarian and development work. This then allows data users to compare and analyse all the data in IATI, as data can be searched and filtered by these sector codes.
 
-    More thematic data can be added to activities by attaching references to the Sustainable Development Goals (SDGs). For additional guidance on how to publish data for the SDGs, see `here <https://drive.google.com/open?id=1Xg8OwtFATaD5iMFFCrJyOibw7uQX_Dd8>`__.
+    More thematic data can be added to activities by attaching references to the Sustainable Development Goals (SDGs). For additional guidance on how to publish data for the SDGs, see :doc:`here <en/sdg-guidance>`.
 
 Using multiple sector codes
 ---------------------------
@@ -39,7 +39,7 @@ However, if the activity can be split between two DAC sector codes, this can be 
 
 The above example shows thematic (sector) information being published at an activity level. This information could instead be published at transaction level, with each transaction containing one sector code. However, this should be consistent across **all** activities published by an organisation i.e. publishing all sector information at **either** activity level **or** for all transactions.
 
-IATI also recommends publishers provide thematic (sectors) information and `geographic (countries and regions) <https://drive.google.com/open?id=18P3vSUKK2iWCnXCrORDVAHR8K_EIg8Pp>`__ information at the same level. This should be consistent across **all** activities published by an organisation i.e. publishing either at activity level or for all transactions.
+IATI also recommends publishers provide thematic (sectors) information and :doc:`geographic (countries and regions) <en/countries-regions>` information at the same level. This should be consistent across **all** activities published by an organisation i.e. publishing either at activity level or for all transactions.
 
 **Rules for publishing sectors:**
 
@@ -72,11 +72,11 @@ Sector codes must only be used at either activity or transaction level.
 
 **At transaction level:**
 
-- Every transaction must have a sector code.
+- Every :doc:`transaction <en/financial-transactions>` must have a sector code.
 
 - Only one sector code from each vocabulary must be used.
 
--  f no `vocabulary <http://reference.iatistandard.org/codelists/SectorVocabulary/>`__ is declared, then the `OECD DAC 5-digit <http://reference.iatistandard.org/codelists/Sector/>`__ codelist is assumed.
+-  If no `vocabulary <http://reference.iatistandard.org/codelists/SectorVocabulary/>`__ is declared, then the `OECD DAC 5-digit <http://reference.iatistandard.org/codelists/Sector/>`__ codelist is assumed.
 
 - A publisher can declare their own vocabulary by using the 98 or 99 (Reporting Org) vocabulary code.
 
@@ -124,7 +124,7 @@ Technical guidance summary: activity level
 
 Technical guidance summary: transaction level
 ---------------------------------------------
-If thematic (sector) data is published at transaction level it must be included for every `transaction <https://drive.google.com/open?id=1E3hztk6gWTW5DypLELeSwW5X-Ahg0yjm>`__. If included here it must not be published at activity level.
+If thematic (sector) data is published at transaction level it must be included for every :doc:`transaction <en/financial-transactions>`. If included here it must not be published at activity level.
 
 .. list-table::
    :widths: 26 28 28 28
@@ -156,3 +156,9 @@ If thematic (sector) data is published at transaction level it must be included 
        The narrative can be repeated in multiple languages.
 
        If the language differs from the default language, the language should be declared using the language attribute.
+
+
+.. meta::
+  :title: Activity thematic focus (sectors)
+  :description: Each activity published to IATI must provide details of the thematic focus of the activity. The themes must be explained in code, and then further details can be provided in a written description.
+  :guidance_type: activity

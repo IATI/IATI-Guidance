@@ -56,7 +56,7 @@ Technical guidance summary
 .. list-table::
    :widths: 14 43 43
    :header-rows: 1
-   
+
    * - Location
      - Use
      - Guidance
@@ -116,3 +116,8 @@ What a document-link should include
    * - `document-date <http://iatistandard.org/activity-standard/iati-activities/iati-activity/document-link/document-date/>`__
      - The date of publication or last updating
      - Must be in the format: YYYY-MM-DD, e.g. 2018-03-16.
+
+.. meta::
+  :title: Related documents
+  :description: Further information about an organisation or activity can be provided by using the **document-link** element.
+  :guidance_type: activity, organisation

@@ -1,4 +1,4 @@
-Activity Participants
+Activity participants
 ======================
 
 In IATI data, each organisation publishes from its own perspective and includes details of organisations it is working with. Each publisher should be publishing the money coming into their organisation and what they are doing with it. The work they do may involve other organisations. These could be organisations from which they are receiving money from, organisations to which they are giving money, or partner organisations.
@@ -144,3 +144,8 @@ Please note:
        If known it is strongly recommended to include the receiver-org’s activity ID.
 
        If the receiver-org element is missing, it is presumed that the reporting-org is the provider of the funds.
+
+.. meta::
+  :title: Activity participants
+  :description: In IATI data, each organisation publishes from its own perspective and includes details of organisations it is working with.
+  :guidance_type: activity, organisation

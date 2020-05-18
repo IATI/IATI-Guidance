@@ -1,4 +1,4 @@
-Geography - Countries and Regions
+Geography - countries and regions
 =================================
 
 Each activity in IATI should specify the country (e.g. China) in which the activity is taking place, or the places that will benefit from the activity. If the country is not known, then a supra-national region or regions (e.g. East Asia) must be added.
@@ -21,7 +21,7 @@ However, if the publisher knows that at least 80% of the expected funding is goi
 
 The above example shows country and region information being published at activity level. This information could instead be published at transaction level, with each transaction containing either one recipient country or one recipient region. Please note that countries and regions must not be specified at both activity and transaction levels.
 
-IATI recommends that publishers provide geographic (country and region) and `thematic (sectors) <https://drive.google.com/open?id=1GNnjeqDIyWwuuIkJ8pMjLhE99R_olSJP>`__ information at the same level. This should be consistent across all activities published by an organisation i.e. publishing **either** at activity level **or** for all transactions.
+IATI recommends that publishers provide geographic (country and region) and :doc:`thematic (sectors) <en/activity-thematic-focus>`. information at the same level. This should be consistent across all activities published by an organisation i.e. publishing **either** at activity level **or** for all transactions.
 
 It is up to each publisher to define what they class as an activity and what their scope is e.g. global, national or within a single location). The scope of the activity should be published using the `activity-scope <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/activity-scope/>`__ element.
 
@@ -89,7 +89,7 @@ Technical guidance summary
 
 **For geographic information published at activity level**
 
-If geographical data is published at activity level, it must not also be published at transaction level.
+If geographical data is published at activity level, it must not also be published at :doc:`transaction <en/financial-transactions>` level.
 
 .. list-table::
    :widths: 16 28 28 28
@@ -160,3 +160,8 @@ If geographical data is published at transaction level it must be included for e
 
        Only one recipient-country or one recipient-region must be published.
      - If no vocabulary is specified the OECD DAC `region <http://reference.iatistandard.org/codelists/RegionVocabulary/>`__ codelist is assumed.
+
+.. meta::
+  :title: Geography - countries and regions
+  :description: Each activity in IATI should specify the country (e.g. China) in which the activity is taking place, or the places that will benefit from the activity.
+  :guidance_type: activity

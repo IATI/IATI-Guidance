@@ -302,7 +302,7 @@ Like budget-lines, the total expenditure can be broken down into expense-lines.
 | `period-end <h | An iso-code    | The period     |                |
 | ttp://referenc | for the end    | published must |                |
 | e.iatistandard | date of the    | be no longer   |                |
-| .org/organisat | period.        | than one year. |                |          
+| .org/organisat | period.        | than one year. |                |
 | ion-standard/i |                |                |                |
 | ati-organisati |                |                |                |
 | ons/iati-organ |                |                |                |
@@ -378,3 +378,8 @@ Like budget-lines, the total expenditure can be broken down into expense-lines.
 | ative/>`__     |                |                | multiple       |
 |                |                |                | languages.     |
 +----------------+----------------+----------------+----------------+
+
+.. meta::
+  :title: Organisation budgets and spend
+  :description: An organisation budget is a total planned budget for an organisation for a given time period, and these can be broken down into different programmes or areas of work.
+  :guidance_type: organisation

@@ -60,3 +60,9 @@ All activities must include the activity-date and activity-status elements.
      - Describes the current `status <http://iatistandard.org/codelists/ActivityStatus/>`__ of the activity (e.g. 4 = closed)
      - This element must appear only once for each activity.
      - The status of the activity should be updated at each stage, such as whenever an actual start or end date is added.
+
+
+.. meta::
+  :title: Activity dates and status
+  :description: Each activity published to IATI should specify the time period in which the activity took place. Both the planned and actual dates of an activity can be provided.
+  :guidance_type: activity

@@ -95,7 +95,7 @@ Classifications that cover the whole activity:
      - This element must be published no more than once.
      - If an activity’s commitments are a combination of tied, partially tied or untied, it is recommended that tied, partially tied and untied commitments are published as separate transactions and classified with their tied-status.
 
-Classifications can also be added to individual `transactions <https://drive.google.com/open?id=1E3hztk6gWTW5DypLELeSwW5X-Ahg0yjm>`__, these values override the default value published at activity level:
+Classifications can also be added to individual :doc:`transactions <en/financial-transactions>`, these values override the default value published at activity level:
 
 .. list-table::
    :widths: 16 28 28 28
@@ -152,6 +152,7 @@ The disbursement channel can only be added to transactions, it cannot be defined
 
        This element must only be published once for each transaction.
      -
+
 .. meta::
   :title: Additional activity classifications
   :description: Using the IATI Standard, publishers can assign different classifications to their data. These help users to understand what type of financing it is and how it can be used.

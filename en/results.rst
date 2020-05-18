@@ -25,3 +25,8 @@ When using the **IATI activity standard** to declare *result*, the following sho
 In versions 2.01 and above, the following must also be considered:
 
 * Any freetext title, description or comment must be included in the child ``narrative`` element, which can be repeated for different languages.
+
+.. meta::
+  :title: Results
+  :description: The **IATI activity standard** enables the publishing of information on measurable results from an ``iati-activity``, through use of the ``result`` element.
+  :guidance_type: activity

@@ -1,4 +1,4 @@
-Country Budget Alignment
+Country budget alignment
 ========================
 
 This guidance outlines how IATI activities can be structured to enable country budget and aid alignment.
@@ -39,3 +39,8 @@ In a fairly broad sample of 35-40 countries, various studies found that more dis
 The CRS purpose codes, including the more detailed voluntary codes, are listed in the `DAC and CRS codelists Excel sheet <http://www.oecd.org/dac/financing-sustainable-development/development-finance-standards/DAC-CRS-CODES.xls>`_ .
 
 The additional codes were `approved by WP-STAT under the written procedure <http://www.oecd.org/officialdocuments/publicdisplaydocumentpdf/?cote=DCD/DAC/STAT(2015)30/REV1&docLanguage=En>`_ in February 2016. The `IATI Steering Committee approved the use of the more detailed CRS purpose codes <http://www.aidtransparency.net/wp-content/uploads/2013/01/Paper-4c-from-TAG-Working-Group-on-Budget-Identifier.pdf>`_ (instead of using the “Common Code" codelist) in March 2014.
+
+.. meta::
+  :title: Country budget alignment
+  :description: This guidance outlines how IATI activities can be structured to enable country budget and aid alignment.
+  :guidance_type: activity

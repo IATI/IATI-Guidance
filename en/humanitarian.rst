@@ -1,7 +1,7 @@
 Humanitarian reporting
 ======================
 
-Please also see the `Humanitarian Reporting Guidelines <http://discuss.iatistandard.org/t/help-develop-iati-s-humanitarian-reporting-guidance/530>`_   which are currently out for community review on the IATI Community Discuss Forum
+Please also see the `Humanitarian Reporting Guidelines <http://discuss.iatistandard.org/t/help-develop-iati-s-humanitarian-reporting-guidance/530>`_   which are currently on the IATI Community Discuss Forum
 
 Definition
 ----------
@@ -41,3 +41,8 @@ When using the IATI activity standard to declare humanitarian related activities
 * When an activity relates to multiple clusters the ``sector`` element should be repeated and a ``@percentage`` attribute must be used. The total of all specified percentages must add up to 100.
 * When an activity relates to multiple humanitarian policies the ``policy-marker`` element should be repeated.
 * When defining a humanitarian ``policy-marker`` element, the ``policy-marker``/``@significance`` attribute is not required.
+
+.. meta::
+  :title: Humanitarian reporting
+  :description: Please also see the Humanitarian Reporting Guidelines which are currently on the IATI Community Discuss Forum.
+  :guidance_type: activity

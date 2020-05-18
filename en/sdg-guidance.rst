@@ -1,7 +1,7 @@
 Sustainable Development Goals (SDGs)
 ====================================
 
-Guidance on how to use the IATI Standard for publishing and using data on the Sustainable Development Goals (SDGs)
+Guidance on how to use the IATI Standard for publishing and using data on the Sustainable Development Goals (SDGs).
 
 **1. How to publish SDG data**
 -------------------------------
@@ -226,3 +226,8 @@ A conversion to SDG Indicators in the format CO10101 can be found by downloading
 IATI recommends that if a publisher’s internal indicators do not directly match any SDG Indicator, they should choose one SDG Indicator that their internal result’s indicator best relates or contributes to. Note that a publisher’s result’s indicator may contribute to multiple SDG Indicators. If you are looking to see which IATI activities contribute to a specific SDG Indicator, you are advised to first check the `tag <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/tag/>`__ element to see which activities have specified the particular SDG Goal or Target as well conducting a free word search of the activity’s narrative elements.
 
 ----
+
+.. meta::
+  :title: Sustainable Development Goals (SDGs)
+  :description: Guidance on how to use the IATI Standard for publishing and using data on the Sustainable Development Goals (SDGs).
+  :guidance_type: activity

@@ -35,7 +35,7 @@ To calculate the total budget for an activity, a data user should be able to add
 
 **Transaction element**
 
-While budget elements hold the overall budget amounts for an activity, budget fluctuations should be recorded through outgoing commitment `transactions <https://drive.google.com/open?id=1E3hztk6gWTW5DypLELeSwW5X-Ahg0yjm>`__.
+While budget elements hold the overall budget amounts for an activity, budget fluctuations should be recorded through outgoing commitment :doc:`transactions <en/financial-transactions>`.
 
 *Commitment Transactions*
 
@@ -185,3 +185,8 @@ All activities should include the elements below, when publishing an activity bu
 |                | declared for   |                |                |
 |                | the value.     |                |                |
 +----------------+----------------+----------------+----------------+
+
+.. meta::
+  :title: Activity budgets
+  :description: Activity budgets hold the total funding expected to be spent as part of an activity. It is recommended that each activity with planned spending that is published to IATI includes one or more budgets.
+  :guidance_type: activity

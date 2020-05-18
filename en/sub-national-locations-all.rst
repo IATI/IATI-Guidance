@@ -1,7 +1,7 @@
 Geography - sub-national locations (all elements)
 =================================================
 
-This table lists all elements that can be included in the location element. It includes all the recommended elements, as outlined on the `geography - sub-national locations <https://drive.google.com/open?id=1GYRE3FBhf2W4wkpTzbgKFtAWYSLG4Jw8>`__ page, plus further elements that can be used to build a comprehensive picture of an activity's location, if known.
+This table lists all elements that can be included in the location element. It includes all the recommended elements, as outlined on the :doc:`geography - sub-national locations <en/sub-national-locations-all>` page, plus further elements that can be used to build a comprehensive picture of an activity's location, if known.
 
 Technical guidance summary
 --------------------------
@@ -80,3 +80,8 @@ Technical guidance summary
      - This adds more detail to the type of location (e.g. beach, well or college).
      - This value must be on the `location type <http://reference.iatistandard.org/codelists/LocationType/>`__ codelist.
      -
+
+.. meta::
+  :title: Geography - sub-national locations (all elements)
+  :description: This table lists all elements that can be included in the location element.
+  :guidance_type: activity

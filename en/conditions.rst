@@ -27,3 +27,8 @@ When using the **IATI activity standard** to declare *conditions*, the following
 In versions 2.01 and above, the following must also be considered:
 
 * Any freetext condition text must be included in the child ``narrative`` element, which can be repeated for different languages.
+
+.. meta::
+  :title: Conditions
+  :description: IATI asks publishers to declare any conditions or specific terms that are attached to their activities.
+  :guidance_type: activity
