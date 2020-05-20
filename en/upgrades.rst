@@ -1,19 +1,6 @@
 Upgrades
 ========
 
-.. toctree::
-	 :hidden:
-
-	 upgrades/all-versions
-	 upgrades/noncore-codelist-changelog
-	 upgrades/decimal-upgrade-to-2-03
-	 upgrades/decimal-upgrade-to-2-02
-	 upgrades/integer-upgrade-to-2-01
-	 upgrades/decimal-upgrade-to-1-05
-	 upgrades/decimal-upgrade-to-1-04
-	 upgrades/decimal-upgrade-to-1-03
-	 upgrades/decimal-upgrade-to-1-02
-
 The IATI standard is a living entity that will require improvement over time.
 
 The standard is a collection of XML schema, core codelists, non-core codelists, documentation and rules.
