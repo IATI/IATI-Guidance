@@ -10,7 +10,7 @@ It is useful for data users to know who an organisation is working with, as well
    The current list of publishers can be found on the `IATI Registry. <https://iatiregistry.org/publisher>`__
 
 Where can activity participants can be published?
-------------------------------------------------
+-------------------------------------------------
 
 **Organisation file:**
 
