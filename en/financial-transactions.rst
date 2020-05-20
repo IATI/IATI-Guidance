@@ -3,7 +3,7 @@ Financial transactions
 
 Each activity in IATI should contain a record of how the activity is being financed and how the finance is being used. Each incoming and outgoing fund is published as a transaction. Publishers can choose the type of transaction that best reflects the real flow of money in and out of their organisation. This could be incoming commitments (the promise of money) or incoming funds (the actual transfer of money).
 
-Each transaction should specify: the date on which the transaction took place, the value of the transaction, and who gave and received the money. Further details about a transaction can be included by adding :doc:`classifications <en/activity-classifications>` to each transaction. This includes the type of finance being published, whether or not the finance is for a specific purpose and if there is a specific policy area that the finance will be targeting.
+Each transaction should specify: the date on which the transaction took place, the value of the transaction, and who gave and received the money. Further details about a transaction can be included by adding :doc:`classifications <activity-classifications>` to each transaction. This includes the type of finance being published, whether or not the finance is for a specific purpose and if there is a specific policy area that the finance will be targeting.
 
 If an organisation makes many small transactions, these can be grouped together. For example, expenses could be published as one transaction for every month or every quarter. When deciding whether to aggregate transactions by month or quarter, it is recommended that publishers consider the needs of likely data users.
 
@@ -132,12 +132,12 @@ All organisations should include the elements below when publishing a transactio
 Contextual information
 ----------------------
 
-Thematic (sector) and geographic (country and region) details can be published either once per activity, or for each transaction. They should be published at the same level. They must not appear at both activity and transaction levels. Please see the :doc:`thematic <en/activity-thematic-focus>` (sector) and :doc:`geographic <en/countries-regions>` (country and region) pages for more details.
+Thematic (sector) and geographic (country and region) details can be published either once per activity, or for each transaction. They should be published at the same level. They must not appear at both activity and transaction levels. Please see the :doc:`thematic <activity-thematic-focus>` (sector) and :doc:`geographic <countries-regions>` (country and region) pages for more details.
 
 Further classifications
 -----------------------
 
-There are several classifications that can be added to a particular transaction, such as the type of finance and how It is being shared. These values override the default values published at activity level. For information on these classifications, see the :doc:`activity classifications <en/activity-classifications>` page.
+There are several classifications that can be added to a particular transaction, such as the type of finance and how It is being shared. These values override the default values published at activity level. For information on these classifications, see the :doc:`activity classifications <activity-classifications>` page.
 
 .. meta::
   :title: Financial transactions

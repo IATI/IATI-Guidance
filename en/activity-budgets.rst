@@ -35,7 +35,7 @@ To calculate the total budget for an activity, a data user should be able to add
 
 **Transaction element**
 
-While budget elements hold the overall budget amounts for an activity, budget fluctuations should be recorded through outgoing commitment :doc:`transactions <en/financial-transactions>`.
+While budget elements hold the overall budget amounts for an activity, budget fluctuations should be recorded through outgoing commitment :doc:`transactions </financial-transactions>`.
 
 *Commitment Transactions*
 

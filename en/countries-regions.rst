@@ -21,7 +21,7 @@ However, if the publisher knows that at least 80% of the expected funding is goi
 
 The above example shows country and region information being published at activity level. This information could instead be published at transaction level, with each transaction containing either one recipient country or one recipient region. Please note that countries and regions must not be specified at both activity and transaction levels.
 
-IATI recommends that publishers provide geographic (country and region) and :doc:`thematic (sectors) <en/activity-thematic-focus>`. information at the same level. This should be consistent across all activities published by an organisation i.e. publishing **either** at activity level **or** for all transactions.
+IATI recommends that publishers provide geographic (country and region) and :doc:`thematic (sectors) <activity-thematic-focus>`. information at the same level. This should be consistent across all activities published by an organisation i.e. publishing **either** at activity level **or** for all transactions.
 
 It is up to each publisher to define what they class as an activity and what their scope is e.g. global, national or within a single location). The scope of the activity should be published using the `activity-scope <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/activity-scope/>`__ element.
 
@@ -89,7 +89,7 @@ Technical guidance summary
 
 **For geographic information published at activity level**
 
-If geographical data is published at activity level, it must not also be published at :doc:`transaction <en/financial-transactions>` level.
+If geographical data is published at activity level, it must not also be published at :doc:`transaction <financial-transactions>` level.
 
 .. list-table::
    :widths: 16 28 28 28

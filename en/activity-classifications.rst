@@ -95,7 +95,7 @@ Classifications that cover the whole activity:
      - This element must be published no more than once.
      - If an activity’s commitments are a combination of tied, partially tied or untied, it is recommended that tied, partially tied and untied commitments are published as separate transactions and classified with their tied-status.
 
-Classifications can also be added to individual :doc:`transactions <en/financial-transactions>`, these values override the default value published at activity level:
+Classifications can also be added to individual :doc:`transactions </financial-transactions>`, these values override the default value published at activity level:
 
 .. list-table::
    :widths: 16 28 28 28

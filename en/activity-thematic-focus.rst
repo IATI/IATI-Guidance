@@ -9,7 +9,7 @@ IATI recommends choosing a code from the OECD DAC 5-digit sector codelist. Where
 
 The OECD DAC 5-digit codes cover a wide range of humanitarian and development work. This then allows data users to compare and analyse all the data in IATI, as data can be searched and filtered by these sector codes.
 
-    More thematic data can be added to activities by attaching references to the Sustainable Development Goals (SDGs). For additional guidance on how to publish data for the SDGs, see :doc:`here <en/sdg-guidance>`.
+    More thematic data can be added to activities by attaching references to the Sustainable Development Goals (SDGs). For additional guidance on how to publish data for the SDGs, see :doc:`here <sdg-guidance>`.
 
 Using multiple sector codes
 ---------------------------
@@ -39,7 +39,7 @@ However, if the activity can be split between two DAC sector codes, this can be 
 
 The above example shows thematic (sector) information being published at an activity level. This information could instead be published at transaction level, with each transaction containing one sector code. However, this should be consistent across **all** activities published by an organisation i.e. publishing all sector information at **either** activity level **or** for all transactions.
 
-IATI also recommends publishers provide thematic (sectors) information and :doc:`geographic (countries and regions) <en/countries-regions>` information at the same level. This should be consistent across **all** activities published by an organisation i.e. publishing either at activity level or for all transactions.
+IATI also recommends publishers provide thematic (sectors) information and :doc:`geographic (countries and regions) <countries-regions>` information at the same level. This should be consistent across **all** activities published by an organisation i.e. publishing either at activity level or for all transactions.
 
 **Rules for publishing sectors:**
 
@@ -72,7 +72,7 @@ Sector codes must only be used at either activity or transaction level.
 
 **At transaction level:**
 
-- Every :doc:`transaction <en/financial-transactions>` must have a sector code.
+- Every :doc:`transaction <financial-transactions>` must have a sector code.
 
 - Only one sector code from each vocabulary must be used.
 
@@ -124,7 +124,7 @@ Technical guidance summary: activity level
 
 Technical guidance summary: transaction level
 ---------------------------------------------
-If thematic (sector) data is published at transaction level it must be included for every :doc:`transaction <en/financial-transactions>`. If included here it must not be published at activity level.
+If thematic (sector) data is published at transaction level it must be included for every :doc:`transaction <financial-transactions>`. If included here it must not be published at activity level.
 
 .. list-table::
    :widths: 26 28 28 28

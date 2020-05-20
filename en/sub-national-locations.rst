@@ -63,7 +63,7 @@ Please note:
 Technical guidance summary
 --------------------------
 
-The table below shows some of the information that should be included in location elements. The full table of all the location elements that can be published is :doc:`here <en/sub-national-locations-all>`.
+The table below shows some of the information that should be included in location elements. The full table of all the location elements that can be published is :doc:`here <sub-national-locations-all>`.
 
 .. list-table::
    :widths: 16 28 28 28
