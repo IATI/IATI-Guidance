@@ -137,7 +137,7 @@ Thematic (sector) and geographic (country and region) details can be published e
 Further classifications
 -----------------------
 
-There are several classifications that can be added to a particular transaction, such as the type of finance and how It is being shared. These values override the default values published at activity level. For information on these classifications, see the :doc:`activity classifications <en/activity-classifications>`page.
+There are several classifications that can be added to a particular transaction, such as the type of finance and how It is being shared. These values override the default values published at activity level. For information on these classifications, see the :doc:`activity classifications <en/activity-classifications>` page.
 
 .. meta::
   :title: Financial transactions
