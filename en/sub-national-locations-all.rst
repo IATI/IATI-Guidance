@@ -1,7 +1,7 @@
 Geography - sub-national locations (all elements)
 =================================================
 
-This table lists all elements that can be included in the location element. It includes all the recommended elements, as outlined on the :doc:`geography - sub-national locations <sub-national-locations-all>` page, plus further elements that can be used to build a comprehensive picture of an activity's location, if known.
+This table lists all elements that can be included in the location element. It includes all the recommended elements, as outlined on the :doc:`geography - sub-national locations <sub-national-locations>` page, plus further elements that can be used to build a comprehensive picture of an activity's location, if known.
 
 Technical guidance summary
 --------------------------

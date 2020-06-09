@@ -161,6 +161,12 @@ If geographical data is published at transaction level it must be included for e
        Only one recipient-country or one recipient-region must be published.
      - If no vocabulary is specified the OECD DAC `region <http://reference.iatistandard.org/codelists/RegionVocabulary/>`__ codelist is assumed.
 
+Sub-national locations
+----------------------
+Activities can also contain sub-national locations, these detail where an activity is happening within a country. For further details see:
+- :doc: `Activity geography <activity-geography>`
+- :doc: `Sub-national-locations <sub-national-locations>`
+
 .. meta::
   :title: Geography - countries and regions
   :description: Each activity in IATI should specify the country (e.g. China) in which the activity is taking place, or the places that will benefit from the activity.

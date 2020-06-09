@@ -20,75 +20,54 @@ Please note that the same budget should not be published in multiple currencies.
 
 - The reporting organisation has committed $500 of the budget to be core funding for organisation 1 to carry out some of the work.
 
-.. list-table::
-   :widths: 50 50
-   :header-rows: 1
+  **Total Budget**
 
+.. code-block:: xml
 
-   * - Total Budget
-     - Recipient Org Budget
+<total-budget status="1">
+  <period-start iso-date="2020-01-01" />
+  <period-end iso-date="2020-12-31" />
+  <value value-date="2020-01-01">2000</value>
+</total-budget>
 
-   * - <**total-budget status**\ ="1">
+**Recipient Org Budget**
 
-         <**period-start** iso-date="2020-01-01" />
+.. code-block:: xml
 
-         <**period-end** iso-date="2020-12-31" />
+<recipient-org-budget status="2">
+  <recipient-org ref="org-1" />
+  <period-start iso-date="2020-01-01" />
+  <period-end iso-date="2020-12-31" />
+  <value value-date="2020-01-01">500</value>
+</recipient-org-budget>
 
-         <**value** value-date="2020-01-01">2000</\ **value**>
+**Recipient Country Budget - Uganda**
 
+.. code-block:: xml
 
-       </**total-budget**\ >
-     - <**recipient-org-budget** status="2">
+<recipient-country-budget status="1">
+  <recipient-country code="UG" />
+  <period-start iso-date="2020-01-01" />
+  <period-end iso-date="2020-12-31" />
+  <value value-date="2020-01-01">1000</value>
+</recipient-country-budget>
 
-         <**recipient-org** ref="org-1" />
+**Recipient Country Budget - Kenya**
 
-         <**period-start** iso-date="2020-01-01" />
+.. code-block:: xml
 
-         <**period-end** iso-date="2020-12-31" />
-
-         <**value** value-date="2020-01-01">500</\ **value**>
-
-       </**recipient-org-budget**>
-
-.. list-table::
-   :widths: 50 50
-   :header-rows: 1
-
-   * - Recipient Country Budget - Uganda
-     - Recipient Country Budget - Kenya
-
-   * - <**recipient-country-budget** status="1">
-
-         <**recipient-country** code="UG" />
-
-         <**period-start** iso-date="2020-01-01" />
-
-         <**period-end** iso-date="2020-12-31" />
-
-         <**value** value-date="2020-01-01">1000</\ **value**>
-
-       </**recipient-country-budget**>
-
-     - <**recipient-country-budget** status="1">
-
-         <**recipient-country** code="KE" />
-
-         <**period-start** iso-date="2014-01-01" />
-
-         <**period-end** iso-date="2014-12-31" />
-
-         <**value** value-date="2020-01-01">1000</\ **value**>
-
-       </**recipient-country-budget**>
-
+<recipient-country-budget status="1">
+  <recipient-country code="KE" />
+  <period-start iso-date="2014-01-01" />
+  <period-end iso-date="2014-12-31" />
+  <value value-date="2020-01-01">1000</value>
+</recipient-country-budget>
 
 When publishing a budget for a recipient country, the budget periods should match the fiscal year for the specific country. This is in order to help the recipient of the funds with their budgeting. The budgets can also be published in the currency of the recipient country. This is shown by using the `currency <http://reference.iatistandard.org/codelists/Currency/>`__ attribute to override the default publishing currency of the reporting organisation. Please note that the same budget should not be published in multiple currencies.
 
 Budgets often change over time. When this happens, the budget value and corresponding data should be amended. Each budget can have one of two status codes, either:
 
-
 -  **indicative (1)** - a non-binding estimate for the described budget.
-
 -  **committed (2)** - a binding agreement for the described budget.
 
 When a budget changes status, the value and budget `status <http://reference.iatistandard.org/codelists/BudgetStatus/>`__ already in the file should be amended. A new budget should not be created.
@@ -378,6 +357,13 @@ Like budget-lines, the total expenditure can be broken down into expense-lines.
 | ative/>`__     |                |                | multiple       |
 |                |                |                | languages.     |
 +----------------+----------------+----------------+----------------+
+
+Activity budgets
+----------------
+
+For details on activity budgets, please see:
+- :doc: 'Budgets overview <budgets-overview>'
+- :doc: 'Activity budgets <activity-budgets>'
 
 .. meta::
   :title: Organisation budgets and spend

@@ -186,6 +186,12 @@ All activities should include the elements below, when publishing an activity bu
 |                | the value.     |                |                |
 +----------------+----------------+----------------+----------------+
 
+Organisation budgets
+--------------------
+For details on organisation budgets, please see:
+- :doc: 'Budgets overview <budgets-overview>'
+- :doc: 'Organisation budgets & spend <organisation-budgets-spend>'
+
 .. meta::
   :title: Activity budgets
   :description: Activity budgets hold the total funding expected to be spent as part of an activity. It is recommended that each activity with planned spending that is published to IATI includes one or more budgets.

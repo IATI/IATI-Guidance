@@ -63,7 +63,7 @@ Please note:
 Technical guidance summary
 --------------------------
 
-The table below shows some of the information that should be included in location elements. The full table of all the location elements that can be published is :doc:`here <sub-national-locations-all>`.
+The table below shows some of the information that should be included in location elements. The full table of all the location elements that can be published is :doc: `here <sub-national-locations-all>`.
 
 .. list-table::
    :widths: 16 28 28 28
@@ -110,6 +110,12 @@ The table below shows some of the information that should be included in locatio
      - Specifies whether the location provided is exact or approximate.
      - This value must be on the `geographic exactness <http://reference.iatistandard.org/codelists/GeographicExactness/>`__ codelist.
      -
+
+Activity geography
+------------------
+Activities can also contain countries and regions in which they are happening. For further details see:
+  - :doc: `Activity geography <activity-geography>`
+  - :doc: `Countries and regions <countries-regions>`
 
 .. meta::
   :title: Geography - sub-national locations
