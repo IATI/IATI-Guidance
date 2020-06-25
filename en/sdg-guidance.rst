@@ -207,8 +207,10 @@ Indicators are used to monitor the progress towards the SDG Targets and correspo
 The SDGs have a numbering system which allows you to work out which Target and Goal an Indicator belongs to. For example:
 
 Indicator 1.1.1
+
                Belongs to Target 1.1
-                                    Which belongs to Goal 1.
+
+                                     Which belongs to Goal 1.
 
 Organisations can tag their IATI activities and results with a mixture of Goals, Targets and Indicators. This can make it harder to aggregate IATI SDG data.
 
