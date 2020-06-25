@@ -362,8 +362,8 @@ Activity budgets
 ----------------
 
 For details on activity budgets, please see:
-- :doc: `Budgets overview <budgets-overview>`
-- :doc: `Activity budgets <activity-budgets>`
+- :doc:`Budgets overview <budgets-overview>`
+- :doc:`Activity budgets <activity-budgets>`
 
 .. meta::
   :title: Organisation budgets and spend
