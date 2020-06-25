@@ -32,13 +32,13 @@ Using specific IATI Standard elements to provide COVID-19 data
 
 .. code-block:: xml
 
-<humanitarian-scope type="1" vocabulary="1-2" code="EP-2020-000012-001"/>
+  <humanitarian-scope type="1" vocabulary="1-2" code="EP-2020-000012-001"/>
 
   - Humanitarian Response Plans related to COVID-19- “HCOVD20” [4]_
 
 .. code-block:: xml
 
-<humanitarian-scope type="2" vocabulary="2-1" code="HCOVD20"/>
+  <humanitarian-scope type="2" vocabulary="2-1" code="HCOVD20"/>
 
   - *Note:* You are advised to use the humanitarian-scope element irrespective of whether the activity you are reporting classifies as development or humanitarian funding.
 
@@ -56,7 +56,7 @@ Using specific IATI Standard elements to provide COVID-19 data
 
 .. code-block:: xml
 
-<tag vocabulary="99" code="COVID-19">
+  <tag vocabulary="99" code="COVID-19">
 
 Providing timely and comprehensive data
 ---------------------------------------
