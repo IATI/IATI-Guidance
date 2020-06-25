@@ -49,11 +49,11 @@ Use the humanitarian attribute for humanitarian activities and/ or transactions 
 
 .. code-block:: xml
 
-  <`iati-activity <http://reference.iatistandard.org/203/activity-standard/iati-activities/iati-activity/>`__ humanitarian="1" >
+  <iati-activity humanitarian="1" >
 
 .. code-block:: xml
 
-  <`transaction <http://reference.iatistandard.org/203/activity-standard/iati-activities/iati-activity/transaction/>`__ humanitarian="1">
+  <transaction humanitarian="1">
 
 * *Note:* Not all activities responding to the COVID-19 pandemic will be classified as ‘humanitarian’, so please only use the Humanitarian flag where relevant.
 
