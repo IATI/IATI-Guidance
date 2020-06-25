@@ -261,14 +261,14 @@ Like budget-lines, the total expenditure can be broken down into expense-lines.
 | iture/>`__              | following               |                         |                         |
 |                         | period.                 |                         |                         |
 +-------------------------+-------------------------+-------------------------+-------------------------+
-| `period-start <h        | An iso-code             | The elements            | The periods             |
-| ttp://refere            | for the start           | period-start            | should align            |
+| `period-start <http     | An iso-code             | The elements            | The periods             |
+| ://refere               | for the start           | period-start            | should align            |
 | nce.iatistanda          | date of the             | and period-end          | with the                |
 | rd.org/organis          | period.                 | must appear             | periods                 |
 | ation-standard          |                         | only once               | reported in             |
 | /iati-organisa          |                         | within each             | the                     |
-| tions/iati-org          |                         | total-expendit          | `total-budget <h        |
-| anisation/tota          |                         | ure element.            | ttp://refer             |
+| tions/iati-org          |                         | total-expenditure       | `total-budget <http     |
+| anisation/tota          |                         | element.                | ://refer                |
 | l-expenditure/          |                         |                         | ence.iatistand          |
 | period-start/>          |                         | The                     | ard.org/organi          |
 | `__                     |                         | period-start            | sation-standar          |
@@ -278,8 +278,8 @@ Like budget-lines, the total expenditure can be broken down into expense-lines.
 |                         |                         | period-end              | al-budget/>`__          |
 |                         |                         | date.                   | element.                |
 +-------------------------+-------------------------+                         +-------------------------+
-| `period-end <h          | An iso-code             | The period              |                         |
-| ttp://referenc          | for the end             | published must          |                         |
+| `period-end <http       | An iso-code             | The period              |                         |
+| ://referenc             | for the end             | published must          |                         |
 | e.iatistandard          | date of the             | be no longer            |                         |
 | .org/organisat          | period.                 | than one year.          |                         |
 | ion-standard/i          |                         |                         |                         |
@@ -289,39 +289,39 @@ Like budget-lines, the total expenditure can be broken down into expense-lines.
 | expenditure/pe          |                         |                         |                         |
 | riod-end/>`__           |                         |                         |                         |
 +-------------------------+-------------------------+-------------------------+-------------------------+
-| `value <http:/          | The financial           | This element            | The currency            |
-| /reference.iat          | value of the            | must appear             | attribute is            |
+| `value <http            | The financial           | This element            | The currency            |
+| ://reference.iat        | value of the            | must appear             | attribute is            |
 | istandard.org/          | expenditure             | only once               | required,               |
 | organisation-s          | for the                 | within each             | unless a                |
-| tandard/iati-o          | declared                | `total-exp              | default                 |
-| rganisations/i          | period.                 | enditure <http          | currency has            |
-| ati-organisati          |                         | ://reference.i          | been provided           |
-| on/total-expen          | The `currency <h        | atistandard.or          | for the                 |
-| diture/value/>          | ttp://refere            | g//organisatio          | organisation.           |
-| `__                     | nce.iatistanda          | n-standard/iat          |                         |
-|                         | rd.org/codelis          | i-organisation          |                         |
-|                         | ts/Currency/>`__        | s/iati-organis          |                         |
-|                         | and                     | ation/total-ex          |                         |
-|                         | value-date can          | penditure/>`__          |                         |
-|                         | also be                 | element.                |                         |
-|                         | declared for            |                         |                         |
-|                         | the value.              | The value-date          |                         |
-|                         |                         | must be                 |                         |
+| tandard/iati-o          | declared                | `total-expenditure <http| default                 |
+| rganisations/i          | period.                 | ://reference.i          | currency has            |
+| ati-organisati          |                         | atistandard.or          | been provided           |
+| on/total-expen          | The `currency <http     | g//organisatio          | for the                 |
+| diture/value/>          | ://refere               | n-standard/iat          | organisation.           |
+| `__                     | nce.iatistanda          | i-organisation          |                         |
+|                         | rd.org/codelis          | s/iati-organis          |                         |
+|                         | ts/Currency/>`__        | ation/total-ex          |                         |
+|                         | and                     | penditure/>`__          |                         |
+|                         | value-date can          | element.                |                         |
+|                         | also be                 |                         |                         |
+|                         | declared for            | The value-date          |                         |
+|                         | the value.              | must be                 |                         |
 |                         |                         | declared for            |                         |
 |                         |                         | the value.              |                         |
+|                         |                         |                         |                         |
 +-------------------------+-------------------------+-------------------------+-------------------------+
-| `expense-line <h        | This provides           |                         | The sum of the          |
-| ttp://refere            | a breakdown of          |                         | expense-line            |
+| `expense-line <http     | This provides           |                         | The sum of the          |
+| ://refere               | a breakdown of          |                         | expense-line            |
 | nce.iatistanda          | the                     |                         | values does             |
-| rd.org/organis          | total-expendit          |                         | not have to             |
-| ation-standard          | ure.                    |                         | equal the               |
+| rd.org/organis          | total-expenditure.      |                         | not have to             |
+| ation-standard          |                         |                         | equal the               |
 | /iati-organisa          |                         |                         | value of the            |
 | tions/iati-org          | The period              |                         | parent                  |
-| anisation/tota          | covered is the          |                         | total-expendit          |
-| l-expenditure/          | same as that            |                         | ure element.            |
+| anisation/tota          | covered is the          |                         | total-expenditure       |
+| l-expenditure/          | same as that            |                         | element.                |
 | expense-line/>          | of the parent           |                         |                         |
-| `__                     | total-expendit          |                         | A @ref                  |
-|                         | ure.                    |                         | attribute can           |
+| `__                     | total-expenditure.      |                         | A @ref                  |
+|                         |                         |                         | attribute can           |
 |                         |                         |                         | be provided             |
 |                         | Multiple                |                         | linking the             |
 |                         | expense-lines           |                         | expense-line            |
@@ -332,8 +332,8 @@ Like budget-lines, the total expenditure can be broken down into expense-lines.
 |                         |                         |                         | organisation’s          |
 |                         |                         |                         | system.                 |
 +-------------------------+-------------------------+-------------------------+-------------------------+
-| `value <http:/          | The value of            | This element            |                         |
-| /reference.iat          | the                     | must appear             |                         |
+| `value <http            | The value of            | This element            |                         |
+| ://reference.iat        | the                     | must appear             |                         |
 | istandard.org/          | expense-line            | only once               |                         |
 | organisation-s          | breakdown.              | within each             |                         |
 | tandard/iati-o          |                         | expense-line            |                         |
@@ -344,8 +344,8 @@ Like budget-lines, the total expenditure can be broken down into expense-lines.
 | -line/value/>`__        |                         | declared for            |                         |
 |                         |                         | the value.              |                         |
 +-------------------------+-------------------------+-------------------------+-------------------------+
-| `narrative <ht          | A description           | A narrative             | The                     |
-| tp://reference          | of the                  | must be                 | description             |
+| `narrative <http        | A description           | A narrative             | The                     |
+| ://reference            | of the                  | must be                 | description             |
 | .iatistandard.          | expense-line            | provided.               | text is                 |
 | org/organisati          | breakdown.              |                         | contained               |
 | on-standard/ia          |                         |                         | within the              |
