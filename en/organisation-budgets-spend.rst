@@ -297,8 +297,8 @@ Like budget-lines, the total expenditure can be broken down into expense-lines.
 | rganisations/i          | period.                 | ://reference.i          | currency has            |
 | ati-organisati          |                         | atistandard.or          | been provided           |
 | on/total-expen          | The `currency <http     | g//organisatio          | for the                 |
-| diture/value/>          | ://refere               | n-standard/iat          | organisation.           |
-| `__                     | nce.iatistanda          | i-organisation          |                         |
+| diture/value/>`__       | ://refere               | n-standard/iat          | organisation.           |
+|                         | nce.iatistanda          | i-organisation          |                         |
 |                         | rd.org/codelis          | s/iati-organis          |                         |
 |                         | ts/Currency/>`__        | ation/total-ex          |                         |
 |                         | and                     | penditure/>`__          |                         |
@@ -319,8 +319,8 @@ Like budget-lines, the total expenditure can be broken down into expense-lines.
 | tions/iati-org          | The period              |                         | parent                  |
 | anisation/tota          | covered is the          |                         | total-expenditure       |
 | l-expenditure/          | same as that            |                         | element.                |
-| expense-line/>          | of the parent           |                         |                         |
-| `__                     | total-expenditure.      |                         | A @ref                  |
+| expense-line/>`__       | of the parent           |                         |                         |
+|                         | total-expenditure.      |                         | A @ref                  |
 |                         |                         |                         | attribute can           |
 |                         |                         |                         | be provided             |
 |                         | Multiple                |                         | linking the             |
