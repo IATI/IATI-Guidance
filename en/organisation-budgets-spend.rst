@@ -262,16 +262,16 @@ Like budget-lines, the total expenditure can be broken down into expense-lines.
 |                         | period.                 |                         |                         |
 +-------------------------+-------------------------+-------------------------+-------------------------+
 | `period-start <http     | An iso-code             | The elements            | The periods             |
-| ://refere               | for the start           | period-start            | should align            |
-| nce.iatistanda          | date of the             | and period-end          | with the                |
-| rd.org/organis          | period.                 | must appear             | periods                 |
-| ation-standard          |                         | only once               | reported in             |
-| /iati-organisa          |                         | within each             | the                     |
-| tions/iati-org          |                         | total-expenditure       | `total-budget <http     |
-| anisation/tota          |                         | element.                | ://refer                |
-| l-expenditure/          |                         |                         | ence.iatistand          |
-| period-start/>          |                         | The                     | ard.org/organi          |
-| `__                     |                         | period-start            | sation-standar          |
+| ://reference.iatistanda | for the start           | period-start            | should align            |
+| rd.org/organis          | date of the             | and period-end          | with the                |
+| ation-standard          | period.                 | must appear             | periods                 |
+| /iati-organisa          |                         | only once               | reported in             |
+| tions/iati-org          |                         | within each             | the                     |
+| anisation/tota          |                         | total-expenditure       | `total-budget <http     |
+| l-expenditure/          |                         | element.                | ://refer                |
+| period-start/>          |                         |                         | ence.iatistand          |
+| `__                     |                         | The                     | ard.org/organi          |
+|                         |                         | period-start            | sation-standar          |
 |                         |                         | date must be            | d/iati-organis          |
 |                         |                         | before or the           | ations/iati-or          |
 |                         |                         | same as the             | ganisation/tot          |
