@@ -22,10 +22,12 @@ Using specific IATI Standard elements to provide COVID-19 data
 --------------------------------------------------------------
 
 **1. Title and Description** [2]_
-add “COVID-19” in the `title <http://reference.iatistandard.org/203/activity-standard/iati-activities/iati-activity/title/>`__ of reported activities. If organizations are unable to specify COVID-19 in the activity title, they can include “COVID-19” in the activity descriptions and/or transaction descriptions.
+
+Add “COVID-19” in the `title <http://reference.iatistandard.org/203/activity-standard/iati-activities/iati-activity/title/>`__ of reported activities. If organizations are unable to specify COVID-19 in the activity title, they can include “COVID-19” in the activity descriptions and/or transaction descriptions.
 
 **2. Humanitarian Scope element**
-in the `humanitarian scope eleemnt <http://reference.iatistandard.org/203/activity-standard/iati-activities/iati-activity/humanitarian-scope/>`__\ we strongly recommend using both the Emergency (1) and Appeal (2) `type codelists <http://reference.iatistandard.org/203/codelists/HumanitarianScopeType/>`__ and respective `vocabulary for GLIDE and Humanitarian Response Plan (HRP) codes <http://reference.iatistandard.org/203/codelists/HumanitarianScopeVocabulary/>`__ when reporting activities related to COVID-19. You should do that by specifying:
+
+In the `humanitarian scope element <http://reference.iatistandard.org/203/activity-standard/iati-activities/iati-activity/humanitarian-scope/>`__\ we strongly recommend using both the Emergency (1) and Appeal (2) `type codelists <http://reference.iatistandard.org/203/codelists/HumanitarianScopeType/>`__ and respective `vocabulary for GLIDE and Humanitarian Response Plan (HRP) codes <http://reference.iatistandard.org/203/codelists/HumanitarianScopeVocabulary/>`__ when reporting activities related to COVID-19. You should do that by specifying:
   
 * GLIDE Appeal related to COVID-19- “EP-2020-000012-001”**\  [3]_
 
@@ -42,11 +44,12 @@ in the `humanitarian scope eleemnt <http://reference.iatistandard.org/203/activi
 * *Note:* You are advised to use the humanitarian-scope element irrespective of whether the activity you are reporting classifies as development or humanitarian funding.
 
 **3. Humanitarian flag**
-use the humanitarian attribute for humanitarian activities and/ or transactions related to COVID-19:
+
+Use the humanitarian attribute for humanitarian activities and/ or transactions related to COVID-19:
 
 .. code-block:: xml
 
-  <iati-activity humanitarian="1" >
+  <`iati-activity <http://reference.iatistandard.org/203/activity-standard/iati-activities/iati-activity/>`__ humanitarian="1" >
 
 .. code-block:: xml
 
@@ -55,7 +58,8 @@ use the humanitarian attribute for humanitarian activities and/ or transactions 
 * *Note:* Not all activities responding to the COVID-19 pandemic will be classified as ‘humanitarian’, so please only use the Humanitarian flag where relevant.
 
 **4. Tag**  [5]_
-if an organization does not permit the publishing of data in the Humanitarian Scope for their development activities, they can publish "COVID-19" within the Tag data field. In order to do this, publishers use vocab= "99", treat it as free text, and add "COVID-19".
+
+If an organization does not permit the publishing of data in the Humanitarian Scope for their development activities, they can publish "COVID-19" within the `Tag data field <http://reference.iatistandard.org/203/activity-standard/iati-activities/iati-activity/tag/>`__. In order to do this, publishers use vocab= "99", treat it as free text, and add "COVID-19".
 
 .. code-block:: xml
 
