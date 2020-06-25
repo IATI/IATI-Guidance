@@ -112,7 +112,7 @@ All organisations should include the elements below to publish their annual plan
 
 +----------------+----------------+----------------+----------------+
 | Element        | Use            | Rules          | Guidance       |
-+----------------+----------------+----------------+----------------+
++================+================+================+================+
 | `total-budget  | This provides  |                | The            |
 | <http://refere | the            |                | organisation’s |
 | nce.iatistanda | organisation’s |                | total annual   |
@@ -362,8 +362,8 @@ Activity budgets
 ----------------
 
 For details on activity budgets, please see:
-- :doc: 'Budgets overview <budgets-overview>'
-- :doc: 'Activity budgets <activity-budgets>'
+- :doc: `Budgets overview <budgets-overview>`
+- :doc: `Activity budgets <activity-budgets>`
 
 .. meta::
   :title: Organisation budgets and spend
