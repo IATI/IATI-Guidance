@@ -75,7 +75,7 @@ Please **do not** publish only the minimum required data, but make use of all th
 How can I receive further support on publishing COVID-19 activities?
 --------------------------------------------------------------------
 
-If you have any specific questions on publishing activities related to COVID-19, please do get in touch with the IATI Secretariat by emailing the IATI Helpdesk (support@iatistandard.org).
+If you have any specific questions on publishing activities related to COVID-19, please do get in touch with the IATI Secretariat by emailing the `IATI Helpdesk <mailto:support@iatistandard.org>`__.
 
 See archived copy of `Version 1 - 27 March 2020 Guidance: Publishing data on COVID-19 using the IATI Standard <https://drive.google.com/file/d/1maA508bwKnLvcHdDe6eSItEz-w2SiPoE/view?usp=sharing>`__
 
