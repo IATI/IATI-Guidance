@@ -24,8 +24,8 @@ Using specific IATI Standard elements to provide COVID-19 data
 **1. Title and Description** [2]_
 add “COVID-19” in the `title <http://reference.iatistandard.org/203/activity-standard/iati-activities/iati-activity/title/>`__ of reported activities. If organizations are unable to specify COVID-19 in the activity title, they can include “COVID-19” in the activity descriptions and/or transaction descriptions.
 
-**2. `Humanitarian Scope element** <http://reference.iatistandard.org/203/activity-standard/iati-activities/iati-activity/humanitarian-scope/>`__\
-we strongly recommend using both the Emergency (1) and Appeal (2) `type codelists <http://reference.iatistandard.org/203/codelists/HumanitarianScopeType/>`__ and respective `vocabulary for GLIDE and Humanitarian Response Plan (HRP) codes <http://reference.iatistandard.org/203/codelists/HumanitarianScopeVocabulary/>`__ when reporting activities related to COVID-19. You should do that by specifying:
+**2. Humanitarian Scope element**
+in the `humanitarian scope eleemnt <http://reference.iatistandard.org/203/activity-standard/iati-activities/iati-activity/humanitarian-scope/>`__\ we strongly recommend using both the Emergency (1) and Appeal (2) `type codelists <http://reference.iatistandard.org/203/codelists/HumanitarianScopeType/>`__ and respective `vocabulary for GLIDE and Humanitarian Response Plan (HRP) codes <http://reference.iatistandard.org/203/codelists/HumanitarianScopeVocabulary/>`__ when reporting activities related to COVID-19. You should do that by specifying:
   
 * GLIDE Appeal related to COVID-19- “EP-2020-000012-001”**\  [3]_
 
