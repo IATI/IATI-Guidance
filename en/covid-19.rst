@@ -6,7 +6,7 @@ Following a `consultation with IATI’s community <https://discuss.iatistandard.
 Who is this guidance for?
 -------------------------
 
-This document provides instructions on how organisations can publish data about their activities in response to the COVID-19 pandemic. It is written for organisations who are already registered as IATI publishers and have previously published IATI data files on their development and/or humanitarian work. The guidance may be updated as the COVID-19 pandemic evolves and as further feedback is received from the IATI community of publishers and members. International development and humanitarian actors not already registered to publish IATI data are encouraged to contact IATI’s `Technical Team <mailto:support@iatistandard.org>`__ for support on getting set up to publish data on COVID-19 to IATI.
+This document provides instructions on how organisations can publish data about their activities in response to the COVID-19 pandemic. It is written for organisations who are already registered as IATI publishers and have previously published IATI data files on their development and/or humanitarian work. The guidance may be updated as the COVID-19 pandemic evolves and as further feedback is received from the IATI community of publishers and members. International development and humanitarian actors not already registered to publish IATI data are encouraged to contact IATI’s `Technical Team <mailto:support\@iatistandard.org>`__ for support on getting set up to publish data on COVID-19 to IATI.
 
 What data should I publish?
 ---------------------------
@@ -75,7 +75,7 @@ Please **do not** publish only the minimum required data, but make use of all th
 How can I receive further support on publishing COVID-19 activities?
 --------------------------------------------------------------------
 
-If you have any specific questions on publishing activities related to COVID-19, please do get in touch with the IATI Secretariat by emailing the `IATI Helpdesk <mailto:support@iatistandard.org>`__.
+If you have any specific questions on publishing activities related to COVID-19, please do get in touch with the IATI Secretariat by emailing the `IATI Helpdesk <mailto:support\@iatistandard.org>`__.
 
 See archived copy of `Version 1 - 27 March 2020 Guidance: Publishing data on COVID-19 using the IATI Standard <https://drive.google.com/file/d/1maA508bwKnLvcHdDe6eSItEz-w2SiPoE/view?usp=sharing>`__
 
