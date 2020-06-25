@@ -29,7 +29,7 @@ Add “COVID-19” in the `title <http://reference.iatistandard.org/203/activity
 
 In the `humanitarian scope element <http://reference.iatistandard.org/203/activity-standard/iati-activities/iati-activity/humanitarian-scope/>`__\ we strongly recommend using both the Emergency (1) and Appeal (2) `type codelists <http://reference.iatistandard.org/203/codelists/HumanitarianScopeType/>`__ and respective `vocabulary for GLIDE and Humanitarian Response Plan (HRP) codes <http://reference.iatistandard.org/203/codelists/HumanitarianScopeVocabulary/>`__ when reporting activities related to COVID-19. You should do that by specifying:
   
-* GLIDE Appeal related to COVID-19- “EP-2020-000012-001”**\  [2]_
+* GLIDE Appeal related to COVID-19- “EP-2020-000012-001” [2]_
 
 .. code-block:: xml
 
