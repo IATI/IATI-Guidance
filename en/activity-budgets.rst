@@ -129,7 +129,7 @@ All activities should include the elements below, when publishing an activity bu
 
 +----------------+----------------+----------------+----------------+
 | Element        | Use            | Rules          | Guidance       |
-+----------------+----------------+----------------+----------------+
++================+================+================+================+
 | `budget        | This provides  |                | The attributes |
 | <http://refere | the financial  |                | type (original |
 | nce.iatistanda | budget for the |                | or revised)    |
@@ -189,8 +189,8 @@ All activities should include the elements below, when publishing an activity bu
 Organisation budgets
 --------------------
 For details on organisation budgets, please see:
-- :doc: 'Budgets overview <budgets-overview>'
-- :doc: 'Organisation budgets & spend <organisation-budgets-spend>'
+- :doc: `Budgets overview <budgets-overview>`
+- :doc: `Organisation budgets & spend <organisation-budgets-spend>`
 
 .. meta::
   :title: Activity budgets
