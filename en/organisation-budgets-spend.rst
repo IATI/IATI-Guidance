@@ -250,16 +250,16 @@ Like budget-lines, the total expenditure can be broken down into expense-lines.
 +------------------+------------------+------------------+------------------+
 | Element          | Use              | Rules            | Guidance         |
 +==================+==================+==================+==================+
-| `total-expendi   | This provides    |                  | The              |
-| ture <http://r   | the              |                  | organisation’s   |
-| eference.iatis   | organisation’s   |                  | total            |
-| tandard.org//o   | own              |                  | expenditure      |
-| rganisation-st   | humanitarian     |                  | for the          |
-| andard/iati-or   | and              |                  | previous three   |
-| ganisations/ia   | development      |                  | years should     |
-| ti-organisatio   | spend for the    |                  | be provided.     |
-| n/total-expend   | following        |                  |                  |
-| iture/>`__       | period.          |                  |                  |
+| `total-expenditu | This provides    |                  | The              |
+| re <http://refer | the              |                  | organisation’s   |
+| ence.iatistandar | organisation’s   |                  | total            |
+| d.org//organisat | own              |                  | expenditure      |
+| ion-standard/iat | humanitarian     |                  | for the          |
+| i-organisations/ | and              |                  | previous three   |
+| iati-organisatio | development      |                  | years should     |
+| n/total-expendit | spend for the    |                  | be provided.     |
+| iture/>`__       | following        |                  |                  |
+|                  | period.          |                  |                  |
 +------------------+------------------+------------------+------------------+
 | `period-start <h | An iso-code      | The elements     | The periods      |
 | ttp://refere     | for the start    | period-start     | should align     |
