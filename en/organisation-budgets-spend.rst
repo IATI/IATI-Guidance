@@ -269,8 +269,8 @@ Like budget-lines, the total expenditure can be broken down into expense-lines.
 | tions/iati-org          |                         | within each             | the                     |
 | anisation/tota          |                         | total-expenditure       | `total-budget <http     |
 | l-expenditure/          |                         | element.                | ://refer                |
-| period-start/>          |                         |                         | ence.iatistand          |
-| `__                     |                         | The                     | ard.org/organi          |
+| period-start/>`__       |                         |                         | ence.iatistand          |
+|                         |                         | The                     | ard.org/organi          |
 |                         |                         | period-start            | sation-standar          |
 |                         |                         | date must be            | d/iati-organis          |
 |                         |                         | before or the           | ations/iati-or          |
