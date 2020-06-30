@@ -48,3 +48,8 @@ Pre 2.02 Considerations
 -----------------------
 
 Not all of the elements mentioned above exist in some previous versions of the standard, but most of them do in version 2.01, and this practice should be standard in all 2.xx versions and above.
+
+.. meta::
+  :title: Self-defined vocabularies
+  :description: For several elements in the IATI activity and organisation standards, organisations can provide a code from their own codelist. For example, organisations can choose a 5-digit DAC sector code as well as a sector code they use internally.
+  :guidance_type: activity, organisation
