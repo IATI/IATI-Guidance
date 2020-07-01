@@ -23,4 +23,4 @@ IATI sub-national locations
 .. meta::
   :title: Activity geography
   :description: Each activity published to IATI must specify where the activity is taking place, or the place that will benefit from the activity. This can include the countries or regions.
-  :guidance_type: activity, organisation
+  :guidance_type: activity
