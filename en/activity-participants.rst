@@ -67,7 +67,7 @@ Technical guidance summary
      - This element must be included once and only once within each `recipient-org-budget <http://reference.iatistandard.org/203/organisation-standard/iati-organisations/iati-organisation/recipient-org-budget/>`__.
 
        If the IATI Org ID is not known, the name of the organisation must be given in the narrative.
-     - Publishing recipient-org-budget elements is primarily applicable to donors, but any provider of core funding is expected to use it. Guidance on publishing recipient-org budgets is :doc: `here <organisation-budgets-spend>`.
+     - Publishing recipient-org-budget elements is primarily applicable to donors, but any provider of core funding is expected to use it. Guidance on publishing recipient-org budgets is :doc:`here <organisation-budgets-spend>`.
 
 
 **Activity File:**
@@ -88,7 +88,7 @@ Please note:
 
 -  It is always recommended that as many details as possible about an organisation which are known are added.
 
--  For each transaction it is recommended that both the provider and receiver organisations are added, this includes when the reporting organisation is either the provider or the receiver. Guidance on publishing transactions is :doc: `here <financial-transactions>`
+-  For each transaction it is recommended that both the provider and receiver organisations are added, this includes when the reporting organisation is either the provider or the receiver. Guidance on publishing transactions is :doc:`here <financial-transactions>`
 
 .. list-table::
    :widths: 16 28 28 28
