@@ -164,8 +164,8 @@ If geographical data is published at transaction level it must be included for e
 Sub-national locations
 ----------------------
 Activities can also contain sub-national locations, these detail where an activity is happening within a country. For further details see:
-- :doc: `Activity geography <activity-geography>`
-- :doc: `Sub-national-locations <sub-national-locations>`
+- :doc:`Activity geography <activity-geography>`
+- :doc:`Sub-national-locations <sub-national-locations>`
 
 .. meta::
   :title: Geography - countries and regions
