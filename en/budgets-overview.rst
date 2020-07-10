@@ -12,12 +12,12 @@ Both types of budget can be updated and adjusted at any point. All budgets shoul
 Organisation budgets and spend
 -------------------------------
 
-:doc:`Find out what budget information <organisation-budgets-spend>` goes into an `organisation <https://iatistandard.org/en/guidance/preparing-data/organisation-infromation/>`__ file. This includes high-level figures of the total budget for the publisher, and funding going to recipient countries, regions and external organisations.
+:doc:`Find out what budget information <organisation-budgets-spend>` goes into an `organisation <https://iatistandard.org/en/guidance/standard-overview/preparing-your-data/organisation-infromation/>`__ file. This includes high-level figures of the total budget for the publisher, and funding going to recipient countries, regions and external organisations.
 
 Activity budgets
 -----------------
 
-:doc:`Find out what budget information <activity-budgets>` goes into an `activity <https://iatistandard.org/en/guidance/preparing-data/activity-information/>`__ file. These budgets are more specific and changes to them can be captured in individual activities.
+:doc:`Find out what budget information <activity-budgets>` goes into an `activity <https://iatistandard.org/en/guidance/standard-overview/preparing-your-data/activity-information/>`__ file. These budgets are more specific and changes to them can be captured in individual activities.
 
 .. meta::
   :title: Budgets (overview)
