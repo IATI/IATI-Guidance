@@ -92,6 +92,6 @@ See archived copy of `Version 1 - 27 March 2020 Guidance: Publishing data on COV
    This was added to Version 2 Guidance: Publishing data on COVID-19 using the IATI Standard
 
 .. meta::
-  :title: Guidance: publishing data on COVID-19 using the IATI Standard
+  :title: COVID-19 related data
   :description: Following a `consultation with IATI’s community this guidance has been updated to provide recommendations on how to publish data on COVID-19 using the IATI Standard.
   :guidance_type: activity

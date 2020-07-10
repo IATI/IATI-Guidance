@@ -48,7 +48,7 @@ Please note:
 
 -  Location data should only be added when it is safe to do so. It is the publishing organisation’s responsibility to ensure that the data it publishes is safe.
 
--  Due to security considerations, some publishing organisations may decide not to include location data. They may even exclude a project from their data entirely (see `IATI’s Exclusion Policy Guidelines <https://iatistandard.org/en/guidance/preparing-organisation/organisation-data-publication/information-and-data-you-cant-publish-exclusions/>`__).
+-  Due to security considerations, some publishing organisations may decide not to include location data. They may even exclude a project from their data entirely (see `IATI’s Exclusion Policy Guidelines <https://iatistandard.org/en/guidance/standard-overview/preparing-your-organisation-data-publication/information-and-data-you-cant-publish-exclusions/>`__).
 
 -  If required, location data can display a sub-national region with a central coordinate rather than an exact location.
 
