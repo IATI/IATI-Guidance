@@ -23,3 +23,4 @@ Activity budgets
   :title: Budgets (overview)
   :description: There are two types of budget that every organisation publishing to IATI should provide: the total budget for an organisation, and a budget for each individual activity.
   :guidance_type: activity, organisation
+  :date: September 19, 2019
