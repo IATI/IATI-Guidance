@@ -85,3 +85,4 @@ Technical guidance summary
   :title: Geography - sub-national locations (all elements)
   :description: This table lists all elements that can be included in the location element.
   :guidance_type: activity
+  :date: September 19, 2019
