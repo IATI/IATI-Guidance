@@ -53,3 +53,4 @@ Not all of the elements mentioned above exist in some previous versions of the s
   :title: Self-defined vocabularies
   :description: For several elements in the IATI activity and organisation standards, organisations can provide a code from their own codelist. For example, organisations can choose a 5-digit DAC sector code as well as a sector code they use internally.
   :guidance_type: activity, organisation
+  :date: December 3, 2015
