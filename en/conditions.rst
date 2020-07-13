@@ -32,3 +32,4 @@ In versions 2.01 and above, the following must also be considered:
   :title: Conditions
   :description: IATI asks publishers to declare any conditions or specific terms that are attached to their activities.
   :guidance_type: activity
+  :date: January 15, 2015
