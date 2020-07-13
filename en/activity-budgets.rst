@@ -196,3 +196,4 @@ For details on organisation budgets, please see:
   :title: Activity budgets
   :description: Activity budgets hold the total funding expected to be spent as part of an activity. It is recommended that each activity with planned spending that is published to IATI includes one or more budgets.
   :guidance_type: activity
+  :date: September 19, 2019
