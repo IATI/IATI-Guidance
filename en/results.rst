@@ -30,3 +30,4 @@ In versions 2.01 and above, the following must also be considered:
   :title: Results
   :description: The **IATI activity standard** enables the publishing of information on measurable results from an ``iati-activity``, through use of the ``result`` element.
   :guidance_type: activity
+  :date: January 13, 2015
