@@ -46,3 +46,4 @@ When using the IATI activity standard to declare humanitarian related activities
   :title: Humanitarian reporting
   :description: Please also see the Humanitarian Reporting Guidelines which are currently on the IATI Community Discuss Forum.
   :guidance_type: activity
+  :date: October 13, 2016
