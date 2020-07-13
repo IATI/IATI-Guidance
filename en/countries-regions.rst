@@ -171,3 +171,4 @@ Activities can also contain sub-national locations, these detail where an activi
   :title: Geography - countries and regions
   :description: Each activity in IATI should specify the country (e.g. China) in which the activity is taking place, or the places that will benefit from the activity.
   :guidance_type: activity
+  :date: September 19, 2019
