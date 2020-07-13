@@ -149,3 +149,4 @@ Please note:
   :title: Activity participants
   :description: In IATI data, each organisation publishes from its own perspective and includes details of organisations it is working with.
   :guidance_type: activity, organisation
+  :date: September 19, 2019
