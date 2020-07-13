@@ -143,3 +143,4 @@ There are several classifications that can be added to a particular transaction,
   :title: Financial transactions
   :description: Each activity in IATI should contain a record of how the activity is being financed and how the finance is being used. Each incoming and outgoing fund is published as a transaction.
   :guidance_type: activity
+  :date: September 19, 2019
