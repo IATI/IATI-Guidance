@@ -14,3 +14,4 @@ Within the **IATI activity standard** it is possible to describe items specific 
   :title: CRS and FSS
   :description: Publishing CRS and FSS data is only relevant to organisations that actively report to CRS++ and/or the OECD DAC Forward Spending Survey
   :guidance_type: activity
+  :date: February 3, 2015

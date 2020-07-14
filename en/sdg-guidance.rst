@@ -233,3 +233,4 @@ IATI recommends that if a publisher’s internal indicators do not directly matc
   :title: Sustainable Development Goals (SDGs)
   :description: Guidance on how to use the IATI Standard for publishing and using data on the Sustainable Development Goals (SDGs).
   :guidance_type: activity
+  :date: September 25, 2019

@@ -162,3 +162,4 @@ If thematic (sector) data is published at transaction level it must be included 
   :title: Activity thematic focus (sectors)
   :description: Each activity published to IATI must provide details of the thematic focus of the activity. The themes must be explained in code, and then further details can be provided in a written description.
   :guidance_type: activity
+  :date: September 19, 2019

@@ -25,3 +25,4 @@ When using the **IATI activity standard** to declare *related data*, the followi
 	 :title: Related data
 	 :description: Within the IATI activity standard it is possible to express relations between ``iati-activity`` records across different publishers / ``reporting-org``.
 	 :guidance_type: activity
+	 :date: August 5, 2015

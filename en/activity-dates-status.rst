@@ -66,3 +66,4 @@ All activities must include the activity-date and activity-status elements.
   :title: Activity dates and status
   :description: Each activity published to IATI should specify the time period in which the activity took place. Both the planned and actual dates of an activity can be provided.
   :guidance_type: activity
+  :date: September 19, 2019

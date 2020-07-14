@@ -121,3 +121,4 @@ What a document-link should include
   :title: Related documents
   :description: Further information about an organisation or activity can be provided by using the **document-link** element.
   :guidance_type: activity, organisation
+  :date: September 19, 2019

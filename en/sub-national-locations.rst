@@ -121,3 +121,4 @@ Activities can also contain countries and regions in which they are happening. F
   :title: Geography - sub-national locations
   :description: The sub-national location/s of an activity can be described in a number of ways. The primary way is through geographic coordinates.
   :guidance_type: activity
+  :date: September 19, 2019
