@@ -44,4 +44,4 @@ The additional codes were `approved by WP-STAT under the written procedure <http
   :title: Country budget alignment
   :description: This guidance outlines how IATI activities can be structured to enable country budget and aid alignment.
   :guidance_type: activity
-  :date: June 1, 2018
+  :date: June 18, 2018
