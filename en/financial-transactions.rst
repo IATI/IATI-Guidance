@@ -50,8 +50,6 @@ An organisation has committed $10,000 to an external organisation. Later, this c
 Transactions should include:
 ----------------------------
 
-Please note:
-
 - Every activity should include at least one transaction.
 - A transaction always describes something that has already happened. Therefore, transaction and value dates must not be in the future.
 - Each transaction can have a reference, this can be used to link a transaction to the publisher’s internal financial management system.

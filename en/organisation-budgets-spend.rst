@@ -75,8 +75,6 @@ When a budget changes status, the value and budget `status <http://reference.iat
 What should organisation budgets include?
 -----------------------------------------
 
-Please note:
-
 -  Each budget should be described from the perspective of the reporting organisation.
 
 -  Budget values should not be negative.

@@ -16,8 +16,6 @@ Where can activity participants can be published?
 
 Each organisation file must specify which organisation is publishing the file, and which organisation the data is about. In most cases, the publishing organisation is publishing data about itself. The organisation file can also include external organisations to which the publisher is providing core funding.
 
-Please note:
-
 -  In most cases, an organisation file will be from the perspective of one organisation. Guidance on publishing from the perspective of multiple organisations is coming soon.
 
 -  It is always recommended that the IATI Org ID and the organisation’s name is included.
@@ -75,8 +73,6 @@ Technical guidance summary
 Activity files need to specify which organisation is publishing the data.
 
 Details of participating organisations, what their roles are and who is receiving and giving the funds can also be published.
-
-Please note:
 
 -  In most cases, an organisation file will be from the perspective of one organisation. Guidance on publishing from the perspective of multiple organisations is coming soon.
 

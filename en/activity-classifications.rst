@@ -28,8 +28,6 @@ Classifications covered in IATI include:
 What classification information can be published?
 -------------------------------------------------
 
-Please note:
-
 -  An activity can have multiple policy-marker attributes. Unlike the element `sector <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/sector/>`__, percentages do not need to be added to each policy-marker.
 
 -  The classifications of default-finance-type, default-flow-type, default-aid-type and default-tied-status apply to the whole IATI-activity. These can be overridden within a single transaction.
