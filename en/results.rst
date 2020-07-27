@@ -9,7 +9,8 @@ How results data is published will depend on the structure of an organisation’
 
 To better understand publishing and using results data, it may be helpful to look at a visualisation. `d-portal <http://www.d-portal.org/>`__ is one tool that helps to visualise results data, for further information see :doc:`Understanding results data <understanding-results>`.
 
-*Please note, security implications may also prevent results data from being published, or require results to be aggregated. Any security considerations should be outlined in an organisation’s* `exclusion policy <https://iatistandard.org/en/guidance/preparing-organisation/organisation-data-publication/information-and-data-you-cant-publish-exclusions/>`__\ *.*
+*Please note:*
+-  security implications may also prevent results data from being published, or require results to be aggregated. Any security considerations should be outlined in an organisation’s `exclusion policy <https://iatistandard.org/en/guidance/preparing-organisation/organisation-data-publication/information-and-data-you-cant-publish-exclusions/>`__\ *.*
 
 
 Understanding Results
@@ -36,7 +37,8 @@ Each indicator can have a given time period with a start and an end date. This i
 
 The indicator description can be used to help explain what’s being measured and how. For example, whether the published values are aggregatable (the data user should add them up to get the total) or cumulative (the data user should look at the most recent value to get the total).
 
-*Please note, the indicators for different types of results (outputs, outcomes and impacts) will often be measured across different time periods, ranging from a few days to multiple years.*
+*Please note:*
+-  the indicators for different types of results (outputs, outcomes and impacts) will often be measured across different time periods, ranging from a few days to multiple years.
 
 Each indicator must have a measure attribute; this describes what the indicator is being measured in. The three most common `measure types <http://reference.iatistandard.org/codelists/IndicatorMeasure/>`__ in IATI are:
 
@@ -101,8 +103,6 @@ The starting value (baseline) was 15% of journalists felt free to express their 
       <indicator>
 
         ...
-
-.. code-block:: xml
 
       </indicator>
     </result>
@@ -174,6 +174,7 @@ Technical guidance summary
 
 Multiple indicators can be published for each result. These describe how the activity’s progress towards the result is measured.
 
+
 .. list-table::
    :widths: 16 28 28 28
    :header-rows: 1
@@ -222,6 +223,7 @@ Multiple indicators can be published for each result. These describe how the act
 
 The values of each indicator are published in the following `baseline <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/baseline/>`__, period `target <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/period/target/>`__ and period `actual <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/period/actual/>`__ elements. The baseline is the starting point. The target is a result an organisation wants an activity to achieve in a certain period of time. The actual is what was achieved at the end of that period.
 
+
 .. list-table::
    :widths: 16 28 28 28
    :header-rows: 1
@@ -252,7 +254,7 @@ The values of each indicator are published in the following `baseline <http://re
      -
      - For example an activity could declare the dimension’s name as *sex*, with a value of *female*.
 
-     - A baseline can have multiple dimensions.
+       A baseline can have multiple dimensions.
 
    * - `document-link <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/baseline/document-link/>`__
      - A link to an online, publicly accessible web page or document expanding on the baseline.
@@ -270,6 +272,7 @@ The values of each indicator are published in the following `baseline <http://re
 The period element defines the period of time in which the organisation is measuring the indicator. Multiple periods and measures can be published.
 
 The period element includes target and actual values. Target and actual contain the same elements and attributes as the baseline element. See the table above on how to publish on these.
+
 
 .. list-table::
    :widths: 16 28 28 28
@@ -311,7 +314,7 @@ The period element includes target and actual values. Target and actual contain 
      -
      - Multiple targets can be published for each period.
 
-      Target contains the same elements and attributes as baseline. See the table above for further guidance.
+       Target contains the same elements and attributes as baseline. See the table above for further guidance.
 
    * - `actual <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/period/actual/>`__
      - Defines the actual value achieved at the end of this time period.
