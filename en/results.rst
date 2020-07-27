@@ -194,29 +194,29 @@ Multiple indicators can be published for each result. These describe how the act
      - The element can specify whether or not the indicator is ascending or descending and if the data is suitable for aggregation.
 
    * - `title <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/title/>`__
-      - This is the title of the indicator.
-      - This element must appear only once within each indicator element.
-      - The title can be repeated in multiple languages using the `narrative <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/title/narrative/>`__ element.
+     - This is the title of the indicator.
+     - This element must appear only once within each indicator element.
+     - The title can be repeated in multiple languages using the `narrative <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/title/narrative/>`__ element.
 
-    * - `description <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/description/>`__
-      - The description provides more detail about the indicator.
-      - This element must appear only once within each indicator element.
-      - The description can be repeated in multiple languages using the `narrative <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/description/narrative/>`__ element.
+   * - `description <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/description/>`__
+     - The description provides more detail about the indicator.
+     - This element must appear only once within each indicator element.
+     - The description can be repeated in multiple languages using the `narrative <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/description/narrative/>`__ element.
 
-    * - `document-link <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/document-link/>`__
-      - A link to an online, publicly accessible web page or document expanding on the indicator.
-      -
-      - Further guidance can be found on the :doc:`Related documents <related-documents>` page.
+   * - `document-link <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/document-link/>`__
+     - A link to an online, publicly accessible web page or document expanding on the indicator.
+     -
+     - Further guidance can be found on the :doc:`Related documents <related-documents>` page.
 
-    * - `reference <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/reference/>`__
-      - A standardised means of identifying the indicator from a code in a recognised vocabulary.
-      - Multiple vocabularies may be specified, but each vocabulary must be specified only once for each indicator.
+   * - `reference <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/reference/>`__
+     - A standardised means of identifying the indicator from a code in a recognised vocabulary.
+     - Multiple vocabularies may be specified, but each vocabulary must be specified only once for each indicator.
 
-        Reference can be published here or at results level but not both.
+       Reference can be published here or at results level but not both.
 
-      - If `indicator vocab <http://reference.iatistandard.org/codelists/IndicatorVocabulary/>`__ 99 (reporting org) is used, it is strongly recommended that a link to the codelist is included. This helps ensure that users can understand the meaning of the code.
+     - If `indicator vocab <http://reference.iatistandard.org/codelists/IndicatorVocabulary/>`__ 99 (reporting org) is used, it is strongly recommended that a link to the codelist is included. This helps ensure that users can understand the meaning of the code.
 
-        This element can be used to link SDG Indicators to the published indicator. Further guidance is :doc:`here <sdg-guidance>`.
+       This element can be used to link SDG Indicators to the published indicator. Further guidance is :doc:`here <sdg-guidance>`.
 
 
 **Publishing baselines, targets and actuals**
