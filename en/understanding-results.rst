@@ -60,7 +60,7 @@ The following list of features shows where the various facets of results data ca
 
 9. Reference to an external indicator or results framework
 
-  -  The first example shows a reference linking the reported indicators to the Sustainable Development Goal Indicators. Guidance on how to report SDGs in IATI results can be found :doc:`here <sdg-guidance>`. The second example references the publisher’s internal results framework.
+   -  The first example shows a reference linking the reported indicators to the Sustainable Development Goal Indicators. Guidance on how to report SDGs in IATI results can be found :doc:`here <sdg-guidance>`. The second example references the publisher’s internal results framework.
 
 
 .. |image0| image:: media/image1.png
