@@ -54,8 +54,6 @@ Tips for specifying country and regions
 What country and region information can be published?
 -----------------------------------------------------
 
-Please note:
-
 -  If a recipient country is known, this is preferable to publishing a recipient region.
 
 -  If a region is included, it must be in addition to any countries specified.

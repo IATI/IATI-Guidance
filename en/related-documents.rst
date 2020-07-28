@@ -8,9 +8,6 @@ A publisher may want to add more detail about their work, such as the organisati
 Where can related documents can be added?
 -----------------------------------------
 
-
-Please note:
-
 -  Each document-link needs to contain a URL to a publicly accessible webpage or document.
 
 -  The URL must begin with either ‘http://’ or ‘https://’.

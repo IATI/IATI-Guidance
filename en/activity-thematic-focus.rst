@@ -54,8 +54,6 @@ IATI also recommends publishers provide thematic (sectors) information and :doc:
 What sector information can be published?
 -----------------------------------------
 
-Please note:
-
 Sector codes must only be used at either activity or transaction level.
 
 **At activity level**:

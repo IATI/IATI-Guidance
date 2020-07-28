@@ -87,8 +87,6 @@ An activity lasts a year. The original budget was $10,000 and was later decrease
 Activity Budgets should include:
 --------------------------------
 
-Please note:
-
 -  Budgets are the amount of finance expected to be spent as part of an activity.
 
 - Every activity that has planned or actual spend should have a budget.

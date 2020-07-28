@@ -10,8 +10,6 @@ Activities can also be given a ‘status’, such as ‘closed’ or ‘cancelle
 What activity information can be published?
 -------------------------------------------
 
-Please note:
-
 -  Dates must be in the format YYYY-MM-DD, e.g. 2018-03-16.
 
 -  Dates can be updated at any point.

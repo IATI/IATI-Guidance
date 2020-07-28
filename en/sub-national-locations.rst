@@ -42,8 +42,6 @@ If you don’t already have a way to find the coordinates for an activity, there
 Recommended information to be published within the location element
 -------------------------------------------------------------------
 
-Please note:
-
 -  The location element should only be used when sub-national location data is known.
 
 -  Location data should only be added when it is safe to do so. It is the publishing organisation’s responsibility to ensure that the data it publishes is safe.
