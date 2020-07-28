@@ -67,7 +67,7 @@ Technical guidance summary
      - Further details about a condition can be supplied using the activity :doc:`document-link <related-documents>` element.
 
 .. meta::
-  :title: Results information
+  :title: Conditions
   :description: IATI asks publishers to declare any conditions or specific terms that are attached to their activities.
   :guidance_type: activity
   :date: July 27, 2020
