@@ -9,8 +9,7 @@ How results data is published will depend on the structure of an organisation’
 
 To better understand publishing and using results data, it may be helpful to look at a visualisation. `d-portal <http://www.d-portal.org/>`__ is one tool that helps to visualise results data, for further information see :doc:`Understanding results data <understanding-results>`.
 
-*Please note:*
--  security implications may also prevent results data from being published, or require results to be aggregated. Any security considerations should be outlined in an organisation’s `exclusion policy <https://iatistandard.org/en/guidance/preparing-organisation/organisation-data-publication/information-and-data-you-cant-publish-exclusions/>`__\ *.*
+*Please note:* security implications may also prevent results data from being published, or require results to be aggregated. Any security considerations should be outlined in an organisation’s `exclusion policy <https://iatistandard.org/en/guidance/preparing-organisation/organisation-data-publication/information-and-data-you-cant-publish-exclusions/>`__\ *.*
 
 
 Understanding Results
@@ -37,8 +36,7 @@ Each indicator can have a given time period with a start and an end date. This i
 
 The indicator description can be used to help explain what’s being measured and how. For example, whether the published values are aggregatable (the data user should add them up to get the total) or cumulative (the data user should look at the most recent value to get the total).
 
-*Please note:*
--  the indicators for different types of results (outputs, outcomes and impacts) will often be measured across different time periods, ranging from a few days to multiple years.
+*Please note:* the indicators for different types of results (outputs, outcomes and impacts) will often be measured across different time periods, ranging from a few days to multiple years.
 
 Each indicator must have a measure attribute; this describes what the indicator is being measured in. The three most common `measure types <http://reference.iatistandard.org/codelists/IndicatorMeasure/>`__ in IATI are:
 
