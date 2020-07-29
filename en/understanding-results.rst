@@ -11,13 +11,17 @@ Two detailed examples of how the guidance elements work together are below.
 
 A published activity contains one result. This result has the outcome of reducing infant mortality rates in North Shewa, Ethiopia. The progress towards this result is being measured by two indicators. One is to do with attendance at antenatal care visits, the other to do with postnatal care visits:
 
-|image0|
-
+.. image:: media/image1.png
+   :width: 6.5in
+   :height: 2.65278in
+   
 **Example 2**
 
 A `real activity published by Amref Health Kenya in Africa <http://www.d-portal.org/ctrack.html?reporting_ref=KE-NCB-93175#view=act&aid=KE-NGCB-93175-C234>`__. The result has an output of increasing meetings with CSOs and other institutions, and progress is measured by two indicators: the number of meetings organised, and the number of meetings attended. This result contains target and actual values for each year between 2017 and 2019. The reference code that has been added is from the publisher’s own internal vocabulary:
 
-|image1|
+.. image:: media/image2.png
+   :width: 6.5in
+   :height: 2.95833in
 
 The following list of features shows where the various facets of results data can be found in the above examples:
 
@@ -61,14 +65,6 @@ The following list of features shows where the various facets of results data ca
 9. Reference to an external indicator or results framework
 
    -  The first example shows a reference linking the reported indicators to the Sustainable Development Goal Indicators. Guidance on how to report SDGs in IATI results can be found :doc:`here <sdg-guidance>`. The second example references the publisher’s internal results framework.
-
-
-.. |image0| image:: media/image1.png
-   :width: 6.5in
-   :height: 2.65278in
-.. |image1| image:: media/image2.png
-   :width: 6.5in
-   :height: 2.95833in
 
 .. meta::
   :title: Understanding results data
