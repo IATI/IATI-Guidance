@@ -88,7 +88,7 @@ What a document-link should include
 
    * - `title <http://iatistandard.org/activity-standard/iati-activities/iati-activity/document-link/title/>`__
      - Short title of the document or webpage.
-     - This must be included at once and only once for each document-link.
+     - This must be included once and only once for each document-link.
 
        The title can be provided in multiple languages.
 
@@ -100,7 +100,7 @@ What a document-link should include
 
    * - `category <http://iatistandard.org/activity-standard/iati-activities/iati-activity/document-link/category/>`__
      - Specifies the type of document or webpage.
-     - This must be included once and only once for each document-link.
+     - At least one category must be published for each document-link.
 
        The code must be on the `document category <http://iatistandard.org/codelists/DocumentCategory/>`__ codelist.
 
