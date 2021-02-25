@@ -29,17 +29,21 @@ Please see the guidance below on the seven areas in which humanitarian data can 
 The primary way of identifying humanitarian activities is by including the humanitarian flag at activity level.
 
 .. list-table::
-   :widths: 28 28 44
+   :widths: 50 50
    :header-rows: 1
 
 
    * - Name
      - Type
-     - Example
 
    * - Humanitarian Flag (IATI Standard version 2.02, 2.03)
      - Attribute (boolean)
-     - <iati-activity humanitarian="1">
+
+**Example:**
+
+.. code-block:: xml
+
+  <iati-activity humanitarian="1">
 
 This is a yes/no flag which indicates that an activity relates entirely or partially to humanitarian aid. Each flag must have either the value **1 = humanitarian** or **0 = development**.
 
@@ -51,7 +55,7 @@ The humanitarian flag can also be added to transactions.
 
 The humanitarian flag at transaction level should only be used if the transactions can be separated into humanitarian and development components. In this case, each transaction should be given a humanitarian flag of value **1 = humanitarian** or **0 = development**.
 
-**Examples:**
+**Example:**
 
 .. code-block:: xml
 
@@ -62,16 +66,20 @@ The humanitarian flag at transaction level should only be used if the transactio
 ---------------------------------------------------
 
 .. list-table::
-   :widths: 28 28 44
+   :widths: 50 50
    :header-rows: 1
 
    * - Name
      - Type
-     - Example
 
    * - Sector
      - Element
-     - <sector vocabulary="1" code="72010" />
+
+**Example:**
+
+.. code-block:: xml
+
+  <sector vocabulary="1" code="72010" />
 
 Every activity reported to IATI must include at least one sector element. IATI recommends that sector vocabulary 1, the OECD DAC 5-digit sector codelist is used. These sector codes cover a wide range of humanitarian and development work. For further guidance on sectors see: :doc:`Activity Thematic Focus (Sectors) </activity-thematic-focus>`.
 
@@ -79,7 +87,7 @@ Specific humanitarian `5 digit DAC sector codes <https://iatistandard.org/en/iat
 
 Multiple sector codes can be used. If an activity has both a humanitarian and development component at least two sector codes are needed. For example, this could be reported as 60% of the funding going to the OECD DAC sector code ‘emergency food and assistance’ (72040) and 40% going to ‘basic nutrition’ (12240):
 
-**Examples:**
+**Example:**
 
 .. code-block:: xml
 
@@ -89,21 +97,29 @@ Multiple sector codes can be used. If an activity has both a humanitarian and de
 3) Humanitarian scope
 ---------------------
 
-+-----------------------------------------+---------------------------------+
-| **Name**                                | **Type**                        |
-+-----------------------------------------+---------------------------------+
-| Humanitarian-scope                      | Element                         |
-+-----------------------------------------+---------------------------------+
-| **Example**                                                               |
-+---------------------------------------------------------------------------+
-| <humanitarian-scope type="1" vocabulary="1-2" code="EQ-2015-000048-NPL">  |
-|   <narrative>Nepal Earthquake April 2015<narrative>                       |
-| </humanitarian-scope>                                                     |
-+---------------------------------------------------------------------------+
-| <humanitarian-scope type="2" vocabulary="2-1" code="FNPL15">              |
-|   <narrative>Nepal Earthquake Flash Appeal 2015</narrative>               |
-| </humanitarian-scope>                                                     |
-+---------------------------------------------------------------------------+
+.. list-table::
+   :widths: 50 50
+   :header-rows: 1
+
+   * - Name
+     - Type
+
+   * - Humanitarian-scope 
+     - Element
+
+**Example:**
+
+.. code-block:: xml
+
+  <humanitarian-scope type="1" vocabulary="1-2" code="EQ-2015-000048-NPL">
+    <narrative>Nepal Earthquake April 2015<narrative>
+  </humanitarian-scope>
+
+.. code-block:: xml
+
+  <humanitarian-scope type="2" vocabulary="2-1" code="FNPL15">
+    <narrative>Nepal Earthquake Flash Appeal 2015</narrative>
+  </humanitarian-scope>
 
 The ‘humanitarian-scope’ element can be used to identify the specific emergency and/or appeal that an IATI activity is in response to. Where possible, publishers should use a recognised code to identify both the emergency and appeal.
 
@@ -138,16 +154,20 @@ For relevant guidance on use of the humanitarian-scope element to identify COVID
 ----------------------------------
 
 .. list-table::
-   :widths: 28 28 44
+   :widths: 50 50
    :header-rows: 1
 
    * - Name
      - Type
-     - Example
 
    * - Budget-not-provided (2.03+)
      - Attribute
-     - <iati-activity humanitarian="1" budget-not-provided="3">
+
+**Example:**
+
+.. code-block:: xml     
+
+  <iati-activity humanitarian="1" budget-not-provided="3">
 
 This attribute can be used to explain why an activity does not contain any :doc:`activity budget </activity-budgets>` elements. It must only be used when no budget elements are reported.
 
@@ -159,18 +179,22 @@ Humanitarian activities, with expected transaction spend, which are not rapid on
 ---------------------------
 
 .. list-table::
-   :widths: 28 28 44
+   :widths: 50 50
    :header-rows: 1
 
    * - Name
      - Type
-     - Example
 
    * - Participating-org / type
      - Attribute
-     - <participating-org ref="CC-CCC-123456789" role="4" type="24">
-         <narrative>Organisation Name</narrative>
-       </participating-org>
+
+**Example:**
+
+.. code-block:: xml  
+
+  <participating-org ref="CC-CCC-123456789" role="4" type="24">
+    <narrative>Organisation Name</narrative>
+  </participating-org>
 
 The `organisation type <https://iatistandard.org/en/iati-standard/codelists/organisationtype>`__ attribute identifies the type of each organisation that is participating in an activity, for example:
 
@@ -212,17 +236,21 @@ The name and type of an organisation receiving funds should also be added to eac
 ------------------------------------------
 
 .. list-table::
-   :widths: 28 28 44
+   :widths: 50 50
    :header-rows: 1
 
    * - Name
      - Type
-     - Example
 
    * - Sector
      - Element
-     - <sector vocabulary="10" code="4" percentage="50" />
-       <sector vocabulary="10" code="7" percentage="50" />
+
+**Example:**
+
+.. code-block:: xml  
+
+  <sector vocabulary="10" code="4" percentage="50" />
+  <sector vocabulary="10" code="7" percentage="50" />
 
 The `humanitarian response clusters <https://www.humanitarianresponse.info/en/about-clusters/what-is-the-cluster-approach>`__ are established by groups of humanitarian organisations to support coordination in a crisis response. Each cluster is formed of organisations (including both UN agencies and NGOs) tackling a main area of humanitarian action, e.g. water, health or logistics. The groups are designated by the Inter-Agency Standing Committee (IASC) and have clear responsibilities for coordination in emergencies.
 
@@ -236,31 +264,44 @@ The Humanitarian Global Clusters can be provided using vocabulary 10 (according 
 ----------------------------------------------------------------
 
 .. list-table::
-   :widths: 28 28 44
+   :widths: 50 50
    :header-rows: 1
 
    * - Name
      - Type
-     - Example
 
    * - Default-aid-type 
      - Element
-     - <default-aid-type vocabulary="1" code="CO1" />
+
+**Example:**
+
+.. code-block:: xml
      
-       <default-aid-type vocabulary="2" code="4" />
-       
-       <default-aid-type vocabulary="4" code="1" />
-   * - Or, Transaction / aid-type
+  <default-aid-type vocabulary="1" code="CO1" />
+  <default-aid-type vocabulary="2" code="4" />
+  <default-aid-type vocabulary="4" code="1" />
+  
+.. list-table::
+     :widths: 50 50
+     :header-rows: 1  
+
+   * - Name
+     - Type
+          
+   * - Transaction / aid-type
      - Element
-     - <aid-type vocabulary="1" code="CO1" />
-       
-       <aid-type vocabulary="2" code="4" />
-       
-       <aid-type vocabulary="4" code="1" />
+
+**Example:**
+     
+.. code-block:: xml
+
+  <aid-type vocabulary="1" code="CO1" />
+  <aid-type vocabulary="2" code="4" />
+  <aid-type vocabulary="4" code="1" />
 
 The aid-type elements can be used to add classifications to activities and their transactions. In v2.03, IATI added the ability to provide specific humanitarian classifications including the level of earmarking and whether or not funding is being provided via cash and / or vouchers.
 
-These classifications should be declared alongside the use of the OECD DAC aid type categories (`vocabulary 1 <https://iatistandard.org/en/iati-standard/codelists/aidtypevocabulary>`__) e.g. budget support or debt relief. When using the aid type elements, the default-aid-type applies to the whole activity, but can be overridden within a single transaction. See the page :doc:`Additional Activity Classifications </activity-classifications>` for further guidance.
+These classifications should be declared alongside the use of the OECD DAC aid type categories ( `vocabulary 1 <https://iatistandard.org/en/iati-standard/codelists/aidtypevocabulary>`__) e.g. budget support or debt relief. When using the aid type elements, the default-aid-type applies to the whole activity, but can be overridden within a single transaction. See the page :doc:`Additional Activity Classifications </activity-classifications>` for further guidance.
 
 **Declaring earmarked contributions**
 
@@ -389,7 +430,7 @@ Humanitarian elements and attributes to use at transaction level
 |                                                                                                                                                |               | of financial transaction e.g. pledge, commitment or disbursement.                               |                                                     | allow the publication of pledges in humanitarian contexts.                   |
 +------------------------------------------------------------------------------------------------------------------------------------------------+---------------+-------------------------------------------------------------------------------------------------+-----------------------------------------------------+------------------------------------------------------------------------------+
 | `provider-org <https://iatistandard.org/en/iati-standard/activity-standard/iati-activities/iati-activity/transaction/provider-org>`__          | @type         | Specified the `type <https://iatistandard.org/en/iati-standard/codelists/organisationtype>`__   |                                                     | Where possible, in country organisations should be identified.               |
-| and `receiver-org   <https://iatistandard.org/en/iati-standard/activity-standard/iati-activities/iati-activity/transaction/receiver-org>`__    |               | of organisation providing or receiving the funds.                                               |                                                     |                                                                              |
+| and `receiver-org <https://iatistandard.org/en/iati-standard/activity-standard/iati-activities/iati-activity/transaction/receiver-org>`__    |               | of organisation providing or receiving the funds.                                               |                                                     |                                                                              |
 +------------------------------------------------------------------------------------------------------------------------------------------------+---------------+-------------------------------------------------------------------------------------------------+-----------------------------------------------------+------------------------------------------------------------------------------+
 | `aid-type <https://iatistandard.org/en/iati-standard/activity-standard/iati-activities/iati-activity/transaction/aid-type>`__                  | @vocabulary   | A `code <https://iatistandard.org/en/iati-standard/codelists/aidtypevocabulary>`__ for a        | Each transaction should only contain one code from  | It is recommended that the OECD aid type codes are used.                     |
 |                                                                                                                                                |               | recognised vocabulary identifying the type of default aid.                                      | each aid type vocabulary (this is to be a rule at   |                                                                              |
