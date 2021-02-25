@@ -258,7 +258,7 @@ Humanitarian Global Clusters can be specified in IATI data using the sector elem
 
 Multiple clusters can be added as long as a percentage split is included. The percentage split details the share of expected funding going to the particular cluster. All percentages from the same vocabulary must add up to 100%.
 
-The Humanitarian Global Clusters can be provided using vocabulary 10 (according to the `sector vocabulary codelist <https://iatistandard.org/en/iati-standard/codelists/sectorvocabulary>)`__. The codes can be downloaded by following the links on the vocabulary page. IATI does not maintain a separate list of the codes.
+The Humanitarian Global Clusters can be provided using vocabulary 10 (according to the `sector vocabulary codelist <https://iatistandard.org/en/iati-standard/codelists/sectorvocabulary>`__). The codes can be downloaded by following the links on the vocabulary page. IATI does not maintain a separate list of the codes.
 
 7) Classifying contributions: earmarking, cash and / or vouchers
 ----------------------------------------------------------------
