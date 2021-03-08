@@ -282,8 +282,8 @@ The Humanitarian Global Clusters can be provided using vocabulary 10 (according 
   <default-aid-type vocabulary="4" code="1" />
   
 .. list-table::
-     :widths: 50 50
-     :header-rows: 1  
+   :widths: 50 50
+   :header-rows: 1
 
    * - Name
      - Type
