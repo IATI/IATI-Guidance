@@ -84,69 +84,69 @@ If you are providing funds to a downstream partner, the IATI Organisation Identi
      - Incoming or outgoing transactions (this would help you in understanding if provider or receiver should be included)
 
    * - 1
-     - Incoming funds
+     - Incoming Funds
      - Provider organisation
-     - Incoming Flow
+     - Incoming flow
 
    * - 2
      - Outgoing Commitment
      - Receiver organisation
-     - Outgoing Flow
+     - Outgoing flow
 
    * - 3
      - Disbursement
      - Receiver organisation
-     - Outgoing Flow
+     - Outgoing flow
 
    * - 4
      - Expenditure
      - N/A
-     - Outgoing Flow
+     - Outgoing flow
 
    * - 5
      - Interest Payment
      - Receiver organisation
-     - Outgoing Flow
+     - Outgoing flow
 
    * - 6
      - Loan Repayment
      - Receiver organisation
-     - Outgoing Flow
+     - Outgoing flow
 
    * - 7
      - Reimbursement
      - Receiver organisation
-     - Outgoing Flow
+     - Outgoing flow
 
    * - 8
      - Purchase of Equity
      - Receiver organisation
-     - Outgoing Flow     
+     - Outgoing flow     
 
    * - 9
      - Sale of Equity
      - Provider organisation
-     - Incoming Flow
+     - Incoming flow
 
    * - 10
      - Credit Guarantee
      - Receiver organisation
-     - Outgoing Flow
+     - Outgoing flow
 
    * - 11
      - Incoming Commitment
      - Provider organisation
-     - Incoming Flow
+     - Incoming flow
 
    * - 12
      - Outgoing Pledge
      - Receiver organisation
-     - Outgoing Flow
+     - Outgoing flow
 
    * - 13
      - Incoming Pledge
      - Provider organisation
-     - Incoming Flow
+     - Incoming flow
      
 
 
