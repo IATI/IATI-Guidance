@@ -10,9 +10,9 @@ The inclusion of specific data within IATI activities allows users to trace the 
    :width: 13.901in
    :height: 3.69in
 
-Each organisation needs to publish to IATI and link their data with their partners. Publishers should include who they are giving funding to, and who they are receiving funding from. They should also include references to the related activities their partners have published. As each activity has a unique IATI activity identifier, this identifier can be referenced by partner organisations.
+Each organisation needs to publish to IATI and link their data with their partners. Publishers should include who they are giving funding to, and who they are receiving funding from. They should also include references to the related activities their partners have published. As each activity has a unique IATI Activity Identifier, this identifier can be referenced by partner organisations.
    
-When all publishers include the unique IATI activity identifier in their publishing, data users can identify the related activities, find partners working on the same activity and track the flow of funds both up and down the delivery chain. This is traceability. For example:
+When all publishers include the unique IATI Activity Identifier in their publishing, data users can identify the related activities, find partners working on the same activity and track the flow of funds both up and down the delivery chain. This is traceability. For example:
 
 
   *If Organisation A gives Organisation B £500 as part of their activity A1, Organisation B should publish a receipt of the £500 from Organisation A. Organisation B should include a reference to activity A1, showing the activity their funding came from. This allows data users to track the flow of funds through the delivery chain.*
@@ -23,23 +23,23 @@ When all publishers include the unique IATI activity identifier in their publish
 
 Achieving traceability across all IATI data requires every publisher to include data on the organisation(s) and activity(s) from which their funding is coming from and, where possible, going to.
 
-Types of Identifiers
+Types of identifiers
 --------------------
 
 Each organisation publishing to IATI will have:
 
 - `IATI Organisation Identifier <https://iatistandard.org/en/guidance/publishing-data/registering-and-managing-your-organisation-account/how-to-create-your-iati-organisation-identifier/>`__
   
-  This is a unique identifier for their organisation e.g. `XM-DAC-41114 <http://d-portal.org/ctrack.html?reporting_ref=XM-DAC-41114#view=main/>`__ for the United Nations Development Programme (UNDP). View the list of all IATI Organisation identifiers `here <https://www.iatiregistry.org/publisher>`__
+  This is a unique identifier for their organisation e.g. `XM-DAC-41114 <http://d-portal.org/ctrack.html?reporting_ref=XM-DAC-41114#view=main/>`__ for the United Nations Development Programme (UNDP). View the list of all IATI Organisation Identifiers `here <https://www.iatiregistry.org/publisher>`__
 
 - `IATI Activity Identifier <https://iatistandard.org/en/guidance/standard-overview/preparing-your-data/activity-information/creating-iati-identifiers/>`__
   
-  Every IATI activity has a unique identifier. This is formed of the publishing organisation’s IATI Organisation identifier followed by a unique code e.g. XM-DAC-41114-OUTPUT-`00114444 <http://d-portal.org/ctrack.html?reporting_ref=XM-DAC-41114#view=act&aid=XM-DAC-41114-OUTPUT-00114444>`__
+  Every IATI activity has a unique identifier. This is formed of the publishing organisation’s IATI Organisation Identifier followed by a unique code e.g. XM-DAC-41114-OUTPUT-`00114444 <http://d-portal.org/ctrack.html?reporting_ref=XM-DAC-41114#view=act&aid=XM-DAC-41114-OUTPUT-00114444>`__
 
 Using identifiers
 -----------------
 
-If you are receiving funds from an organisation already publishing to IATI, you are expected to include their IATI Organisation identifier and the unique IATI activity identifier from which they are providing the funds.
+If you are receiving funds from an organisation already publishing to IATI, you are expected to include their IATI Organisation Identifier and the unique IATI Activity Identifier from which they are providing the funds.
 
 If you are providing funds to a downstream partner, the IATI Organisation Identifier for this organisation should also be included. If the partner organisation is not yet publishing to IATI, you should just include their name.
 
@@ -53,7 +53,7 @@ If you are providing funds to a downstream partner, the IATI Organisation Identi
   - Organisation `type <https://iatistandard.org/en/iati-standard/203/codelists/organisationtype/>`__ 
   - Organisation `role <https://iatistandard.org/en/iati-standard/203/codelists/organisationrole/>`__
   - IATI Organisation Identifier (if known)
-  - Unique IATI activity Identifier (if known)
+  - Unique IATI Activity Identifier (if known)
 
   Reporting organisations can play different roles. 
 
@@ -71,7 +71,7 @@ If you are providing funds to a downstream partner, the IATI Organisation Identi
   - Name
   - Organisation `type <https://iatistandard.org/en/iati-standard/202/codelists/organisationtype/>`__ 
   - IATI Organisation Identifier @ref (if known)
-  - Unique IATI activity identifier @provider-activity-id or @receiver-activity-id (if known)
+  - Unique IATI Activity Identifier @provider-activity-id or @receiver-activity-id (if known)
 
 .. list-table::
    :widths: 16 28 28 28
@@ -155,7 +155,7 @@ If you are providing funds to a downstream partner, the IATI Organisation Identi
   If an activity is part of a ‘programme with multiple activities’ within a single organisation, the related programme/parent and sub-activities/children should be listed using the `related-activity <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/related-activity/>`__ element. 
 
   Details to include:
-  - Unique IATI activity identifier (`@ref <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/related-activity/>`__)
+  - Unique IATI Activity Identifier (`@ref <https://iatistandard.org/en/iati-standard/203/activity-standard/iati-activities/iati-activity/related-activity/>`__)
   - Related activity `type <https://iatistandard.org/en/iati-standard/203/codelists/relatedactivitytype/>`__ of relationship (e.g. 1: parent,  2: child, 3: sibling).
 
 .. meta::
