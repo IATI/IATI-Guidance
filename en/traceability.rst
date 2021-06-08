@@ -17,7 +17,7 @@ When all publishers include the unique IATI Activity Identifier in their publish
 
   *If Organisation A gives Organisation B £500 as part of their activity A1, Organisation B should publish a receipt of the £500 from Organisation A. Organisation B should include a reference to activity A1, showing the activity their funding came from. This allows data users to track the flow of funds through the delivery chain.*
 
-.. image:: media/traceability_diagram_1.png
+.. image:: media/traceability_diagram_2.png
    :width: 13.901in
    :height: 3.69in
 
@@ -34,7 +34,7 @@ Each organisation publishing to IATI will have:
 
 - `IATI Activity Identifier <https://iatistandard.org/en/guidance/standard-overview/preparing-your-data/activity-information/creating-iati-identifiers/>`__
   
-  Every IATI activity has a unique identifier. This is formed of the publishing organisation’s IATI Organisation Identifier followed by a unique code e.g. XM-DAC-41114-OUTPUT-`00114444 <http://d-portal.org/ctrack.html?reporting_ref=XM-DAC-41114#view=act&aid=XM-DAC-41114-OUTPUT-00114444>`__
+  Every IATI activity has a unique identifier. This is formed of the publishing organisation’s IATI Organisation Identifier followed by a unique code e.g. XM-DAC-41114`-OUTPUT-00114444 <http://d-portal.org/ctrack.html?reporting_ref=XM-DAC-41114#view=act&aid=XM-DAC-41114-OUTPUT-00114444>`__
 
 Using identifiers
 -----------------
