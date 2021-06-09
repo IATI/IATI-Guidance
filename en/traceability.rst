@@ -34,12 +34,12 @@ Each organisation publishing to IATI will have:
 
 - `IATI Activity Identifier <https://iatistandard.org/en/guidance/standard-overview/preparing-your-data/activity-information/creating-iati-identifiers/>`__
   
-  Every IATI activity has a unique identifier. This is formed of the publishing organisation’s IATI Organisation Identifier followed by a unique code e.g. XM-DAC-41114`-OUTPUT-00114444 <http://d-portal.org/ctrack.html?reporting_ref=XM-DAC-41114#view=act&aid=XM-DAC-41114-OUTPUT-00114444>`__
+  Every IATI activity has a unique identifier. This is formed of the publishing organisation’s IATI Organisation Identifier followed by a unique code e.g. XM-DAC-41114-`OUTPUT-00114444 <http://d-portal.org/ctrack.html?reporting_ref=XM-DAC-41114#view=act&aid=XM-DAC-41114-OUTPUT-00114444>`__
 
 Using identifiers
 -----------------
 
-If you are receiving funds from an organisation already publishing to IATI, you are expected to include their IATI Organisation Identifier and the unique IATI Activity Identifier from which they are providing the funds. For further help, see the `Finding other organisation's identifiers <https://iatistandard.org/en/guidance/publishing-data/data-quality-and-visualisation/finding-other-organisations-identifiers/>`__ page.
+If you are receiving funds from an organisation already publishing to IATI, you are expected to include their IATI Organisation Identifier and the unique IATI Activity Identifier from which they are providing the funds. For further help, see the `Finding other organisations' identifiers <https://iatistandard.org/en/guidance/publishing-data/data-quality-and-visualisation/finding-other-organisations-identifiers/>`__ page.
 
 If you are providing funds to a downstream partner, the IATI Organisation Identifier for this organisation should also be included. If the partner organisation is not yet publishing to IATI, you should just include their name.
 
