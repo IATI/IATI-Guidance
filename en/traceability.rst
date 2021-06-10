@@ -50,8 +50,8 @@ If you are providing funds to a downstream partner, the IATI Organisation Identi
   The level of detail for each participating organisation will depend on where in the network they are or also any confidentiality concerns. You should provide as much information as possible from the full list below that is available to you at the time of publishing:
 
   - Name
-  - Organisation `type <https://iatistandard.org/en/iati-standard/codelists/organisationtype/>`__ 
-  - Organisation `role <https://iatistandard.org/en/iati-standard/codelists/organisationrole/>`__
+  - Organisation `type <https://iatistandard.org/codelists/organisationtype/>`__ 
+  - Organisation `role <https://iatistandard.org/codelists/organisationrole/>`__
   - IATI Organisation Identifier (if known)
   - Unique IATI Activity Identifier (if known)
 
@@ -69,7 +69,7 @@ If you are providing funds to a downstream partner, the IATI Organisation Identi
   You should provide as much of the information listed below as possible that is available to you at the time of publishing:
 
   - Name
-  - Organisation `type <https://iatistandard.org/en/iati-standard/codelists/organisationtype/>`__ 
+  - Organisation `type <https://iatistandard.org/codelists/organisationtype/>`__ 
   - IATI Organisation Identifier @ref (if known)
   - Unique IATI Activity Identifier @provider-activity-id or @receiver-activity-id (if known)
 
@@ -150,11 +150,11 @@ If you are providing funds to a downstream partner, the IATI Organisation Identi
 
 3) **Include your parent and child activities**
 
-  If an activity is part of a ‘programme with multiple activities’ within a single organisation, the related programme/parent and sub-activities/children should be listed using the `related-activity <https://iatistandard.org/en/iati-standard/activity-standard/iati-activities/iati-activity/related-activity/>`__ element. 
+  If an activity is part of a ‘programme with multiple activities’ within a single organisation, the related programme/parent and sub-activities/children should be listed using the `related-activity <https://iatistandard.org/activity-standard/iati-activities/iati-activity/related-activity/>`__ element. 
 
   Details to include:
-  - Unique IATI Activity Identifier (`@ref <https://iatistandard.org/en/iati-standard/activity-standard/iati-activities/iati-activity/related-activity/>`__)
-  - Related activity `type <https://iatistandard.org/en/iati-standard/codelists/relatedactivitytype/>`__ of relationship (e.g. 1: parent,  2: child, 3: sibling).
+  - Unique IATI Activity Identifier (`@ref <https://iatistandard.org/activity-standard/iati-activities/iati-activity/related-activity/>`__)
+  - Related activity `type <https://iatistandard.org/codelists/relatedactivitytype/>`__ of relationship (e.g. 1: parent,  2: child, 3: sibling).
 
 Enhancing traceability
 ----------------------
@@ -174,7 +174,7 @@ Enhancing traceability
 
 **Other:**
 
-- The same transaction traceability elements should be added for `planned disbursements <https://iatistandard.org/en/iati-standard/activity-standard/iati-activities/iati-activity/planned-disbursement/>`__.
+- The same transaction traceability elements should be added for `planned disbursements <https://iatistandard.org/activity-standard/iati-activities/iati-activity/planned-disbursement/>`__.
 - The :doc:`total annual budget <organisation-budgets-spend>` for funding provided to each receiver-org should be added to the reporting org’s `Organisation File <https://iatistandard.org/en/guidance/standard-overview/preparing-your-data/organisation-infromation/>`__.
 
 Example usage
@@ -244,16 +244,16 @@ All organisations are recommended to include the following details for all parti
      - Rules
      - Guidance
 
-   * - `participating-org <https://iatistandard.org/en/iati-standard/activity-standard/iati-activities/iati-activity/participating-org/>`__
+   * - `participating-org <https://iatistandard.org/activity-standard/iati-activities/iati-activity/participating-org/>`__
      - Specifies which organisations are involved with the activity and what their individual roles are.
      - If the IATI Organisation Identifier for the participating organisation is not known, then their name must be given. 
 
-       Participating organisations must be given a `role <https://iatistandard.org/en/iati-standard/codelists/organisationrole/>`__ from the Organisation Role codelist. 
+       Participating organisations must be given a `role <https://iatistandard.org/codelists/organisationrole/>`__ from the Organisation Role codelist. 
 
        At least one participating organisation must be published.
-     - An organisation can play multiple `roles <https://iatistandard.org/en/iati-standard/codelists/organisationrole/>`__ (e.g. funding and implementing); in such a case each role should be published, and the name of the organisation repeated.
+     - An organisation can play multiple `roles <https://iatistandard.org/codelists/organisationrole/>`__ (e.g. funding and implementing); in such a case each role should be published, and the name of the organisation repeated.
 
-   * - participating-org / `narrative <https://iatistandard.org/en/iati-standard/activity-standard/iati-activities/iati-activity/participating-org/narrative/>`__
+   * - participating-org / `narrative <https://iatistandard.org/activity-standard/iati-activities/iati-activity/participating-org/narrative/>`__
      - Name of the participating organisation.
      - This must be included if the participating organisation’s IATI Organisation Identifier is not provided.
      -
@@ -268,12 +268,12 @@ All organisations should include the elements below when publishing a transactio
      - Rules
      - Guidance
      
-   * - `transaction-type <https://iatistandard.org/en/iati-standard/activity-standard/iati-activities/iati-activity/transaction/transaction-type/>`__
-     - Specifies the `type <https://iatistandard.org/en/iati-standard/codelists/TransactionType/>`__ of financial transaction e.g. pledge, commitment or disbursement.
+   * - `transaction-type <https://iatistandard.org/activity-standard/iati-activities/iati-activity/transaction/transaction-type/>`__
+     - Specifies the `type <https://iatistandard.org/codelists/TransactionType/>`__ of financial transaction e.g. pledge, commitment or disbursement.
      - This must be included once and only once for each transaction.
      - It is good practice to publish commitments, followed by the corresponding incoming fund or disbursement.
 
-   * - `provider-org <https://iatistandard.org/en/iati-standard/activity-standard/iati-activities/iati-activity/transaction/provider-org/>`__
+   * - `provider-org <https://iatistandard.org/activity-standard/iati-activities/iati-activity/transaction/provider-org/>`__
      - The organisation that provided the finance. 
 
        This should include their IATI Org ID, their activity ID if known, and the type of organisation.
@@ -286,12 +286,12 @@ All organisations should include the elements below when publishing a transactio
 
        If the provider-org element is missing, it is presumed that the reporting-org is the provider of the funds.
 
-   * - provider-org / `narrative <https://iatistandard.org/en/iati-standard/activity-standard/iati-activities/iati-activity/transaction/provider-org/narrative/>`__
+   * - provider-org / `narrative <https://iatistandard.org/activity-standard/iati-activities/iati-activity/transaction/provider-org/narrative/>`__
      - Name of the organisation that provided the finance. 
      - This must be included if the provider’s IATI Organisation Identifier is not provided.
      -
 
-   * - `receiver-org <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/transaction/receiver-org/>`__
+   * - `receiver-org <http://iatistandard.org/activity-standard/iati-activities/iati-activity/transaction/receiver-org/>`__
      - The organisation that received the finance.
 
        This should include their IATI Org ID, their activity ID if known, and the type of organisation.
@@ -304,12 +304,12 @@ All organisations should include the elements below when publishing a transactio
 
        If the receiver-org element is missing, it is presumed that the reporting-org is the receiver of the funds.
 
-   * - receiver-org / `narrative <https://iatistandard.org/en/iati-standard/activity-standard/iati-activities/iati-activity/transaction/receiver-org/narrative/>`__
+   * - receiver-org / `narrative <https://iatistandard.org/activity-standard/iati-activities/iati-activity/transaction/receiver-org/narrative/>`__
      - Name of the organisation that received the finance. 
      - This must be included if the receiver's IATI Organisation Identifier is not provided.
      -
 
-If an activity is part of a programme with multiple activities within a single organisation, the publisher should include details of all related activities using the `related-activity <https://iatistandard.org/en/iati-standard/activity-standard/iati-activities/iati-activity/related-activity/>`__ element. 
+If an activity is part of a programme with multiple activities within a single organisation, the publisher should include details of all related activities using the `related-activity <https://iatistandard.org/activity-standard/iati-activities/iati-activity/related-activity/>`__ element. 
 
 .. list-table::
    :widths: 16 28 28 28
@@ -320,12 +320,12 @@ If an activity is part of a programme with multiple activities within a single o
      - Rules
      - Guidance
      
-   * - `related-activity <https://iatistandard.org/en/iati-standard/activity-standard/iati-activities/iati-activity/related-activity/>`__
-     - Specifies the `type <https://iatistandard.org/en/iati-standard/codelists/relatedactivitytype/>`__ of relationship (e.g. 1: parent, 2: child, 3: sibling) between the activity being reported and an activity. 
+   * - `related-activity <https://iatistandard.org/activity-standard/iati-activities/iati-activity/related-activity/>`__
+     - Specifies the `type <https://iatistandard.org/codelists/relatedactivitytype/>`__ of relationship (e.g. 1: parent, 2: child, 3: sibling) between the activity being reported and an activity. 
      - The type of relationship must be provided. 
 
        The other related activity identifier must be provided in the @ref attribute.
-     - Parent and child relationships should always be provided when activities are in a `hierarchical group <https://iatistandard.org/en/iati-standard/activity-standard/iati-activities/iati-activity/>`__.
+     - Parent and child relationships should always be provided when activities are in a `hierarchical group <https://iatistandard.org/activity-standard/iati-activities/iati-activity/>`__.
 
 Links to external traceability visualisations with IATI data that you might find helpful:
 
@@ -335,4 +335,4 @@ Links to external traceability visualisations with IATI data that you might find
   :title: IATI traceability guidance
   :description: The inclusion of specific data within IATI activities allows users to trace the flow of funds from the original donors down to the intended beneficiaries.
   :guidance_type: activity
-  :date: June 08, 2021
+  :date: June 10, 2021
