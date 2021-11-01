@@ -63,7 +63,21 @@ If an organization does not permit the publishing of data in the Humanitarian Sc
 
 .. code-block:: xml
 
-  <tag vocabulary="99" code="COVID-19">
+  <tag vocabulary="99" code="COVID-19" />
+
+**5. Activity or Transaction Sector** [5]_
+
+Data publishers should only use the sector code 12264 when their activity relates to: 
+“All activities related to COVID-19 control e.g. information, education and communication; testing; prevention; immunisation, treatment, care.” 
+
+This code *should not* be used as a general ‘covid’ marker for an activity.
+
+All other sectors which the activity relates to should be provided with the relevant percentage split.
+
+.. code-block:: xml
+
+  <sector vocabulary="1" code="12264" />
+
 
 Providing timely and comprehensive data
 ---------------------------------------
@@ -90,9 +104,12 @@ See archived copy of `Version 1 - 27 March 2020 Guidance: Publishing data on COV
 
 .. [4]
    This was added to Version 2 Guidance: Publishing data on COVID-19 using the IATI Standard
+   
+.. [5]
+   This was added to Version 2 Guidance: Publishing data on COVID-19 using the IATI Standard  
 
 .. meta::
   :title: COVID-19 related data
   :description: Following a `consultation with IATI’s community this guidance has been updated to provide recommendations on how to publish data on COVID-19 using the IATI Standard.
   :guidance_type: activity
-  :date: April 27, 2020
+  :date: November 01, 2021
