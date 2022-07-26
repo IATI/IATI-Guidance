@@ -6,7 +6,7 @@ on:
       - "**/README.rst"
       - "**/dependabot.yml"
     branches:
-      - master
+      - main
 
 concurrency: CI
 
