@@ -1,0 +1,50 @@
+name: Build_CI
+
+on:
+  pull_request:
+    paths-ignore: # https://docs.github.com/en/actions/reference/workflow-syntax-for-github-actions#filter-pattern-cheat-sheet
+      - "**/README.rst"
+      - "**/dependabot.yml"
+    branches:
+      - main
+
+concurrency: CI
+
+jobs:
+  build-ci:
+    name: "Build and CI Test"
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v3
+        with:
+          submodules: recursive
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip setuptools wheel
+          python -m pip install -r requirements.txt
+
+      - name: Build and test
+        run: |
+          cd en
+          make dirhtml
+          cd ..
+          pytest tests
+
+  automerge:
+    needs: build-ci
+    runs-on: ubuntu-latest
+    permissions:
+      pull-requests: write
+      contents: write
+    steps:
+      - uses: fastify/github-action-merge-dependabot@v3.2
+        with:
+          github-token: ${{secrets.GITHUB_TOKEN}}
