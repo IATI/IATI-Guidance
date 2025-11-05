@@ -3,7 +3,7 @@ Related documents
 
 Further information about an organisation or activity can be provided by using the **document-link** element. This link can be added to several places, including the organisation file. It can be attached to each activity, and at multiple points within a result element.
 
-A publisher may want to add more detail about their work, such as the organisation’s annual report, the `conditions <http://reference.iatistandard.org/activity-standard/overview/conditions/>`__ *(new guidance coming soon)* attached to any funding, or a report on the results or impact the activity.
+A publisher may want to add more detail about their work, such as the organisation’s annual report, the `conditions <http://reference.iatistandard.org/activity-standard/overview/conditions/>`__ attached to any funding, or a report on the results or impact the activity.
 
 Where can related documents can be added?
 -----------------------------------------
@@ -118,4 +118,4 @@ What a document-link should include
   :title: Related documents
   :description: Further information about an organisation or activity can be provided by using the **document-link** element.
   :guidance_type: activity, organisation
-  :date: September 19, 2019
+  :date: November 11, 2025
