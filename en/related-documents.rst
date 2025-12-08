@@ -1,22 +1,45 @@
 Related documents
 =================
 
-Further information about an organisation or activity can be provided by using the **document-link** element. This link can be added to several places, including the organisation file. It can be attached to each activity, and at multiple points within a result element.
+Further information about an organisation or activity can be provided by using the **document-link** element. This link can be added in the organisation file, or attached to individual activities.
 
-A publisher may want to add more detail about their work, such as the organisation’s annual report, the `conditions <http://reference.iatistandard.org/activity-standard/overview/conditions/>`__ attached to any funding, or a report on the results or impact the activity.
+A reporting organisation may want to add more detail about their work, such as the organisation’s annual report, the `conditions <http://reference.iatistandard.org/activity-standard/overview/conditions/>`__ attached to any funding, or an evaluation of an activity.
+
 
 Where can related documents can be added?
 -----------------------------------------
 
 -  Each document-link needs to contain a URL to a publicly accessible webpage or document.
 
--  The URL must begin with either ‘http://’ or ‘https://’.
-
 -  If documents are available in other languages and stored separately, these should be added as additional document-link elements.
 
 -  Including the `file-format <http://reference.iatistandard.org/codelists/FileFormat/>`__ attribute helps to inform users about what to expect from the document.
 
 -  A number of donors require their grantees to publish specific documents.
+
+
+Recommendations
+-----------------
+Refer to the IATI Standard website for the document-link element to ensure your links are well-formed and contain necessary metadata.
+
+We suggest three simple actions to significantly improve document link usability:
+
+**1. Link directly to documents, not document pages**
+
+Almost 30% of links point to HTML pages. These are sometimes valid (project web pages, for example) but they are often web pages that contain links to the actual documents. This extra step hinders automated software access, even if it's acceptable for human users.
+
+**2. Update your links to https where applicable**
+
+Many historic links use http instead of https (e.g., http://example.org instead of https://example.org). Most sites have upgraded to https now, so the links need updating.
+
+**3. Ensure your links are available**
+
+Check the percentage of inaccessible documents using the Availability tab on the Organisation Detail page. Focus on:
+
+403: Access denied. Consult your web team.
+404: Broken or missing link. Check the address (URL).
+
+
 
 Technical guidance summary
 --------------------------
