@@ -1,27 +1,25 @@
 Related documents
 =================
 
-Further information about an organisation or activity can be provided by using the **document-link** element. This link can be added in the organisation file, or attached to individual activities.
+Further information about an organisation or activity can be provided using the *document-link* element. This link can be added in the organisation file, or attached to individual activities.
 
-A reporting organisation may want to add more detail about their work, such as the organisation’s annual report, the `conditions <http://reference.iatistandard.org/activity-standard/overview/conditions/>`__ attached to any funding, or an evaluation of an activity.
+A reporting organisation may want to add more detail about their work, such as the organisation’s annual report, the `conditions <http://reference.iatistandard.org/activity-standard/overview/conditions/>`__ attached to funding, or the evaluation of an activity.
 
 
-Where can related documents can be added?
------------------------------------------
+How do I add document links?
+-----------------------------
 
--  Each document-link needs to contain a URL to a publicly accessible webpage or document.
+-  Each *document-link* needs to contain a URL to a publicly accessible webpage or document.
 
--  If documents are available in other languages and stored separately, these should be added as additional document-link elements.
+-  If documents are available in other languages and stored separately, these should be added as separate *document-link* elements.
 
--  Including the `file-format <http://reference.iatistandard.org/codelists/FileFormat/>`__ attribute helps to inform users about what to expect from the document.
+-  Including the document `format <http://reference.iatistandard.org/codelists/FileFormat/>`__ attribute informs users about what to expect from the document.
 
 -  A number of donors require their grantees to publish specific documents.
 
 
 Recommendations
 -----------------
-Refer to the IATI Standard website for the document-link element to ensure your links are well-formed and contain necessary metadata.
-
 We suggest three simple actions to significantly improve document link usability:
 
 **1. Link directly to documents, not document pages**
@@ -36,8 +34,8 @@ Many historic links use http instead of https (e.g., http://example.org instead 
 
 Check the percentage of inaccessible documents using the Availability tab on the Organisation Detail page. Focus on:
 
-403: Access denied. Consult your web team.
-404: Broken or missing link. Check the address (URL).
+- 403: Access denied. Consult your web team.
+- 404: Broken or missing link. Check the address (URL).
 
 
 
@@ -55,7 +53,7 @@ Technical guidance summary
      - Guidance
 
    * - `organisation file <http://iatistandard.org/organisation-standard/iati-organisations/iati-organisation/document-link/>`__
-     - Provides further information about the organisation or its work (e.g. their annual report or a work plan for a particular country).
+     - Provides further information about the organisation or its work - e.g. their annual report or a work plan for a particular country.
      - There must be a URL for the external document or webpage.
 
        The document-link must include a title, format, and category.
@@ -71,39 +69,11 @@ Technical guidance summary
      - The description should specify what the document is about and why it has been included.
 
 
-**The locations below were introduced at version 2.03 of the IATI Standard:**
+**What a document-link should include:**
 
 .. list-table::
    :widths: 14 43 43
    :header-rows: 1
-
-   * - Location
-     - Use
-     - Guidance
-
-   * - `result <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/result/document-link/>`__
-     - A link to an online, publicly accessible webpage or document expanding on the result.
-     - The document or webpage should link to the specific result being reported, or to a results frame.
-
-   * - `indicator <http://iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/>`__
-     - A link to an online, publicly accessible webpage or document expanding on the result indicator.
-     - The document or webpage should link to the specific results indicator being reported.
-
-   * - `baseline <http://iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/baseline/>`__
-     - A link to an online, publicly accessible webpage or document expanding on the indicator’s baseline.
-     - The document or webpage should link to the specific indicator baseline being reported.
-
-   * - `period-target <http://iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/period/target/>`__ and `period-actual <http://iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/period/actual/>`__
-     - A link to an online, publicly accessible webpage or document expanding on period-target or period-actual.
-     - The document or webpage should link to the specific target or actual figures being reported.
-
-
-What a document-link should include
-
-.. list-table::
-   :widths: 14 43 43
-   :header-rows: 1
-
 
    * - Element
      - Use
@@ -111,19 +81,19 @@ What a document-link should include
 
    * - `title <http://iatistandard.org/activity-standard/iati-activities/iati-activity/document-link/title/>`__
      - Short title of the document or webpage.
-     - This must be included once and only once for each document-link.
+     - This must be included once and only once for each *document-link*.
 
        The title can be provided in multiple languages.
 
    * - `description <http://iatistandard.org/activity-standard/iati-activities/iati-activity/document-link/description/>`__
      - Description of the document, including any instructions on where to find relevant information.
-     - This element must occur no more than once for each document-link.
+     - This element must occur no more than once for each *document-link*.
 
        The description can be provided in multiple languages.
 
    * - `category <http://iatistandard.org/activity-standard/iati-activities/iati-activity/document-link/category/>`__
      - Specifies the type of document or webpage.
-     - At least one category must be published for each document-link.
+     - At least one category must be published for each *document-link*.
 
        The code must be on the `document category <http://iatistandard.org/codelists/DocumentCategory/>`__ codelist.
 
@@ -131,14 +101,23 @@ What a document-link should include
      - Specifies the language of the document or webpage.
      - The code must be on the `language <http://iatistandard.org/codelists/Language/>`__ codelist.
 
-       If the document is available in multiple languages, the document-link element can be repeated with a different language code selected.
+       If the document is available in multiple languages, the *document-link* element can be repeated with a different language code selected.
 
    * - `document-date <http://iatistandard.org/activity-standard/iati-activities/iati-activity/document-link/document-date/>`__
      - The date of publication or last updating
      - Must be in the format: YYYY-MM-DD, e.g. 2018-03-16.
 
+
+**The locations below were deprecated in [month, 2026], after being part of version 2.03 of the IATI Standard:**
+
+- `result <http://reference.iatistandard.org/activity-standard/iati-activities/iati-activity/result/document-link/>`__
+- `indicator <http://iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/>`__
+- `baseline <http://iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/baseline/>`__
+- `period-target <http://iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/period/target/>`__ and `period-actual <http://iatistandard.org/activity-standard/iati-activities/iati-activity/result/indicator/period/actual/>`__
+
+
 .. meta::
   :title: Related documents
   :description: Further information about an organisation or activity can be provided by using the **document-link** element.
   :guidance_type: activity, organisation
-  :date: November 11, 2025
+  :date: December 29, 2025
